@@ -1,0 +1,13 @@
+# 概要
+
+apple のサービスの生死をコミットします。
+
+[https://www.apple.com/support/systemstatus/data/system_status_ja_JP.js](https://www.apple.com/support/systemstatus/data/system_status_ja_JP.js)
+
+# 実行サンプル
+
+```
+ruby apple_is_dead.rb
+```
+
+ステータスに変更があったら notice が実行されます。
