@@ -24,7 +24,13 @@ workflows:
   scheduled-workflow:
     triggers:
       - schedule:
-          cron: "*/5 * * * *"
+          cron: "15 * * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "45 * * * *"
           filters:
             branches:
               only:
