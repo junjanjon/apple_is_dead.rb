@@ -6,7 +6,24 @@
       "serviceName": "App Store",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1558310760000,
+          "epochEndDate": null,
+          "messageId": "1002938",
+          "statusType": "Issue",
+          "datePosted": "2019/05/20 12:11 JST",
+          "startDate": "2019/05/20 09:06 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple TV",
+            "Mac App Store",
+            "Volume Purchase Program"
+          ],
+          "eventStatus": "ongoing",
+          "message": "iTune Store、Mac App Store、または App Store で購入できない可能性があります。"
+        }
       ]
     },
     {
@@ -62,7 +79,24 @@
       "serviceName": "Apple TV",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1558310760000,
+          "epochEndDate": null,
+          "messageId": "1002938",
+          "statusType": "Issue",
+          "datePosted": "2019/05/20 12:11 JST",
+          "startDate": "2019/05/20 09:06 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple TV",
+            "Mac App Store",
+            "Volume Purchase Program"
+          ],
+          "eventStatus": "ongoing",
+          "message": "複数のサービスとStoreへのアクセスや購入ができない可能性があります。"
+        }
       ]
     },
     {
@@ -244,7 +278,24 @@
       "serviceName": "Mac App Store",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1558310760000,
+          "epochEndDate": null,
+          "messageId": "1002938",
+          "statusType": "Issue",
+          "datePosted": "2019/05/20 12:11 JST",
+          "startDate": "2019/05/20 09:06 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple TV",
+            "Mac App Store",
+            "Volume Purchase Program"
+          ],
+          "eventStatus": "ongoing",
+          "message": "複数のサービスとStoreへのアクセスや購入ができない可能性があります。"
+        }
       ]
     },
     {
@@ -286,7 +337,24 @@
       "serviceName": "Volume Purchase Program",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1558310760000,
+          "epochEndDate": null,
+          "messageId": "1002938",
+          "statusType": "Issue",
+          "datePosted": "2019/05/20 12:11 JST",
+          "startDate": "2019/05/20 09:06 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple TV",
+            "Mac App Store",
+            "Volume Purchase Program"
+          ],
+          "eventStatus": "ongoing",
+          "message": "購入を行えない可能性があります。"
+        }
       ]
     },
     {
