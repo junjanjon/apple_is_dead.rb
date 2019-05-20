@@ -12,7 +12,7 @@
           "epochEndDate": null,
           "messageId": "1002938",
           "statusType": "Issue",
-          "datePosted": "2019/05/20 12:11 JST",
+          "datePosted": "2019/05/20 12:30 JST",
           "startDate": "2019/05/20 09:06 JST",
           "endDate": null,
           "affectedServices": [
@@ -85,7 +85,7 @@
           "epochEndDate": null,
           "messageId": "1002938",
           "statusType": "Issue",
-          "datePosted": "2019/05/20 12:11 JST",
+          "datePosted": "2019/05/20 12:30 JST",
           "startDate": "2019/05/20 09:06 JST",
           "endDate": null,
           "affectedServices": [
@@ -124,7 +124,22 @@
       "serviceName": "FaceTime",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1558310400000,
+          "epochEndDate": null,
+          "messageId": "1002939",
+          "statusType": "Issue",
+          "datePosted": "2019/05/20 12:30 JST",
+          "startDate": "2019/05/20 09:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "FaceTime",
+            "iMessage"
+          ],
+          "eventStatus": "ongoing",
+          "message": "FaceTimeの通話を発信できない可能性があります。"
+        }
       ]
     },
     {
@@ -222,7 +237,22 @@
       "serviceName": "iMessage",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1558310400000,
+          "epochEndDate": null,
+          "messageId": "1002939",
+          "statusType": "Issue",
+          "datePosted": "2019/05/20 12:30 JST",
+          "startDate": "2019/05/20 09:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "FaceTime",
+            "iMessage"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ]
     },
     {
@@ -284,7 +314,7 @@
           "epochEndDate": null,
           "messageId": "1002938",
           "statusType": "Issue",
-          "datePosted": "2019/05/20 12:11 JST",
+          "datePosted": "2019/05/20 12:30 JST",
           "startDate": "2019/05/20 09:06 JST",
           "endDate": null,
           "affectedServices": [
@@ -343,7 +373,7 @@
           "epochEndDate": null,
           "messageId": "1002938",
           "statusType": "Issue",
-          "datePosted": "2019/05/20 12:11 JST",
+          "datePosted": "2019/05/20 12:30 JST",
           "startDate": "2019/05/20 09:06 JST",
           "endDate": null,
           "affectedServices": [
