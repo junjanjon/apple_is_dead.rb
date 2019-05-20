@@ -7,22 +7,22 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1558310760000,
-          "epochEndDate": null,
+          "epochEndDate": 1558323720000,
           "messageId": "1002938",
           "statusType": "Issue",
-          "datePosted": "2019/05/20 12:30 JST",
+          "datePosted": "2019/05/20 12:54 JST",
           "startDate": "2019/05/20 09:06 JST",
-          "endDate": null,
+          "endDate": "2019/05/20 12:42 JST",
           "affectedServices": [
             "App Store",
             "Apple TV",
             "Mac App Store",
             "Volume Purchase Program"
           ],
-          "eventStatus": "ongoing",
-          "message": "iTune Store、Mac App Store、または App Store で購入できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "iTune Store、Mac App Store、または App Store で購入できなかった可能性があります。"
         }
       ]
     },
@@ -80,22 +80,22 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1558310760000,
-          "epochEndDate": null,
+          "epochEndDate": 1558323720000,
           "messageId": "1002938",
           "statusType": "Issue",
-          "datePosted": "2019/05/20 12:30 JST",
+          "datePosted": "2019/05/20 12:54 JST",
           "startDate": "2019/05/20 09:06 JST",
-          "endDate": null,
+          "endDate": "2019/05/20 12:42 JST",
           "affectedServices": [
             "App Store",
             "Apple TV",
             "Mac App Store",
             "Volume Purchase Program"
           ],
-          "eventStatus": "ongoing",
-          "message": "複数のサービスとStoreへのアクセスや購入ができない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "複数のサービスとStoreへのアクセスや購入ができない場合がありました。"
         }
       ]
     },
@@ -125,20 +125,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1558310400000,
-          "epochEndDate": null,
+          "epochEndDate": 1558323600000,
           "messageId": "1002939",
           "statusType": "Issue",
-          "datePosted": "2019/05/20 12:30 JST",
+          "datePosted": "2019/05/20 12:54 JST",
           "startDate": "2019/05/20 09:00 JST",
-          "endDate": null,
+          "endDate": "2019/05/20 12:40 JST",
           "affectedServices": [
             "FaceTime",
             "iMessage"
           ],
-          "eventStatus": "ongoing",
-          "message": "FaceTimeの通話を発信できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "FaceTimeの通話を発信できなかった可能性があります。"
         }
       ]
     },
@@ -238,20 +238,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1558310400000,
-          "epochEndDate": null,
+          "epochEndDate": 1558323600000,
           "messageId": "1002939",
           "statusType": "Issue",
-          "datePosted": "2019/05/20 12:30 JST",
+          "datePosted": "2019/05/20 12:54 JST",
           "startDate": "2019/05/20 09:00 JST",
-          "endDate": null,
+          "endDate": "2019/05/20 12:40 JST",
           "affectedServices": [
             "FaceTime",
             "iMessage"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
     },
@@ -309,22 +309,22 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1558310760000,
-          "epochEndDate": null,
+          "epochEndDate": 1558323720000,
           "messageId": "1002938",
           "statusType": "Issue",
-          "datePosted": "2019/05/20 12:30 JST",
+          "datePosted": "2019/05/20 12:54 JST",
           "startDate": "2019/05/20 09:06 JST",
-          "endDate": null,
+          "endDate": "2019/05/20 12:42 JST",
           "affectedServices": [
             "App Store",
             "Apple TV",
             "Mac App Store",
             "Volume Purchase Program"
           ],
-          "eventStatus": "ongoing",
-          "message": "複数のサービスとStoreへのアクセスや購入ができない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "複数のサービスとStoreへのアクセスや購入ができない場合がありました。"
         }
       ]
     },
@@ -368,22 +368,22 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1558310760000,
-          "epochEndDate": null,
+          "epochEndDate": 1558323720000,
           "messageId": "1002938",
           "statusType": "Issue",
-          "datePosted": "2019/05/20 12:30 JST",
+          "datePosted": "2019/05/20 12:54 JST",
           "startDate": "2019/05/20 09:06 JST",
-          "endDate": null,
+          "endDate": "2019/05/20 12:42 JST",
           "affectedServices": [
             "App Store",
             "Apple TV",
             "Mac App Store",
             "Volume Purchase Program"
           ],
-          "eventStatus": "ongoing",
-          "message": "購入を行えない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "購入を行えなかった可能性があります。"
         }
       ]
     },
