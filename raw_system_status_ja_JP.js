@@ -6,24 +6,7 @@
       "serviceName": "App Store",
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1558310760000,
-          "epochEndDate": 1558323720000,
-          "messageId": "1002938",
-          "statusType": "Issue",
-          "datePosted": "2019/05/20 12:54 JST",
-          "startDate": "2019/05/20 09:06 JST",
-          "endDate": "2019/05/20 12:42 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple TV",
-            "Mac App Store",
-            "Volume Purchase Program"
-          ],
-          "eventStatus": "resolved",
-          "message": "iTune Store、Mac App Store、または App Store で購入できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -79,24 +62,7 @@
       "serviceName": "Apple TV",
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1558310760000,
-          "epochEndDate": 1558323720000,
-          "messageId": "1002938",
-          "statusType": "Issue",
-          "datePosted": "2019/05/20 12:54 JST",
-          "startDate": "2019/05/20 09:06 JST",
-          "endDate": "2019/05/20 12:42 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple TV",
-            "Mac App Store",
-            "Volume Purchase Program"
-          ],
-          "eventStatus": "resolved",
-          "message": "複数のサービスとStoreへのアクセスや購入ができない場合がありました。"
-        }
+
       ]
     },
     {
@@ -124,22 +90,7 @@
       "serviceName": "FaceTime",
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1558310400000,
-          "epochEndDate": 1558323600000,
-          "messageId": "1002939",
-          "statusType": "Issue",
-          "datePosted": "2019/05/20 12:54 JST",
-          "startDate": "2019/05/20 09:00 JST",
-          "endDate": "2019/05/20 12:40 JST",
-          "affectedServices": [
-            "FaceTime",
-            "iMessage"
-          ],
-          "eventStatus": "resolved",
-          "message": "FaceTimeの通話を発信できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -237,22 +188,7 @@
       "serviceName": "iMessage",
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1558310400000,
-          "epochEndDate": 1558323600000,
-          "messageId": "1002939",
-          "statusType": "Issue",
-          "datePosted": "2019/05/20 12:54 JST",
-          "startDate": "2019/05/20 09:00 JST",
-          "endDate": "2019/05/20 12:40 JST",
-          "affectedServices": [
-            "FaceTime",
-            "iMessage"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -308,24 +244,7 @@
       "serviceName": "Mac App Store",
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1558310760000,
-          "epochEndDate": 1558323720000,
-          "messageId": "1002938",
-          "statusType": "Issue",
-          "datePosted": "2019/05/20 12:54 JST",
-          "startDate": "2019/05/20 09:06 JST",
-          "endDate": "2019/05/20 12:42 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple TV",
-            "Mac App Store",
-            "Volume Purchase Program"
-          ],
-          "eventStatus": "resolved",
-          "message": "複数のサービスとStoreへのアクセスや購入ができない場合がありました。"
-        }
+
       ]
     },
     {
@@ -367,24 +286,7 @@
       "serviceName": "Volume Purchase Program",
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1558310760000,
-          "epochEndDate": 1558323720000,
-          "messageId": "1002938",
-          "statusType": "Issue",
-          "datePosted": "2019/05/20 12:54 JST",
-          "startDate": "2019/05/20 09:06 JST",
-          "endDate": "2019/05/20 12:42 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple TV",
-            "Mac App Store",
-            "Volume Purchase Program"
-          ],
-          "eventStatus": "resolved",
-          "message": "購入を行えなかった可能性があります。"
-        }
+
       ]
     },
     {
