@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "serviceName": "App Store",
@@ -12,7 +12,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 02:57 JST",
+          "datePosted": "2019/05/24 03:40 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
@@ -51,7 +51,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 02:57 JST",
+          "datePosted": "2019/05/24 03:40 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
@@ -162,20 +162,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1558628340000,
-          "epochEndDate": null,
+          "epochEndDate": 1558635720000,
           "messageId": "1002944",
           "statusType": "Issue",
-          "datePosted": "2019/05/24 02:57 JST",
+          "datePosted": "2019/05/24 03:40 JST",
           "startDate": "2019/05/24 01:19 JST",
-          "endDate": null,
+          "endDate": "2019/05/24 03:22 JST",
           "affectedServices": [
             "iCloudカレンダー",
             "iCloudリマインダー"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
     },
@@ -217,7 +217,7 @@
           "epochEndDate": 1558623600000,
           "messageId": "1002941",
           "statusType": "Issue",
-          "datePosted": "2019/05/24 02:57 JST",
+          "datePosted": "2019/05/24 03:40 JST",
           "startDate": "2019/05/23 23:10 JST",
           "endDate": "2019/05/24 00:00 JST",
           "affectedServices": [
@@ -239,7 +239,7 @@
           "epochEndDate": 1558623600000,
           "messageId": "1002941",
           "statusType": "Issue",
-          "datePosted": "2019/05/24 02:57 JST",
+          "datePosted": "2019/05/24 03:40 JST",
           "startDate": "2019/05/23 23:10 JST",
           "endDate": "2019/05/24 00:00 JST",
           "affectedServices": [
@@ -256,20 +256,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1558628340000,
-          "epochEndDate": null,
+          "epochEndDate": 1558635720000,
           "messageId": "1002944",
           "statusType": "Issue",
-          "datePosted": "2019/05/24 02:57 JST",
+          "datePosted": "2019/05/24 03:40 JST",
           "startDate": "2019/05/24 01:19 JST",
-          "endDate": null,
+          "endDate": "2019/05/24 03:22 JST",
           "affectedServices": [
             "iCloudカレンダー",
             "iCloudリマインダー"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
     },
@@ -332,7 +332,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 02:57 JST",
+          "datePosted": "2019/05/24 03:40 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
@@ -385,7 +385,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 02:57 JST",
+          "datePosted": "2019/05/24 03:40 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
@@ -424,7 +424,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 02:57 JST",
+          "datePosted": "2019/05/24 03:40 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
