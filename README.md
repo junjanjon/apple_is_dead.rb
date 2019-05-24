@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/junjanjon/apple_is_dead.rb.svg?style=svg)](https://circleci.com/gh/junjanjon/apple_is_dead.rb)
+
 # 概要
 
 apple のサービスの生死をコミットします。
