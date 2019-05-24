@@ -11,10 +11,17 @@ jobs:
     <<: *defaults
     steps:
       - checkout
+      - run: cp /usr/share/zoneinfo/Asia/Tokyo /etc/localtime
       - run: git config user.email "hiroi+circleci@users.noreply.github.com"
       - run: git config user.name "hiroi+circleci"
       - run: bash -xe diff_commit.sh
       - run: git push origin master
+
+filtersBranchesOnlyMaster: &filtersBranchesOnlyMaster
+  filters:
+    branches:
+      only:
+        - master
 
 workflows:
   version: 2
@@ -24,16 +31,16 @@ workflows:
   scheduled-workflow:
     triggers:
       - schedule:
-          cron: "15 * * * *"
-          filters:
-            branches:
-              only:
-                - master
+          <<: *filtersBranchesOnlyMaster
+          cron: "0 * * * *"
       - schedule:
+          <<: *filtersBranchesOnlyMaster
+          cron: "15 * * * *"
+      - schedule:
+          <<: *filtersBranchesOnlyMaster
+          cron: "30 * * * *"
+      - schedule:
+          <<: *filtersBranchesOnlyMaster
           cron: "45 * * * *"
-          filters:
-            branches:
-              only:
-                - master
     jobs:
       - build
