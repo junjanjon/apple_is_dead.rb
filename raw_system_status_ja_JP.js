@@ -12,7 +12,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 20:46 JST",
+          "datePosted": "2019/05/24 22:44 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
@@ -51,7 +51,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 20:46 JST",
+          "datePosted": "2019/05/24 22:44 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
@@ -84,19 +84,7 @@
       "serviceName": "Apple Pay",
       "redirectUrl": "https://developer.apple.com/apple-pay/",
       "events": [
-        {
-          "usersAffected": null,
-          "epochStartDate": 1558692900000,
-          "epochEndDate": null,
-          "messageId": "1002948",
-          "statusType": "Performance",
-          "datePosted": "2019/05/24 20:46 JST",
-          "startDate": "2019/05/24 19:15 JST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "JR東日本のカード保有者は、Apple Payでカードを追加したり、既存のカードをリチャージしたりすることができない場合があります。"
-        }
+
       ]
     },
     {
@@ -179,7 +167,7 @@
           "epochEndDate": 1558635720000,
           "messageId": "1002944",
           "statusType": "Issue",
-          "datePosted": "2019/05/24 20:46 JST",
+          "datePosted": "2019/05/24 22:44 JST",
           "startDate": "2019/05/24 01:19 JST",
           "endDate": "2019/05/24 03:22 JST",
           "affectedServices": [
@@ -229,7 +217,7 @@
           "epochEndDate": 1558652820000,
           "messageId": "1002945",
           "statusType": "Issue",
-          "datePosted": "2019/05/24 20:46 JST",
+          "datePosted": "2019/05/24 22:44 JST",
           "startDate": "2019/05/24 06:59 JST",
           "endDate": "2019/05/24 08:07 JST",
           "affectedServices": null,
@@ -242,7 +230,7 @@
           "epochEndDate": 1558623600000,
           "messageId": "1002941",
           "statusType": "Issue",
-          "datePosted": "2019/05/24 20:46 JST",
+          "datePosted": "2019/05/24 22:44 JST",
           "startDate": "2019/05/23 23:10 JST",
           "endDate": "2019/05/24 00:00 JST",
           "affectedServices": [
@@ -264,7 +252,7 @@
           "epochEndDate": 1558623600000,
           "messageId": "1002941",
           "statusType": "Issue",
-          "datePosted": "2019/05/24 20:46 JST",
+          "datePosted": "2019/05/24 22:44 JST",
           "startDate": "2019/05/23 23:10 JST",
           "endDate": "2019/05/24 00:00 JST",
           "affectedServices": [
@@ -286,7 +274,7 @@
           "epochEndDate": 1558635720000,
           "messageId": "1002944",
           "statusType": "Issue",
-          "datePosted": "2019/05/24 20:46 JST",
+          "datePosted": "2019/05/24 22:44 JST",
           "startDate": "2019/05/24 01:19 JST",
           "endDate": "2019/05/24 03:22 JST",
           "affectedServices": [
@@ -357,7 +345,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 20:46 JST",
+          "datePosted": "2019/05/24 22:44 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
@@ -410,7 +398,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 20:46 JST",
+          "datePosted": "2019/05/24 22:44 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
@@ -449,7 +437,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 20:46 JST",
+          "datePosted": "2019/05/24 22:44 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
