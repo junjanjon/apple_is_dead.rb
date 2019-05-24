@@ -12,7 +12,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 09:30 JST",
+          "datePosted": "2019/05/24 10:05 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
@@ -51,7 +51,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 09:30 JST",
+          "datePosted": "2019/05/24 10:05 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
@@ -167,7 +167,7 @@
           "epochEndDate": 1558635720000,
           "messageId": "1002944",
           "statusType": "Issue",
-          "datePosted": "2019/05/24 09:30 JST",
+          "datePosted": "2019/05/24 10:06 JST",
           "startDate": "2019/05/24 01:19 JST",
           "endDate": "2019/05/24 03:22 JST",
           "affectedServices": [
@@ -213,11 +213,24 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1558648740000,
+          "epochEndDate": 1558652820000,
+          "messageId": "1002945",
+          "statusType": "Issue",
+          "datePosted": "2019/05/24 10:06 JST",
+          "startDate": "2019/05/24 06:59 JST",
+          "endDate": "2019/05/24 08:07 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "メールの送受信ができなかった可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1558620600000,
           "epochEndDate": 1558623600000,
           "messageId": "1002941",
           "statusType": "Issue",
-          "datePosted": "2019/05/24 09:30 JST",
+          "datePosted": "2019/05/24 10:06 JST",
           "startDate": "2019/05/23 23:10 JST",
           "endDate": "2019/05/24 00:00 JST",
           "affectedServices": [
@@ -239,7 +252,7 @@
           "epochEndDate": 1558623600000,
           "messageId": "1002941",
           "statusType": "Issue",
-          "datePosted": "2019/05/24 09:30 JST",
+          "datePosted": "2019/05/24 10:06 JST",
           "startDate": "2019/05/23 23:10 JST",
           "endDate": "2019/05/24 00:00 JST",
           "affectedServices": [
@@ -261,7 +274,7 @@
           "epochEndDate": 1558635720000,
           "messageId": "1002944",
           "statusType": "Issue",
-          "datePosted": "2019/05/24 09:30 JST",
+          "datePosted": "2019/05/24 10:06 JST",
           "startDate": "2019/05/24 01:19 JST",
           "endDate": "2019/05/24 03:22 JST",
           "affectedServices": [
@@ -332,7 +345,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 09:30 JST",
+          "datePosted": "2019/05/24 10:05 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
@@ -385,7 +398,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 09:30 JST",
+          "datePosted": "2019/05/24 10:05 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
@@ -424,7 +437,7 @@
           "epochEndDate": 1558629480000,
           "messageId": "2000349",
           "statusType": "Outage",
-          "datePosted": "2019/05/24 09:30 JST",
+          "datePosted": "2019/05/24 10:05 JST",
           "startDate": "2019/05/24 01:20 JST",
           "endDate": "2019/05/24 01:38 JST",
           "affectedServices": [
