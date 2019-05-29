@@ -83,7 +83,30 @@
       "serviceName": "Documents in the Cloud",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1559072700000,
+          "epochEndDate": 1559093640000,
+          "messageId": "2000353",
+          "statusType": "Issue",
+          "datePosted": "2019/05/29 10:42 JST",
+          "startDate": "2019/05/29 04:45 JST",
+          "endDate": "2019/05/29 10:34 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
+        }
       ]
     },
     {
@@ -104,14 +127,60 @@
       "serviceName": "iCloud Drive",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1559072700000,
+          "epochEndDate": 1559093640000,
+          "messageId": "2000353",
+          "statusType": "Issue",
+          "datePosted": "2019/05/29 10:42 JST",
+          "startDate": "2019/05/29 04:45 JST",
+          "endDate": "2019/05/29 10:34 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
+        }
       ]
     },
     {
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1559072700000,
+          "epochEndDate": 1559093640000,
+          "messageId": "2000353",
+          "statusType": "Issue",
+          "datePosted": "2019/05/29 10:42 JST",
+          "startDate": "2019/05/29 04:45 JST",
+          "endDate": "2019/05/29 10:34 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "iCloud.comの複数のサービスの動作速度が低下した可能性があります。"
+        }
       ]
     },
     {
@@ -146,28 +215,120 @@
       "serviceName": "iCloudバックアップ",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1559072700000,
+          "epochEndDate": 1559093640000,
+          "messageId": "2000353",
+          "statusType": "Issue",
+          "datePosted": "2019/05/29 10:42 JST",
+          "startDate": "2019/05/29 04:45 JST",
+          "endDate": "2019/05/29 10:34 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
+        }
       ]
     },
     {
       "serviceName": "iCloudブックマークおよびタブ",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1559072700000,
+          "epochEndDate": 1559093640000,
+          "messageId": "2000353",
+          "statusType": "Issue",
+          "datePosted": "2019/05/29 10:42 JST",
+          "startDate": "2019/05/29 04:45 JST",
+          "endDate": "2019/05/29 10:34 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
+        }
       ]
     },
     {
       "serviceName": "iCloudメール",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1559072700000,
+          "epochEndDate": 1559093640000,
+          "messageId": "2000353",
+          "statusType": "Issue",
+          "datePosted": "2019/05/29 10:42 JST",
+          "startDate": "2019/05/29 04:45 JST",
+          "endDate": "2019/05/29 10:34 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
+        }
       ]
     },
     {
       "serviceName": "iCloudメモ",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1559072700000,
+          "epochEndDate": 1559093640000,
+          "messageId": "2000353",
+          "statusType": "Issue",
+          "datePosted": "2019/05/29 10:42 JST",
+          "startDate": "2019/05/29 04:45 JST",
+          "endDate": "2019/05/29 10:34 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
+        }
       ]
     },
     {
@@ -237,7 +398,30 @@
       "serviceName": "iWork for iCloud",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1559072700000,
+          "epochEndDate": 1559093640000,
+          "messageId": "2000353",
+          "statusType": "Issue",
+          "datePosted": "2019/05/29 10:42 JST",
+          "startDate": "2019/05/29 04:45 JST",
+          "endDate": "2019/05/29 10:34 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
+        }
       ]
     },
     {
@@ -258,7 +442,30 @@
       "serviceName": "Mail Drop",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1559072700000,
+          "epochEndDate": 1559093640000,
+          "messageId": "2000353",
+          "statusType": "Issue",
+          "datePosted": "2019/05/29 10:42 JST",
+          "startDate": "2019/05/29 04:45 JST",
+          "endDate": "2019/05/29 10:34 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
+        }
       ]
     },
     {
@@ -342,7 +549,30 @@
       "serviceName": "写真",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1559072700000,
+          "epochEndDate": 1559093640000,
+          "messageId": "2000353",
+          "statusType": "Issue",
+          "datePosted": "2019/05/29 10:42 JST",
+          "startDate": "2019/05/29 04:45 JST",
+          "endDate": "2019/05/29 10:34 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
+        }
       ]
     },
     {
