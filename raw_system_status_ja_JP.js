@@ -89,7 +89,7 @@
           "epochEndDate": 1559093640000,
           "messageId": "2000353",
           "statusType": "Issue",
-          "datePosted": "2019/06/01 11:16 JST",
+          "datePosted": "2019/06/01 12:38 JST",
           "startDate": "2019/05/29 04:45 JST",
           "endDate": "2019/05/29 10:34 JST",
           "affectedServices": [
@@ -133,7 +133,7 @@
           "epochEndDate": 1559093640000,
           "messageId": "2000353",
           "statusType": "Issue",
-          "datePosted": "2019/06/01 11:16 JST",
+          "datePosted": "2019/06/01 12:38 JST",
           "startDate": "2019/05/29 04:45 JST",
           "endDate": "2019/05/29 10:34 JST",
           "affectedServices": [
@@ -163,7 +163,7 @@
           "epochEndDate": 1559093640000,
           "messageId": "2000353",
           "statusType": "Issue",
-          "datePosted": "2019/06/01 11:16 JST",
+          "datePosted": "2019/06/01 12:38 JST",
           "startDate": "2019/05/29 04:45 JST",
           "endDate": "2019/05/29 10:34 JST",
           "affectedServices": [
@@ -195,17 +195,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1559352420000,
-          "epochEndDate": null,
-          "messageId": "1002956",
+          "epochEndDate": 1559359680000,
+          "messageId": "2000354",
           "statusType": "Issue",
-          "datePosted": "2019/06/01 11:16 JST",
+          "datePosted": "2019/06/01 12:38 JST",
           "startDate": "2019/06/01 10:27 JST",
-          "endDate": null,
+          "endDate": "2019/06/01 12:28 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "最近行った変更はデバイス間で更新されない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
         }
       ]
     },
@@ -233,7 +233,7 @@
           "epochEndDate": 1559093640000,
           "messageId": "2000353",
           "statusType": "Issue",
-          "datePosted": "2019/06/01 11:16 JST",
+          "datePosted": "2019/06/01 12:38 JST",
           "startDate": "2019/05/29 04:45 JST",
           "endDate": "2019/05/29 10:34 JST",
           "affectedServices": [
@@ -263,7 +263,7 @@
           "epochEndDate": 1559093640000,
           "messageId": "2000353",
           "statusType": "Issue",
-          "datePosted": "2019/06/01 11:16 JST",
+          "datePosted": "2019/06/01 12:38 JST",
           "startDate": "2019/05/29 04:45 JST",
           "endDate": "2019/05/29 10:34 JST",
           "affectedServices": [
@@ -293,7 +293,7 @@
           "epochEndDate": 1559093640000,
           "messageId": "2000353",
           "statusType": "Issue",
-          "datePosted": "2019/06/01 11:16 JST",
+          "datePosted": "2019/06/01 12:38 JST",
           "startDate": "2019/05/29 04:45 JST",
           "endDate": "2019/05/29 10:34 JST",
           "affectedServices": [
@@ -323,7 +323,7 @@
           "epochEndDate": 1559093640000,
           "messageId": "2000353",
           "statusType": "Issue",
-          "datePosted": "2019/06/01 11:16 JST",
+          "datePosted": "2019/06/01 12:38 JST",
           "startDate": "2019/05/29 04:45 JST",
           "endDate": "2019/05/29 10:34 JST",
           "affectedServices": [
@@ -416,7 +416,7 @@
           "epochEndDate": 1559093640000,
           "messageId": "2000353",
           "statusType": "Issue",
-          "datePosted": "2019/06/01 11:16 JST",
+          "datePosted": "2019/06/01 12:38 JST",
           "startDate": "2019/05/29 04:45 JST",
           "endDate": "2019/05/29 10:34 JST",
           "affectedServices": [
@@ -460,7 +460,7 @@
           "epochEndDate": 1559093640000,
           "messageId": "2000353",
           "statusType": "Issue",
-          "datePosted": "2019/06/01 11:16 JST",
+          "datePosted": "2019/06/01 12:38 JST",
           "startDate": "2019/05/29 04:45 JST",
           "endDate": "2019/05/29 10:34 JST",
           "affectedServices": [
@@ -567,7 +567,7 @@
           "epochEndDate": 1559093640000,
           "messageId": "2000353",
           "statusType": "Issue",
-          "datePosted": "2019/06/01 11:16 JST",
+          "datePosted": "2019/06/01 12:38 JST",
           "startDate": "2019/05/29 04:45 JST",
           "endDate": "2019/05/29 10:34 JST",
           "affectedServices": [
