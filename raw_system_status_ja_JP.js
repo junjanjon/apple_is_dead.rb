@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "serviceName": "App Store",
@@ -131,7 +131,7 @@
           "epochEndDate": 1559359680000,
           "messageId": "2000354",
           "statusType": "Issue",
-          "datePosted": "2019/06/01 17:00 JST",
+          "datePosted": "2019/06/02 22:26 JST",
           "startDate": "2019/06/01 10:27 JST",
           "endDate": "2019/06/01 12:28 JST",
           "affectedServices": null,
@@ -172,14 +172,44 @@
       "serviceName": "iCloudメール",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "1%未満のユーザに影響しました",
+          "epochStartDate": 1559475000000,
+          "epochEndDate": 1559478900000,
+          "messageId": "2000355",
+          "statusType": "Issue",
+          "datePosted": "2019/06/02 22:26 JST",
+          "startDate": "2019/06/02 20:30 JST",
+          "endDate": "2019/06/02 21:35 JST",
+          "affectedServices": [
+            "iCloudメモ",
+            "iCloudメール"
+          ],
+          "eventStatus": "resolved",
+          "message": "メールの送受信ができなかった可能性があります。"
+        }
       ]
     },
     {
       "serviceName": "iCloudメモ",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "1%未満のユーザに影響しました",
+          "epochStartDate": 1559475000000,
+          "epochEndDate": 1559478900000,
+          "messageId": "2000355",
+          "statusType": "Issue",
+          "datePosted": "2019/06/02 22:26 JST",
+          "startDate": "2019/06/02 20:30 JST",
+          "endDate": "2019/06/02 21:35 JST",
+          "affectedServices": [
+            "iCloudメモ",
+            "iCloudメール"
+          ],
+          "eventStatus": "resolved",
+          "message": "メモのオープンまたは保存ができなかった可能性があります。"
+        }
       ]
     },
     {
