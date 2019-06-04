@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "serviceName": "App Store",
@@ -125,19 +125,7 @@
       "serviceName": "iCloudカレンダー",
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1559352420000,
-          "epochEndDate": 1559359680000,
-          "messageId": "2000354",
-          "statusType": "Issue",
-          "datePosted": "2019/06/04 04:29 JST",
-          "startDate": "2019/06/01 10:27 JST",
-          "endDate": "2019/06/01 12:28 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -178,7 +166,7 @@
           "epochEndDate": 1559478900000,
           "messageId": "2000355",
           "statusType": "Issue",
-          "datePosted": "2019/06/04 04:29 JST",
+          "datePosted": "2019/06/04 17:00 JST",
           "startDate": "2019/06/02 20:30 JST",
           "endDate": "2019/06/02 21:35 JST",
           "affectedServices": [
@@ -200,7 +188,7 @@
           "epochEndDate": 1559478900000,
           "messageId": "2000355",
           "statusType": "Issue",
-          "datePosted": "2019/06/04 04:29 JST",
+          "datePosted": "2019/06/04 17:00 JST",
           "startDate": "2019/06/02 20:30 JST",
           "endDate": "2019/06/02 21:35 JST",
           "affectedServices": [
