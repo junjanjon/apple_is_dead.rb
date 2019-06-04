@@ -1,12 +1,29 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "serviceName": "App Store",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1559649960000,
+          "epochEndDate": null,
+          "messageId": "1002979",
+          "statusType": "Outage",
+          "datePosted": "2019/06/04 21:55 JST",
+          "startDate": "2019/06/04 21:06 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Music",
+            "Mac App Store",
+            "Radio"
+          ],
+          "eventStatus": "ongoing",
+          "message": "上記のサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ]
     },
     {
@@ -27,7 +44,24 @@
       "serviceName": "Apple Music",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1559649960000,
+          "epochEndDate": null,
+          "messageId": "1002979",
+          "statusType": "Outage",
+          "datePosted": "2019/06/04 21:55 JST",
+          "startDate": "2019/06/04 21:06 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Music",
+            "Mac App Store",
+            "Radio"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+        }
       ]
     },
     {
@@ -166,7 +200,7 @@
           "epochEndDate": 1559478900000,
           "messageId": "2000355",
           "statusType": "Issue",
-          "datePosted": "2019/06/04 17:00 JST",
+          "datePosted": "2019/06/04 21:55 JST",
           "startDate": "2019/06/02 20:30 JST",
           "endDate": "2019/06/02 21:35 JST",
           "affectedServices": [
@@ -188,7 +222,7 @@
           "epochEndDate": 1559478900000,
           "messageId": "2000355",
           "statusType": "Issue",
-          "datePosted": "2019/06/04 17:00 JST",
+          "datePosted": "2019/06/04 21:55 JST",
           "startDate": "2019/06/02 20:30 JST",
           "endDate": "2019/06/02 21:35 JST",
           "affectedServices": [
@@ -274,7 +308,24 @@
       "serviceName": "Mac App Store",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1559649960000,
+          "epochEndDate": null,
+          "messageId": "1002979",
+          "statusType": "Outage",
+          "datePosted": "2019/06/04 21:55 JST",
+          "startDate": "2019/06/04 21:06 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Music",
+            "Mac App Store",
+            "Radio"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ]
     },
     {
@@ -295,7 +346,24 @@
       "serviceName": "Radio",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1559649960000,
+          "epochEndDate": null,
+          "messageId": "1002979",
+          "statusType": "Outage",
+          "datePosted": "2019/06/04 21:55 JST",
+          "startDate": "2019/06/04 21:06 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Music",
+            "Mac App Store",
+            "Radio"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+        }
       ]
     },
     {
