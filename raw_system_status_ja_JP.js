@@ -12,7 +12,7 @@
           "epochEndDate": 1559661180000,
           "messageId": "1002979",
           "statusType": "Outage",
-          "datePosted": "2019/06/06 17:00 JST",
+          "datePosted": "2019/06/07 08:02 JST",
           "startDate": "2019/06/04 21:06 JST",
           "endDate": "2019/06/05 00:13 JST",
           "affectedServices": [
@@ -50,7 +50,7 @@
           "epochEndDate": 1559661180000,
           "messageId": "1002979",
           "statusType": "Outage",
-          "datePosted": "2019/06/06 17:00 JST",
+          "datePosted": "2019/06/07 08:02 JST",
           "startDate": "2019/06/04 21:06 JST",
           "endDate": "2019/06/05 00:13 JST",
           "affectedServices": [
@@ -194,14 +194,44 @@
       "serviceName": "iCloudメール",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1559851860000,
+          "epochEndDate": 1559857080000,
+          "messageId": "1002981",
+          "statusType": "Issue",
+          "datePosted": "2019/06/07 08:02 JST",
+          "startDate": "2019/06/07 05:11 JST",
+          "endDate": "2019/06/07 06:38 JST",
+          "affectedServices": [
+            "iCloudメモ",
+            "iCloudメール"
+          ],
+          "eventStatus": "resolved",
+          "message": "メールの送受信ができなかった可能性があります。"
+        }
       ]
     },
     {
       "serviceName": "iCloudメモ",
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1559851860000,
+          "epochEndDate": 1559857080000,
+          "messageId": "1002981",
+          "statusType": "Issue",
+          "datePosted": "2019/06/07 08:02 JST",
+          "startDate": "2019/06/07 05:11 JST",
+          "endDate": "2019/06/07 06:38 JST",
+          "affectedServices": [
+            "iCloudメモ",
+            "iCloudメール"
+          ],
+          "eventStatus": "resolved",
+          "message": "メモのオープンまたは保存ができなかった可能性があります。"
+        }
       ]
     },
     {
@@ -284,7 +314,7 @@
           "epochEndDate": 1559661180000,
           "messageId": "1002979",
           "statusType": "Outage",
-          "datePosted": "2019/06/06 17:00 JST",
+          "datePosted": "2019/06/07 08:02 JST",
           "startDate": "2019/06/04 21:06 JST",
           "endDate": "2019/06/05 00:13 JST",
           "affectedServices": [
@@ -322,7 +352,7 @@
           "epochEndDate": 1559661180000,
           "messageId": "1002979",
           "statusType": "Outage",
-          "datePosted": "2019/06/06 17:00 JST",
+          "datePosted": "2019/06/07 08:02 JST",
           "startDate": "2019/06/04 21:06 JST",
           "endDate": "2019/06/05 00:13 JST",
           "affectedServices": [
