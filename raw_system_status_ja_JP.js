@@ -298,7 +298,19 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1560363600000,
+          "epochEndDate": null,
+          "messageId": "1002997",
+          "statusType": "Issue",
+          "datePosted": "2019/06/13 05:11 JST",
+          "startDate": "2019/06/13 03:20 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ],
       "serviceName": "スクールワーク",
       "redirectUrl": null
