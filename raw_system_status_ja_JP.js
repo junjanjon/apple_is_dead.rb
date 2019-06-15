@@ -59,7 +59,7 @@
           "epochEndDate": 1560621600000,
           "messageId": "1003000",
           "statusType": "Maintenance",
-          "datePosted": "2019/06/16 01:14 JST",
+          "datePosted": "2019/06/16 01:29 JST",
           "startDate": "2019/06/16 01:00 JST",
           "endDate": "2019/06/16 03:00 JST",
           "affectedServices": [
@@ -96,7 +96,7 @@
           "epochEndDate": 1560621600000,
           "messageId": "1003000",
           "statusType": "Maintenance",
-          "datePosted": "2019/06/16 01:14 JST",
+          "datePosted": "2019/06/16 01:29 JST",
           "startDate": "2019/06/16 01:00 JST",
           "endDate": "2019/06/16 03:00 JST",
           "affectedServices": [
@@ -336,12 +336,25 @@
           "epochEndDate": 1560370620000,
           "messageId": "1002997",
           "statusType": "Issue",
-          "datePosted": "2019/06/16 01:14 JST",
+          "datePosted": "2019/06/16 01:29 JST",
           "startDate": "2019/06/13 03:20 JST",
           "endDate": "2019/06/13 05:17 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1560616200000,
+          "epochEndDate": 1560623400000,
+          "messageId": "2000357",
+          "statusType": "Maintenance",
+          "datePosted": "2019/06/16 01:29 JST",
+          "startDate": "2019/06/16 01:30 JST",
+          "endDate": "2019/06/16 03:30 JST",
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
         }
       ],
       "redirectUrl": null,
