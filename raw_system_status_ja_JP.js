@@ -59,7 +59,7 @@
           "epochEndDate": 1560622200000,
           "messageId": "1003000",
           "statusType": "Maintenance",
-          "datePosted": "2019/06/16 19:00 JST",
+          "datePosted": "2019/06/16 19:21 JST",
           "startDate": "2019/06/16 01:00 JST",
           "endDate": "2019/06/16 03:10 JST",
           "affectedServices": [
@@ -96,7 +96,7 @@
           "epochEndDate": 1560622200000,
           "messageId": "1003000",
           "statusType": "Maintenance",
-          "datePosted": "2019/06/16 19:00 JST",
+          "datePosted": "2019/06/16 19:21 JST",
           "startDate": "2019/06/16 01:00 JST",
           "endDate": "2019/06/16 03:10 JST",
           "affectedServices": [
@@ -191,20 +191,20 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1560676920000,
-          "epochEndDate": null,
+          "epochEndDate": 1560679980000,
           "messageId": "2000358",
           "statusType": "Issue",
-          "datePosted": "2019/06/16 19:00 JST",
+          "datePosted": "2019/06/16 19:21 JST",
           "startDate": "2019/06/16 18:22 JST",
-          "endDate": null,
+          "endDate": "2019/06/16 19:13 JST",
           "affectedServices": [
             "iCloudメモ",
             "iCloudメール"
           ],
-          "eventStatus": "ongoing",
-          "message": "メールの送受信ができない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "メールの送受信ができなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudメール",
@@ -213,20 +213,20 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1560676920000,
-          "epochEndDate": null,
+          "epochEndDate": 1560679980000,
           "messageId": "2000358",
           "statusType": "Issue",
-          "datePosted": "2019/06/16 19:00 JST",
+          "datePosted": "2019/06/16 19:21 JST",
           "startDate": "2019/06/16 18:22 JST",
-          "endDate": null,
+          "endDate": "2019/06/16 19:13 JST",
           "affectedServices": [
             "iCloudメモ",
             "iCloudメール"
           ],
-          "eventStatus": "ongoing",
-          "message": "メモのオープンまたは保存ができない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "メモのオープンまたは保存ができなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudメモ",
@@ -366,7 +366,7 @@
           "epochEndDate": 1560622500000,
           "messageId": "2000357",
           "statusType": "Maintenance",
-          "datePosted": "2019/06/16 19:00 JST",
+          "datePosted": "2019/06/16 19:21 JST",
           "startDate": "2019/06/16 01:30 JST",
           "endDate": "2019/06/16 03:15 JST",
           "affectedServices": null,
