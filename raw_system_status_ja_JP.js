@@ -5,17 +5,17 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1561674960000,
-          "epochEndDate": null,
+          "epochEndDate": 1561689720000,
           "messageId": "1003018",
           "statusType": "Issue",
-          "datePosted": "2019/06/28 10:59 JST",
+          "datePosted": "2019/06/28 12:27 JST",
           "startDate": "2019/06/28 07:36 JST",
-          "endDate": null,
+          "endDate": "2019/06/28 11:42 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -176,7 +176,7 @@
           "epochEndDate": 1561694400000,
           "messageId": "1003017",
           "statusType": "Maintenance",
-          "datePosted": "2019/06/28 10:59 JST",
+          "datePosted": "2019/06/28 12:27 JST",
           "startDate": "2019/06/28 11:00 JST",
           "endDate": "2019/06/28 13:00 JST",
           "affectedServices": [
@@ -198,7 +198,7 @@
           "epochEndDate": 1561694400000,
           "messageId": "1003017",
           "statusType": "Maintenance",
-          "datePosted": "2019/06/28 10:59 JST",
+          "datePosted": "2019/06/28 12:27 JST",
           "startDate": "2019/06/28 11:00 JST",
           "endDate": "2019/06/28 13:00 JST",
           "affectedServices": [
