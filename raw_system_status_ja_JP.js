@@ -10,7 +10,7 @@
           "epochEndDate": null,
           "messageId": "1003018",
           "statusType": "Issue",
-          "datePosted": "2019/06/28 09:19 JST",
+          "datePosted": "2019/06/28 10:59 JST",
           "startDate": "2019/06/28 07:36 JST",
           "endDate": null,
           "affectedServices": null,
@@ -176,15 +176,15 @@
           "epochEndDate": 1561694400000,
           "messageId": "1003017",
           "statusType": "Maintenance",
-          "datePosted": "2019/06/28 09:19 JST",
+          "datePosted": "2019/06/28 10:59 JST",
           "startDate": "2019/06/28 11:00 JST",
           "endDate": "2019/06/28 13:00 JST",
           "affectedServices": [
             "iCloudメモ",
             "iCloudメール"
           ],
-          "eventStatus": "upcoming",
-          "message": "このサービスに関して一時的に問題が発生する可能性があります。"
+          "eventStatus": "ongoing",
+          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -198,15 +198,15 @@
           "epochEndDate": 1561694400000,
           "messageId": "1003017",
           "statusType": "Maintenance",
-          "datePosted": "2019/06/28 09:19 JST",
+          "datePosted": "2019/06/28 10:59 JST",
           "startDate": "2019/06/28 11:00 JST",
           "endDate": "2019/06/28 13:00 JST",
           "affectedServices": [
             "iCloudメモ",
             "iCloudメール"
           ],
-          "eventStatus": "upcoming",
-          "message": "このサービスに関して一時的に問題が発生する可能性があります。"
+          "eventStatus": "ongoing",
+          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
         }
       ],
       "redirectUrl": null,
