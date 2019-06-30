@@ -10,7 +10,7 @@
           "epochEndDate": 1561689720000,
           "messageId": "1003018",
           "statusType": "Issue",
-          "datePosted": "2019/06/28 12:59 JST",
+          "datePosted": "2019/06/30 14:06 JST",
           "startDate": "2019/06/28 07:36 JST",
           "endDate": "2019/06/28 11:42 JST",
           "affectedServices": null,
@@ -93,7 +93,26 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1561858860000,
+          "epochEndDate": null,
+          "messageId": "1003019",
+          "statusType": "Issue",
+          "datePosted": "2019/06/30 14:06 JST",
+          "startDate": "2019/06/30 10:41 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudメモ",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Documents in the Cloud"
@@ -114,14 +133,52 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1561858860000,
+          "epochEndDate": null,
+          "messageId": "1003019",
+          "statusType": "Issue",
+          "datePosted": "2019/06/30 14:06 JST",
+          "startDate": "2019/06/30 10:41 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudメモ",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloud Drive"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1561858860000,
+          "epochEndDate": null,
+          "messageId": "1003019",
+          "statusType": "Issue",
+          "datePosted": "2019/06/30 14:06 JST",
+          "startDate": "2019/06/30 10:41 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudメモ",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "iCloud.com で一部の Web App を使用できない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloud Web Apps (iCloud.com)"
@@ -170,22 +227,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1561687200000,
-          "epochEndDate": 1561694400000,
-          "messageId": "1003017",
-          "statusType": "Maintenance",
-          "datePosted": "2019/06/28 12:59 JST",
-          "startDate": "2019/06/28 11:00 JST",
-          "endDate": "2019/06/28 13:00 JST",
-          "affectedServices": [
-            "iCloudメモ",
-            "iCloudメール"
-          ],
-          "eventStatus": "completed",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "iCloudメール"
@@ -193,20 +235,24 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1561687200000,
-          "epochEndDate": 1561694400000,
-          "messageId": "1003017",
-          "statusType": "Maintenance",
-          "datePosted": "2019/06/28 12:59 JST",
-          "startDate": "2019/06/28 11:00 JST",
-          "endDate": "2019/06/28 13:00 JST",
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1561858860000,
+          "epochEndDate": null,
+          "messageId": "1003019",
+          "statusType": "Issue",
+          "datePosted": "2019/06/30 14:06 JST",
+          "startDate": "2019/06/30 10:41 JST",
+          "endDate": null,
           "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
             "iCloudメモ",
-            "iCloudメール"
+            "iWork for iCloud",
+            "写真"
           ],
-          "eventStatus": "completed",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -277,7 +323,26 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1561858860000,
+          "epochEndDate": null,
+          "messageId": "1003019",
+          "statusType": "Issue",
+          "datePosted": "2019/06/30 14:06 JST",
+          "startDate": "2019/06/30 10:41 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudメモ",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iWork for iCloud"
@@ -382,7 +447,26 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1561858860000,
+          "epochEndDate": null,
+          "messageId": "1003019",
+          "statusType": "Issue",
+          "datePosted": "2019/06/30 14:06 JST",
+          "startDate": "2019/06/30 10:41 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudメモ",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "写真"
