@@ -52,7 +52,7 @@
           "epochEndDate": 1562356800000,
           "messageId": "1003020",
           "statusType": "Maintenance",
-          "datePosted": "2019/07/02 22:53 JST",
+          "datePosted": "2019/07/03 17:00 JST",
           "startDate": "2019/07/05 21:00 JST",
           "endDate": "2019/07/06 05:00 JST",
           "affectedServices": null,
@@ -121,19 +121,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1561858860000,
-          "epochEndDate": 1561873080000,
-          "messageId": "1003019",
-          "statusType": "Issue",
-          "datePosted": "2019/07/02 22:53 JST",
-          "startDate": "2019/06/30 10:41 JST",
-          "endDate": "2019/06/30 14:38 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "iCloud.com で一部の Web App を使用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "redirectUrl": null
