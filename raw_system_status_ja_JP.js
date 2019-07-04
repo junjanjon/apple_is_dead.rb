@@ -52,7 +52,7 @@
           "epochEndDate": 1562261100000,
           "messageId": "1003040",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 02:25 JST",
           "affectedServices": null,
@@ -65,7 +65,7 @@
           "epochEndDate": 1562356800000,
           "messageId": "1003020",
           "statusType": "Maintenance",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 21:00 JST",
           "endDate": "2019/07/06 05:00 JST",
           "affectedServices": null,
@@ -112,7 +112,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -154,12 +154,12 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1562255460000,
-          "epochEndDate": null,
+          "epochEndDate": 1562261400000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -184,8 +184,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -199,7 +199,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -239,7 +239,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -279,7 +279,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -319,7 +319,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -359,7 +359,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -399,7 +399,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -439,7 +439,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -479,7 +479,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -514,12 +514,12 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1562255460000,
-          "epochEndDate": null,
+          "epochEndDate": 1562261400000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -544,8 +544,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -559,7 +559,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -599,7 +599,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -639,7 +639,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -693,7 +693,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -761,7 +761,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -815,7 +815,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -890,7 +890,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -958,7 +958,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
@@ -998,7 +998,7 @@
           "epochEndDate": null,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 03:27 JST",
+          "datePosted": "2019/07/05 03:44 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": null,
           "affectedServices": [
