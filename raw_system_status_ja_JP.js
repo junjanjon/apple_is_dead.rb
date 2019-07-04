@@ -52,7 +52,7 @@
           "epochEndDate": 1562356800000,
           "messageId": "1003020",
           "statusType": "Maintenance",
-          "datePosted": "2019/07/04 17:00 JST",
+          "datePosted": "2019/07/05 01:52 JST",
           "startDate": "2019/07/05 21:00 JST",
           "endDate": "2019/07/06 05:00 JST",
           "affectedServices": null,
@@ -93,7 +93,29 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1562255460000,
+          "epochEndDate": null,
+          "messageId": "1003037",
+          "statusType": "Issue",
+          "datePosted": "2019/07/05 01:52 JST",
+          "startDate": "2019/07/05 00:51 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "Documents in the Cloud",
       "redirectUrl": null
@@ -114,21 +136,87 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1562255460000,
+          "epochEndDate": null,
+          "messageId": "1003037",
+          "statusType": "Issue",
+          "datePosted": "2019/07/05 01:52 JST",
+          "startDate": "2019/07/05 00:51 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "iCloud Drive",
       "redirectUrl": null
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1562255460000,
+          "epochEndDate": null,
+          "messageId": "1003037",
+          "statusType": "Issue",
+          "datePosted": "2019/07/05 01:52 JST",
+          "startDate": "2019/07/05 00:51 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "redirectUrl": null
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1562255460000,
+          "epochEndDate": null,
+          "messageId": "1003037",
+          "statusType": "Issue",
+          "datePosted": "2019/07/05 01:52 JST",
+          "startDate": "2019/07/05 00:51 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "iCloudアカウントおよびサインイン",
       "redirectUrl": null
@@ -156,14 +244,58 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1562255460000,
+          "epochEndDate": null,
+          "messageId": "1003037",
+          "statusType": "Issue",
+          "datePosted": "2019/07/05 01:52 JST",
+          "startDate": "2019/07/05 00:51 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "iCloudバックアップ",
       "redirectUrl": null
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1562255460000,
+          "epochEndDate": null,
+          "messageId": "1003037",
+          "statusType": "Issue",
+          "datePosted": "2019/07/05 01:52 JST",
+          "startDate": "2019/07/05 00:51 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "iCloudブックマークおよびタブ",
       "redirectUrl": null
@@ -177,7 +309,29 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1562255460000,
+          "epochEndDate": null,
+          "messageId": "1003037",
+          "statusType": "Issue",
+          "datePosted": "2019/07/05 01:52 JST",
+          "startDate": "2019/07/05 00:51 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "iCloudメモ",
       "redirectUrl": null
@@ -345,14 +499,58 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1562255460000,
+          "epochEndDate": null,
+          "messageId": "1003037",
+          "statusType": "Issue",
+          "datePosted": "2019/07/05 01:52 JST",
+          "startDate": "2019/07/05 00:51 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "写真",
       "redirectUrl": null
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1562255460000,
+          "epochEndDate": null,
+          "messageId": "1003037",
+          "statusType": "Issue",
+          "datePosted": "2019/07/05 01:52 JST",
+          "startDate": "2019/07/05 00:51 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "友達やデバイスの位置検索、登録済みデバイスのリスト表示、デバイスでのサウンド再生、デバイスのリモートワイプ、デバイスの紛失モード設定ができない可能性があります。"
+        }
       ],
       "serviceName": "友達を探す",
       "redirectUrl": null
