@@ -1,48 +1,48 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "App Store"
+      "serviceName": "App Store",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Apple Books"
+      "serviceName": "Apple Books",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Apple ID"
+      "serviceName": "Apple ID",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Apple Music"
+      "serviceName": "Apple Music",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Apple Musicの登録"
+      "serviceName": "Apple Musicの登録",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Apple Online Store"
+      "serviceName": "Apple Online Store",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -52,57 +52,44 @@
           "epochEndDate": 1562261100000,
           "messageId": "1003040",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 02:25 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "Apple Payの一部のカード保有者は、Apple Payでカードの追加、停止、削除、または既存のカードの使用ができませんでした。"
-        },
-        {
-          "usersAffected": "すべてのユーザに影響します",
-          "epochStartDate": 1562328000000,
-          "epochEndDate": 1562356800000,
-          "messageId": "1003020",
-          "statusType": "Maintenance",
-          "datePosted": "2019/07/05 06:41 JST",
-          "startDate": "2019/07/05 21:00 JST",
-          "endDate": "2019/07/06 05:00 JST",
-          "affectedServices": null,
-          "eventStatus": "upcoming",
-          "message": "JR東日本のカード保有者は、Apple Payでカードを追加したり、既存のカードをリチャージしたりすることができなくなります。"
         }
       ],
-      "redirectUrl": "https://developer.apple.com/apple-pay/",
-      "serviceName": "Apple Pay"
+      "serviceName": "Apple Pay",
+      "redirectUrl": "https://developer.apple.com/apple-pay/"
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Apple School Manager"
+      "serviceName": "Apple School Manager",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Apple TV"
+      "serviceName": "Apple TV",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Beats 1"
+      "serviceName": "Beats 1",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Device Enrollment Program"
+      "serviceName": "Device Enrollment Program",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -112,7 +99,7 @@
           "epochEndDate": 1562261280000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -141,15 +128,15 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "Documents in the Cloud"
+      "serviceName": "Documents in the Cloud",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "FaceTime"
+      "serviceName": "FaceTime",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -159,7 +146,7 @@
           "epochEndDate": 1562261400000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -188,8 +175,8 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "Game Center"
+      "serviceName": "Game Center",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -199,7 +186,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -228,8 +215,8 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iCloud Drive"
+      "serviceName": "iCloud Drive",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -239,7 +226,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -268,8 +255,8 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iCloud Web Apps (iCloud.com)"
+      "serviceName": "iCloud Web Apps (iCloud.com)",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -279,7 +266,7 @@
           "epochEndDate": 1562261280000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -308,8 +295,8 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iCloudアカウントおよびサインイン"
+      "serviceName": "iCloudアカウントおよびサインイン",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -319,7 +306,7 @@
           "epochEndDate": 1562275920000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -348,8 +335,8 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iCloudカレンダー"
+      "serviceName": "iCloudカレンダー",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -359,7 +346,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -388,8 +375,8 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iCloudキーチェーン"
+      "serviceName": "iCloudキーチェーン",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -399,7 +386,7 @@
           "epochEndDate": 1562261280000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -428,8 +415,8 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iCloudストレージアップグレード"
+      "serviceName": "iCloudストレージアップグレード",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -439,7 +426,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -468,8 +455,8 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iCloudバックアップ"
+      "serviceName": "iCloudバックアップ",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -479,7 +466,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -508,8 +495,8 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iCloudブックマークおよびタブ"
+      "serviceName": "iCloudブックマークおよびタブ",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -519,7 +506,7 @@
           "epochEndDate": 1562262000000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -548,8 +535,8 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iCloudメール"
+      "serviceName": "iCloudメール",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -559,7 +546,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -588,8 +575,8 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iCloudメモ"
+      "serviceName": "iCloudメモ",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -599,7 +586,7 @@
           "epochEndDate": 1562275920000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -628,8 +615,8 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iCloudリマインダー"
+      "serviceName": "iCloudリマインダー",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -639,7 +626,7 @@
           "epochEndDate": 1562261280000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -668,22 +655,22 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iCloud連絡先"
+      "serviceName": "iCloud連絡先",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "iMessage"
+      "serviceName": "iMessage",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "iOSデバイスアクティベーション"
+      "serviceName": "iOSデバイスアクティベーション",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -693,7 +680,7 @@
           "epochEndDate": 1562261280000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -722,36 +709,36 @@
           "message": "友達やデバイスの位置検索、登録済みデバイスのリスト表示、デバイスでのサウンド再生、デバイスのリモートワイプ、デバイスの紛失モード設定ができなかった可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iPhoneを探す"
+      "serviceName": "iPhoneを探す",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "iTunes in the Cloud"
+      "serviceName": "iTunes in the Cloud",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "iTunes Match"
+      "serviceName": "iTunes Match",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "iTunes Store"
+      "serviceName": "iTunes Store",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "iTunes U"
+      "serviceName": "iTunes U",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -761,7 +748,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -790,22 +777,22 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "iWork for iCloud"
+      "serviceName": "iWork for iCloud",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Mac App Store"
+      "serviceName": "Mac App Store",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "macOSソフトウェアアップデート"
+      "serviceName": "macOSソフトウェアアップデート",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -815,7 +802,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -844,43 +831,43 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "Mail Drop"
+      "serviceName": "Mail Drop",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Radio"
+      "serviceName": "Radio",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Siri"
+      "serviceName": "Siri",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Spotlightの検索候補"
+      "serviceName": "Spotlightの検索候補",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "Volume Purchase Program"
+      "serviceName": "Volume Purchase Program",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "スクールワーク"
+      "serviceName": "スクールワーク",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -890,7 +877,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -919,36 +906,36 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "スクリーンタイム"
+      "serviceName": "スクリーンタイム",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "マップの経路案内とナビゲーション"
+      "serviceName": "マップの経路案内とナビゲーション",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "マップの検索"
+      "serviceName": "マップの検索",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "マップの表示"
+      "serviceName": "マップの表示",
+      "redirectUrl": null
     },
     {
       "events": [
 
       ],
-      "redirectUrl": null,
-      "serviceName": "音声入力"
+      "serviceName": "音声入力",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -958,7 +945,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -987,8 +974,8 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "写真"
+      "serviceName": "写真",
+      "redirectUrl": null
     },
     {
       "events": [
@@ -998,7 +985,7 @@
           "epochEndDate": 1562261280000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/05 06:41 JST",
+          "datePosted": "2019/07/05 10:47 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -1027,8 +1014,8 @@
           "message": "友達やデバイスの位置検索、登録済みデバイスのリスト表示、デバイスでのサウンド再生、デバイスのリモートワイプ、デバイスの紛失モード設定ができなかった可能性があります。"
         }
       ],
-      "redirectUrl": null,
-      "serviceName": "友達を探す"
+      "serviceName": "友達を探す",
+      "redirectUrl": null
     }
   ]
 }
