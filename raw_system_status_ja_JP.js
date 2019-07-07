@@ -52,25 +52,12 @@
           "epochEndDate": 1562261100000,
           "messageId": "1003040",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 02:25 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "Apple Payの一部のカード保有者は、Apple Payでカードの追加、停止、削除、または既存のカードの使用ができませんでした。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1562414400000,
-          "epochEndDate": 1562428800000,
-          "messageId": "1003043",
-          "statusType": "Maintenance",
-          "datePosted": "2019/07/07 17:00 JST",
-          "startDate": "2019/07/06 21:00 JST",
-          "endDate": "2019/07/07 01:00 JST",
-          "affectedServices": null,
-          "eventStatus": "completed",
-          "message": "JR東日本 のカード利用者は、Apple Payにおいて一部の機能が使えない状況が発生しておりました。"
         }
       ],
       "redirectUrl": "https://developer.apple.com/apple-pay/",
@@ -112,7 +99,7 @@
           "epochEndDate": 1562261280000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -159,7 +146,7 @@
           "epochEndDate": 1562261400000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -199,7 +186,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -239,7 +226,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -279,7 +266,7 @@
           "epochEndDate": 1562261280000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -319,7 +306,7 @@
           "epochEndDate": 1562275920000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -359,7 +346,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -399,7 +386,7 @@
           "epochEndDate": 1562261280000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -439,7 +426,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -479,7 +466,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -519,7 +506,7 @@
           "epochEndDate": 1562262000000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -559,7 +546,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -599,7 +586,7 @@
           "epochEndDate": 1562275920000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -639,7 +626,7 @@
           "epochEndDate": 1562261280000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -693,7 +680,7 @@
           "epochEndDate": 1562261280000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -761,7 +748,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -815,7 +802,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -890,7 +877,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -958,7 +945,7 @@
           "epochEndDate": 1562265480000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
@@ -998,7 +985,7 @@
           "epochEndDate": 1562261280000,
           "messageId": "1003037",
           "statusType": "Issue",
-          "datePosted": "2019/07/07 17:00 JST",
+          "datePosted": "2019/07/07 22:43 JST",
           "startDate": "2019/07/05 00:51 JST",
           "endDate": "2019/07/05 06:32 JST",
           "affectedServices": [
