@@ -305,6 +305,25 @@
     },
     {
       "events": [
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1562807880000,
+          "epochEndDate": null,
+          "messageId": "2000365",
+          "statusType": "Outage",
+          "datePosted": "2019/07/12 04:21 JST",
+          "startDate": "2019/07/11 10:18 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "トランシーバーは一時的にご利用いただけません。"
+        }
+      ],
+      "serviceName": "トランシーバー",
+      "redirectUrl": null
+    },
+    {
+      "events": [
 
       ],
       "serviceName": "マップの経路案内とナビゲーション",
