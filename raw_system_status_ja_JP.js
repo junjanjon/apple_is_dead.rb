@@ -47,17 +47,17 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1563716400000,
-          "epochEndDate": null,
+          "epochEndDate": 1563747600000,
           "messageId": "1003057",
           "statusType": "Issue",
-          "datePosted": "2019/07/22 09:07 JST",
+          "datePosted": "2019/07/22 09:15 JST",
           "startDate": "2019/07/21 22:40 JST",
-          "endDate": null,
+          "endDate": "2019/07/22 07:20 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "Apple Payの一部のカード保有者は、Apple Payでカードの追加、停止、削除、または既存のカードの使用ができない場合があります。"
+          "eventStatus": "resolved",
+          "message": "Apple Payの一部のカード保有者は、Apple Payでカードの追加、停止、削除、または既存のカードの使用ができませんでした。"
         }
       ],
       "redirectUrl": "https://developer.apple.com/apple-pay/",
@@ -323,7 +323,7 @@
           "epochEndDate": null,
           "messageId": "2000365",
           "statusType": "Outage",
-          "datePosted": "2019/07/22 09:07 JST",
+          "datePosted": "2019/07/22 09:15 JST",
           "startDate": "2019/07/11 10:18 JST",
           "endDate": null,
           "affectedServices": null,
