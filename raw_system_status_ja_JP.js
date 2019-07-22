@@ -52,7 +52,7 @@
           "epochEndDate": 1563747600000,
           "messageId": "1003057",
           "statusType": "Issue",
-          "datePosted": "2019/07/23 02:32 JST",
+          "datePosted": "2019/07/23 04:10 JST",
           "startDate": "2019/07/21 22:40 JST",
           "endDate": "2019/07/22 07:20 JST",
           "affectedServices": null,
@@ -318,17 +318,17 @@
     {
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
+          "usersAffected": "すべてのユーザに影響しました",
           "epochStartDate": 1562807880000,
-          "epochEndDate": null,
+          "epochEndDate": 1563814800000,
           "messageId": "2000365",
           "statusType": "Outage",
-          "datePosted": "2019/07/23 02:32 JST",
+          "datePosted": "2019/07/23 04:10 JST",
           "startDate": "2019/07/11 10:18 JST",
-          "endDate": null,
+          "endDate": "2019/07/23 02:00 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "トランシーバーは一時的にご利用いただけません。"
+          "eventStatus": "resolved",
+          "message": "トランシーバーは一時的にご利用いただけませんでした。"
         }
       ],
       "redirectUrl": null,
