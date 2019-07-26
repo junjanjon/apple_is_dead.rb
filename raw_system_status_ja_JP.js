@@ -305,19 +305,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1562807880000,
-          "epochEndDate": 1563814800000,
-          "messageId": "2000365",
-          "statusType": "Outage",
-          "datePosted": "2019/07/25 17:00 JST",
-          "startDate": "2019/07/11 10:18 JST",
-          "endDate": "2019/07/23 02:00 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "トランシーバーは一時的にご利用いただけませんでした。"
-        }
+
       ],
       "serviceName": "トランシーバー",
       "redirectUrl": null
