@@ -123,7 +123,19 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1564416360000,
+          "epochEndDate": null,
+          "messageId": "2000369",
+          "statusType": "Issue",
+          "datePosted": "2019/07/30 02:15 JST",
+          "startDate": "2019/07/30 01:06 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "ユーザはiCloud.comのカレンダーWebアプリケーション、iCal、Outlook、またはiOSデバイスを使ってカレンダーにアクセスできない可能性があります。"
+        }
       ],
       "serviceName": "iCloudカレンダー",
       "redirectUrl": null
@@ -136,7 +148,7 @@
           "epochEndDate": 1564391040000,
           "messageId": "1003061",
           "statusType": "Issue",
-          "datePosted": "2019/07/29 18:16 JST",
+          "datePosted": "2019/07/30 02:15 JST",
           "startDate": "2019/07/29 16:29 JST",
           "endDate": "2019/07/29 18:04 JST",
           "affectedServices": [
@@ -174,7 +186,7 @@
           "epochEndDate": 1564391040000,
           "messageId": "1003061",
           "statusType": "Issue",
-          "datePosted": "2019/07/29 18:16 JST",
+          "datePosted": "2019/07/30 02:15 JST",
           "startDate": "2019/07/29 16:29 JST",
           "endDate": "2019/07/29 18:04 JST",
           "affectedServices": [
@@ -198,7 +210,7 @@
           "epochEndDate": 1564391040000,
           "messageId": "1003061",
           "statusType": "Issue",
-          "datePosted": "2019/07/29 18:16 JST",
+          "datePosted": "2019/07/30 02:15 JST",
           "startDate": "2019/07/29 16:29 JST",
           "endDate": "2019/07/29 18:04 JST",
           "affectedServices": [
@@ -355,7 +367,7 @@
           "epochEndDate": 1564391040000,
           "messageId": "1003061",
           "statusType": "Issue",
-          "datePosted": "2019/07/29 18:16 JST",
+          "datePosted": "2019/07/30 02:15 JST",
           "startDate": "2019/07/29 16:29 JST",
           "endDate": "2019/07/29 18:04 JST",
           "affectedServices": [
