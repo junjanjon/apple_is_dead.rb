@@ -124,17 +124,17 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1564416360000,
-          "epochEndDate": null,
+          "epochEndDate": 1564425540000,
           "messageId": "2000369",
           "statusType": "Issue",
-          "datePosted": "2019/07/30 02:15 JST",
+          "datePosted": "2019/07/30 03:48 JST",
           "startDate": "2019/07/30 01:06 JST",
-          "endDate": null,
+          "endDate": "2019/07/30 03:39 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "ユーザはiCloud.comのカレンダーWebアプリケーション、iCal、Outlook、またはiOSデバイスを使ってカレンダーにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "ユーザはiCloud.comのカレンダーWebアプリケーション、iCal、Outlook、またはiOSデバイスを使ってカレンダーにアクセスできなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudカレンダー",
@@ -148,7 +148,7 @@
           "epochEndDate": 1564391040000,
           "messageId": "1003061",
           "statusType": "Issue",
-          "datePosted": "2019/07/30 02:15 JST",
+          "datePosted": "2019/07/30 03:48 JST",
           "startDate": "2019/07/29 16:29 JST",
           "endDate": "2019/07/29 18:04 JST",
           "affectedServices": [
@@ -186,7 +186,7 @@
           "epochEndDate": 1564391040000,
           "messageId": "1003061",
           "statusType": "Issue",
-          "datePosted": "2019/07/30 02:15 JST",
+          "datePosted": "2019/07/30 03:48 JST",
           "startDate": "2019/07/29 16:29 JST",
           "endDate": "2019/07/29 18:04 JST",
           "affectedServices": [
@@ -210,7 +210,7 @@
           "epochEndDate": 1564391040000,
           "messageId": "1003061",
           "statusType": "Issue",
-          "datePosted": "2019/07/30 02:15 JST",
+          "datePosted": "2019/07/30 03:48 JST",
           "startDate": "2019/07/29 16:29 JST",
           "endDate": "2019/07/29 18:04 JST",
           "affectedServices": [
@@ -367,7 +367,7 @@
           "epochEndDate": 1564391040000,
           "messageId": "1003061",
           "statusType": "Issue",
-          "datePosted": "2019/07/30 02:15 JST",
+          "datePosted": "2019/07/30 03:48 JST",
           "startDate": "2019/07/29 16:29 JST",
           "endDate": "2019/07/29 18:04 JST",
           "affectedServices": [
