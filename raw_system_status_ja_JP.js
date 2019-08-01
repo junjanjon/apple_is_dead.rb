@@ -129,7 +129,7 @@
           "epochEndDate": 1564425540000,
           "messageId": "2000369",
           "statusType": "Issue",
-          "datePosted": "2019/08/01 03:03 JST",
+          "datePosted": "2019/08/01 12:15 JST",
           "startDate": "2019/07/30 01:06 JST",
           "endDate": "2019/07/30 03:39 JST",
           "affectedServices": null,
@@ -148,7 +148,7 @@
           "epochEndDate": 1564391040000,
           "messageId": "1003061",
           "statusType": "Issue",
-          "datePosted": "2019/08/01 03:03 JST",
+          "datePosted": "2019/08/01 12:15 JST",
           "startDate": "2019/07/29 16:29 JST",
           "endDate": "2019/07/29 18:04 JST",
           "affectedServices": [
@@ -186,7 +186,7 @@
           "epochEndDate": 1564391040000,
           "messageId": "1003061",
           "statusType": "Issue",
-          "datePosted": "2019/08/01 03:03 JST",
+          "datePosted": "2019/08/01 12:15 JST",
           "startDate": "2019/07/29 16:29 JST",
           "endDate": "2019/07/29 18:04 JST",
           "affectedServices": [
@@ -210,7 +210,7 @@
           "epochEndDate": 1564391040000,
           "messageId": "1003061",
           "statusType": "Issue",
-          "datePosted": "2019/08/01 03:03 JST",
+          "datePosted": "2019/08/01 12:15 JST",
           "startDate": "2019/07/29 16:29 JST",
           "endDate": "2019/07/29 18:04 JST",
           "affectedServices": [
@@ -360,7 +360,7 @@
           "epochEndDate": 1564592400000,
           "messageId": "2000372",
           "statusType": "Issue",
-          "datePosted": "2019/08/01 03:03 JST",
+          "datePosted": "2019/08/01 12:15 JST",
           "startDate": "2019/08/01 01:20 JST",
           "endDate": "2019/08/01 02:00 JST",
           "affectedServices": null,
@@ -379,7 +379,7 @@
           "epochEndDate": 1564391040000,
           "messageId": "1003061",
           "statusType": "Issue",
-          "datePosted": "2019/08/01 03:03 JST",
+          "datePosted": "2019/08/01 12:15 JST",
           "startDate": "2019/07/29 16:29 JST",
           "endDate": "2019/07/29 18:04 JST",
           "affectedServices": [
