@@ -130,7 +130,23 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1564741980000,
+          "epochEndDate": 1564745520000,
+          "messageId": "1003064",
+          "statusType": "Issue",
+          "datePosted": "2019/08/02 20:40 JST",
+          "startDate": "2019/08/02 19:33 JST",
+          "endDate": "2019/08/02 20:32 JST",
+          "affectedServices": [
+            "iCloudキーチェーン",
+            "iCloudブックマークおよびタブ",
+            "スクリーンタイム"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudキーチェーン"
@@ -151,7 +167,23 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1564741980000,
+          "epochEndDate": 1564745520000,
+          "messageId": "1003064",
+          "statusType": "Issue",
+          "datePosted": "2019/08/02 20:40 JST",
+          "startDate": "2019/08/02 19:33 JST",
+          "endDate": "2019/08/02 20:32 JST",
+          "affectedServices": [
+            "iCloudキーチェーン",
+            "iCloudブックマークおよびタブ",
+            "スクリーンタイム"
+          ],
+          "eventStatus": "resolved",
+          "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudブックマークおよびタブ"
@@ -297,7 +329,7 @@
           "epochEndDate": 1564592400000,
           "messageId": "2000372",
           "statusType": "Issue",
-          "datePosted": "2019/08/02 17:00 JST",
+          "datePosted": "2019/08/02 20:40 JST",
           "startDate": "2019/08/01 01:20 JST",
           "endDate": "2019/08/01 02:00 JST",
           "affectedServices": null,
@@ -310,7 +342,23 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1564741980000,
+          "epochEndDate": 1564745520000,
+          "messageId": "1003064",
+          "statusType": "Issue",
+          "datePosted": "2019/08/02 20:40 JST",
+          "startDate": "2019/08/02 19:33 JST",
+          "endDate": "2019/08/02 20:32 JST",
+          "affectedServices": [
+            "iCloudキーチェーン",
+            "iCloudブックマークおよびタブ",
+            "スクリーンタイム"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "スクリーンタイム"
