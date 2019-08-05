@@ -136,7 +136,7 @@
           "epochEndDate": 1564745520000,
           "messageId": "1003064",
           "statusType": "Issue",
-          "datePosted": "2019/08/04 17:00 JST",
+          "datePosted": "2019/08/05 17:00 JST",
           "startDate": "2019/08/02 19:33 JST",
           "endDate": "2019/08/02 20:32 JST",
           "affectedServices": [
@@ -173,7 +173,7 @@
           "epochEndDate": 1564745520000,
           "messageId": "1003064",
           "statusType": "Issue",
-          "datePosted": "2019/08/04 17:00 JST",
+          "datePosted": "2019/08/05 17:00 JST",
           "startDate": "2019/08/02 19:33 JST",
           "endDate": "2019/08/02 20:32 JST",
           "affectedServices": [
@@ -336,7 +336,7 @@
           "epochEndDate": 1564745520000,
           "messageId": "1003064",
           "statusType": "Issue",
-          "datePosted": "2019/08/04 17:00 JST",
+          "datePosted": "2019/08/05 17:00 JST",
           "startDate": "2019/08/02 19:33 JST",
           "endDate": "2019/08/02 20:32 JST",
           "affectedServices": [
