@@ -130,7 +130,24 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1565302380000,
+          "epochEndDate": null,
+          "messageId": "2000379",
+          "statusType": "Issue",
+          "datePosted": "2019/08/09 07:58 JST",
+          "startDate": "2019/08/09 07:13 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudキーチェーン",
+            "iCloudブックマークおよびタブ",
+            "iCloudメール",
+            "スクリーンタイム"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "iCloudキーチェーン",
       "redirectUrl": null
@@ -151,7 +168,24 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1565302380000,
+          "epochEndDate": null,
+          "messageId": "2000379",
+          "statusType": "Issue",
+          "datePosted": "2019/08/09 07:58 JST",
+          "startDate": "2019/08/09 07:13 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudキーチェーン",
+            "iCloudブックマークおよびタブ",
+            "iCloudメール",
+            "スクリーンタイム"
+          ],
+          "eventStatus": "ongoing",
+          "message": "最近行った変更はデバイス間で更新されない可能性があります。"
+        }
       ],
       "serviceName": "iCloudブックマークおよびタブ",
       "redirectUrl": null
@@ -159,12 +193,30 @@
     {
       "events": [
         {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1565302380000,
+          "epochEndDate": null,
+          "messageId": "2000379",
+          "statusType": "Issue",
+          "datePosted": "2019/08/09 07:58 JST",
+          "startDate": "2019/08/09 07:13 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudキーチェーン",
+            "iCloudブックマークおよびタブ",
+            "iCloudメール",
+            "スクリーンタイム"
+          ],
+          "eventStatus": "ongoing",
+          "message": "メールの送受信ができない可能性があります。"
+        },
+        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1565085600000,
           "epochEndDate": 1565126400000,
           "messageId": "2000376",
           "statusType": "Issue",
-          "datePosted": "2019/08/08 14:44 JST",
+          "datePosted": "2019/08/09 07:58 JST",
           "startDate": "2019/08/06 19:00 JST",
           "endDate": "2019/08/07 06:20 JST",
           "affectedServices": null,
@@ -310,7 +362,24 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1565302380000,
+          "epochEndDate": null,
+          "messageId": "2000379",
+          "statusType": "Issue",
+          "datePosted": "2019/08/09 07:58 JST",
+          "startDate": "2019/08/09 07:13 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudキーチェーン",
+            "iCloudブックマークおよびタブ",
+            "iCloudメール",
+            "スクリーンタイム"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "スクリーンタイム",
       "redirectUrl": null
