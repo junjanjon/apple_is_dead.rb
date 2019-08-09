@@ -1,39 +1,39 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "events": [
 
       ],
-      "serviceName": "App Store",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "App Store"
     },
     {
       "events": [
         {
-          "usersAffected": "5%未満のユーザに影響します",
+          "usersAffected": "5%未満のユーザに影響しました",
           "epochStartDate": 1565202600000,
-          "epochEndDate": null,
+          "epochEndDate": 1565315700000,
           "messageId": "1003076",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/08 03:30 JST",
-          "endDate": null,
+          "endDate": "2019/08/09 10:55 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
-      "serviceName": "Apple Books",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple Books"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple ID",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple ID"
     },
     {
       "events": [
@@ -43,7 +43,7 @@
           "epochEndDate": null,
           "messageId": "1003077",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 10:11 JST",
           "endDate": null,
           "affectedServices": [
@@ -56,36 +56,36 @@
           "message": "このサービスに関する問題が発生しています。問題について調査中です。"
         }
       ],
-      "serviceName": "Apple Music",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple Music"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple Musicの登録",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple Musicの登録"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple Online Store",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple Online Store"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple Pay",
-      "redirectUrl": "https://developer.apple.com/apple-pay/"
+      "redirectUrl": "https://developer.apple.com/apple-pay/",
+      "serviceName": "Apple Pay"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple School Manager",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple School Manager"
     },
     {
       "events": [
@@ -95,7 +95,7 @@
           "epochEndDate": null,
           "messageId": "1003077",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 10:11 JST",
           "endDate": null,
           "affectedServices": [
@@ -108,8 +108,8 @@
           "message": "このサービスに関する問題が発生している可能性があります。"
         }
       ],
-      "serviceName": "Apple TV",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple TV"
     },
     {
       "events": [
@@ -119,7 +119,7 @@
           "epochEndDate": null,
           "messageId": "1003077",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 10:11 JST",
           "endDate": null,
           "affectedServices": [
@@ -132,15 +132,15 @@
           "message": "一部のユーザは現在 Beats 1 ラジオ局にアクセスできません。"
         }
       ],
-      "serviceName": "Beats 1",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Beats 1"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Device Enrollment Program",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Device Enrollment Program"
     },
     {
       "events": [
@@ -150,7 +150,7 @@
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
@@ -169,22 +169,22 @@
           "message": "このサービスの動作速度が通常より低下している可能性があります。"
         }
       ],
-      "serviceName": "Documents in the Cloud",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Documents in the Cloud"
     },
     {
       "events": [
 
       ],
-      "serviceName": "FaceTime",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "FaceTime"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Game Center",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Game Center"
     },
     {
       "events": [
@@ -194,7 +194,7 @@
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
@@ -213,8 +213,8 @@
           "message": "このサービスの動作速度が通常より低下している可能性があります。"
         }
       ],
-      "serviceName": "iCloud Drive",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloud Drive"
     },
     {
       "events": [
@@ -224,7 +224,7 @@
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
@@ -243,22 +243,22 @@
           "message": "iCloud.comの複数のサービスの動作速度が低下している可能性があります。"
         }
       ],
-      "serviceName": "iCloud Web Apps (iCloud.com)",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloud Web Apps (iCloud.com)"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iCloudアカウントおよびサインイン",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudアカウントおよびサインイン"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iCloudカレンダー",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudカレンダー"
     },
     {
       "events": [
@@ -268,7 +268,7 @@
           "epochEndDate": 1565304900000,
           "messageId": "2000379",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 07:13 JST",
           "endDate": "2019/08/09 07:55 JST",
           "affectedServices": [
@@ -281,15 +281,15 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "serviceName": "iCloudキーチェーン",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudキーチェーン"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iCloudストレージアップグレード",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudストレージアップグレード"
     },
     {
       "events": [
@@ -299,7 +299,7 @@
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
@@ -318,8 +318,8 @@
           "message": "このサービスの動作速度が通常より低下している可能性があります。"
         }
       ],
-      "serviceName": "iCloudバックアップ",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudバックアップ"
     },
     {
       "events": [
@@ -329,7 +329,7 @@
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
@@ -353,7 +353,7 @@
           "epochEndDate": 1565304900000,
           "messageId": "2000379",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 07:13 JST",
           "endDate": "2019/08/09 07:55 JST",
           "affectedServices": [
@@ -366,8 +366,8 @@
           "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
         }
       ],
-      "serviceName": "iCloudブックマークおよびタブ",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudブックマークおよびタブ"
     },
     {
       "events": [
@@ -377,7 +377,7 @@
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
@@ -401,7 +401,7 @@
           "epochEndDate": 1565304900000,
           "messageId": "2000379",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 07:13 JST",
           "endDate": "2019/08/09 07:55 JST",
           "affectedServices": [
@@ -419,7 +419,7 @@
           "epochEndDate": 1565126400000,
           "messageId": "2000376",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/06 19:00 JST",
           "endDate": "2019/08/07 06:20 JST",
           "affectedServices": null,
@@ -427,8 +427,8 @@
           "message": "メールの受信に遅延が発生した可能性があります。"
         }
       ],
-      "serviceName": "iCloudメール",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudメール"
     },
     {
       "events": [
@@ -438,7 +438,7 @@
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
@@ -457,71 +457,71 @@
           "message": "このサービスの動作速度が通常より低下している可能性があります。"
         }
       ],
-      "serviceName": "iCloudメモ",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudメモ"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iCloudリマインダー",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudリマインダー"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iCloud連絡先",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloud連絡先"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iMessage",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iMessage"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iOSデバイスアクティベーション",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iOSデバイスアクティベーション"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iPhoneを探す",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iPhoneを探す"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iTunes in the Cloud",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iTunes in the Cloud"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iTunes Match",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iTunes Match"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iTunes Store",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iTunes Store"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iTunes U",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iTunes U"
     },
     {
       "events": [
@@ -531,7 +531,7 @@
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
@@ -550,22 +550,22 @@
           "message": "このサービスの動作速度が通常より低下している可能性があります。"
         }
       ],
-      "serviceName": "iWork for iCloud",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iWork for iCloud"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Mac App Store",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Mac App Store"
     },
     {
       "events": [
 
       ],
-      "serviceName": "macOSソフトウェアアップデート",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "macOSソフトウェアアップデート"
     },
     {
       "events": [
@@ -575,7 +575,7 @@
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
@@ -594,8 +594,8 @@
           "message": "このサービスの動作速度が通常より低下している可能性があります。"
         }
       ],
-      "serviceName": "Mail Drop",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Mail Drop"
     },
     {
       "events": [
@@ -605,7 +605,7 @@
           "epochEndDate": null,
           "messageId": "1003077",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 10:11 JST",
           "endDate": null,
           "affectedServices": [
@@ -618,36 +618,36 @@
           "message": "このサービスに関する問題が発生しています。問題について調査中です。"
         }
       ],
-      "serviceName": "Radio",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Radio"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Siri",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Siri"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Spotlightの検索候補",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Spotlightの検索候補"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Volume Purchase Program",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Volume Purchase Program"
     },
     {
       "events": [
 
       ],
-      "serviceName": "スクールワーク",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "スクールワーク"
     },
     {
       "events": [
@@ -657,7 +657,7 @@
           "epochEndDate": 1565304900000,
           "messageId": "2000379",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 07:13 JST",
           "endDate": "2019/08/09 07:55 JST",
           "affectedServices": [
@@ -670,43 +670,43 @@
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
-      "serviceName": "スクリーンタイム",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "スクリーンタイム"
     },
     {
       "events": [
 
       ],
-      "serviceName": "トランシーバー",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "トランシーバー"
     },
     {
       "events": [
 
       ],
-      "serviceName": "マップの経路案内とナビゲーション",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "マップの経路案内とナビゲーション"
     },
     {
       "events": [
 
       ],
-      "serviceName": "マップの検索",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "マップの検索"
     },
     {
       "events": [
 
       ],
-      "serviceName": "マップの表示",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "マップの表示"
     },
     {
       "events": [
 
       ],
-      "serviceName": "音声入力",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "音声入力"
     },
     {
       "events": [
@@ -716,7 +716,7 @@
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 12:00 JST",
+          "datePosted": "2019/08/09 12:29 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
@@ -735,15 +735,15 @@
           "message": "このサービスの動作速度が通常より低下している可能性があります。"
         }
       ],
-      "serviceName": "写真",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "写真"
     },
     {
       "events": [
 
       ],
-      "serviceName": "友達を探す",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "友達を探す"
     }
   ]
 }
