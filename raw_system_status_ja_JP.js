@@ -17,7 +17,7 @@
           "epochEndDate": null,
           "messageId": "1003076",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
+          "datePosted": "2019/08/09 12:00 JST",
           "startDate": "2019/08/08 03:30 JST",
           "endDate": null,
           "affectedServices": null,
@@ -43,7 +43,7 @@
           "epochEndDate": null,
           "messageId": "1003077",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
+          "datePosted": "2019/08/09 12:00 JST",
           "startDate": "2019/08/09 10:11 JST",
           "endDate": null,
           "affectedServices": [
@@ -95,7 +95,7 @@
           "epochEndDate": null,
           "messageId": "1003077",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
+          "datePosted": "2019/08/09 12:00 JST",
           "startDate": "2019/08/09 10:11 JST",
           "endDate": null,
           "affectedServices": [
@@ -119,7 +119,7 @@
           "epochEndDate": null,
           "messageId": "1003077",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
+          "datePosted": "2019/08/09 12:00 JST",
           "startDate": "2019/08/09 10:11 JST",
           "endDate": null,
           "affectedServices": [
@@ -146,12 +146,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1565312400000,
+          "epochStartDate": 1565300400000,
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
-          "startDate": "2019/08/09 10:00 JST",
+          "datePosted": "2019/08/09 12:00 JST",
+          "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
             "Documents in the Cloud",
@@ -190,12 +190,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1565312400000,
+          "epochStartDate": 1565300400000,
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
-          "startDate": "2019/08/09 10:00 JST",
+          "datePosted": "2019/08/09 12:00 JST",
+          "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
             "Documents in the Cloud",
@@ -220,12 +220,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1565312400000,
+          "epochStartDate": 1565300400000,
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
-          "startDate": "2019/08/09 10:00 JST",
+          "datePosted": "2019/08/09 12:00 JST",
+          "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
             "Documents in the Cloud",
@@ -268,7 +268,7 @@
           "epochEndDate": 1565304900000,
           "messageId": "2000379",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
+          "datePosted": "2019/08/09 12:00 JST",
           "startDate": "2019/08/09 07:13 JST",
           "endDate": "2019/08/09 07:55 JST",
           "affectedServices": [
@@ -295,12 +295,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1565312400000,
+          "epochStartDate": 1565300400000,
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
-          "startDate": "2019/08/09 10:00 JST",
+          "datePosted": "2019/08/09 12:00 JST",
+          "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
             "Documents in the Cloud",
@@ -325,12 +325,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1565312400000,
+          "epochStartDate": 1565300400000,
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
-          "startDate": "2019/08/09 10:00 JST",
+          "datePosted": "2019/08/09 12:00 JST",
+          "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
             "Documents in the Cloud",
@@ -353,7 +353,7 @@
           "epochEndDate": 1565304900000,
           "messageId": "2000379",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
+          "datePosted": "2019/08/09 12:00 JST",
           "startDate": "2019/08/09 07:13 JST",
           "endDate": "2019/08/09 07:55 JST",
           "affectedServices": [
@@ -373,12 +373,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1565312400000,
+          "epochStartDate": 1565300400000,
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
-          "startDate": "2019/08/09 10:00 JST",
+          "datePosted": "2019/08/09 12:00 JST",
+          "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
             "Documents in the Cloud",
@@ -401,7 +401,7 @@
           "epochEndDate": 1565304900000,
           "messageId": "2000379",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
+          "datePosted": "2019/08/09 12:00 JST",
           "startDate": "2019/08/09 07:13 JST",
           "endDate": "2019/08/09 07:55 JST",
           "affectedServices": [
@@ -419,7 +419,7 @@
           "epochEndDate": 1565126400000,
           "messageId": "2000376",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
+          "datePosted": "2019/08/09 12:00 JST",
           "startDate": "2019/08/06 19:00 JST",
           "endDate": "2019/08/07 06:20 JST",
           "affectedServices": null,
@@ -434,12 +434,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1565312400000,
+          "epochStartDate": 1565300400000,
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
-          "startDate": "2019/08/09 10:00 JST",
+          "datePosted": "2019/08/09 12:00 JST",
+          "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
             "Documents in the Cloud",
@@ -527,12 +527,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1565312400000,
+          "epochStartDate": 1565300400000,
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
-          "startDate": "2019/08/09 10:00 JST",
+          "datePosted": "2019/08/09 12:00 JST",
+          "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
             "Documents in the Cloud",
@@ -571,12 +571,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1565312400000,
+          "epochStartDate": 1565300400000,
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
-          "startDate": "2019/08/09 10:00 JST",
+          "datePosted": "2019/08/09 12:00 JST",
+          "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
             "Documents in the Cloud",
@@ -605,7 +605,7 @@
           "epochEndDate": null,
           "messageId": "1003077",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
+          "datePosted": "2019/08/09 12:00 JST",
           "startDate": "2019/08/09 10:11 JST",
           "endDate": null,
           "affectedServices": [
@@ -657,7 +657,7 @@
           "epochEndDate": 1565304900000,
           "messageId": "2000379",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
+          "datePosted": "2019/08/09 12:00 JST",
           "startDate": "2019/08/09 07:13 JST",
           "endDate": "2019/08/09 07:55 JST",
           "affectedServices": [
@@ -712,12 +712,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1565312400000,
+          "epochStartDate": 1565300400000,
           "epochEndDate": null,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 11:54 JST",
-          "startDate": "2019/08/09 10:00 JST",
+          "datePosted": "2019/08/09 12:00 JST",
+          "startDate": "2019/08/09 06:40 JST",
           "endDate": null,
           "affectedServices": [
             "Documents in the Cloud",
