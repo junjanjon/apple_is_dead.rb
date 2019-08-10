@@ -17,7 +17,7 @@
           "epochEndDate": 1565315700000,
           "messageId": "1003076",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/08 03:30 JST",
           "endDate": "2019/08/09 10:55 JST",
           "affectedServices": null,
@@ -43,7 +43,7 @@
           "epochEndDate": 1565319120000,
           "messageId": "1003077",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 10:11 JST",
           "endDate": "2019/08/09 11:52 JST",
           "affectedServices": [
@@ -95,7 +95,7 @@
           "epochEndDate": 1565319120000,
           "messageId": "1003077",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 10:11 JST",
           "endDate": "2019/08/09 11:52 JST",
           "affectedServices": [
@@ -119,7 +119,7 @@
           "epochEndDate": 1565319120000,
           "messageId": "1003077",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 10:11 JST",
           "endDate": "2019/08/09 11:52 JST",
           "affectedServices": [
@@ -150,7 +150,7 @@
           "epochEndDate": 1565321640000,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": "2019/08/09 12:34 JST",
           "affectedServices": [
@@ -194,7 +194,7 @@
           "epochEndDate": 1565321640000,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": "2019/08/09 12:34 JST",
           "affectedServices": [
@@ -224,7 +224,7 @@
           "epochEndDate": 1565321640000,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": "2019/08/09 12:34 JST",
           "affectedServices": [
@@ -268,7 +268,7 @@
           "epochEndDate": 1565304900000,
           "messageId": "2000379",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 07:13 JST",
           "endDate": "2019/08/09 07:55 JST",
           "affectedServices": [
@@ -299,7 +299,7 @@
           "epochEndDate": 1565321640000,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": "2019/08/09 12:34 JST",
           "affectedServices": [
@@ -325,11 +325,35 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1565300400000,
+          "epochEndDate": 1565321640000,
+          "messageId": "2000380",
+          "statusType": "Issue",
+          "datePosted": "2019/08/10 17:00 JST",
+          "startDate": "2019/08/09 06:40 JST",
+          "endDate": "2019/08/09 12:34 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1565302380000,
           "epochEndDate": 1565304900000,
           "messageId": "2000379",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 07:13 JST",
           "endDate": "2019/08/09 07:55 JST",
           "affectedServices": [
@@ -340,14 +364,20 @@
           ],
           "eventStatus": "resolved",
           "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
-        },
+        }
+      ],
+      "serviceName": "iCloudブックマークおよびタブ",
+      "redirectUrl": null
+    },
+    {
+      "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1565300400000,
           "epochEndDate": 1565321640000,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": "2019/08/09 12:34 JST",
           "affectedServices": [
@@ -364,25 +394,6 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスの動作速度が通常より低下した可能性があります。"
-        }
-      ],
-      "serviceName": "iCloudブックマークおよびタブ",
-      "redirectUrl": null
-    },
-    {
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1565085600000,
-          "epochEndDate": 1565126400000,
-          "messageId": "2000376",
-          "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
-          "startDate": "2019/08/06 19:00 JST",
-          "endDate": "2019/08/07 06:20 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "メールの受信に遅延が発生した可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -390,7 +401,7 @@
           "epochEndDate": 1565304900000,
           "messageId": "2000379",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 07:13 JST",
           "endDate": "2019/08/09 07:55 JST",
           "affectedServices": [
@@ -401,30 +412,6 @@
           ],
           "eventStatus": "resolved",
           "message": "メールの送受信ができなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1565300400000,
-          "epochEndDate": 1565321640000,
-          "messageId": "2000380",
-          "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
-          "startDate": "2019/08/09 06:40 JST",
-          "endDate": "2019/08/09 12:34 JST",
-          "affectedServices": [
-            "Documents in the Cloud",
-            "Mail Drop",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの動作速度が通常より低下した可能性があります。"
         }
       ],
       "serviceName": "iCloudメール",
@@ -438,7 +425,7 @@
           "epochEndDate": 1565321640000,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": "2019/08/09 12:34 JST",
           "affectedServices": [
@@ -531,7 +518,7 @@
           "epochEndDate": 1565321640000,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": "2019/08/09 12:34 JST",
           "affectedServices": [
@@ -575,7 +562,7 @@
           "epochEndDate": 1565321640000,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": "2019/08/09 12:34 JST",
           "affectedServices": [
@@ -605,7 +592,7 @@
           "epochEndDate": 1565319120000,
           "messageId": "1003077",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 10:11 JST",
           "endDate": "2019/08/09 11:52 JST",
           "affectedServices": [
@@ -657,7 +644,7 @@
           "epochEndDate": 1565304900000,
           "messageId": "2000379",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 07:13 JST",
           "endDate": "2019/08/09 07:55 JST",
           "affectedServices": [
@@ -716,7 +703,7 @@
           "epochEndDate": 1565321640000,
           "messageId": "2000380",
           "statusType": "Issue",
-          "datePosted": "2019/08/09 17:00 JST",
+          "datePosted": "2019/08/10 17:00 JST",
           "startDate": "2019/08/09 06:40 JST",
           "endDate": "2019/08/09 12:34 JST",
           "affectedServices": [
