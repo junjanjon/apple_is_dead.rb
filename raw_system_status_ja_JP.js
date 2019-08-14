@@ -158,44 +158,14 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1565485200000,
-          "epochEndDate": 1565494200000,
-          "messageId": "2000381",
-          "statusType": "Issue",
-          "datePosted": "2019/08/14 03:30 JST",
-          "startDate": "2019/08/11 10:00 JST",
-          "endDate": "2019/08/11 12:30 JST",
-          "affectedServices": [
-            "iCloudメモ",
-            "iCloudメール"
-          ],
-          "eventStatus": "resolved",
-          "message": "メールの送受信ができなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール",
       "redirectUrl": null
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1565485200000,
-          "epochEndDate": 1565494200000,
-          "messageId": "2000381",
-          "statusType": "Issue",
-          "datePosted": "2019/08/14 03:30 JST",
-          "startDate": "2019/08/11 10:00 JST",
-          "endDate": "2019/08/11 12:30 JST",
-          "affectedServices": [
-            "iCloudメモ",
-            "iCloudメール"
-          ],
-          "eventStatus": "resolved",
-          "message": "メモのオープンまたは保存ができなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメモ",
       "redirectUrl": null
@@ -327,7 +297,7 @@
           "epochEndDate": 1565720400000,
           "messageId": "1003078",
           "statusType": "Outage",
-          "datePosted": "2019/08/14 03:30 JST",
+          "datePosted": "2019/08/14 17:00 JST",
           "startDate": "2019/08/14 01:30 JST",
           "endDate": "2019/08/14 03:20 JST",
           "affectedServices": null,
