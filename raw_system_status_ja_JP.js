@@ -89,20 +89,20 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1565798700000,
-          "epochEndDate": null,
+          "epochEndDate": 1565806500000,
           "messageId": "1003079",
           "statusType": "Issue",
-          "datePosted": "2019/08/15 02:38 JST",
+          "datePosted": "2019/08/15 04:02 JST",
           "startDate": "2019/08/15 01:05 JST",
-          "endDate": null,
+          "endDate": "2019/08/15 03:15 JST",
           "affectedServices": [
             "FaceTime",
             "iMessage"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -202,20 +202,20 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1565798700000,
-          "epochEndDate": null,
+          "epochEndDate": 1565806500000,
           "messageId": "1003079",
           "statusType": "Issue",
-          "datePosted": "2019/08/15 02:38 JST",
+          "datePosted": "2019/08/15 04:02 JST",
           "startDate": "2019/08/15 01:05 JST",
-          "endDate": null,
+          "endDate": "2019/08/15 03:15 JST",
           "affectedServices": [
             "FaceTime",
             "iMessage"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -327,7 +327,7 @@
           "epochEndDate": 1565720400000,
           "messageId": "1003078",
           "statusType": "Outage",
-          "datePosted": "2019/08/15 02:38 JST",
+          "datePosted": "2019/08/15 04:02 JST",
           "startDate": "2019/08/14 01:30 JST",
           "endDate": "2019/08/14 03:20 JST",
           "affectedServices": null,
