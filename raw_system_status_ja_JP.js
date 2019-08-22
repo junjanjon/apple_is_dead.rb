@@ -5,22 +5,22 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1566455400000,
-          "epochEndDate": null,
+          "epochEndDate": 1566465900000,
           "messageId": "1003081",
           "statusType": "Issue",
-          "datePosted": "2019/08/22 16:53 JST",
+          "datePosted": "2019/08/22 19:38 JST",
           "startDate": "2019/08/22 15:30 JST",
-          "endDate": null,
+          "endDate": "2019/08/22 18:25 JST",
           "affectedServices": [
             "App Store",
             "Apple Music",
             "Mac App Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "serviceName": "App Store",
@@ -43,22 +43,22 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1566455400000,
-          "epochEndDate": null,
+          "epochEndDate": 1566465900000,
           "messageId": "1003081",
           "statusType": "Issue",
-          "datePosted": "2019/08/22 16:53 JST",
+          "datePosted": "2019/08/22 19:38 JST",
           "startDate": "2019/08/22 15:30 JST",
-          "endDate": null,
+          "endDate": "2019/08/22 18:25 JST",
           "affectedServices": [
             "App Store",
             "Apple Music",
             "Mac App Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "serviceName": "Apple Music",
@@ -256,22 +256,22 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1566455400000,
-          "epochEndDate": null,
+          "epochEndDate": 1566465900000,
           "messageId": "1003081",
           "statusType": "Issue",
-          "datePosted": "2019/08/22 16:53 JST",
+          "datePosted": "2019/08/22 19:38 JST",
           "startDate": "2019/08/22 15:30 JST",
-          "endDate": null,
+          "endDate": "2019/08/22 18:25 JST",
           "affectedServices": [
             "App Store",
             "Apple Music",
             "Mac App Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "serviceName": "iTunes Store",
@@ -294,22 +294,22 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1566455400000,
-          "epochEndDate": null,
+          "epochEndDate": 1566465900000,
           "messageId": "1003081",
           "statusType": "Issue",
-          "datePosted": "2019/08/22 16:53 JST",
+          "datePosted": "2019/08/22 19:38 JST",
           "startDate": "2019/08/22 15:30 JST",
-          "endDate": null,
+          "endDate": "2019/08/22 18:25 JST",
           "affectedServices": [
             "App Store",
             "Apple Music",
             "Mac App Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "serviceName": "Mac App Store",
