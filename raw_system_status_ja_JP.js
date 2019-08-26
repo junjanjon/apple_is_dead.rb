@@ -4,24 +4,7 @@
   "services": [
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1566455400000,
-          "epochEndDate": 1566465900000,
-          "messageId": "1003081",
-          "statusType": "Issue",
-          "datePosted": "2019/08/25 07:33 JST",
-          "startDate": "2019/08/22 15:30 JST",
-          "endDate": "2019/08/22 18:25 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Music",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "App Store"
@@ -42,24 +25,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1566455400000,
-          "epochEndDate": 1566465900000,
-          "messageId": "1003081",
-          "statusType": "Issue",
-          "datePosted": "2019/08/25 07:33 JST",
-          "startDate": "2019/08/22 15:30 JST",
-          "endDate": "2019/08/22 18:25 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Music",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Apple Music"
@@ -255,24 +221,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1566455400000,
-          "epochEndDate": 1566465900000,
-          "messageId": "1003081",
-          "statusType": "Issue",
-          "datePosted": "2019/08/25 07:33 JST",
-          "startDate": "2019/08/22 15:30 JST",
-          "endDate": "2019/08/22 18:25 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Music",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "iTunes Store"
@@ -293,24 +242,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1566455400000,
-          "epochEndDate": 1566465900000,
-          "messageId": "1003081",
-          "statusType": "Issue",
-          "datePosted": "2019/08/25 07:33 JST",
-          "startDate": "2019/08/22 15:30 JST",
-          "endDate": "2019/08/22 18:25 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Music",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Mac App Store"
