@@ -95,22 +95,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1566948120000,
-          "epochEndDate": 1566954000000,
-          "messageId": "2000383",
-          "statusType": "Issue",
-          "datePosted": "2019/08/30 21:25 JST",
-          "startDate": "2019/08/28 08:22 JST",
-          "endDate": "2019/08/28 10:00 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloudメール"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの動作速度が通常より低下した可能性があります。"
-        }
+
       ],
       "serviceName": "Game Center",
       "redirectUrl": null
@@ -151,7 +136,7 @@
           "epochEndDate": 1567162680000,
           "messageId": "1003085",
           "statusType": "Issue",
-          "datePosted": "2019/08/30 21:25 JST",
+          "datePosted": "2019/08/31 17:00 JST",
           "startDate": "2019/08/30 13:56 JST",
           "endDate": "2019/08/30 19:58 JST",
           "affectedServices": [
@@ -188,7 +173,7 @@
           "epochEndDate": 1567162680000,
           "messageId": "1003085",
           "statusType": "Issue",
-          "datePosted": "2019/08/30 21:25 JST",
+          "datePosted": "2019/08/31 17:00 JST",
           "startDate": "2019/08/30 13:56 JST",
           "endDate": "2019/08/30 19:58 JST",
           "affectedServices": [
@@ -205,22 +190,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1566948120000,
-          "epochEndDate": 1566954000000,
-          "messageId": "2000383",
-          "statusType": "Issue",
-          "datePosted": "2019/08/30 21:25 JST",
-          "startDate": "2019/08/28 08:22 JST",
-          "endDate": "2019/08/28 10:00 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloudメール"
-          ],
-          "eventStatus": "resolved",
-          "message": "メールの受信に遅延が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール",
       "redirectUrl": null
@@ -366,7 +336,7 @@
           "epochEndDate": 1567162680000,
           "messageId": "1003085",
           "statusType": "Issue",
-          "datePosted": "2019/08/30 21:25 JST",
+          "datePosted": "2019/08/31 17:00 JST",
           "startDate": "2019/08/30 13:56 JST",
           "endDate": "2019/08/30 19:58 JST",
           "affectedServices": [
