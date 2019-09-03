@@ -130,23 +130,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1567140960000,
-          "epochEndDate": 1567162680000,
-          "messageId": "1003085",
-          "statusType": "Issue",
-          "datePosted": "2019/09/02 18:22 JST",
-          "startDate": "2019/08/30 13:56 JST",
-          "endDate": "2019/08/30 19:58 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "スクリーンタイム"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの動作速度が通常より低下した可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "iCloudキーチェーン"
@@ -167,23 +151,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1567140960000,
-          "epochEndDate": 1567162680000,
-          "messageId": "1003085",
-          "statusType": "Issue",
-          "datePosted": "2019/09/02 18:22 JST",
-          "startDate": "2019/08/30 13:56 JST",
-          "endDate": "2019/08/30 19:58 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "スクリーンタイム"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの動作速度が通常より低下した可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "iCloudブックマークおよびタブ"
@@ -330,23 +298,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1567140960000,
-          "epochEndDate": 1567162680000,
-          "messageId": "1003085",
-          "statusType": "Issue",
-          "datePosted": "2019/09/02 18:22 JST",
-          "startDate": "2019/08/30 13:56 JST",
-          "endDate": "2019/08/30 19:58 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "スクリーンタイム"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの動作速度が通常より低下した可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "スクリーンタイム"
