@@ -96,14 +96,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -124,8 +124,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -133,7 +133,7 @@
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -157,7 +157,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -205,14 +205,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -233,8 +233,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -242,7 +242,7 @@
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -266,7 +266,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -300,14 +300,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -328,8 +328,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -337,7 +337,7 @@
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -361,7 +361,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -395,14 +395,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -423,8 +423,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -432,7 +432,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -466,14 +466,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -494,8 +494,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -503,7 +503,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -536,7 +536,7 @@
           "epochEndDate": 1569010800000,
           "messageId": "1003097",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/21 01:00 JST",
           "endDate": "2019/09/21 05:20 JST",
           "affectedServices": null,
@@ -550,14 +550,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -578,8 +578,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -587,7 +587,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -621,14 +621,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -649,8 +649,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -658,7 +658,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -692,14 +692,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -720,8 +720,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -729,7 +729,7 @@
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -753,7 +753,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -787,14 +787,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -815,8 +815,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -824,7 +824,7 @@
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -848,7 +848,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -882,14 +882,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -910,8 +910,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -919,7 +919,7 @@
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -943,7 +943,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -977,14 +977,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -1005,8 +1005,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -1014,7 +1014,7 @@
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -1038,7 +1038,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -1072,14 +1072,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -1100,8 +1100,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -1109,7 +1109,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -1143,14 +1143,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -1171,8 +1171,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -1180,7 +1180,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -1228,14 +1228,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -1256,8 +1256,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -1265,7 +1265,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -1327,14 +1327,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -1355,8 +1355,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -1364,7 +1364,7 @@
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -1388,7 +1388,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -1436,14 +1436,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -1464,8 +1464,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -1473,7 +1473,7 @@
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -1497,7 +1497,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -1608,14 +1608,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -1636,8 +1636,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -1645,7 +1645,7 @@
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -1669,7 +1669,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -1703,14 +1703,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569211260000,
-          "epochEndDate": null,
+          "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 13:01 JST",
-          "endDate": null,
+          "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
             "Documents in the Cloud",
             "Mail Drop",
@@ -1731,8 +1731,8 @@
             "写真",
             "友達を探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -1740,7 +1740,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 13:39 JST",
+          "datePosted": "2019/09/23 14:08 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
