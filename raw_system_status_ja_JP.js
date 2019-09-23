@@ -1,97 +1,97 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "events": [
 
       ],
-      "serviceName": "App Store",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "App Store"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple Arcade",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple Arcade"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple Books",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple Books"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple ID",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple ID"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple Music",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple Music"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple Musicの登録",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple Musicの登録"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple Online Store",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple Online Store"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple Pay",
-      "redirectUrl": "https://developer.apple.com/apple-pay/"
+      "redirectUrl": "https://developer.apple.com/apple-pay/",
+      "serviceName": "Apple Pay"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple School Manager",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple School Manager"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Apple TV",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Apple TV"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Appleでサインイン",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Appleでサインイン"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Beats 1",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Beats 1"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Device Enrollment Program",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Device Enrollment Program"
     },
     {
       "events": [
@@ -101,7 +101,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -129,44 +129,11 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569168000000,
-          "epochEndDate": 1569170700000,
-          "messageId": "1003098",
-          "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
-          "startDate": "2019/09/23 01:00 JST",
-          "endDate": "2019/09/23 01:45 JST",
-          "affectedServices": [
-            "Documents in the Cloud",
-            "Mail Drop",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "iCloud連絡先",
-            "iPhoneを探す",
-            "iWork for iCloud",
-            "どこでもMy Mac",
-            "写真",
-            "友達を探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569016800000,
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -183,24 +150,57 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1569168000000,
+          "epochEndDate": 1569170700000,
+          "messageId": "1003098",
+          "statusType": "Issue",
+          "datePosted": "2019/09/24 01:33 JST",
+          "startDate": "2019/09/23 01:00 JST",
+          "endDate": "2019/09/23 01:45 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iPhoneを探す",
+            "iWork for iCloud",
+            "どこでもMy Mac",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "Documents in the Cloud",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Documents in the Cloud"
     },
     {
       "events": [
 
       ],
-      "serviceName": "FaceTime",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "FaceTime"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Game Center",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Game Center"
     },
     {
       "events": [
@@ -210,7 +210,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -238,44 +238,11 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569168000000,
-          "epochEndDate": 1569170700000,
-          "messageId": "1003098",
-          "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
-          "startDate": "2019/09/23 01:00 JST",
-          "endDate": "2019/09/23 01:45 JST",
-          "affectedServices": [
-            "Documents in the Cloud",
-            "Mail Drop",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "iCloud連絡先",
-            "iPhoneを探す",
-            "iWork for iCloud",
-            "どこでもMy Mac",
-            "写真",
-            "友達を探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569016800000,
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -292,10 +259,43 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1569168000000,
+          "epochEndDate": 1569170700000,
+          "messageId": "1003098",
+          "statusType": "Issue",
+          "datePosted": "2019/09/24 01:33 JST",
+          "startDate": "2019/09/23 01:00 JST",
+          "endDate": "2019/09/23 01:45 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iPhoneを探す",
+            "iWork for iCloud",
+            "どこでもMy Mac",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iCloud Drive",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloud Drive"
     },
     {
       "events": [
@@ -305,7 +305,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -333,44 +333,11 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569168000000,
-          "epochEndDate": 1569170700000,
-          "messageId": "1003098",
-          "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
-          "startDate": "2019/09/23 01:00 JST",
-          "endDate": "2019/09/23 01:45 JST",
-          "affectedServices": [
-            "Documents in the Cloud",
-            "Mail Drop",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "iCloud連絡先",
-            "iPhoneを探す",
-            "iWork for iCloud",
-            "どこでもMy Mac",
-            "写真",
-            "友達を探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569016800000,
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -387,10 +354,43 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1569168000000,
+          "epochEndDate": 1569170700000,
+          "messageId": "1003098",
+          "statusType": "Issue",
+          "datePosted": "2019/09/24 01:33 JST",
+          "startDate": "2019/09/23 01:00 JST",
+          "endDate": "2019/09/23 01:45 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iPhoneを探す",
+            "iWork for iCloud",
+            "どこでもMy Mac",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iCloud Web Apps (iCloud.com)",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloud Web Apps (iCloud.com)"
     },
     {
       "events": [
@@ -400,7 +400,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -432,7 +432,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -460,23 +460,23 @@
           "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iCloudアカウントおよびサインイン",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudアカウントおよびサインイン"
     },
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569211260000,
-          "epochEndDate": 1569220860000,
-          "messageId": "2000396",
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1569254400000,
+          "epochEndDate": null,
+          "messageId": "1003101",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
-          "startDate": "2019/09/23 13:01 JST",
-          "endDate": "2019/09/23 15:41 JST",
+          "datePosted": "2019/09/24 01:33 JST",
+          "startDate": "2019/09/24 01:00 JST",
+          "endDate": null,
           "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -484,7 +484,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -504,39 +504,6 @@
             "iCloud連絡先",
             "iPhoneを探す",
             "iWork for iCloud",
-            "写真",
-            "友達を探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569168000000,
-          "epochEndDate": 1569170700000,
-          "messageId": "1003098",
-          "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
-          "startDate": "2019/09/23 01:00 JST",
-          "endDate": "2019/09/23 01:45 JST",
-          "affectedServices": [
-            "Documents in the Cloud",
-            "Mail Drop",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "iCloud連絡先",
-            "iPhoneを探す",
-            "iWork for iCloud",
-            "どこでもMy Mac",
             "写真",
             "友達を探す"
           ],
@@ -549,7 +516,7 @@
           "epochEndDate": 1569234900000,
           "messageId": "1003100",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 16:00 JST",
           "endDate": "2019/09/23 19:35 JST",
           "affectedServices": null,
@@ -562,16 +529,62 @@
           "epochEndDate": 1569010800000,
           "messageId": "1003097",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/21 01:00 JST",
           "endDate": "2019/09/21 05:20 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "このサービスを利用できなかった可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1569211260000,
+          "epochEndDate": 1569220860000,
+          "messageId": "2000396",
+          "statusType": "Issue",
+          "datePosted": "2019/09/24 01:33 JST",
+          "startDate": "2019/09/23 13:01 JST",
+          "endDate": "2019/09/23 15:41 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1569168000000,
+          "epochEndDate": 1569170700000,
+          "messageId": "1003098",
+          "statusType": "Issue",
+          "datePosted": "2019/09/24 01:33 JST",
+          "startDate": "2019/09/23 01:00 JST",
+          "endDate": "2019/09/23 01:45 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iPhoneを探す",
+            "iWork for iCloud",
+            "どこでもMy Mac",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iCloudカレンダー",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudカレンダー"
     },
     {
       "events": [
@@ -581,7 +594,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -613,7 +626,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -641,8 +654,8 @@
           "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iCloudキーチェーン",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudキーチェーン"
     },
     {
       "events": [
@@ -652,7 +665,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -684,7 +697,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -712,8 +725,8 @@
           "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iCloudストレージアップグレード",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudストレージアップグレード"
     },
     {
       "events": [
@@ -723,7 +736,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -743,39 +756,6 @@
             "iCloud連絡先",
             "iPhoneを探す",
             "iWork for iCloud",
-            "写真",
-            "友達を探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569168000000,
-          "epochEndDate": 1569170700000,
-          "messageId": "1003098",
-          "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
-          "startDate": "2019/09/23 01:00 JST",
-          "endDate": "2019/09/23 01:45 JST",
-          "affectedServices": [
-            "Documents in the Cloud",
-            "Mail Drop",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "iCloud連絡先",
-            "iPhoneを探す",
-            "iWork for iCloud",
-            "どこでもMy Mac",
             "写真",
             "友達を探す"
           ],
@@ -788,7 +768,7 @@
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -805,10 +785,43 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1569168000000,
+          "epochEndDate": 1569170700000,
+          "messageId": "1003098",
+          "statusType": "Issue",
+          "datePosted": "2019/09/24 01:33 JST",
+          "startDate": "2019/09/23 01:00 JST",
+          "endDate": "2019/09/23 01:45 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iPhoneを探す",
+            "iWork for iCloud",
+            "どこでもMy Mac",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iCloudバックアップ",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudバックアップ"
     },
     {
       "events": [
@@ -818,7 +831,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -846,44 +859,11 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569168000000,
-          "epochEndDate": 1569170700000,
-          "messageId": "1003098",
-          "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
-          "startDate": "2019/09/23 01:00 JST",
-          "endDate": "2019/09/23 01:45 JST",
-          "affectedServices": [
-            "Documents in the Cloud",
-            "Mail Drop",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "iCloud連絡先",
-            "iPhoneを探す",
-            "iWork for iCloud",
-            "どこでもMy Mac",
-            "写真",
-            "友達を探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569016800000,
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -900,10 +880,43 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1569168000000,
+          "epochEndDate": 1569170700000,
+          "messageId": "1003098",
+          "statusType": "Issue",
+          "datePosted": "2019/09/24 01:33 JST",
+          "startDate": "2019/09/23 01:00 JST",
+          "endDate": "2019/09/23 01:45 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iPhoneを探す",
+            "iWork for iCloud",
+            "どこでもMy Mac",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iCloudブックマークおよびタブ",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudブックマークおよびタブ"
     },
     {
       "events": [
@@ -913,7 +926,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -941,44 +954,11 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569168000000,
-          "epochEndDate": 1569170700000,
-          "messageId": "1003098",
-          "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
-          "startDate": "2019/09/23 01:00 JST",
-          "endDate": "2019/09/23 01:45 JST",
-          "affectedServices": [
-            "Documents in the Cloud",
-            "Mail Drop",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "iCloud連絡先",
-            "iPhoneを探す",
-            "iWork for iCloud",
-            "どこでもMy Mac",
-            "写真",
-            "友達を探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569016800000,
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -995,10 +975,43 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1569168000000,
+          "epochEndDate": 1569170700000,
+          "messageId": "1003098",
+          "statusType": "Issue",
+          "datePosted": "2019/09/24 01:33 JST",
+          "startDate": "2019/09/23 01:00 JST",
+          "endDate": "2019/09/23 01:45 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iPhoneを探す",
+            "iWork for iCloud",
+            "どこでもMy Mac",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iCloudメール",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudメール"
     },
     {
       "events": [
@@ -1008,7 +1021,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -1036,44 +1049,11 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569168000000,
-          "epochEndDate": 1569170700000,
-          "messageId": "1003098",
-          "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
-          "startDate": "2019/09/23 01:00 JST",
-          "endDate": "2019/09/23 01:45 JST",
-          "affectedServices": [
-            "Documents in the Cloud",
-            "Mail Drop",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "iCloud連絡先",
-            "iPhoneを探す",
-            "iWork for iCloud",
-            "どこでもMy Mac",
-            "写真",
-            "友達を探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569016800000,
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -1090,10 +1070,43 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1569168000000,
+          "epochEndDate": 1569170700000,
+          "messageId": "1003098",
+          "statusType": "Issue",
+          "datePosted": "2019/09/24 01:33 JST",
+          "startDate": "2019/09/23 01:00 JST",
+          "endDate": "2019/09/23 01:45 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iPhoneを探す",
+            "iWork for iCloud",
+            "どこでもMy Mac",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iCloudメモ",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudメモ"
     },
     {
       "events": [
@@ -1103,7 +1116,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -1135,7 +1148,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -1163,8 +1176,8 @@
           "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iCloudリマインダー",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloudリマインダー"
     },
     {
       "events": [
@@ -1174,7 +1187,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -1206,7 +1219,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -1234,22 +1247,22 @@
           "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iCloud連絡先",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iCloud連絡先"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iMessage",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iMessage"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iOSデバイスアクティベーション",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iOSデバイスアクティベーション"
     },
     {
       "events": [
@@ -1259,7 +1272,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -1291,7 +1304,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -1319,36 +1332,36 @@
           "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iPhoneを探す",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iPhoneを探す"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iTunes in the Cloud",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iTunes in the Cloud"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iTunes Match",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iTunes Match"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iTunes Store",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iTunes Store"
     },
     {
       "events": [
 
       ],
-      "serviceName": "iTunes U",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iTunes U"
     },
     {
       "events": [
@@ -1358,7 +1371,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -1378,39 +1391,6 @@
             "iCloud連絡先",
             "iPhoneを探す",
             "iWork for iCloud",
-            "写真",
-            "友達を探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569168000000,
-          "epochEndDate": 1569170700000,
-          "messageId": "1003098",
-          "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
-          "startDate": "2019/09/23 01:00 JST",
-          "endDate": "2019/09/23 01:45 JST",
-          "affectedServices": [
-            "Documents in the Cloud",
-            "Mail Drop",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "iCloud連絡先",
-            "iPhoneを探す",
-            "iWork for iCloud",
-            "どこでもMy Mac",
             "写真",
             "友達を探す"
           ],
@@ -1423,7 +1403,7 @@
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -1440,24 +1420,57 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1569168000000,
+          "epochEndDate": 1569170700000,
+          "messageId": "1003098",
+          "statusType": "Issue",
+          "datePosted": "2019/09/24 01:33 JST",
+          "startDate": "2019/09/23 01:00 JST",
+          "endDate": "2019/09/23 01:45 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iPhoneを探す",
+            "iWork for iCloud",
+            "どこでもMy Mac",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "iWork for iCloud",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "iWork for iCloud"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Mac App Store",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Mac App Store"
     },
     {
       "events": [
 
       ],
-      "serviceName": "macOSソフトウェアアップデート",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "macOSソフトウェアアップデート"
     },
     {
       "events": [
@@ -1467,7 +1480,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -1495,44 +1508,11 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569168000000,
-          "epochEndDate": 1569170700000,
-          "messageId": "1003098",
-          "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
-          "startDate": "2019/09/23 01:00 JST",
-          "endDate": "2019/09/23 01:45 JST",
-          "affectedServices": [
-            "Documents in the Cloud",
-            "Mail Drop",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "iCloud連絡先",
-            "iPhoneを探す",
-            "iWork for iCloud",
-            "どこでもMy Mac",
-            "写真",
-            "友達を探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569016800000,
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -1549,87 +1529,120 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1569168000000,
+          "epochEndDate": 1569170700000,
+          "messageId": "1003098",
+          "statusType": "Issue",
+          "datePosted": "2019/09/24 01:33 JST",
+          "startDate": "2019/09/23 01:00 JST",
+          "endDate": "2019/09/23 01:45 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iPhoneを探す",
+            "iWork for iCloud",
+            "どこでもMy Mac",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "Mail Drop",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Mail Drop"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Radio",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Radio"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Siri",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Siri"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Spotlightの検索候補",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Spotlightの検索候補"
     },
     {
       "events": [
 
       ],
-      "serviceName": "Volume Purchase Program",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "Volume Purchase Program"
     },
     {
       "events": [
 
       ],
-      "serviceName": "スクールワーク",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "スクールワーク"
     },
     {
       "events": [
 
       ],
-      "serviceName": "スクリーンタイム",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "スクリーンタイム"
     },
     {
       "events": [
 
       ],
-      "serviceName": "トランシーバー",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "トランシーバー"
     },
     {
       "events": [
 
       ],
-      "serviceName": "マップの経路案内とナビゲーション",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "マップの経路案内とナビゲーション"
     },
     {
       "events": [
 
       ],
-      "serviceName": "マップの検索",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "マップの検索"
     },
     {
       "events": [
 
       ],
-      "serviceName": "マップの表示",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "マップの表示"
     },
     {
       "events": [
 
       ],
-      "serviceName": "音声入力",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "音声入力"
     },
     {
       "events": [
@@ -1639,7 +1652,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -1667,44 +1680,11 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569168000000,
-          "epochEndDate": 1569170700000,
-          "messageId": "1003098",
-          "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
-          "startDate": "2019/09/23 01:00 JST",
-          "endDate": "2019/09/23 01:45 JST",
-          "affectedServices": [
-            "Documents in the Cloud",
-            "Mail Drop",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "iCloud連絡先",
-            "iPhoneを探す",
-            "iWork for iCloud",
-            "どこでもMy Mac",
-            "写真",
-            "友達を探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1569016800000,
           "epochEndDate": 1569027660000,
           "messageId": "2000395",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/21 07:00 JST",
           "endDate": "2019/09/21 10:01 JST",
           "affectedServices": [
@@ -1721,10 +1701,43 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1569168000000,
+          "epochEndDate": 1569170700000,
+          "messageId": "1003098",
+          "statusType": "Issue",
+          "datePosted": "2019/09/24 01:33 JST",
+          "startDate": "2019/09/23 01:00 JST",
+          "endDate": "2019/09/23 01:45 JST",
+          "affectedServices": [
+            "Documents in the Cloud",
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iPhoneを探す",
+            "iWork for iCloud",
+            "どこでもMy Mac",
+            "写真",
+            "友達を探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "写真",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "写真"
     },
     {
       "events": [
@@ -1734,7 +1747,7 @@
           "epochEndDate": 1569215220000,
           "messageId": "1003099",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 13:01 JST",
           "endDate": "2019/09/23 14:07 JST",
           "affectedServices": [
@@ -1766,7 +1779,7 @@
           "epochEndDate": 1569170700000,
           "messageId": "1003098",
           "statusType": "Issue",
-          "datePosted": "2019/09/23 20:01 JST",
+          "datePosted": "2019/09/24 01:33 JST",
           "startDate": "2019/09/23 01:00 JST",
           "endDate": "2019/09/23 01:45 JST",
           "affectedServices": [
@@ -1794,8 +1807,8 @@
           "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
-      "serviceName": "友達を探す",
-      "redirectUrl": null
+      "redirectUrl": null,
+      "serviceName": "友達を探す"
     }
   ]
 }
