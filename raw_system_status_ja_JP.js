@@ -4,23 +4,7 @@
   "services": [
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569582900000,
-          "epochEndDate": 1569599100000,
-          "messageId": "2000397",
-          "statusType": "Issue",
-          "datePosted": "2019/09/29 17:00 JST",
-          "startDate": "2019/09/27 20:15 JST",
-          "endDate": "2019/09/28 00:45 JST",
-          "affectedServices": [
-            "App Store",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "iTune Store、Mac App Store、または App Store で購入できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "App Store",
       "redirectUrl": null
@@ -244,23 +228,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569582900000,
-          "epochEndDate": 1569599100000,
-          "messageId": "2000397",
-          "statusType": "Issue",
-          "datePosted": "2019/09/29 17:00 JST",
-          "startDate": "2019/09/27 20:15 JST",
-          "endDate": "2019/09/28 00:45 JST",
-          "affectedServices": [
-            "App Store",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "App Store、iTunes Store、Mac App Store、あるいはApple Booksから購入できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iTunes Store",
       "redirectUrl": null
@@ -281,23 +249,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1569582900000,
-          "epochEndDate": 1569599100000,
-          "messageId": "2000397",
-          "statusType": "Issue",
-          "datePosted": "2019/09/29 17:00 JST",
-          "startDate": "2019/09/27 20:15 JST",
-          "endDate": "2019/09/28 00:45 JST",
-          "affectedServices": [
-            "App Store",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "iTune Store、Mac App Store、または App Store で購入できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Mac App Store",
       "redirectUrl": null
