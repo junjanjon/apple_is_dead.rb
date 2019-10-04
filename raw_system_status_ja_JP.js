@@ -16,7 +16,7 @@
           "epochEndDate": null,
           "messageId": "1003117",
           "statusType": "Issue",
-          "datePosted": "2019/10/05 07:53 JST",
+          "datePosted": "2019/10/05 08:01 JST",
           "message": "このサービスに関して一時的に問題が発生している可能性があります。"
         }
       ]
@@ -131,8 +131,8 @@
       "redirectUrl": null,
       "events": [
         {
-          "startDate": "2019/10/03 09:05 JST",
-          "endDate": "2019/10/03 09:55 JST",
+          "startDate": "2019/10/05 06:07 JST",
+          "endDate": "2019/10/05 07:00 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -149,19 +149,13 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1570061100000,
-          "epochEndDate": 1570064100000,
-          "messageId": "2000398",
+          "epochStartDate": 1570223220000,
+          "epochEndDate": 1570226400000,
+          "messageId": "2000399",
           "statusType": "Issue",
-          "datePosted": "2019/10/05 07:53 JST",
+          "datePosted": "2019/10/05 08:01 JST",
           "message": "このサービスに関する問題が発生しました。"
-        }
-      ]
-    },
-    {
-      "serviceName": "iCloud Web Apps (iCloud.com)",
-      "redirectUrl": null,
-      "events": [
+        },
         {
           "startDate": "2019/10/03 09:05 JST",
           "endDate": "2019/10/03 09:55 JST",
@@ -185,7 +179,65 @@
           "epochEndDate": 1570064100000,
           "messageId": "2000398",
           "statusType": "Issue",
-          "datePosted": "2019/10/05 07:53 JST",
+          "datePosted": "2019/10/05 08:01 JST",
+          "message": "このサービスに関する問題が発生しました。"
+        }
+      ]
+    },
+    {
+      "serviceName": "iCloud Web Apps (iCloud.com)",
+      "redirectUrl": null,
+      "events": [
+        {
+          "startDate": "2019/10/05 06:07 JST",
+          "endDate": "2019/10/05 07:00 JST",
+          "affectedServices": [
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iWork for iCloud",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570223220000,
+          "epochEndDate": 1570226400000,
+          "messageId": "2000399",
+          "statusType": "Issue",
+          "datePosted": "2019/10/05 08:01 JST",
+          "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "startDate": "2019/10/03 09:05 JST",
+          "endDate": "2019/10/03 09:55 JST",
+          "affectedServices": [
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iWork for iCloud",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570061100000,
+          "epochEndDate": 1570064100000,
+          "messageId": "2000398",
+          "statusType": "Issue",
+          "datePosted": "2019/10/05 08:01 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -209,6 +261,32 @@
       "redirectUrl": null,
       "events": [
         {
+          "startDate": "2019/10/05 06:07 JST",
+          "endDate": "2019/10/05 07:00 JST",
+          "affectedServices": [
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iWork for iCloud",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570223220000,
+          "epochEndDate": 1570226400000,
+          "messageId": "2000399",
+          "statusType": "Issue",
+          "datePosted": "2019/10/05 08:01 JST",
+          "message": "このサービスに関する問題が発生しました。"
+        },
+        {
           "startDate": "2019/10/03 09:05 JST",
           "endDate": "2019/10/03 09:55 JST",
           "affectedServices": [
@@ -231,7 +309,7 @@
           "epochEndDate": 1570064100000,
           "messageId": "2000398",
           "statusType": "Issue",
-          "datePosted": "2019/10/05 07:53 JST",
+          "datePosted": "2019/10/05 08:01 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -248,6 +326,32 @@
       "redirectUrl": null,
       "events": [
         {
+          "startDate": "2019/10/05 06:07 JST",
+          "endDate": "2019/10/05 07:00 JST",
+          "affectedServices": [
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iWork for iCloud",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570223220000,
+          "epochEndDate": 1570226400000,
+          "messageId": "2000399",
+          "statusType": "Issue",
+          "datePosted": "2019/10/05 08:01 JST",
+          "message": "このサービスに関する問題が発生しました。"
+        },
+        {
           "startDate": "2019/10/03 09:05 JST",
           "endDate": "2019/10/03 09:55 JST",
           "affectedServices": [
@@ -270,7 +374,7 @@
           "epochEndDate": 1570064100000,
           "messageId": "2000398",
           "statusType": "Issue",
-          "datePosted": "2019/10/05 07:53 JST",
+          "datePosted": "2019/10/05 08:01 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -280,6 +384,32 @@
       "redirectUrl": null,
       "events": [
         {
+          "startDate": "2019/10/05 06:07 JST",
+          "endDate": "2019/10/05 07:00 JST",
+          "affectedServices": [
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iWork for iCloud",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570223220000,
+          "epochEndDate": 1570226400000,
+          "messageId": "2000399",
+          "statusType": "Issue",
+          "datePosted": "2019/10/05 08:01 JST",
+          "message": "このサービスに関する問題が発生しました。"
+        },
+        {
           "startDate": "2019/10/03 09:05 JST",
           "endDate": "2019/10/03 09:55 JST",
           "affectedServices": [
@@ -302,7 +432,7 @@
           "epochEndDate": 1570064100000,
           "messageId": "2000398",
           "statusType": "Issue",
-          "datePosted": "2019/10/05 07:53 JST",
+          "datePosted": "2019/10/05 08:01 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -312,6 +442,32 @@
       "redirectUrl": null,
       "events": [
         {
+          "startDate": "2019/10/05 06:07 JST",
+          "endDate": "2019/10/05 07:00 JST",
+          "affectedServices": [
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iWork for iCloud",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570223220000,
+          "epochEndDate": 1570226400000,
+          "messageId": "2000399",
+          "statusType": "Issue",
+          "datePosted": "2019/10/05 08:01 JST",
+          "message": "このサービスに関する問題が発生しました。"
+        },
+        {
           "startDate": "2019/10/03 09:05 JST",
           "endDate": "2019/10/03 09:55 JST",
           "affectedServices": [
@@ -334,7 +490,7 @@
           "epochEndDate": 1570064100000,
           "messageId": "2000398",
           "statusType": "Issue",
-          "datePosted": "2019/10/05 07:53 JST",
+          "datePosted": "2019/10/05 08:01 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -344,8 +500,8 @@
       "redirectUrl": null,
       "events": [
         {
-          "startDate": "2019/10/03 09:05 JST",
-          "endDate": "2019/10/03 09:55 JST",
+          "startDate": "2019/10/05 06:07 JST",
+          "endDate": "2019/10/05 07:00 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -362,19 +518,13 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1570061100000,
-          "epochEndDate": 1570064100000,
-          "messageId": "2000398",
+          "epochStartDate": 1570223220000,
+          "epochEndDate": 1570226400000,
+          "messageId": "2000399",
           "statusType": "Issue",
-          "datePosted": "2019/10/05 07:53 JST",
+          "datePosted": "2019/10/05 08:01 JST",
           "message": "このサービスに関する問題が発生しました。"
-        }
-      ]
-    },
-    {
-      "serviceName": "iCloudリマインダー",
-      "redirectUrl": null,
-      "events": [
+        },
         {
           "startDate": "2019/10/03 09:05 JST",
           "endDate": "2019/10/03 09:55 JST",
@@ -398,7 +548,65 @@
           "epochEndDate": 1570064100000,
           "messageId": "2000398",
           "statusType": "Issue",
-          "datePosted": "2019/10/05 07:53 JST",
+          "datePosted": "2019/10/05 08:01 JST",
+          "message": "このサービスに関する問題が発生しました。"
+        }
+      ]
+    },
+    {
+      "serviceName": "iCloudリマインダー",
+      "redirectUrl": null,
+      "events": [
+        {
+          "startDate": "2019/10/05 06:07 JST",
+          "endDate": "2019/10/05 07:00 JST",
+          "affectedServices": [
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iWork for iCloud",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570223220000,
+          "epochEndDate": 1570226400000,
+          "messageId": "2000399",
+          "statusType": "Issue",
+          "datePosted": "2019/10/05 08:01 JST",
+          "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "startDate": "2019/10/03 09:05 JST",
+          "endDate": "2019/10/03 09:55 JST",
+          "affectedServices": [
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iWork for iCloud",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570061100000,
+          "epochEndDate": 1570064100000,
+          "messageId": "2000398",
+          "statusType": "Issue",
+          "datePosted": "2019/10/05 08:01 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -457,8 +665,8 @@
       "redirectUrl": null,
       "events": [
         {
-          "startDate": "2019/10/03 09:05 JST",
-          "endDate": "2019/10/03 09:55 JST",
+          "startDate": "2019/10/05 06:07 JST",
+          "endDate": "2019/10/05 07:00 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -475,33 +683,13 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1570061100000,
-          "epochEndDate": 1570064100000,
-          "messageId": "2000398",
+          "epochStartDate": 1570223220000,
+          "epochEndDate": 1570226400000,
+          "messageId": "2000399",
           "statusType": "Issue",
-          "datePosted": "2019/10/05 07:53 JST",
+          "datePosted": "2019/10/05 08:01 JST",
           "message": "このサービスに関する問題が発生しました。"
-        }
-      ]
-    },
-    {
-      "serviceName": "Mac App Store",
-      "redirectUrl": null,
-      "events": [
-
-      ]
-    },
-    {
-      "serviceName": "macOSソフトウェアアップデート",
-      "redirectUrl": null,
-      "events": [
-
-      ]
-    },
-    {
-      "serviceName": "Mail Drop",
-      "redirectUrl": null,
-      "events": [
+        },
         {
           "startDate": "2019/10/03 09:05 JST",
           "endDate": "2019/10/03 09:55 JST",
@@ -525,7 +713,79 @@
           "epochEndDate": 1570064100000,
           "messageId": "2000398",
           "statusType": "Issue",
-          "datePosted": "2019/10/05 07:53 JST",
+          "datePosted": "2019/10/05 08:01 JST",
+          "message": "このサービスに関する問題が発生しました。"
+        }
+      ]
+    },
+    {
+      "serviceName": "Mac App Store",
+      "redirectUrl": null,
+      "events": [
+
+      ]
+    },
+    {
+      "serviceName": "macOSソフトウェアアップデート",
+      "redirectUrl": null,
+      "events": [
+
+      ]
+    },
+    {
+      "serviceName": "Mail Drop",
+      "redirectUrl": null,
+      "events": [
+        {
+          "startDate": "2019/10/05 06:07 JST",
+          "endDate": "2019/10/05 07:00 JST",
+          "affectedServices": [
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iWork for iCloud",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570223220000,
+          "epochEndDate": 1570226400000,
+          "messageId": "2000399",
+          "statusType": "Issue",
+          "datePosted": "2019/10/05 08:01 JST",
+          "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "startDate": "2019/10/03 09:05 JST",
+          "endDate": "2019/10/03 09:55 JST",
+          "affectedServices": [
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iWork for iCloud",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570061100000,
+          "epochEndDate": 1570064100000,
+          "messageId": "2000398",
+          "statusType": "Issue",
+          "datePosted": "2019/10/05 08:01 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -570,6 +830,32 @@
       "redirectUrl": null,
       "events": [
         {
+          "startDate": "2019/10/05 06:07 JST",
+          "endDate": "2019/10/05 07:00 JST",
+          "affectedServices": [
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iWork for iCloud",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570223220000,
+          "epochEndDate": 1570226400000,
+          "messageId": "2000399",
+          "statusType": "Issue",
+          "datePosted": "2019/10/05 08:01 JST",
+          "message": "このサービスに関する問題が発生しました。"
+        },
+        {
           "startDate": "2019/10/03 09:05 JST",
           "endDate": "2019/10/03 09:55 JST",
           "affectedServices": [
@@ -592,7 +878,7 @@
           "epochEndDate": 1570064100000,
           "messageId": "2000398",
           "statusType": "Issue",
-          "datePosted": "2019/10/05 07:53 JST",
+          "datePosted": "2019/10/05 08:01 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -644,6 +930,32 @@
       "redirectUrl": null,
       "events": [
         {
+          "startDate": "2019/10/05 06:07 JST",
+          "endDate": "2019/10/05 07:00 JST",
+          "affectedServices": [
+            "Mail Drop",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iWork for iCloud",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570223220000,
+          "epochEndDate": 1570226400000,
+          "messageId": "2000399",
+          "statusType": "Issue",
+          "datePosted": "2019/10/05 08:01 JST",
+          "message": "このサービスに関する問題が発生しました。"
+        },
+        {
           "startDate": "2019/10/03 09:05 JST",
           "endDate": "2019/10/03 09:55 JST",
           "affectedServices": [
@@ -666,7 +978,7 @@
           "epochEndDate": 1570064100000,
           "messageId": "2000398",
           "statusType": "Issue",
-          "datePosted": "2019/10/05 07:53 JST",
+          "datePosted": "2019/10/05 08:01 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
