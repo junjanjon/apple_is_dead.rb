@@ -6,7 +6,22 @@
       "serviceName": "App Store",
       "redirectUrl": null,
       "events": [
-
+        {
+          "epochStartDate": 1570550160000,
+          "epochEndDate": null,
+          "messageId": "1003136",
+          "statusType": "Issue",
+          "datePosted": "2019/10/09 02:39 JST",
+          "startDate": "2019/10/09 00:56 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "usersAffected": "一部のユーザに影響します",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ]
     },
     {
@@ -230,7 +245,22 @@
       "serviceName": "iTunes Store",
       "redirectUrl": null,
       "events": [
-
+        {
+          "epochStartDate": 1570550160000,
+          "epochEndDate": null,
+          "messageId": "1003136",
+          "statusType": "Issue",
+          "datePosted": "2019/10/09 02:39 JST",
+          "startDate": "2019/10/09 00:56 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "usersAffected": "一部のユーザに影響します",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ]
     },
     {
