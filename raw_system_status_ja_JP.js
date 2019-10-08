@@ -7,20 +7,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "epochStartDate": 1570550160000,
-          "epochEndDate": null,
-          "messageId": "1003136",
-          "statusType": "Issue",
-          "datePosted": "2019/10/09 02:39 JST",
-          "startDate": "2019/10/09 00:56 JST",
-          "endDate": null,
+          "startDate": "2019/10/08 21:00 JST",
+          "endDate": "2019/10/09 00:45 JST",
           "affectedServices": [
             "App Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570536000000,
+          "epochEndDate": 1570549500000,
+          "messageId": "1003136",
+          "statusType": "Issue",
+          "datePosted": "2019/10/09 04:22 JST",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
     },
@@ -246,20 +246,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "epochStartDate": 1570550160000,
-          "epochEndDate": null,
-          "messageId": "1003136",
-          "statusType": "Issue",
-          "datePosted": "2019/10/09 02:39 JST",
-          "startDate": "2019/10/09 00:56 JST",
-          "endDate": null,
+          "startDate": "2019/10/08 21:00 JST",
+          "endDate": "2019/10/09 00:45 JST",
           "affectedServices": [
             "App Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1570536000000,
+          "epochEndDate": 1570549500000,
+          "messageId": "1003136",
+          "statusType": "Issue",
+          "datePosted": "2019/10/09 04:22 JST",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
     },
