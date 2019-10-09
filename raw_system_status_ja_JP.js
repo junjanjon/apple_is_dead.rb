@@ -19,7 +19,7 @@
           "epochEndDate": 1570549500000,
           "messageId": "1003136",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -135,7 +135,7 @@
       "events": [
         {
           "startDate": "2019/10/09 17:15 JST",
-          "endDate": null,
+          "endDate": "2019/10/09 18:54 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -150,14 +150,14 @@
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1570608900000,
-          "epochEndDate": null,
+          "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
-          "message": "このサービスの動作速度が通常より低下している可能性があります。"
+          "datePosted": "2019/10/09 19:23 JST",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
         },
         {
           "startDate": "2019/10/09 05:37 JST",
@@ -182,7 +182,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         }
       ]
@@ -193,7 +193,7 @@
       "events": [
         {
           "startDate": "2019/10/09 17:15 JST",
-          "endDate": null,
+          "endDate": "2019/10/09 18:54 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -208,14 +208,14 @@
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1570608900000,
-          "epochEndDate": null,
+          "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "datePosted": "2019/10/09 19:23 JST",
+          "message": "このサービスに関する問題が発生しました。"
         },
         {
           "startDate": "2019/10/09 05:37 JST",
@@ -240,7 +240,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "iCloud.comで複数のサービスを使用できなかった可能性があります。"
         }
       ]
@@ -265,7 +265,7 @@
       "events": [
         {
           "startDate": "2019/10/09 17:15 JST",
-          "endDate": null,
+          "endDate": "2019/10/09 18:54 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -280,14 +280,14 @@
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1570608900000,
-          "epochEndDate": null,
+          "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "datePosted": "2019/10/09 19:23 JST",
+          "message": "このサービスに関する問題が発生しました。"
         },
         {
           "startDate": "2019/10/09 05:37 JST",
@@ -312,7 +312,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -330,7 +330,7 @@
       "events": [
         {
           "startDate": "2019/10/09 17:15 JST",
-          "endDate": null,
+          "endDate": "2019/10/09 18:54 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -345,14 +345,14 @@
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1570608900000,
-          "epochEndDate": null,
+          "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "datePosted": "2019/10/09 19:23 JST",
+          "message": "このサービスに関する問題が発生しました。"
         },
         {
           "startDate": "2019/10/09 05:37 JST",
@@ -377,7 +377,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
         }
       ]
@@ -388,7 +388,7 @@
       "events": [
         {
           "startDate": "2019/10/09 17:15 JST",
-          "endDate": null,
+          "endDate": "2019/10/09 18:54 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -403,14 +403,14 @@
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1570608900000,
-          "epochEndDate": null,
+          "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "datePosted": "2019/10/09 19:23 JST",
+          "message": "このサービスに関する問題が発生しました。"
         },
         {
           "startDate": "2019/10/09 05:37 JST",
@@ -435,7 +435,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
         }
       ]
@@ -446,7 +446,7 @@
       "events": [
         {
           "startDate": "2019/10/09 17:15 JST",
-          "endDate": null,
+          "endDate": "2019/10/09 18:54 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -461,14 +461,14 @@
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1570608900000,
-          "epochEndDate": null,
+          "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "datePosted": "2019/10/09 19:23 JST",
+          "message": "このサービスに関する問題が発生しました。"
         },
         {
           "startDate": "2019/10/09 05:37 JST",
@@ -493,7 +493,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "メールの送受信ができなかった可能性があります。"
         }
       ]
@@ -504,7 +504,7 @@
       "events": [
         {
           "startDate": "2019/10/09 17:15 JST",
-          "endDate": null,
+          "endDate": "2019/10/09 18:54 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -519,14 +519,14 @@
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1570608900000,
-          "epochEndDate": null,
+          "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
-          "message": "このサービスの動作速度が通常より低下している可能性があります。"
+          "datePosted": "2019/10/09 19:23 JST",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
         },
         {
           "startDate": "2019/10/09 05:37 JST",
@@ -551,7 +551,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         }
       ]
@@ -562,7 +562,7 @@
       "events": [
         {
           "startDate": "2019/10/09 17:15 JST",
-          "endDate": null,
+          "endDate": "2019/10/09 18:54 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -577,14 +577,14 @@
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1570608900000,
-          "epochEndDate": null,
+          "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "datePosted": "2019/10/09 19:23 JST",
+          "message": "このサービスに関する問題が発生しました。"
         },
         {
           "startDate": "2019/10/09 05:37 JST",
@@ -609,7 +609,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         }
       ]
@@ -666,7 +666,7 @@
           "epochEndDate": 1570549500000,
           "messageId": "1003136",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -684,7 +684,7 @@
       "events": [
         {
           "startDate": "2019/10/09 17:15 JST",
-          "endDate": null,
+          "endDate": "2019/10/09 18:54 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -699,14 +699,14 @@
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1570608900000,
-          "epochEndDate": null,
+          "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "datePosted": "2019/10/09 19:23 JST",
+          "message": "このサービスに関する問題が発生しました。"
         },
         {
           "startDate": "2019/10/09 05:37 JST",
@@ -731,7 +731,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         }
       ]
@@ -756,7 +756,7 @@
       "events": [
         {
           "startDate": "2019/10/09 17:15 JST",
-          "endDate": null,
+          "endDate": "2019/10/09 18:54 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -771,14 +771,14 @@
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1570608900000,
-          "epochEndDate": null,
+          "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "datePosted": "2019/10/09 19:23 JST",
+          "message": "このサービスに関する問題が発生しました。"
         },
         {
           "startDate": "2019/10/09 05:37 JST",
@@ -803,7 +803,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -849,7 +849,7 @@
       "events": [
         {
           "startDate": "2019/10/09 17:15 JST",
-          "endDate": null,
+          "endDate": "2019/10/09 18:54 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -864,14 +864,14 @@
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1570608900000,
-          "epochEndDate": null,
+          "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "datePosted": "2019/10/09 19:23 JST",
+          "message": "このサービスに関する問題が発生しました。"
         },
         {
           "startDate": "2019/10/09 05:37 JST",
@@ -896,7 +896,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -949,7 +949,7 @@
       "events": [
         {
           "startDate": "2019/10/09 17:15 JST",
-          "endDate": null,
+          "endDate": "2019/10/09 18:54 JST",
           "affectedServices": [
             "Mail Drop",
             "iCloud Drive",
@@ -964,14 +964,14 @@
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1570608900000,
-          "epochEndDate": null,
+          "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
-          "message": "このサービスの動作速度が通常より低下している可能性があります。"
+          "datePosted": "2019/10/09 19:23 JST",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
         },
         {
           "startDate": "2019/10/09 05:37 JST",
@@ -996,7 +996,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/09 18:51 JST",
+          "datePosted": "2019/10/09 19:23 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         }
       ]
