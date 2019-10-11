@@ -8,16 +8,16 @@
       "events": [
         {
           "startDate": "2019/10/12 04:22 JST",
-          "endDate": null,
+          "endDate": "2019/10/12 05:10 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1570821720000,
-          "epochEndDate": null,
+          "epochEndDate": 1570824600000,
           "messageId": "1003144",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
-          "message": "上記のサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "datePosted": "2019/10/12 05:44 JST",
+          "message": "上記のサービスに関する問題が発生しました。"
         },
         {
           "startDate": "2019/10/08 21:00 JST",
@@ -32,7 +32,7 @@
           "epochEndDate": 1570549500000,
           "messageId": "1003136",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -169,7 +169,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         },
         {
@@ -195,7 +195,7 @@
           "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスの動作速度が通常より低下した可能性があります。"
         }
       ]
@@ -227,7 +227,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "iCloud.comで複数のサービスを使用できなかった可能性があります。"
         },
         {
@@ -253,7 +253,7 @@
           "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -299,7 +299,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         },
         {
@@ -325,7 +325,7 @@
           "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生しました。"
         },
         {
@@ -341,7 +341,7 @@
           "epochEndDate": 1570634820000,
           "messageId": "1003139",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスの動作速度が通常より低下した可能性があります。"
         }
       ]
@@ -380,7 +380,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
         },
         {
@@ -406,7 +406,7 @@
           "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -438,7 +438,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
         },
         {
@@ -464,7 +464,7 @@
           "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生しました。"
         },
         {
@@ -480,7 +480,7 @@
           "epochEndDate": 1570634820000,
           "messageId": "1003139",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスの動作速度が通常より低下した可能性があります。"
         }
       ]
@@ -512,7 +512,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "メールの送受信ができなかった可能性があります。"
         },
         {
@@ -538,7 +538,7 @@
           "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -570,7 +570,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         },
         {
@@ -596,7 +596,7 @@
           "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスの動作速度が通常より低下した可能性があります。"
         }
       ]
@@ -628,7 +628,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         },
         {
@@ -654,7 +654,7 @@
           "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -711,7 +711,7 @@
           "epochEndDate": 1570549500000,
           "messageId": "1003136",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -750,7 +750,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         },
         {
@@ -776,7 +776,7 @@
           "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -822,7 +822,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         },
         {
@@ -848,7 +848,7 @@
           "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -895,7 +895,7 @@
           "epochEndDate": 1570728000000,
           "messageId": "1003142",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生しました。"
         },
         {
@@ -908,7 +908,7 @@
           "epochEndDate": 1570644300000,
           "messageId": "2000402",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -940,7 +940,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         },
         {
@@ -966,7 +966,7 @@
           "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -1040,7 +1040,7 @@
           "epochEndDate": 1570573740000,
           "messageId": "2000401",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         },
         {
@@ -1066,7 +1066,7 @@
           "epochEndDate": 1570614840000,
           "messageId": "1003138",
           "statusType": "Issue",
-          "datePosted": "2019/10/12 04:40 JST",
+          "datePosted": "2019/10/12 05:44 JST",
           "message": "このサービスの動作速度が通常より低下した可能性があります。"
         }
       ]
