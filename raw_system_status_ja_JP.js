@@ -7,16 +7,16 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1570821720000,
+          "epochEndDate": 1570824600000,
+          "messageId": "1003144",
+          "statusType": "Issue",
+          "datePosted": "2019/10/15 16:17 JST",
           "startDate": "2019/10/12 04:22 JST",
           "endDate": "2019/10/12 05:10 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1570821720000,
-          "epochEndDate": 1570824600000,
-          "messageId": "1003144",
-          "statusType": "Issue",
-          "datePosted": "2019/10/14 17:00 JST",
           "message": "上記のサービスに関する問題が発生しました。"
         }
       ]
