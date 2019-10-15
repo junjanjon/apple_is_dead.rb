@@ -6,19 +6,7 @@
       "serviceName": "App Store",
       "redirectUrl": null,
       "events": [
-        {
-          "startDate": "2019/10/12 04:22 JST",
-          "endDate": "2019/10/12 05:10 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1570821720000,
-          "epochEndDate": 1570824600000,
-          "messageId": "1003144",
-          "statusType": "Issue",
-          "datePosted": "2019/10/15 16:40 JST",
-          "message": "上記のサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
