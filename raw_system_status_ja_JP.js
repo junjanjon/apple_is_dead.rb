@@ -7,17 +7,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "epochStartDate": 1571227200000,
-          "epochEndDate": null,
+          "epochStartDate": 1571232060000,
+          "epochEndDate": 1571237280000,
           "messageId": "1003147",
           "statusType": "Issue",
-          "datePosted": "2019/10/16 23:34 JST",
-          "startDate": "2019/10/16 21:00 JST",
-          "endDate": null,
+          "datePosted": "2019/10/17 00:49 JST",
+          "startDate": "2019/10/16 22:21 JST",
+          "endDate": "2019/10/16 23:48 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ]
     },
