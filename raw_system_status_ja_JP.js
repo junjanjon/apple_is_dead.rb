@@ -7,16 +7,33 @@
       "redirectUrl": null,
       "events": [
         {
-          "epochStartDate": 1571232060000,
-          "epochEndDate": 1571237280000,
-          "messageId": "1003147",
-          "statusType": "Issue",
-          "datePosted": "2019/10/17 00:49 JST",
+          "startDate": "2019/10/17 02:11 JST",
+          "endDate": "2019/10/17 02:31 JST",
+          "affectedServices": [
+            "App Store",
+            "Apple Music",
+            "iTunes Store"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1571245860000,
+          "epochEndDate": 1571247060000,
+          "messageId": "2000407",
+          "statusType": "Outage",
+          "datePosted": "2019/10/17 03:34 JST",
+          "message": "App Storeにアクセスできませんでした。"
+        },
+        {
           "startDate": "2019/10/16 22:21 JST",
           "endDate": "2019/10/16 23:48 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1571232060000,
+          "epochEndDate": 1571237280000,
+          "messageId": "1003147",
+          "statusType": "Issue",
+          "datePosted": "2019/10/17 03:34 JST",
           "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ]
@@ -46,7 +63,23 @@
       "serviceName": "Apple Music",
       "redirectUrl": null,
       "events": [
-
+        {
+          "startDate": "2019/10/17 02:11 JST",
+          "endDate": "2019/10/17 02:31 JST",
+          "affectedServices": [
+            "App Store",
+            "Apple Music",
+            "iTunes Store"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1571245860000,
+          "epochEndDate": 1571247060000,
+          "messageId": "2000407",
+          "statusType": "Outage",
+          "datePosted": "2019/10/17 03:34 JST",
+          "message": "複数のサービスへのアクセスや購入ができませんでした。"
+        }
       ]
     },
     {
@@ -242,7 +275,23 @@
       "serviceName": "iTunes Store",
       "redirectUrl": null,
       "events": [
-
+        {
+          "startDate": "2019/10/17 02:11 JST",
+          "endDate": "2019/10/17 02:31 JST",
+          "affectedServices": [
+            "App Store",
+            "Apple Music",
+            "iTunes Store"
+          ],
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1571245860000,
+          "epochEndDate": 1571247060000,
+          "messageId": "2000407",
+          "statusType": "Outage",
+          "datePosted": "2019/10/17 03:34 JST",
+          "message": "複数のサービスへのアクセスや購入ができませんでした。"
+        }
       ]
     },
     {
