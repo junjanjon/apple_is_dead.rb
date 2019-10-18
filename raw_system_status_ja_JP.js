@@ -20,7 +20,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000407",
           "statusType": "Outage",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "App Storeにアクセスできませんでした。"
         },
         {
@@ -33,7 +33,7 @@
           "epochEndDate": 1571237280000,
           "messageId": "1003147",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ]
@@ -91,7 +91,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -114,7 +114,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000407",
           "statusType": "Outage",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "複数のサービスへのアクセスや購入ができませんでした。"
         }
       ]
@@ -193,7 +193,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "ユーザがサインインできなかった、またはアカウントを作成できなかった可能性があります。"
         }
       ]
@@ -211,16 +211,16 @@
       "events": [
         {
           "startDate": "2019/10/18 22:13 JST",
-          "endDate": null,
+          "endDate": "2019/10/18 23:36 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1571404380000,
-          "epochEndDate": null,
+          "epochEndDate": 1571409360000,
           "messageId": "1003149",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
-          "message": "このサービスに関して一部のユーザに影響している問題を調査しています。"
+          "datePosted": "2019/10/19 00:49 JST",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
     },
@@ -263,7 +263,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -307,7 +307,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -351,7 +351,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -395,7 +395,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -439,7 +439,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -483,7 +483,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -527,7 +527,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -571,7 +571,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -615,7 +615,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -659,7 +659,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -703,7 +703,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -747,7 +747,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "メールの送受信ができなかった可能性があります。"
         }
       ]
@@ -791,7 +791,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -835,7 +835,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -879,7 +879,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -923,7 +923,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスに関する問題が発生しました。"
         }
       ]
@@ -967,7 +967,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000407",
           "statusType": "Outage",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "複数のサービスへのアクセスや購入ができませんでした。"
         }
       ]
@@ -1018,7 +1018,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         }
       ]
@@ -1076,7 +1076,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -1155,7 +1155,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -1199,7 +1199,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスに関する問題が発生しました。問題について調査し、解決しました。"
         }
       ]
@@ -1271,7 +1271,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
@@ -1315,7 +1315,7 @@
           "epochEndDate": 1571247060000,
           "messageId": "2000408",
           "statusType": "Issue",
-          "datePosted": "2019/10/19 00:36 JST",
+          "datePosted": "2019/10/19 00:49 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         }
       ]
