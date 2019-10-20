@@ -91,16 +91,16 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1571404380000,
+          "epochEndDate": 1571409360000,
+          "messageId": "1003149",
+          "statusType": "Issue",
+          "datePosted": "2019/10/21 00:11 JST",
           "startDate": "2019/10/18 22:13 JST",
           "endDate": "2019/10/18 23:36 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1571404380000,
-          "epochEndDate": 1571409360000,
-          "messageId": "1003149",
-          "statusType": "Issue",
-          "datePosted": "2019/10/20 21:59 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -131,6 +131,11 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1571515680000,
+          "epochEndDate": 1571523900000,
+          "messageId": "2000411",
+          "statusType": "Performance",
+          "datePosted": "2019/10/21 00:11 JST",
           "startDate": "2019/10/20 05:08 JST",
           "endDate": "2019/10/20 07:25 JST",
           "affectedServices": [
@@ -149,11 +154,6 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1571515680000,
-          "epochEndDate": 1571523900000,
-          "messageId": "2000411",
-          "statusType": "Performance",
-          "datePosted": "2019/10/20 21:59 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         }
       ]
@@ -163,6 +163,11 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1571515680000,
+          "epochEndDate": 1571523900000,
+          "messageId": "2000411",
+          "statusType": "Performance",
+          "datePosted": "2019/10/21 00:11 JST",
           "startDate": "2019/10/20 05:08 JST",
           "endDate": "2019/10/20 07:25 JST",
           "affectedServices": [
@@ -181,11 +186,6 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1571515680000,
-          "epochEndDate": 1571523900000,
-          "messageId": "2000411",
-          "statusType": "Performance",
-          "datePosted": "2019/10/20 21:59 JST",
           "message": "iCloud.comで複数のサービスを使用できなかった可能性があります。"
         }
       ]
@@ -209,6 +209,11 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1571515680000,
+          "epochEndDate": 1571523900000,
+          "messageId": "2000411",
+          "statusType": "Performance",
+          "datePosted": "2019/10/21 00:11 JST",
           "startDate": "2019/10/20 05:08 JST",
           "endDate": "2019/10/20 07:25 JST",
           "affectedServices": [
@@ -227,11 +232,6 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1571515680000,
-          "epochEndDate": 1571523900000,
-          "messageId": "2000411",
-          "statusType": "Performance",
-          "datePosted": "2019/10/20 21:59 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -248,6 +248,11 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1571515680000,
+          "epochEndDate": 1571523900000,
+          "messageId": "2000411",
+          "statusType": "Performance",
+          "datePosted": "2019/10/21 00:11 JST",
           "startDate": "2019/10/20 05:08 JST",
           "endDate": "2019/10/20 07:25 JST",
           "affectedServices": [
@@ -266,11 +271,6 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1571515680000,
-          "epochEndDate": 1571523900000,
-          "messageId": "2000411",
-          "statusType": "Performance",
-          "datePosted": "2019/10/20 21:59 JST",
           "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
         }
       ]
@@ -280,6 +280,11 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1571515680000,
+          "epochEndDate": 1571523900000,
+          "messageId": "2000411",
+          "statusType": "Performance",
+          "datePosted": "2019/10/21 00:11 JST",
           "startDate": "2019/10/20 05:08 JST",
           "endDate": "2019/10/20 07:25 JST",
           "affectedServices": [
@@ -298,11 +303,6 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1571515680000,
-          "epochEndDate": 1571523900000,
-          "messageId": "2000411",
-          "statusType": "Performance",
-          "datePosted": "2019/10/20 21:59 JST",
           "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
         }
       ]
@@ -312,6 +312,11 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1571515680000,
+          "epochEndDate": 1571523900000,
+          "messageId": "2000411",
+          "statusType": "Performance",
+          "datePosted": "2019/10/21 00:11 JST",
           "startDate": "2019/10/20 05:08 JST",
           "endDate": "2019/10/20 07:25 JST",
           "affectedServices": [
@@ -330,11 +335,6 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1571515680000,
-          "epochEndDate": 1571523900000,
-          "messageId": "2000411",
-          "statusType": "Performance",
-          "datePosted": "2019/10/20 21:59 JST",
           "message": "メールの送受信ができなかった可能性があります。"
         }
       ]
@@ -344,6 +344,11 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1571515680000,
+          "epochEndDate": 1571523900000,
+          "messageId": "2000411",
+          "statusType": "Performance",
+          "datePosted": "2019/10/21 00:11 JST",
           "startDate": "2019/10/20 05:08 JST",
           "endDate": "2019/10/20 07:25 JST",
           "affectedServices": [
@@ -362,11 +367,6 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1571515680000,
-          "epochEndDate": 1571523900000,
-          "messageId": "2000411",
-          "statusType": "Performance",
-          "datePosted": "2019/10/20 21:59 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         }
       ]
@@ -376,6 +376,11 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1571515680000,
+          "epochEndDate": 1571523900000,
+          "messageId": "2000411",
+          "statusType": "Performance",
+          "datePosted": "2019/10/21 00:11 JST",
           "startDate": "2019/10/20 05:08 JST",
           "endDate": "2019/10/20 07:25 JST",
           "affectedServices": [
@@ -394,11 +399,6 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1571515680000,
-          "epochEndDate": 1571523900000,
-          "messageId": "2000411",
-          "statusType": "Performance",
-          "datePosted": "2019/10/20 21:59 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         }
       ]
@@ -457,6 +457,11 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1571515680000,
+          "epochEndDate": 1571523900000,
+          "messageId": "2000411",
+          "statusType": "Performance",
+          "datePosted": "2019/10/21 00:11 JST",
           "startDate": "2019/10/20 05:08 JST",
           "endDate": "2019/10/20 07:25 JST",
           "affectedServices": [
@@ -475,11 +480,6 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1571515680000,
-          "epochEndDate": 1571523900000,
-          "messageId": "2000411",
-          "statusType": "Performance",
-          "datePosted": "2019/10/20 21:59 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         }
       ]
@@ -503,6 +503,11 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1571515680000,
+          "epochEndDate": 1571523900000,
+          "messageId": "2000411",
+          "statusType": "Performance",
+          "datePosted": "2019/10/21 00:11 JST",
           "startDate": "2019/10/20 05:08 JST",
           "endDate": "2019/10/20 07:25 JST",
           "affectedServices": [
@@ -521,11 +526,6 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1571515680000,
-          "epochEndDate": 1571523900000,
-          "messageId": "2000411",
-          "statusType": "Performance",
-          "datePosted": "2019/10/20 21:59 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -570,6 +570,11 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1571515680000,
+          "epochEndDate": 1571523900000,
+          "messageId": "2000411",
+          "statusType": "Performance",
+          "datePosted": "2019/10/21 00:11 JST",
           "startDate": "2019/10/20 05:08 JST",
           "endDate": "2019/10/20 07:25 JST",
           "affectedServices": [
@@ -588,11 +593,6 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1571515680000,
-          "epochEndDate": 1571523900000,
-          "messageId": "2000411",
-          "statusType": "Performance",
-          "datePosted": "2019/10/20 21:59 JST",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
@@ -644,6 +644,11 @@
       "redirectUrl": null,
       "events": [
         {
+          "epochStartDate": 1571515680000,
+          "epochEndDate": 1571523900000,
+          "messageId": "2000411",
+          "statusType": "Performance",
+          "datePosted": "2019/10/21 00:11 JST",
           "startDate": "2019/10/20 05:08 JST",
           "endDate": "2019/10/20 07:25 JST",
           "affectedServices": [
@@ -662,11 +667,6 @@
           ],
           "eventStatus": "resolved",
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1571515680000,
-          "epochEndDate": 1571523900000,
-          "messageId": "2000411",
-          "statusType": "Performance",
-          "datePosted": "2019/10/20 21:59 JST",
           "message": "新しいコンテンツまたは最近変更されたコンテンツはデバイス間で、またはiCloud.comで更新できなかった可能性があります。"
         }
       ]
