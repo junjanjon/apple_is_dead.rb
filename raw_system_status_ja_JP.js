@@ -139,21 +139,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1594148220000,
-          "epochEndDate": null,
+          "epochEndDate": 1594158000000,
           "messageId": "2000498",
           "statusType": "Issue",
-          "datePosted": "2020/07/08 06:20 JST",
+          "datePosted": "2020/07/08 07:15 JST",
           "startDate": "2020/07/08 03:57 JST",
-          "endDate": null,
+          "endDate": "2020/07/08 06:40 JST",
           "affectedServices": [
             "iCloud Drive",
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "serviceName": "iCloud Drive"
@@ -337,21 +337,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1594148220000,
-          "epochEndDate": null,
+          "epochEndDate": 1594158000000,
           "messageId": "2000498",
           "statusType": "Issue",
-          "datePosted": "2020/07/08 06:20 JST",
+          "datePosted": "2020/07/08 07:15 JST",
           "startDate": "2020/07/08 03:57 JST",
-          "endDate": null,
+          "endDate": "2020/07/08 06:40 JST",
           "affectedServices": [
             "iCloud Drive",
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "serviceName": "スクリーンタイム"
@@ -402,21 +402,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1594148220000,
-          "epochEndDate": null,
+          "epochEndDate": 1594158000000,
           "messageId": "2000498",
           "statusType": "Issue",
-          "datePosted": "2020/07/08 06:20 JST",
+          "datePosted": "2020/07/08 07:15 JST",
           "startDate": "2020/07/08 03:57 JST",
-          "endDate": null,
+          "endDate": "2020/07/08 06:40 JST",
           "affectedServices": [
             "iCloud Drive",
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "serviceName": "写真"
