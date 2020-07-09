@@ -110,7 +110,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1594333140000,
+          "epochEndDate": null,
+          "messageId": "1003278",
+          "statusType": "Issue",
+          "datePosted": "2020/07/10 07:56 JST",
+          "startDate": "2020/07/10 07:19 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの動作速度が通常より低下している可能性があります。"
+        }
       ],
       "serviceName": "Documents in the Cloud"
     },
@@ -130,7 +147,7 @@
           "epochEndDate": 1594303500000,
           "messageId": "2000500",
           "statusType": "Issue",
-          "datePosted": "2020/07/10 06:45 JST",
+          "datePosted": "2020/07/10 07:56 JST",
           "startDate": "2020/07/09 20:53 JST",
           "endDate": "2020/07/09 23:05 JST",
           "affectedServices": [
@@ -160,7 +177,7 @@
           "epochEndDate": 1594158000000,
           "messageId": "2000498",
           "statusType": "Issue",
-          "datePosted": "2020/07/10 06:45 JST",
+          "datePosted": "2020/07/10 07:56 JST",
           "startDate": "2020/07/08 03:57 JST",
           "endDate": "2020/07/08 06:40 JST",
           "affectedServices": [
@@ -190,7 +207,7 @@
           "epochEndDate": 1594303500000,
           "messageId": "2000500",
           "statusType": "Issue",
-          "datePosted": "2020/07/10 06:45 JST",
+          "datePosted": "2020/07/10 07:56 JST",
           "startDate": "2020/07/09 20:53 JST",
           "endDate": "2020/07/09 23:05 JST",
           "affectedServices": [
@@ -220,7 +237,7 @@
           "epochEndDate": 1594329120000,
           "messageId": "1003277",
           "statusType": "Issue",
-          "datePosted": "2020/07/10 06:45 JST",
+          "datePosted": "2020/07/10 07:56 JST",
           "startDate": "2020/07/10 04:10 JST",
           "endDate": "2020/07/10 06:12 JST",
           "affectedServices": [
@@ -243,7 +260,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1594333140000,
+          "epochEndDate": null,
+          "messageId": "1003278",
+          "statusType": "Issue",
+          "datePosted": "2020/07/10 07:56 JST",
+          "startDate": "2020/07/10 07:19 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの動作速度が通常より低下している可能性があります。"
+        }
       ],
       "serviceName": "iCloudバックアップ"
     },
@@ -256,7 +290,7 @@
           "epochEndDate": 1594329120000,
           "messageId": "1003277",
           "statusType": "Issue",
-          "datePosted": "2020/07/10 06:45 JST",
+          "datePosted": "2020/07/10 07:56 JST",
           "startDate": "2020/07/10 04:10 JST",
           "endDate": "2020/07/10 06:12 JST",
           "affectedServices": [
@@ -278,7 +312,7 @@
           "epochEndDate": 1594303500000,
           "messageId": "2000500",
           "statusType": "Issue",
-          "datePosted": "2020/07/10 06:45 JST",
+          "datePosted": "2020/07/10 07:56 JST",
           "startDate": "2020/07/09 20:53 JST",
           "endDate": "2020/07/09 23:05 JST",
           "affectedServices": [
@@ -295,7 +329,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1594333140000,
+          "epochEndDate": null,
+          "messageId": "1003278",
+          "statusType": "Issue",
+          "datePosted": "2020/07/10 07:56 JST",
+          "startDate": "2020/07/10 07:19 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの動作速度が通常より低下している可能性があります。"
+        }
       ],
       "serviceName": "iCloudメモ"
     },
@@ -420,7 +471,7 @@
           "epochEndDate": 1594158000000,
           "messageId": "2000498",
           "statusType": "Issue",
-          "datePosted": "2020/07/10 06:45 JST",
+          "datePosted": "2020/07/10 07:56 JST",
           "startDate": "2020/07/08 03:57 JST",
           "endDate": "2020/07/08 06:40 JST",
           "affectedServices": [
@@ -480,12 +531,30 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1594333140000,
+          "epochEndDate": null,
+          "messageId": "1003278",
+          "statusType": "Issue",
+          "datePosted": "2020/07/10 07:56 JST",
+          "startDate": "2020/07/10 07:19 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Documents in the Cloud",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの動作速度が通常より低下している可能性があります。"
+        },
+        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1594148220000,
           "epochEndDate": 1594158000000,
           "messageId": "2000498",
           "statusType": "Issue",
-          "datePosted": "2020/07/10 06:45 JST",
+          "datePosted": "2020/07/10 07:56 JST",
           "startDate": "2020/07/08 03:57 JST",
           "endDate": "2020/07/08 06:40 JST",
           "affectedServices": [
