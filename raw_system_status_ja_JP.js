@@ -125,7 +125,23 @@
       "redirectUrl": null,
       "serviceName": "Game Center",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1594295580000,
+          "epochEndDate": 1594298580000,
+          "messageId": "2000500",
+          "statusType": "Issue",
+          "datePosted": "2020/07/09 22:08 JST",
+          "startDate": "2020/07/09 20:53 JST",
+          "endDate": "2020/07/09 21:43 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloudアカウントおよびサインイン",
+            "iCloudメール"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
+        }
       ]
     },
     {
@@ -145,7 +161,7 @@
           "epochEndDate": 1594158000000,
           "messageId": "2000498",
           "statusType": "Issue",
-          "datePosted": "2020/07/08 23:59 JST",
+          "datePosted": "2020/07/09 22:08 JST",
           "startDate": "2020/07/08 03:57 JST",
           "endDate": "2020/07/08 06:40 JST",
           "affectedServices": [
@@ -169,7 +185,23 @@
       "redirectUrl": null,
       "serviceName": "iCloudアカウントおよびサインイン",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1594295580000,
+          "epochEndDate": 1594298580000,
+          "messageId": "2000500",
+          "statusType": "Issue",
+          "datePosted": "2020/07/09 22:08 JST",
+          "startDate": "2020/07/09 20:53 JST",
+          "endDate": "2020/07/09 21:43 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloudアカウントおよびサインイン",
+            "iCloudメール"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
+        }
       ]
     },
     {
@@ -211,7 +243,23 @@
       "redirectUrl": null,
       "serviceName": "iCloudメール",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1594295580000,
+          "epochEndDate": 1594298580000,
+          "messageId": "2000500",
+          "statusType": "Issue",
+          "datePosted": "2020/07/09 22:08 JST",
+          "startDate": "2020/07/09 20:53 JST",
+          "endDate": "2020/07/09 21:43 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloudアカウントおよびサインイン",
+            "iCloudメール"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
+        }
       ]
     },
     {
@@ -343,7 +391,7 @@
           "epochEndDate": 1594158000000,
           "messageId": "2000498",
           "statusType": "Issue",
-          "datePosted": "2020/07/08 23:59 JST",
+          "datePosted": "2020/07/09 22:08 JST",
           "startDate": "2020/07/08 03:57 JST",
           "endDate": "2020/07/08 06:40 JST",
           "affectedServices": [
@@ -408,7 +456,7 @@
           "epochEndDate": 1594158000000,
           "messageId": "2000498",
           "statusType": "Issue",
-          "datePosted": "2020/07/08 23:59 JST",
+          "datePosted": "2020/07/09 22:08 JST",
           "startDate": "2020/07/08 03:57 JST",
           "endDate": "2020/07/08 06:40 JST",
           "affectedServices": [
