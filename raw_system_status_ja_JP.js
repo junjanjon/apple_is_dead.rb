@@ -180,7 +180,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1594677300000,
+          "epochEndDate": null,
+          "messageId": "1003279",
+          "statusType": "Issue",
+          "datePosted": "2020/07/14 07:57 JST",
+          "startDate": "2020/07/14 06:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudバックアップ",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ],
       "serviceName": "iCloudバックアップ"
     },
@@ -320,7 +336,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1594677300000,
+          "epochEndDate": null,
+          "messageId": "1003279",
+          "statusType": "Issue",
+          "datePosted": "2020/07/14 07:57 JST",
+          "startDate": "2020/07/14 06:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudバックアップ",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ],
       "serviceName": "スクリーンタイム"
     },
@@ -369,7 +401,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1594677300000,
+          "epochEndDate": null,
+          "messageId": "1003279",
+          "statusType": "Issue",
+          "datePosted": "2020/07/14 07:57 JST",
+          "startDate": "2020/07/14 06:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudバックアップ",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ],
       "serviceName": "写真"
     }
