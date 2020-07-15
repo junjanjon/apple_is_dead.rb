@@ -56,17 +56,17 @@
       "serviceName": "Apple Pay",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1594800540000,
-          "epochEndDate": null,
+          "epochEndDate": 1594811520000,
           "messageId": "2000503",
           "statusType": "Outage",
-          "datePosted": "2020/07/15 20:11 JST",
+          "datePosted": "2020/07/15 20:38 JST",
           "startDate": "2020/07/15 17:09 JST",
-          "endDate": null,
+          "endDate": "2020/07/15 20:12 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "Apple Payの一部のカード保有者は、Apple Payでカードの追加、停止、削除、または既存のカードの使用ができない場合があります。"
+          "eventStatus": "resolved",
+          "message": "Apple Payの一部のカード保有者は、Apple Payでカードの追加、停止、削除、または既存のカードの使用ができませんでした。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -74,7 +74,7 @@
           "epochEndDate": 1594783260000,
           "messageId": "2000502",
           "statusType": "Issue",
-          "datePosted": "2020/07/15 20:11 JST",
+          "datePosted": "2020/07/15 20:38 JST",
           "startDate": "2020/07/15 11:36 JST",
           "endDate": "2020/07/15 12:21 JST",
           "affectedServices": null,
@@ -212,7 +212,7 @@
           "epochEndDate": 1594681080000,
           "messageId": "1003279",
           "statusType": "Issue",
-          "datePosted": "2020/07/15 20:11 JST",
+          "datePosted": "2020/07/15 20:38 JST",
           "startDate": "2020/07/14 06:55 JST",
           "endDate": "2020/07/14 07:58 JST",
           "affectedServices": [
@@ -368,7 +368,7 @@
           "epochEndDate": 1594681080000,
           "messageId": "1003279",
           "statusType": "Issue",
-          "datePosted": "2020/07/15 20:11 JST",
+          "datePosted": "2020/07/15 20:38 JST",
           "startDate": "2020/07/14 06:55 JST",
           "endDate": "2020/07/14 07:58 JST",
           "affectedServices": [
@@ -433,7 +433,7 @@
           "epochEndDate": 1594681080000,
           "messageId": "1003279",
           "statusType": "Issue",
-          "datePosted": "2020/07/15 20:11 JST",
+          "datePosted": "2020/07/15 20:38 JST",
           "startDate": "2020/07/14 06:55 JST",
           "endDate": "2020/07/14 07:58 JST",
           "affectedServices": [
