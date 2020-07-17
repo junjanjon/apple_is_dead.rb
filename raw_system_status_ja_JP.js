@@ -60,7 +60,7 @@
           "epochEndDate": 1594783260000,
           "messageId": "2000502",
           "statusType": "Issue",
-          "datePosted": "2020/07/17 14:44 JST",
+          "datePosted": "2020/07/17 15:11 JST",
           "startDate": "2020/07/15 11:36 JST",
           "endDate": "2020/07/15 12:21 JST",
           "affectedServices": null,
@@ -157,7 +157,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1594916100000,
+          "epochEndDate": null,
+          "messageId": "2000505",
+          "statusType": "Issue",
+          "datePosted": "2020/07/17 15:11 JST",
+          "startDate": "2020/07/17 01:15 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Web Apps (iCloud.com)",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)"
     },
@@ -198,7 +213,7 @@
           "epochEndDate": 1594681080000,
           "messageId": "1003279",
           "statusType": "Issue",
-          "datePosted": "2020/07/17 14:44 JST",
+          "datePosted": "2020/07/17 15:11 JST",
           "startDate": "2020/07/14 06:55 JST",
           "endDate": "2020/07/14 07:58 JST",
           "affectedServices": [
@@ -354,7 +369,7 @@
           "epochEndDate": 1594681080000,
           "messageId": "1003279",
           "statusType": "Issue",
-          "datePosted": "2020/07/17 14:44 JST",
+          "datePosted": "2020/07/17 15:11 JST",
           "startDate": "2020/07/14 06:55 JST",
           "endDate": "2020/07/14 07:58 JST",
           "affectedServices": [
@@ -419,7 +434,7 @@
           "epochEndDate": 1594681080000,
           "messageId": "1003279",
           "statusType": "Issue",
-          "datePosted": "2020/07/17 14:44 JST",
+          "datePosted": "2020/07/17 15:11 JST",
           "startDate": "2020/07/14 06:55 JST",
           "endDate": "2020/07/14 07:58 JST",
           "affectedServices": [
