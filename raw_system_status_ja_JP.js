@@ -61,7 +61,7 @@
           "epochEndDate": 1594783260000,
           "messageId": "2000502",
           "statusType": "Issue",
-          "datePosted": "2020/07/17 17:19 JST",
+          "datePosted": "2020/07/17 18:19 JST",
           "startDate": "2020/07/15 11:36 JST",
           "endDate": "2020/07/15 12:21 JST",
           "affectedServices": null,
@@ -164,11 +164,12 @@
           "epochEndDate": 1594973220000,
           "messageId": "2000505",
           "statusType": "Issue",
-          "datePosted": "2020/07/17 17:19 JST",
+          "datePosted": "2020/07/17 18:19 JST",
           "startDate": "2020/07/17 13:15 JST",
           "endDate": "2020/07/17 17:07 JST",
           "affectedServices": [
             "iCloud Web Apps (iCloud.com)",
+            "iCloud連絡先",
             null
           ],
           "eventStatus": "resolved",
@@ -243,7 +244,23 @@
       "redirectUrl": null,
       "serviceName": "iCloud連絡先",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1594959300000,
+          "epochEndDate": 1594973220000,
+          "messageId": "2000505",
+          "statusType": "Issue",
+          "datePosted": "2020/07/17 18:19 JST",
+          "startDate": "2020/07/17 13:15 JST",
+          "endDate": "2020/07/17 17:07 JST",
+          "affectedServices": [
+            "iCloud Web Apps (iCloud.com)",
+            "iCloud連絡先",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
+        }
       ]
     },
     {
