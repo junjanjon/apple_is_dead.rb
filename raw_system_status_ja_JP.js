@@ -55,19 +55,7 @@
       "redirectUrl": "https://developer.apple.com/apple-pay/",
       "serviceName": "Apple Pay",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1594780560000,
-          "epochEndDate": 1594783260000,
-          "messageId": "2000502",
-          "statusType": "Issue",
-          "datePosted": "2020/07/17 18:19 JST",
-          "startDate": "2020/07/15 11:36 JST",
-          "endDate": "2020/07/15 12:21 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "JR東日本のカード保有者は、Apple Payでカードの追加ができませんでした。"
-        }
+
       ]
     },
     {
@@ -164,7 +152,7 @@
           "epochEndDate": 1594973220000,
           "messageId": "2000505",
           "statusType": "Issue",
-          "datePosted": "2020/07/17 18:19 JST",
+          "datePosted": "2020/07/18 17:00 JST",
           "startDate": "2020/07/17 13:15 JST",
           "endDate": "2020/07/17 17:07 JST",
           "affectedServices": [
@@ -250,7 +238,7 @@
           "epochEndDate": 1594973220000,
           "messageId": "2000505",
           "statusType": "Issue",
-          "datePosted": "2020/07/17 18:19 JST",
+          "datePosted": "2020/07/18 17:00 JST",
           "startDate": "2020/07/17 13:15 JST",
           "endDate": "2020/07/17 17:07 JST",
           "affectedServices": [
