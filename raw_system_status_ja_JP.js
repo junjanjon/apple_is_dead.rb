@@ -152,7 +152,7 @@
           "epochEndDate": 1594973220000,
           "messageId": "2000505",
           "statusType": "Issue",
-          "datePosted": "2020/07/21 01:35 JST",
+          "datePosted": "2020/07/21 01:58 JST",
           "startDate": "2020/07/17 13:15 JST",
           "endDate": "2020/07/17 17:07 JST",
           "affectedServices": [
@@ -197,7 +197,22 @@
       "redirectUrl": null,
       "serviceName": "iCloudバックアップ",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1595261040000,
+          "epochEndDate": 1595263860000,
+          "messageId": "1003280",
+          "statusType": "Issue",
+          "datePosted": "2020/07/21 01:58 JST",
+          "startDate": "2020/07/21 01:04 JST",
+          "endDate": "2020/07/21 01:51 JST",
+          "affectedServices": [
+            "iCloudバックアップ",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ]
     },
     {
@@ -238,7 +253,7 @@
           "epochEndDate": 1594973220000,
           "messageId": "2000505",
           "statusType": "Issue",
-          "datePosted": "2020/07/21 01:35 JST",
+          "datePosted": "2020/07/21 01:58 JST",
           "startDate": "2020/07/17 13:15 JST",
           "endDate": "2020/07/17 17:07 JST",
           "affectedServices": [
@@ -403,17 +418,20 @@
       "serviceName": "写真",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1595261040000,
-          "epochEndDate": null,
+          "epochEndDate": 1595263860000,
           "messageId": "1003280",
           "statusType": "Issue",
-          "datePosted": "2020/07/21 01:35 JST",
+          "datePosted": "2020/07/21 01:58 JST",
           "startDate": "2020/07/21 01:04 JST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "endDate": "2020/07/21 01:51 JST",
+          "affectedServices": [
+            "iCloudバックアップ",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ]
     }
