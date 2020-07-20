@@ -152,7 +152,7 @@
           "epochEndDate": 1594973220000,
           "messageId": "2000505",
           "statusType": "Issue",
-          "datePosted": "2020/07/19 17:00 JST",
+          "datePosted": "2020/07/21 01:35 JST",
           "startDate": "2020/07/17 13:15 JST",
           "endDate": "2020/07/17 17:07 JST",
           "affectedServices": [
@@ -238,7 +238,7 @@
           "epochEndDate": 1594973220000,
           "messageId": "2000505",
           "statusType": "Issue",
-          "datePosted": "2020/07/19 17:00 JST",
+          "datePosted": "2020/07/21 01:35 JST",
           "startDate": "2020/07/17 13:15 JST",
           "endDate": "2020/07/17 17:07 JST",
           "affectedServices": [
@@ -402,7 +402,19 @@
       "redirectUrl": null,
       "serviceName": "写真",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1595261040000,
+          "epochEndDate": null,
+          "messageId": "1003280",
+          "statusType": "Issue",
+          "datePosted": "2020/07/21 01:35 JST",
+          "startDate": "2020/07/21 01:04 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ]
     }
   ]
