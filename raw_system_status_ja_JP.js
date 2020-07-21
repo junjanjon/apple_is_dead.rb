@@ -146,23 +146,7 @@
       "redirectUrl": null,
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1594959300000,
-          "epochEndDate": 1594973220000,
-          "messageId": "2000505",
-          "statusType": "Issue",
-          "datePosted": "2020/07/21 01:58 JST",
-          "startDate": "2020/07/17 13:15 JST",
-          "endDate": "2020/07/17 17:07 JST",
-          "affectedServices": [
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud連絡先",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生した可能性があります。"
-        }
+
       ]
     },
     {
@@ -203,7 +187,7 @@
           "epochEndDate": 1595263860000,
           "messageId": "1003280",
           "statusType": "Issue",
-          "datePosted": "2020/07/21 01:58 JST",
+          "datePosted": "2020/07/21 17:00 JST",
           "startDate": "2020/07/21 01:04 JST",
           "endDate": "2020/07/21 01:51 JST",
           "affectedServices": [
@@ -247,23 +231,7 @@
       "redirectUrl": null,
       "serviceName": "iCloud連絡先",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1594959300000,
-          "epochEndDate": 1594973220000,
-          "messageId": "2000505",
-          "statusType": "Issue",
-          "datePosted": "2020/07/21 01:58 JST",
-          "startDate": "2020/07/17 13:15 JST",
-          "endDate": "2020/07/17 17:07 JST",
-          "affectedServices": [
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud連絡先",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生した可能性があります。"
-        }
+
       ]
     },
     {
@@ -423,7 +391,7 @@
           "epochEndDate": 1595263860000,
           "messageId": "1003280",
           "statusType": "Issue",
-          "datePosted": "2020/07/21 01:58 JST",
+          "datePosted": "2020/07/21 17:00 JST",
           "startDate": "2020/07/21 01:04 JST",
           "endDate": "2020/07/21 01:51 JST",
           "affectedServices": [
