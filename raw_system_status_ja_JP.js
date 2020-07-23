@@ -167,22 +167,7 @@
       "redirectUrl": null,
       "serviceName": "iCloudキーチェーン",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1595539080000,
-          "epochEndDate": 1595540220000,
-          "messageId": "2000507",
-          "statusType": "Issue",
-          "datePosted": "2020/07/24 07:59 JST",
-          "startDate": "2020/07/24 06:18 JST",
-          "endDate": "2020/07/24 06:37 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "iMessage"
-          ],
-          "eventStatus": "resolved",
-          "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -202,7 +187,7 @@
           "epochEndDate": 1595263860000,
           "messageId": "1003280",
           "statusType": "Issue",
-          "datePosted": "2020/07/24 07:59 JST",
+          "datePosted": "2020/07/23 01:03 JST",
           "startDate": "2020/07/21 01:04 JST",
           "endDate": "2020/07/21 01:51 JST",
           "affectedServices": [
@@ -227,29 +212,29 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1595410500000,
-          "epochEndDate": 1595417580000,
-          "messageId": "1003281",
-          "statusType": "Issue",
-          "datePosted": "2020/07/24 07:59 JST",
-          "startDate": "2020/07/22 18:35 JST",
-          "endDate": "2020/07/22 20:33 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生した可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1595417580000,
           "epochEndDate": 1595425560000,
           "messageId": "2000506",
           "statusType": "Issue",
-          "datePosted": "2020/07/24 07:59 JST",
+          "datePosted": "2020/07/23 01:03 JST",
           "startDate": "2020/07/22 20:33 JST",
           "endDate": "2020/07/22 22:46 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "メールの受信に遅延が発生した可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1595410500000,
+          "epochEndDate": 1595417580000,
+          "messageId": "1003281",
+          "statusType": "Issue",
+          "datePosted": "2020/07/23 01:03 JST",
+          "startDate": "2020/07/22 18:35 JST",
+          "endDate": "2020/07/22 20:33 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ]
     },
@@ -278,22 +263,7 @@
       "redirectUrl": null,
       "serviceName": "iMessage",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1595539080000,
-          "epochEndDate": 1595540220000,
-          "messageId": "2000507",
-          "statusType": "Issue",
-          "datePosted": "2020/07/24 07:59 JST",
-          "startDate": "2020/07/24 06:18 JST",
-          "endDate": "2020/07/24 06:37 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "iMessage"
-          ],
-          "eventStatus": "resolved",
-          "message": "iMessage で添付ファイルを送信できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -446,7 +416,7 @@
           "epochEndDate": 1595433420000,
           "messageId": "1003282",
           "statusType": "Issue",
-          "datePosted": "2020/07/24 07:59 JST",
+          "datePosted": "2020/07/23 01:03 JST",
           "startDate": "2020/07/23 00:25 JST",
           "endDate": "2020/07/23 00:57 JST",
           "affectedServices": null,
@@ -459,7 +429,7 @@
           "epochEndDate": 1595263860000,
           "messageId": "1003280",
           "statusType": "Issue",
-          "datePosted": "2020/07/24 07:59 JST",
+          "datePosted": "2020/07/23 01:03 JST",
           "startDate": "2020/07/21 01:04 JST",
           "endDate": "2020/07/21 01:51 JST",
           "affectedServices": [
