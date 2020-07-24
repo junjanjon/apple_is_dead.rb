@@ -144,7 +144,7 @@
           "epochEndDate": 1595623320000,
           "messageId": "2000510",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/25 05:10 JST",
           "endDate": "2020/07/25 05:42 JST",
           "affectedServices": [
@@ -186,7 +186,7 @@
           "epochEndDate": 1595623320000,
           "messageId": "2000510",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/25 05:10 JST",
           "endDate": "2020/07/25 05:42 JST",
           "affectedServices": [
@@ -209,29 +209,12 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1595623080000,
-          "epochEndDate": null,
-          "messageId": "1003283",
-          "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
-          "startDate": "2020/07/25 05:38 JST",
-          "endDate": null,
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "スクリーンタイム"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
-        },
-        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1595621400000,
           "epochEndDate": 1595623320000,
           "messageId": "2000510",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/25 05:10 JST",
           "endDate": "2020/07/25 05:42 JST",
           "affectedServices": [
@@ -249,11 +232,28 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1595623080000,
+          "epochEndDate": 1595626200000,
+          "messageId": "1003283",
+          "statusType": "Issue",
+          "datePosted": "2020/07/25 06:39 JST",
+          "startDate": "2020/07/25 05:38 JST",
+          "endDate": "2020/07/25 06:30 JST",
+          "affectedServices": [
+            "iCloudキーチェーン",
+            "iCloudブックマークおよびタブ",
+            "スクリーンタイム"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1595539080000,
           "epochEndDate": 1595540220000,
           "messageId": "2000507",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/24 06:18 JST",
           "endDate": "2020/07/24 06:37 JST",
           "affectedServices": [
@@ -282,7 +282,7 @@
           "epochEndDate": 1595623320000,
           "messageId": "2000510",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/25 05:10 JST",
           "endDate": "2020/07/25 05:42 JST",
           "affectedServices": [
@@ -305,21 +305,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1595623080000,
-          "epochEndDate": null,
+          "epochEndDate": 1595626200000,
           "messageId": "1003283",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/25 05:38 JST",
-          "endDate": null,
+          "endDate": "2020/07/25 06:30 JST",
           "affectedServices": [
             "iCloudキーチェーン",
             "iCloudブックマークおよびタブ",
             "スクリーンタイム"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "serviceName": "iCloudブックマークおよびタブ"
@@ -333,7 +333,7 @@
           "epochEndDate": 1595596200000,
           "messageId": "2000509",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/24 21:21 JST",
           "endDate": "2020/07/24 22:10 JST",
           "affectedServices": null,
@@ -346,7 +346,7 @@
           "epochEndDate": 1595417580000,
           "messageId": "1003281",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/22 18:35 JST",
           "endDate": "2020/07/22 20:33 JST",
           "affectedServices": null,
@@ -359,7 +359,7 @@
           "epochEndDate": 1595425560000,
           "messageId": "2000506",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/22 20:33 JST",
           "endDate": "2020/07/22 22:46 JST",
           "affectedServices": null,
@@ -392,7 +392,7 @@
           "epochEndDate": 1595623320000,
           "messageId": "2000510",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/25 05:10 JST",
           "endDate": "2020/07/25 05:42 JST",
           "affectedServices": [
@@ -420,7 +420,7 @@
           "epochEndDate": 1595540220000,
           "messageId": "2000507",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/24 06:18 JST",
           "endDate": "2020/07/24 06:37 JST",
           "affectedServices": [
@@ -528,29 +528,12 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1595623080000,
-          "epochEndDate": null,
-          "messageId": "1003283",
-          "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
-          "startDate": "2020/07/25 05:38 JST",
-          "endDate": null,
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "スクリーンタイム"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
-        },
-        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1595621400000,
           "epochEndDate": 1595623320000,
           "messageId": "2000510",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/25 05:10 JST",
           "endDate": "2020/07/25 05:42 JST",
           "affectedServices": [
@@ -562,6 +545,23 @@
             "スクリーンタイム",
             "写真",
             "探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1595623080000,
+          "epochEndDate": 1595626200000,
+          "messageId": "1003283",
+          "statusType": "Issue",
+          "datePosted": "2020/07/25 06:39 JST",
+          "startDate": "2020/07/25 05:38 JST",
+          "endDate": "2020/07/25 06:30 JST",
+          "affectedServices": [
+            "iCloudキーチェーン",
+            "iCloudブックマークおよびタブ",
+            "スクリーンタイム"
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
@@ -613,7 +613,7 @@
           "epochEndDate": 1595623320000,
           "messageId": "2000510",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/25 05:10 JST",
           "endDate": "2020/07/25 05:42 JST",
           "affectedServices": [
@@ -641,7 +641,7 @@
           "epochEndDate": 1595623320000,
           "messageId": "2000510",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/25 05:10 JST",
           "endDate": "2020/07/25 05:42 JST",
           "affectedServices": [
@@ -663,7 +663,7 @@
           "epochEndDate": 1595433420000,
           "messageId": "1003282",
           "statusType": "Issue",
-          "datePosted": "2020/07/25 06:28 JST",
+          "datePosted": "2020/07/25 06:39 JST",
           "startDate": "2020/07/23 00:25 JST",
           "endDate": "2020/07/23 00:57 JST",
           "affectedServices": null,
