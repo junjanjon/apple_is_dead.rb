@@ -159,7 +159,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1595621400000,
+          "epochEndDate": null,
+          "messageId": "2000510",
+          "statusType": "Issue",
+          "datePosted": "2020/07/25 05:42 JST",
+          "startDate": "2020/07/25 05:10 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudバックアップ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ],
       "serviceName": "iCloudカレンダー"
     },
@@ -172,7 +188,7 @@
           "epochEndDate": 1595540220000,
           "messageId": "2000507",
           "statusType": "Issue",
-          "datePosted": "2020/07/24 22:36 JST",
+          "datePosted": "2020/07/25 05:42 JST",
           "startDate": "2020/07/24 06:18 JST",
           "endDate": "2020/07/24 06:37 JST",
           "affectedServices": [
@@ -195,7 +211,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1595621400000,
+          "epochEndDate": null,
+          "messageId": "2000510",
+          "statusType": "Issue",
+          "datePosted": "2020/07/25 05:42 JST",
+          "startDate": "2020/07/25 05:10 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudバックアップ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ],
       "serviceName": "iCloudバックアップ"
     },
@@ -211,16 +243,16 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1595417580000,
-          "epochEndDate": 1595425560000,
-          "messageId": "2000506",
+          "epochStartDate": 1595593260000,
+          "epochEndDate": 1595596200000,
+          "messageId": "2000509",
           "statusType": "Issue",
-          "datePosted": "2020/07/24 22:36 JST",
-          "startDate": "2020/07/22 20:33 JST",
-          "endDate": "2020/07/22 22:46 JST",
+          "datePosted": "2020/07/25 05:42 JST",
+          "startDate": "2020/07/24 21:21 JST",
+          "endDate": "2020/07/24 22:10 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
-          "message": "メールの受信に遅延が発生した可能性があります。"
+          "message": "このサービスに関する問題が発生した可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -228,7 +260,7 @@
           "epochEndDate": 1595417580000,
           "messageId": "1003281",
           "statusType": "Issue",
-          "datePosted": "2020/07/24 22:36 JST",
+          "datePosted": "2020/07/25 05:42 JST",
           "startDate": "2020/07/22 18:35 JST",
           "endDate": "2020/07/22 20:33 JST",
           "affectedServices": null,
@@ -237,16 +269,16 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1595593260000,
-          "epochEndDate": 1595596200000,
-          "messageId": "2000509",
+          "epochStartDate": 1595417580000,
+          "epochEndDate": 1595425560000,
+          "messageId": "2000506",
           "statusType": "Issue",
-          "datePosted": "2020/07/24 22:36 JST",
-          "startDate": "2020/07/24 21:21 JST",
-          "endDate": "2020/07/24 22:10 JST",
+          "datePosted": "2020/07/25 05:42 JST",
+          "startDate": "2020/07/22 20:33 JST",
+          "endDate": "2020/07/22 22:46 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生した可能性があります。"
+          "message": "メールの受信に遅延が発生した可能性があります。"
         }
       ],
       "serviceName": "iCloudメール"
@@ -281,7 +313,7 @@
           "epochEndDate": 1595540220000,
           "messageId": "2000507",
           "statusType": "Issue",
-          "datePosted": "2020/07/24 22:36 JST",
+          "datePosted": "2020/07/25 05:42 JST",
           "startDate": "2020/07/24 06:18 JST",
           "endDate": "2020/07/24 06:37 JST",
           "affectedServices": [
@@ -438,12 +470,29 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1595621400000,
+          "epochEndDate": null,
+          "messageId": "2000510",
+          "statusType": "Issue",
+          "datePosted": "2020/07/25 05:42 JST",
+          "startDate": "2020/07/25 05:10 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudバックアップ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        },
+        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1595431500000,
           "epochEndDate": 1595433420000,
           "messageId": "1003282",
           "statusType": "Issue",
-          "datePosted": "2020/07/24 22:36 JST",
+          "datePosted": "2020/07/25 05:42 JST",
           "startDate": "2020/07/23 00:25 JST",
           "endDate": "2020/07/23 00:57 JST",
           "affectedServices": null,
