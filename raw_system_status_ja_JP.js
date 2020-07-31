@@ -52,7 +52,7 @@
       ]
     },
     {
-      "redirectUrl": "https://developer.apple.com/apple-pay/",
+      "redirectUrl": null,
       "serviceName": "Apple Pay",
       "events": [
 
