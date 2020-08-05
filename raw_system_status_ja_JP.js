@@ -131,16 +131,13 @@
           "epochEndDate": null,
           "messageId": "1003288",
           "statusType": "Issue",
-          "datePosted": "2020/08/06 02:35 JST",
+          "datePosted": "2020/08/06 02:45 JST",
           "startDate": "2020/08/06 01:56 JST",
           "endDate": null,
           "affectedServices": [
             "Game Center",
             "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloud連絡先",
-            "探す"
+            "iCloudキーチェーン"
           ],
           "eventStatus": "ongoing",
           "message": "上記のサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
@@ -178,16 +175,13 @@
           "epochEndDate": null,
           "messageId": "1003288",
           "statusType": "Issue",
-          "datePosted": "2020/08/06 02:35 JST",
+          "datePosted": "2020/08/06 02:45 JST",
           "startDate": "2020/08/06 01:56 JST",
           "endDate": null,
           "affectedServices": [
             "Game Center",
             "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloud連絡先",
-            "探す"
+            "iCloudキーチェーン"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
@@ -198,26 +192,7 @@
       "redirectUrl": null,
       "serviceName": "iCloudカレンダー",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1596646560000,
-          "epochEndDate": null,
-          "messageId": "1003288",
-          "statusType": "Issue",
-          "datePosted": "2020/08/06 02:35 JST",
-          "startDate": "2020/08/06 01:56 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Game Center",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloud連絡先",
-            "探す"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
-        }
+
       ]
     },
     {
@@ -230,16 +205,13 @@
           "epochEndDate": null,
           "messageId": "1003288",
           "statusType": "Issue",
-          "datePosted": "2020/08/06 02:35 JST",
+          "datePosted": "2020/08/06 02:45 JST",
           "startDate": "2020/08/06 01:56 JST",
           "endDate": null,
           "affectedServices": [
             "Game Center",
             "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloud連絡先",
-            "探す"
+            "iCloudキーチェーン"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
@@ -292,26 +264,7 @@
       "redirectUrl": null,
       "serviceName": "iCloud連絡先",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1596646560000,
-          "epochEndDate": null,
-          "messageId": "1003288",
-          "statusType": "Issue",
-          "datePosted": "2020/08/06 02:35 JST",
-          "startDate": "2020/08/06 01:56 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Game Center",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloud連絡先",
-            "探す"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
-        }
+
       ]
     },
     {
@@ -458,26 +411,7 @@
       "redirectUrl": null,
       "serviceName": "探す",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1596646560000,
-          "epochEndDate": null,
-          "messageId": "1003288",
-          "statusType": "Issue",
-          "datePosted": "2020/08/06 02:35 JST",
-          "startDate": "2020/08/06 01:56 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Game Center",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloud連絡先",
-            "探す"
-          ],
-          "eventStatus": "ongoing",
-          "message": "「探す」を使用できない可能性があります。"
-        }
+
       ]
     },
     {
