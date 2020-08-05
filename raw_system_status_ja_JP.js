@@ -126,21 +126,21 @@
       "serviceName": "Game Center",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1596646560000,
-          "epochEndDate": null,
+          "epochEndDate": 1596653640000,
           "messageId": "1003288",
           "statusType": "Issue",
-          "datePosted": "2020/08/06 02:45 JST",
+          "datePosted": "2020/08/06 04:02 JST",
           "startDate": "2020/08/06 01:56 JST",
-          "endDate": null,
+          "endDate": "2020/08/06 03:54 JST",
           "affectedServices": [
             "Game Center",
             "iCloudアカウントおよびサインイン",
             "iCloudキーチェーン"
           ],
-          "eventStatus": "ongoing",
-          "message": "上記のサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "上記のサービスに関する問題が発生しました。"
         }
       ]
     },
@@ -170,21 +170,21 @@
       "serviceName": "iCloudアカウントおよびサインイン",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1596646560000,
-          "epochEndDate": null,
+          "epochEndDate": 1596653640000,
           "messageId": "1003288",
           "statusType": "Issue",
-          "datePosted": "2020/08/06 02:45 JST",
+          "datePosted": "2020/08/06 04:02 JST",
           "startDate": "2020/08/06 01:56 JST",
-          "endDate": null,
+          "endDate": "2020/08/06 03:54 JST",
           "affectedServices": [
             "Game Center",
             "iCloudアカウントおよびサインイン",
             "iCloudキーチェーン"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ]
     },
@@ -200,21 +200,21 @@
       "serviceName": "iCloudキーチェーン",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1596646560000,
-          "epochEndDate": null,
+          "epochEndDate": 1596653640000,
           "messageId": "1003288",
           "statusType": "Issue",
-          "datePosted": "2020/08/06 02:45 JST",
+          "datePosted": "2020/08/06 04:02 JST",
           "startDate": "2020/08/06 01:56 JST",
-          "endDate": null,
+          "endDate": "2020/08/06 03:54 JST",
           "affectedServices": [
             "Game Center",
             "iCloudアカウントおよびサインイン",
             "iCloudキーチェーン"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ]
     },
