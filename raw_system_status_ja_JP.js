@@ -196,12 +196,25 @@
       "serviceName": "iCloudメール",
       "events": [
         {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1597156200000,
+          "epochEndDate": null,
+          "messageId": "2000516",
+          "statusType": "Issue",
+          "datePosted": "2020/08/12 00:21 JST",
+          "startDate": "2020/08/11 23:30 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        },
+        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1597091040000,
           "epochEndDate": 1597093920000,
           "messageId": "1003290",
           "statusType": "Issue",
-          "datePosted": "2020/08/11 08:03 JST",
+          "datePosted": "2020/08/12 00:21 JST",
           "startDate": "2020/08/11 05:24 JST",
           "endDate": "2020/08/11 06:12 JST",
           "affectedServices": null,
