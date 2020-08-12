@@ -124,7 +124,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1597193100000,
+          "epochEndDate": 1597195920000,
+          "messageId": "1003292",
+          "statusType": "Issue",
+          "datePosted": "2020/08/12 10:42 JST",
+          "startDate": "2020/08/12 09:45 JST",
+          "endDate": "2020/08/12 10:32 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "上記のサービスに関する問題が発生しました。"
+        }
       ],
       "serviceName": "Game Center"
     },
@@ -196,29 +208,29 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1597091040000,
-          "epochEndDate": 1597093920000,
-          "messageId": "1003290",
-          "statusType": "Issue",
-          "datePosted": "2020/08/12 00:52 JST",
-          "startDate": "2020/08/11 05:24 JST",
-          "endDate": "2020/08/11 06:12 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの動作速度が通常より低下した可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1597156260000,
           "epochEndDate": 1597159680000,
           "messageId": "2000516",
           "statusType": "Issue",
-          "datePosted": "2020/08/12 00:52 JST",
+          "datePosted": "2020/08/12 10:42 JST",
           "startDate": "2020/08/11 23:31 JST",
           "endDate": "2020/08/12 00:28 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生した可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1597091040000,
+          "epochEndDate": 1597093920000,
+          "messageId": "1003290",
+          "statusType": "Issue",
+          "datePosted": "2020/08/12 10:42 JST",
+          "startDate": "2020/08/11 05:24 JST",
+          "endDate": "2020/08/11 06:12 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
         }
       ],
       "serviceName": "iCloudメール"
