@@ -152,7 +152,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1597669200000,
+          "epochEndDate": null,
+          "messageId": "2000525",
+          "statusType": "Issue",
+          "datePosted": "2020/08/17 22:57 JST",
+          "startDate": "2020/08/17 22:00 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
     },
