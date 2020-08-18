@@ -159,7 +159,7 @@
           "epochEndDate": 1597672380000,
           "messageId": "2000525",
           "statusType": "Issue",
-          "datePosted": "2020/08/17 23:04 JST",
+          "datePosted": "2020/08/18 17:00 JST",
           "startDate": "2020/08/17 22:00 JST",
           "endDate": "2020/08/17 22:53 JST",
           "affectedServices": [
@@ -216,7 +216,7 @@
           "epochEndDate": 1597672380000,
           "messageId": "2000525",
           "statusType": "Issue",
-          "datePosted": "2020/08/17 23:04 JST",
+          "datePosted": "2020/08/18 17:00 JST",
           "startDate": "2020/08/17 22:00 JST",
           "endDate": "2020/08/17 22:53 JST",
           "affectedServices": [
