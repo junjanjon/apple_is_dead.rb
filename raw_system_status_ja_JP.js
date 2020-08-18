@@ -61,7 +61,7 @@
           "epochEndDate": null,
           "messageId": "2000526",
           "statusType": "Performance",
-          "datePosted": "2020/08/18 22:13 JST",
+          "datePosted": "2020/08/19 03:53 JST",
           "startDate": "2020/08/18 14:00 JST",
           "endDate": null,
           "affectedServices": null,
@@ -171,7 +171,7 @@
           "epochEndDate": 1597672380000,
           "messageId": "2000525",
           "statusType": "Issue",
-          "datePosted": "2020/08/18 22:13 JST",
+          "datePosted": "2020/08/19 03:53 JST",
           "startDate": "2020/08/17 22:00 JST",
           "endDate": "2020/08/17 22:53 JST",
           "affectedServices": [
@@ -228,7 +228,7 @@
           "epochEndDate": 1597672380000,
           "messageId": "2000525",
           "statusType": "Issue",
-          "datePosted": "2020/08/18 22:13 JST",
+          "datePosted": "2020/08/19 03:53 JST",
           "startDate": "2020/08/17 22:00 JST",
           "endDate": "2020/08/17 22:53 JST",
           "affectedServices": [
@@ -237,6 +237,19 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生した可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1597774500000,
+          "epochEndDate": 1597775940000,
+          "messageId": "2000527",
+          "statusType": "Issue",
+          "datePosted": "2020/08/19 03:53 JST",
+          "startDate": "2020/08/19 03:15 JST",
+          "endDate": "2020/08/19 03:39 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ]
     },
