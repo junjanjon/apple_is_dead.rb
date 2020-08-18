@@ -61,7 +61,7 @@
           "epochEndDate": null,
           "messageId": "2000526",
           "statusType": "Performance",
-          "datePosted": "2020/08/19 03:53 JST",
+          "datePosted": "2020/08/19 05:43 JST",
           "startDate": "2020/08/18 14:00 JST",
           "endDate": null,
           "affectedServices": null,
@@ -144,7 +144,19 @@
       "redirectUrl": null,
       "serviceName": "Global Service Exchange",
       "events": [
-
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1597780200000,
+          "epochEndDate": null,
+          "messageId": "2000528",
+          "statusType": "Issue",
+          "datePosted": "2020/08/19 05:43 JST",
+          "startDate": "2020/08/19 04:50 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "GSX APIは現在ご利用になれません。Appleチームが問題を解決するために対応中です。しばらくしてから更新を確認してください。"
+        }
       ]
     },
     {
@@ -171,7 +183,7 @@
           "epochEndDate": 1597672380000,
           "messageId": "2000525",
           "statusType": "Issue",
-          "datePosted": "2020/08/19 03:53 JST",
+          "datePosted": "2020/08/19 05:43 JST",
           "startDate": "2020/08/17 22:00 JST",
           "endDate": "2020/08/17 22:53 JST",
           "affectedServices": [
@@ -224,11 +236,24 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1597774500000,
+          "epochEndDate": 1597775940000,
+          "messageId": "2000527",
+          "statusType": "Issue",
+          "datePosted": "2020/08/19 05:43 JST",
+          "startDate": "2020/08/19 03:15 JST",
+          "endDate": "2020/08/19 03:39 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1597669200000,
           "epochEndDate": 1597672380000,
           "messageId": "2000525",
           "statusType": "Issue",
-          "datePosted": "2020/08/19 03:53 JST",
+          "datePosted": "2020/08/19 05:43 JST",
           "startDate": "2020/08/17 22:00 JST",
           "endDate": "2020/08/17 22:53 JST",
           "affectedServices": [
@@ -237,19 +262,6 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生した可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1597774500000,
-          "epochEndDate": 1597775940000,
-          "messageId": "2000527",
-          "statusType": "Issue",
-          "datePosted": "2020/08/19 03:53 JST",
-          "startDate": "2020/08/19 03:15 JST",
-          "endDate": "2020/08/19 03:39 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
         }
       ]
     },
