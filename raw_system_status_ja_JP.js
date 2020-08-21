@@ -60,7 +60,7 @@
           "epochEndDate": 1597788000000,
           "messageId": "2000526",
           "statusType": "Performance",
-          "datePosted": "2020/08/19 17:00 JST",
+          "datePosted": "2020/08/21 17:00 JST",
           "startDate": "2020/08/18 14:00 JST",
           "endDate": "2020/08/19 07:00 JST",
           "affectedServices": null,
@@ -149,7 +149,7 @@
           "epochEndDate": 1597785300000,
           "messageId": "2000528",
           "statusType": "Issue",
-          "datePosted": "2020/08/19 17:00 JST",
+          "datePosted": "2020/08/21 17:00 JST",
           "startDate": "2020/08/19 04:50 JST",
           "endDate": "2020/08/19 06:15 JST",
           "affectedServices": null,
@@ -176,22 +176,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1597669200000,
-          "epochEndDate": 1597672380000,
-          "messageId": "2000525",
-          "statusType": "Issue",
-          "datePosted": "2020/08/19 17:00 JST",
-          "startDate": "2020/08/17 22:00 JST",
-          "endDate": "2020/08/17 22:53 JST",
-          "affectedServices": [
-            "iCloudアカウントおよびサインイン",
-            "iCloudメール"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
     },
@@ -235,27 +220,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1597669200000,
-          "epochEndDate": 1597672380000,
-          "messageId": "2000525",
-          "statusType": "Issue",
-          "datePosted": "2020/08/19 17:00 JST",
-          "startDate": "2020/08/17 22:00 JST",
-          "endDate": "2020/08/17 22:53 JST",
-          "affectedServices": [
-            "iCloudアカウントおよびサインイン",
-            "iCloudメール"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生した可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1597774500000,
           "epochEndDate": 1597775940000,
           "messageId": "2000527",
           "statusType": "Issue",
-          "datePosted": "2020/08/19 17:00 JST",
+          "datePosted": "2020/08/21 17:00 JST",
           "startDate": "2020/08/19 03:15 JST",
           "endDate": "2020/08/19 03:39 JST",
           "affectedServices": null,
