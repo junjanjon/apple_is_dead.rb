@@ -4,410 +4,374 @@
   "services": [
     {
       "redirectUrl": null,
+      "serviceName": "App Store",
       "events": [
 
-      ],
-      "serviceName": "App Store"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple Arcade",
       "events": [
 
-      ],
-      "serviceName": "Apple Arcade"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple Books",
       "events": [
 
-      ],
-      "serviceName": "Apple Books"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple ID",
       "events": [
 
-      ],
-      "serviceName": "Apple ID"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple Music",
       "events": [
 
-      ],
-      "serviceName": "Apple Music"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple Musicのサブスクリプション",
       "events": [
 
-      ],
-      "serviceName": "Apple Musicのサブスクリプション"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple Online Store",
       "events": [
 
-      ],
-      "serviceName": "Apple Online Store"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1597726800000,
-          "epochEndDate": 1597788000000,
-          "messageId": "2000526",
-          "statusType": "Performance",
-          "datePosted": "2020/08/22 06:59 JST",
-          "startDate": "2020/08/18 14:00 JST",
-          "endDate": "2020/08/19 07:00 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザは、カードをApple Payに追加できませんでした。"
-        }
-      ],
-      "serviceName": "Apple Pay"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "Apple Pay",
       "events": [
 
-      ],
-      "serviceName": "Apple School Manager"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple School Manager",
       "events": [
 
-      ],
-      "serviceName": "Apple TV+"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple TV+",
       "events": [
 
-      ],
-      "serviceName": "Apple TVチャンネル"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple TVチャンネル",
       "events": [
 
-      ],
-      "serviceName": "AppleCare（iOS）"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "AppleCare（iOS）",
       "events": [
 
-      ],
-      "serviceName": "Appleでサインイン"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Appleでサインイン",
       "events": [
 
-      ],
-      "serviceName": "Apple Music Radio"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple Music Radio",
       "events": [
 
-      ],
-      "serviceName": "Device Enrollment Program"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Device Enrollment Program",
       "events": [
 
-      ],
-      "serviceName": "Documents in the Cloud"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Documents in the Cloud",
       "events": [
 
-      ],
-      "serviceName": "FaceTime"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "FaceTime",
       "events": [
 
-      ],
-      "serviceName": "Game Center"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1597780200000,
-          "epochEndDate": 1597785300000,
-          "messageId": "2000528",
-          "statusType": "Issue",
-          "datePosted": "2020/08/22 06:59 JST",
-          "startDate": "2020/08/19 04:50 JST",
-          "endDate": "2020/08/19 06:15 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "GSX APIはご利用になれませんでした"
-        }
-      ],
-      "serviceName": "Global Service Exchange"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "Game Center",
       "events": [
 
-      ],
-      "serviceName": "iCloud Drive"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Global Service Exchange",
       "events": [
 
-      ],
-      "serviceName": "iCloud Web Apps (iCloud.com)"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloud Drive",
       "events": [
 
-      ],
-      "serviceName": "iCloudアカウントおよびサインイン"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
 
-      ],
-      "serviceName": "iCloudカレンダー"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudアカウントおよびサインイン",
       "events": [
 
-      ],
-      "serviceName": "iCloudキーチェーン"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudカレンダー",
       "events": [
 
-      ],
-      "serviceName": "iCloudストレージアップグレード"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudキーチェーン",
       "events": [
 
-      ],
-      "serviceName": "iCloudバックアップ"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudストレージアップグレード",
       "events": [
 
-      ],
-      "serviceName": "iCloudブックマークおよびタブ"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1597774500000,
-          "epochEndDate": 1597775940000,
-          "messageId": "2000527",
-          "statusType": "Issue",
-          "datePosted": "2020/08/22 06:59 JST",
-          "startDate": "2020/08/19 03:15 JST",
-          "endDate": "2020/08/19 03:39 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
-      ],
-      "serviceName": "iCloudメール"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "iCloudバックアップ",
       "events": [
 
-      ],
-      "serviceName": "iCloudメモ"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudブックマークおよびタブ",
       "events": [
 
-      ],
-      "serviceName": "iCloudリマインダー"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudメール",
       "events": [
 
-      ],
-      "serviceName": "iCloud連絡先"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudメモ",
       "events": [
 
-      ],
-      "serviceName": "iMessage"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudリマインダー",
       "events": [
 
-      ],
-      "serviceName": "iOSデバイスアクティベーション"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloud連絡先",
       "events": [
 
-      ],
-      "serviceName": "iTunes Match"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iMessage",
       "events": [
 
-      ],
-      "serviceName": "iTunes Store"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iOSデバイスアクティベーション",
       "events": [
 
-      ],
-      "serviceName": "iTunes U"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iTunes Match",
       "events": [
 
-      ],
-      "serviceName": "iWork for iCloud"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iTunes Store",
       "events": [
 
-      ],
-      "serviceName": "Mac App Store"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iTunes U",
       "events": [
 
-      ],
-      "serviceName": "macOSソフトウェアアップデート"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iWork for iCloud",
       "events": [
 
-      ],
-      "serviceName": "Mail Drop"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Mac App Store",
       "events": [
 
-      ],
-      "serviceName": "Radio"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "macOSソフトウェアアップデート",
       "events": [
 
-      ],
-      "serviceName": "Siri"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Mail Drop",
       "events": [
 
-      ],
-      "serviceName": "Spotlightの検索候補"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Radio",
       "events": [
 
-      ],
-      "serviceName": "Volume Purchase Program"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Siri",
       "events": [
 
-      ],
-      "serviceName": "スクールワーク"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Spotlightの検索候補",
       "events": [
 
-      ],
-      "serviceName": "スクリーンタイム"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Volume Purchase Program",
       "events": [
 
-      ],
-      "serviceName": "トランシーバー"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "スクールワーク",
       "events": [
 
-      ],
-      "serviceName": "マップの経路案内とナビゲーション"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "スクリーンタイム",
       "events": [
 
-      ],
-      "serviceName": "マップの検索"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "トランシーバー",
       "events": [
 
-      ],
-      "serviceName": "マップの表示"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "マップの経路案内とナビゲーション",
       "events": [
 
-      ],
-      "serviceName": "音声入力"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "マップの検索",
       "events": [
 
-      ],
-      "serviceName": "探す"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "マップの表示",
       "events": [
 
-      ],
-      "serviceName": "写真"
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "音声入力",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "探す",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "写真",
+      "events": [
+
+      ]
     }
   ]
 }
