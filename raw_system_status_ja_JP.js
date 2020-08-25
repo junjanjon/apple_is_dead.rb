@@ -145,7 +145,7 @@
           "epochEndDate": 1598114280000,
           "messageId": "2000533",
           "statusType": "Issue",
-          "datePosted": "2020/08/25 02:32 JST",
+          "datePosted": "2020/08/25 14:18 JST",
           "startDate": "2020/08/23 01:01 JST",
           "endDate": "2020/08/23 01:38 JST",
           "affectedServices": [
@@ -180,7 +180,7 @@
           "epochEndDate": 1598114280000,
           "messageId": "2000533",
           "statusType": "Issue",
-          "datePosted": "2020/08/25 02:32 JST",
+          "datePosted": "2020/08/25 14:18 JST",
           "startDate": "2020/08/23 01:01 JST",
           "endDate": "2020/08/23 01:38 JST",
           "affectedServices": [
@@ -229,7 +229,7 @@
           "epochEndDate": 1598114280000,
           "messageId": "2000533",
           "statusType": "Issue",
-          "datePosted": "2020/08/25 02:32 JST",
+          "datePosted": "2020/08/25 14:18 JST",
           "startDate": "2020/08/23 01:01 JST",
           "endDate": "2020/08/23 01:38 JST",
           "affectedServices": [
@@ -259,25 +259,12 @@
       "serviceName": "iCloudメール",
       "events": [
         {
-          "usersAffected": "0.0083%未満のユーザに影響しました",
-          "epochStartDate": 1598277900000,
-          "epochEndDate": 1598288940000,
-          "messageId": "2000535",
-          "statusType": "Issue",
-          "datePosted": "2020/08/25 02:32 JST",
-          "startDate": "2020/08/24 23:05 JST",
-          "endDate": "2020/08/25 02:09 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        },
-        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1598112060000,
           "epochEndDate": 1598114280000,
           "messageId": "2000533",
           "statusType": "Issue",
-          "datePosted": "2020/08/25 02:32 JST",
+          "datePosted": "2020/08/25 14:18 JST",
           "startDate": "2020/08/23 01:01 JST",
           "endDate": "2020/08/23 01:38 JST",
           "affectedServices": [
@@ -292,6 +279,32 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1598328300000,
+          "epochEndDate": 1598331720000,
+          "messageId": "2000536",
+          "statusType": "Issue",
+          "datePosted": "2020/08/25 14:18 JST",
+          "startDate": "2020/08/25 13:05 JST",
+          "endDate": "2020/08/25 14:02 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
+        },
+        {
+          "usersAffected": "0.0083%未満のユーザに影響しました",
+          "epochStartDate": 1598277900000,
+          "epochEndDate": 1598288940000,
+          "messageId": "2000535",
+          "statusType": "Issue",
+          "datePosted": "2020/08/25 14:18 JST",
+          "startDate": "2020/08/24 23:05 JST",
+          "endDate": "2020/08/25 02:09 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ]
     },
@@ -305,7 +318,7 @@
           "epochEndDate": 1598114280000,
           "messageId": "2000533",
           "statusType": "Issue",
-          "datePosted": "2020/08/25 02:32 JST",
+          "datePosted": "2020/08/25 14:18 JST",
           "startDate": "2020/08/23 01:01 JST",
           "endDate": "2020/08/23 01:38 JST",
           "affectedServices": [
@@ -333,7 +346,7 @@
           "epochEndDate": 1598114280000,
           "messageId": "2000533",
           "statusType": "Issue",
-          "datePosted": "2020/08/25 02:32 JST",
+          "datePosted": "2020/08/25 14:18 JST",
           "startDate": "2020/08/23 01:01 JST",
           "endDate": "2020/08/23 01:38 JST",
           "affectedServices": [
@@ -466,7 +479,7 @@
           "epochEndDate": 1598114280000,
           "messageId": "2000533",
           "statusType": "Issue",
-          "datePosted": "2020/08/25 02:32 JST",
+          "datePosted": "2020/08/25 14:18 JST",
           "startDate": "2020/08/23 01:01 JST",
           "endDate": "2020/08/23 01:38 JST",
           "affectedServices": [
@@ -536,7 +549,7 @@
           "epochEndDate": 1598114280000,
           "messageId": "2000533",
           "statusType": "Issue",
-          "datePosted": "2020/08/25 02:32 JST",
+          "datePosted": "2020/08/25 14:18 JST",
           "startDate": "2020/08/23 01:01 JST",
           "endDate": "2020/08/23 01:38 JST",
           "affectedServices": [
