@@ -139,28 +139,7 @@
       "redirectUrl": null,
       "serviceName": "iCloud Drive",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1598112060000,
-          "epochEndDate": 1598114280000,
-          "messageId": "2000533",
-          "statusType": "Issue",
-          "datePosted": "2020/08/25 17:00 JST",
-          "startDate": "2020/08/23 01:01 JST",
-          "endDate": "2020/08/23 01:38 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudアカウントおよびサインイン",
-            "iCloudバックアップ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -174,28 +153,7 @@
       "redirectUrl": null,
       "serviceName": "iCloudアカウントおよびサインイン",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1598112060000,
-          "epochEndDate": 1598114280000,
-          "messageId": "2000533",
-          "statusType": "Issue",
-          "datePosted": "2020/08/25 17:00 JST",
-          "startDate": "2020/08/23 01:01 JST",
-          "endDate": "2020/08/23 01:38 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudアカウントおよびサインイン",
-            "iCloudバックアップ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -223,28 +181,7 @@
       "redirectUrl": null,
       "serviceName": "iCloudバックアップ",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1598112060000,
-          "epochEndDate": 1598114280000,
-          "messageId": "2000533",
-          "statusType": "Issue",
-          "datePosted": "2020/08/25 17:00 JST",
-          "startDate": "2020/08/23 01:01 JST",
-          "endDate": "2020/08/23 01:38 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudアカウントおよびサインイン",
-            "iCloudバックアップ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -260,33 +197,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1598112060000,
-          "epochEndDate": 1598114280000,
-          "messageId": "2000533",
-          "statusType": "Issue",
-          "datePosted": "2020/08/25 17:00 JST",
-          "startDate": "2020/08/23 01:01 JST",
-          "endDate": "2020/08/23 01:38 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudアカウントおよびサインイン",
-            "iCloudバックアップ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1598328300000,
           "epochEndDate": 1598331720000,
           "messageId": "2000536",
           "statusType": "Issue",
-          "datePosted": "2020/08/25 17:00 JST",
+          "datePosted": "2020/08/26 17:00 JST",
           "startDate": "2020/08/25 13:05 JST",
           "endDate": "2020/08/25 14:02 JST",
           "affectedServices": null,
@@ -299,7 +214,7 @@
           "epochEndDate": 1598288940000,
           "messageId": "2000535",
           "statusType": "Issue",
-          "datePosted": "2020/08/25 17:00 JST",
+          "datePosted": "2020/08/26 17:00 JST",
           "startDate": "2020/08/24 23:05 JST",
           "endDate": "2020/08/25 02:09 JST",
           "affectedServices": null,
@@ -312,56 +227,14 @@
       "redirectUrl": null,
       "serviceName": "iCloudメモ",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1598112060000,
-          "epochEndDate": 1598114280000,
-          "messageId": "2000533",
-          "statusType": "Issue",
-          "datePosted": "2020/08/25 17:00 JST",
-          "startDate": "2020/08/23 01:01 JST",
-          "endDate": "2020/08/23 01:38 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudアカウントおよびサインイン",
-            "iCloudバックアップ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iCloudリマインダー",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1598112060000,
-          "epochEndDate": 1598114280000,
-          "messageId": "2000533",
-          "statusType": "Issue",
-          "datePosted": "2020/08/25 17:00 JST",
-          "startDate": "2020/08/23 01:01 JST",
-          "endDate": "2020/08/23 01:38 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudアカウントおよびサインイン",
-            "iCloudバックアップ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -473,28 +346,7 @@
       "redirectUrl": null,
       "serviceName": "スクリーンタイム",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1598112060000,
-          "epochEndDate": 1598114280000,
-          "messageId": "2000533",
-          "statusType": "Issue",
-          "datePosted": "2020/08/25 17:00 JST",
-          "startDate": "2020/08/23 01:01 JST",
-          "endDate": "2020/08/23 01:38 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudアカウントおよびサインイン",
-            "iCloudバックアップ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -543,28 +395,7 @@
       "redirectUrl": null,
       "serviceName": "写真",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1598112060000,
-          "epochEndDate": 1598114280000,
-          "messageId": "2000533",
-          "statusType": "Issue",
-          "datePosted": "2020/08/25 17:00 JST",
-          "startDate": "2020/08/23 01:01 JST",
-          "endDate": "2020/08/23 01:38 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudアカウントおよびサインイン",
-            "iCloudバックアップ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     }
   ]
