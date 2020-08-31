@@ -133,12 +133,12 @@
       "serviceName": "Global Service Exchange",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "すべてのユーザに影響します",
           "epochStartDate": 1598897700000,
           "epochEndDate": null,
           "messageId": "2000543",
           "statusType": "Outage",
-          "datePosted": "2020/09/01 03:24 JST",
+          "datePosted": "2020/09/01 03:42 JST",
           "startDate": "2020/09/01 03:15 JST",
           "endDate": null,
           "affectedServices": null,
