@@ -75,13 +75,10 @@
           "epochEndDate": null,
           "messageId": "2000547",
           "statusType": "Issue",
-          "datePosted": "2020/09/02 02:00 JST",
+          "datePosted": "2020/09/02 02:26 JST",
           "startDate": "2020/09/01 22:05 JST",
           "endDate": null,
-          "affectedServices": [
-            "Apple School Manager",
-            null
-          ],
+          "affectedServices": null,
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生しています。問題について調査中です。"
         }
@@ -153,7 +150,7 @@
           "epochEndDate": 1598903100000,
           "messageId": "2000543",
           "statusType": "Outage",
-          "datePosted": "2020/09/02 02:00 JST",
+          "datePosted": "2020/09/02 02:26 JST",
           "startDate": "2020/09/01 03:15 JST",
           "endDate": "2020/09/01 04:45 JST",
           "affectedServices": null,
@@ -341,7 +338,19 @@
       "redirectUrl": null,
       "serviceName": "スクールワーク",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1598972280000,
+          "epochEndDate": 1598979300000,
+          "messageId": "2000548",
+          "statusType": "Issue",
+          "datePosted": "2020/09/02 02:26 JST",
+          "startDate": "2020/09/01 23:58 JST",
+          "endDate": "2020/09/02 01:55 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ]
     },
     {
