@@ -74,7 +74,7 @@
           "epochEndDate": 1598985600000,
           "messageId": "2000547",
           "statusType": "Issue",
-          "datePosted": "2020/09/03 12:23 JST",
+          "datePosted": "2020/09/04 17:00 JST",
           "startDate": "2020/09/01 22:05 JST",
           "endDate": "2020/09/02 03:40 JST",
           "affectedServices": null,
@@ -143,19 +143,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1598897700000,
-          "epochEndDate": 1598903100000,
-          "messageId": "2000543",
-          "statusType": "Outage",
-          "datePosted": "2020/09/03 12:23 JST",
-          "startDate": "2020/09/01 03:15 JST",
-          "endDate": "2020/09/01 04:45 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "GSX APIはご利用になれませんでした"
-        }
+
       ],
       "serviceName": "Global Service Exchange"
     },
@@ -343,7 +331,7 @@
           "epochEndDate": 1598979300000,
           "messageId": "2000548",
           "statusType": "Issue",
-          "datePosted": "2020/09/03 12:23 JST",
+          "datePosted": "2020/09/04 17:00 JST",
           "startDate": "2020/09/01 23:58 JST",
           "endDate": "2020/09/02 01:55 JST",
           "affectedServices": null,
