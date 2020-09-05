@@ -62,7 +62,19 @@
       "redirectUrl": null,
       "serviceName": "Apple Pay",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1599285600000,
+          "epochEndDate": null,
+          "messageId": "2000553",
+          "statusType": "Issue",
+          "datePosted": "2020/09/05 17:35 JST",
+          "startDate": "2020/09/05 15:00 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "ユーザは、カードをApple Payに追加できない場合があります。"
+        }
       ]
     },
     {
@@ -152,7 +164,7 @@
           "epochEndDate": 1599233400000,
           "messageId": "2000552",
           "statusType": "Issue",
-          "datePosted": "2020/09/05 17:00 JST",
+          "datePosted": "2020/09/05 17:35 JST",
           "startDate": "2020/09/04 03:56 JST",
           "endDate": "2020/09/05 00:30 JST",
           "affectedServices": null,
