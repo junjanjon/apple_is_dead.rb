@@ -200,7 +200,7 @@
           "epochEndDate": 1599678120000,
           "messageId": "2000557",
           "statusType": "Issue",
-          "datePosted": "2020/09/10 04:20 JST",
+          "datePosted": "2020/09/10 09:05 JST",
           "startDate": "2020/09/10 03:33 JST",
           "endDate": "2020/09/10 04:02 JST",
           "affectedServices": null,
@@ -325,7 +325,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1599415200000,
+          "epochEndDate": 1599690600000,
+          "messageId": "2000558",
+          "statusType": "Issue",
+          "datePosted": "2020/09/10 09:05 JST",
+          "startDate": "2020/09/07 03:00 JST",
+          "endDate": "2020/09/10 07:30 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "serviceName": "スクールワーク"
     },
