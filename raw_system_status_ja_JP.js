@@ -69,7 +69,19 @@
       "redirectUrl": null,
       "serviceName": "Apple School Manager",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1599831540000,
+          "epochEndDate": null,
+          "messageId": "2000561",
+          "statusType": "Issue",
+          "datePosted": "2020/09/12 00:34 JST",
+          "startDate": "2020/09/11 22:39 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+        }
       ]
     },
     {
@@ -152,7 +164,7 @@
           "epochEndDate": 1599783120000,
           "messageId": "2000559",
           "statusType": "Issue",
-          "datePosted": "2020/09/12 00:07 JST",
+          "datePosted": "2020/09/12 00:34 JST",
           "startDate": "2020/09/11 09:00 JST",
           "endDate": "2020/09/11 09:12 JST",
           "affectedServices": null,
@@ -213,7 +225,7 @@
           "epochEndDate": 1599678120000,
           "messageId": "2000557",
           "statusType": "Issue",
-          "datePosted": "2020/09/12 00:07 JST",
+          "datePosted": "2020/09/12 00:34 JST",
           "startDate": "2020/09/10 03:33 JST",
           "endDate": "2020/09/10 04:02 JST",
           "affectedServices": null,
@@ -344,7 +356,7 @@
           "epochEndDate": 1599690600000,
           "messageId": "2000558",
           "statusType": "Issue",
-          "datePosted": "2020/09/12 00:07 JST",
+          "datePosted": "2020/09/12 00:34 JST",
           "startDate": "2020/09/07 03:00 JST",
           "endDate": "2020/09/10 07:30 JST",
           "affectedServices": null,
@@ -357,7 +369,7 @@
           "epochEndDate": 1599835500000,
           "messageId": "2000560",
           "statusType": "Issue",
-          "datePosted": "2020/09/12 00:07 JST",
+          "datePosted": "2020/09/12 00:34 JST",
           "startDate": "2020/09/11 22:39 JST",
           "endDate": "2020/09/11 23:45 JST",
           "affectedServices": null,
