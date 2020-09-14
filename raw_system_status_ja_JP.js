@@ -75,7 +75,7 @@
           "epochEndDate": 1599846900000,
           "messageId": "2000562",
           "statusType": "Issue",
-          "datePosted": "2020/09/13 17:00 JST",
+          "datePosted": "2020/09/14 17:00 JST",
           "startDate": "2020/09/12 02:00 JST",
           "endDate": "2020/09/12 02:55 JST",
           "affectedServices": null,
@@ -88,7 +88,7 @@
           "epochEndDate": 1599838680000,
           "messageId": "2000561",
           "statusType": "Issue",
-          "datePosted": "2020/09/13 17:00 JST",
+          "datePosted": "2020/09/14 17:00 JST",
           "startDate": "2020/09/11 22:39 JST",
           "endDate": "2020/09/12 00:38 JST",
           "affectedServices": null,
@@ -171,19 +171,7 @@
       "redirectUrl": null,
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1599782400000,
-          "epochEndDate": 1599783120000,
-          "messageId": "2000559",
-          "statusType": "Issue",
-          "datePosted": "2020/09/13 17:00 JST",
-          "startDate": "2020/09/11 09:00 JST",
-          "endDate": "2020/09/11 09:12 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザがサインインできなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -353,29 +341,29 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1599848400000,
-          "epochEndDate": 1599854580000,
-          "messageId": "2000563",
-          "statusType": "Issue",
-          "datePosted": "2020/09/13 17:00 JST",
-          "startDate": "2020/09/12 03:20 JST",
-          "endDate": "2020/09/12 05:03 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1599831540000,
           "epochEndDate": 1599835500000,
           "messageId": "2000560",
           "statusType": "Issue",
-          "datePosted": "2020/09/13 17:00 JST",
+          "datePosted": "2020/09/14 17:00 JST",
           "startDate": "2020/09/11 22:39 JST",
           "endDate": "2020/09/11 23:45 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1599848400000,
+          "epochEndDate": 1599854580000,
+          "messageId": "2000563",
+          "statusType": "Issue",
+          "datePosted": "2020/09/14 17:00 JST",
+          "startDate": "2020/09/12 03:20 JST",
+          "endDate": "2020/09/12 05:03 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ]
     },
