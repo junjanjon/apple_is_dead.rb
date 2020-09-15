@@ -69,32 +69,7 @@
       "redirectUrl": null,
       "serviceName": "Apple School Manager",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1599843600000,
-          "epochEndDate": 1599846900000,
-          "messageId": "2000562",
-          "statusType": "Issue",
-          "datePosted": "2020/09/15 15:32 JST",
-          "startDate": "2020/09/12 02:00 JST",
-          "endDate": "2020/09/12 02:55 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。問題について調査し、解決しました。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1599831540000,
-          "epochEndDate": 1599838680000,
-          "messageId": "2000561",
-          "statusType": "Issue",
-          "datePosted": "2020/09/15 15:32 JST",
-          "startDate": "2020/09/11 22:39 JST",
-          "endDate": "2020/09/12 00:38 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。問題について調査し、解決しました。"
-        }
+
       ]
     },
     {
@@ -339,32 +314,7 @@
       "redirectUrl": null,
       "serviceName": "スクールワーク",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1599831540000,
-          "epochEndDate": 1599835500000,
-          "messageId": "2000560",
-          "statusType": "Issue",
-          "datePosted": "2020/09/15 15:32 JST",
-          "startDate": "2020/09/11 22:39 JST",
-          "endDate": "2020/09/11 23:45 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1599848400000,
-          "epochEndDate": 1599854580000,
-          "messageId": "2000563",
-          "statusType": "Issue",
-          "datePosted": "2020/09/15 15:32 JST",
-          "startDate": "2020/09/12 03:20 JST",
-          "endDate": "2020/09/12 05:03 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
