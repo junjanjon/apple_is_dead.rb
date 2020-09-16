@@ -69,7 +69,22 @@
       "redirectUrl": null,
       "serviceName": "Apple School Manager",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1600265520000,
+          "epochEndDate": null,
+          "messageId": "2000568",
+          "statusType": "Issue",
+          "datePosted": "2020/09/17 00:00 JST",
+          "startDate": "2020/09/16 23:12 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+        }
       ]
     },
     {
