@@ -74,7 +74,7 @@
           "epochEndDate": 1600269540000,
           "messageId": "2000568",
           "statusType": "Issue",
-          "datePosted": "2020/09/19 04:06 JST",
+          "datePosted": "2020/09/19 04:19 JST",
           "startDate": "2020/09/16 23:12 JST",
           "endDate": "2020/09/17 00:19 JST",
           "affectedServices": [
@@ -215,7 +215,7 @@
           "epochEndDate": 1600372560000,
           "messageId": "2000571",
           "statusType": "Issue",
-          "datePosted": "2020/09/19 04:06 JST",
+          "datePosted": "2020/09/19 04:19 JST",
           "startDate": "2020/09/18 03:30 JST",
           "endDate": "2020/09/18 04:56 JST",
           "affectedServices": null,
@@ -336,6 +336,13 @@
 
       ],
       "serviceName": "Volume Purchase Program"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
+      "serviceName": "スクールタイム"
     },
     {
       "redirectUrl": null,
