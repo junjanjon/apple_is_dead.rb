@@ -117,7 +117,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/29 08:21 JST",
+          "datePosted": "2020/09/29 08:34 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
@@ -162,26 +162,26 @@
       "redirectUrl": null,
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1601325000000,
-          "epochEndDate": null,
-          "messageId": "1003303",
-          "statusType": "Issue",
-          "datePosted": "2020/09/29 08:21 JST",
-          "startDate": "2020/09/29 05:30 JST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "ユーザがサインインできない、またはアカウントを作成できない可能性があります。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iCloudアカウントおよびサインイン",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1601325000000,
+          "epochEndDate": null,
+          "messageId": "1003303",
+          "statusType": "Issue",
+          "datePosted": "2020/09/29 08:34 JST",
+          "startDate": "2020/09/29 05:30 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "ユーザがサインインできない、またはアカウントを作成できない可能性があります。"
+        }
       ]
     },
     {
@@ -215,7 +215,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/29 08:21 JST",
+          "datePosted": "2020/09/29 08:34 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
@@ -427,7 +427,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/29 08:21 JST",
+          "datePosted": "2020/09/29 08:34 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
