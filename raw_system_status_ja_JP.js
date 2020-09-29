@@ -117,7 +117,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/29 08:46 JST",
+          "datePosted": "2020/09/29 17:00 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
@@ -175,7 +175,7 @@
           "epochEndDate": 1601334600000,
           "messageId": "1003303",
           "statusType": "Issue",
-          "datePosted": "2020/09/29 08:46 JST",
+          "datePosted": "2020/09/29 17:00 JST",
           "startDate": "2020/09/29 05:30 JST",
           "endDate": "2020/09/29 08:10 JST",
           "affectedServices": null,
@@ -215,7 +215,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/29 08:46 JST",
+          "datePosted": "2020/09/29 17:00 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
@@ -427,7 +427,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/29 08:46 JST",
+          "datePosted": "2020/09/29 17:00 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
