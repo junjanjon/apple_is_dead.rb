@@ -19,7 +19,7 @@
           "epochEndDate": null,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
+          "datePosted": "2020/09/30 10:09 JST",
           "startDate": "2020/09/30 09:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -38,7 +38,19 @@
       "redirectUrl": null,
       "serviceName": "Apple Books",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1601424540000,
+          "epochEndDate": null,
+          "messageId": "2000587",
+          "statusType": "Outage",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:09 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ]
     },
     {
@@ -58,7 +70,7 @@
           "epochEndDate": null,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
+          "datePosted": "2020/09/30 10:09 JST",
           "startDate": "2020/09/30 09:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -83,7 +95,7 @@
           "epochEndDate": null,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
+          "datePosted": "2020/09/30 10:09 JST",
           "startDate": "2020/09/30 09:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -136,7 +148,7 @@
           "epochEndDate": null,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
+          "datePosted": "2020/09/30 10:09 JST",
           "startDate": "2020/09/30 09:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -155,7 +167,23 @@
       "redirectUrl": null,
       "serviceName": "Apple TVチャンネル",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1601424540000,
+          "epochEndDate": null,
+          "messageId": "2000589",
+          "statusType": "Outage",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:09 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple TVチャンネル",
+            "Mac App Store",
+            "iTunes U"
+          ],
+          "eventStatus": "ongoing",
+          "message": "Apple TVの利用に問題が生じています。現在、問題の原因を究明中です。新しい情報が入り次第、このシステム状況を更新します。"
+        }
       ]
     },
     {
@@ -189,7 +217,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/30 09:53 JST",
+          "datePosted": "2020/09/30 10:09 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
@@ -215,12 +243,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1601380860000,
+          "epochStartDate": 1601424000000,
           "epochEndDate": null,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
-          "startDate": "2020/09/29 21:01 JST",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:00 JST",
           "endDate": null,
           "affectedServices": [
             "Game Center",
@@ -231,8 +259,10 @@
             "iCloudメール",
             "iCloud連絡先",
             "iWork for iCloud",
+            "スクールワーク",
             "写真",
-            "探す"
+            "探す",
+            null
           ],
           "eventStatus": "ongoing",
           "message": "上記のサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
@@ -259,12 +289,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1601380860000,
+          "epochStartDate": 1601424000000,
           "epochEndDate": null,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
-          "startDate": "2020/09/29 21:01 JST",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:00 JST",
           "endDate": null,
           "affectedServices": [
             "Game Center",
@@ -275,8 +305,10 @@
             "iCloudメール",
             "iCloud連絡先",
             "iWork for iCloud",
+            "スクールワーク",
             "写真",
-            "探す"
+            "探す",
+            null
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
@@ -289,12 +321,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1601380860000,
+          "epochStartDate": 1601424000000,
           "epochEndDate": null,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
-          "startDate": "2020/09/29 21:01 JST",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:00 JST",
           "endDate": null,
           "affectedServices": [
             "Game Center",
@@ -305,8 +337,10 @@
             "iCloudメール",
             "iCloud連絡先",
             "iWork for iCloud",
+            "スクールワーク",
             "写真",
-            "探す"
+            "探す",
+            null
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
@@ -317,7 +351,7 @@
           "epochEndDate": 1601334600000,
           "messageId": "1003303",
           "statusType": "Issue",
-          "datePosted": "2020/09/30 09:53 JST",
+          "datePosted": "2020/09/30 10:09 JST",
           "startDate": "2020/09/29 05:30 JST",
           "endDate": "2020/09/29 08:10 JST",
           "affectedServices": null,
@@ -332,12 +366,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1601380860000,
+          "epochStartDate": 1601424000000,
           "epochEndDate": null,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
-          "startDate": "2020/09/29 21:01 JST",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:00 JST",
           "endDate": null,
           "affectedServices": [
             "Game Center",
@@ -348,8 +382,10 @@
             "iCloudメール",
             "iCloud連絡先",
             "iWork for iCloud",
+            "スクールワーク",
             "写真",
-            "探す"
+            "探す",
+            null
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
@@ -376,12 +412,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1601380860000,
+          "epochStartDate": 1601424000000,
           "epochEndDate": null,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
-          "startDate": "2020/09/29 21:01 JST",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:00 JST",
           "endDate": null,
           "affectedServices": [
             "Game Center",
@@ -392,8 +428,10 @@
             "iCloudメール",
             "iCloud連絡先",
             "iWork for iCloud",
+            "スクールワーク",
             "写真",
-            "探す"
+            "探す",
+            null
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
@@ -404,7 +442,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/30 09:53 JST",
+          "datePosted": "2020/09/30 10:09 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
@@ -430,12 +468,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1601380860000,
+          "epochStartDate": 1601424000000,
           "epochEndDate": null,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
-          "startDate": "2020/09/29 21:01 JST",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:00 JST",
           "endDate": null,
           "affectedServices": [
             "Game Center",
@@ -446,8 +484,10 @@
             "iCloudメール",
             "iCloud連絡先",
             "iWork for iCloud",
+            "スクールワーク",
             "写真",
-            "探す"
+            "探す",
+            null
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
@@ -474,12 +514,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1601380860000,
+          "epochStartDate": 1601424000000,
           "epochEndDate": null,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
-          "startDate": "2020/09/29 21:01 JST",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:00 JST",
           "endDate": null,
           "affectedServices": [
             "Game Center",
@@ -490,8 +530,10 @@
             "iCloudメール",
             "iCloud連絡先",
             "iWork for iCloud",
+            "スクールワーク",
             "写真",
-            "探す"
+            "探す",
+            null
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
@@ -530,7 +572,23 @@
       "redirectUrl": null,
       "serviceName": "iTunes U",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1601424540000,
+          "epochEndDate": null,
+          "messageId": "2000589",
+          "statusType": "Outage",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:09 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple TVチャンネル",
+            "Mac App Store",
+            "iTunes U"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ]
     },
     {
@@ -539,12 +597,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1601380860000,
+          "epochStartDate": 1601424000000,
           "epochEndDate": null,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
-          "startDate": "2020/09/29 21:01 JST",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:00 JST",
           "endDate": null,
           "affectedServices": [
             "Game Center",
@@ -555,8 +613,10 @@
             "iCloudメール",
             "iCloud連絡先",
             "iWork for iCloud",
+            "スクールワーク",
             "写真",
-            "探す"
+            "探す",
+            null
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
@@ -567,7 +627,23 @@
       "redirectUrl": null,
       "serviceName": "Mac App Store",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1601424540000,
+          "epochEndDate": null,
+          "messageId": "2000589",
+          "statusType": "Outage",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:09 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple TVチャンネル",
+            "Mac App Store",
+            "iTunes U"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ]
     },
     {
@@ -594,7 +670,7 @@
           "epochEndDate": null,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
+          "datePosted": "2020/09/30 10:09 JST",
           "startDate": "2020/09/30 09:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -641,7 +717,32 @@
       "redirectUrl": null,
       "serviceName": "スクールワーク",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1601424000000,
+          "epochEndDate": null,
+          "messageId": "2000586",
+          "statusType": "Outage",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudバックアップ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "iWork for iCloud",
+            "スクールワーク",
+            "写真",
+            "探す",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ]
     },
     {
@@ -692,12 +793,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1601380860000,
+          "epochStartDate": 1601424000000,
           "epochEndDate": null,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
-          "startDate": "2020/09/29 21:01 JST",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:00 JST",
           "endDate": null,
           "affectedServices": [
             "Game Center",
@@ -708,8 +809,10 @@
             "iCloudメール",
             "iCloud連絡先",
             "iWork for iCloud",
+            "スクールワーク",
             "写真",
-            "探す"
+            "探す",
+            null
           ],
           "eventStatus": "ongoing",
           "message": "「探す」を使用できない可能性があります。"
@@ -722,12 +825,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1601380860000,
+          "epochStartDate": 1601424000000,
           "epochEndDate": null,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 09:53 JST",
-          "startDate": "2020/09/29 21:01 JST",
+          "datePosted": "2020/09/30 10:09 JST",
+          "startDate": "2020/09/30 09:00 JST",
           "endDate": null,
           "affectedServices": [
             "Game Center",
@@ -738,8 +841,10 @@
             "iCloudメール",
             "iCloud連絡先",
             "iWork for iCloud",
+            "スクールワーク",
             "写真",
-            "探す"
+            "探す",
+            null
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
@@ -750,7 +855,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/30 09:53 JST",
+          "datePosted": "2020/09/30 10:09 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
