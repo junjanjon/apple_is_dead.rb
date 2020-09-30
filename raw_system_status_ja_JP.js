@@ -18,7 +18,7 @@
           "epochEndDate": 1601430720000,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:05 JST",
           "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
@@ -43,7 +43,7 @@
           "epochEndDate": 1601428800000,
           "messageId": "2000587",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:09 JST",
           "endDate": "2020/09/30 10:20 JST",
           "affectedServices": null,
@@ -69,7 +69,7 @@
           "epochEndDate": 1601430720000,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:05 JST",
           "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
@@ -94,7 +94,7 @@
           "epochEndDate": 1601430720000,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:05 JST",
           "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
@@ -140,7 +140,7 @@
           "epochEndDate": 1601428500000,
           "messageId": "2000590",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:15 JST",
           "affectedServices": null,
@@ -159,7 +159,7 @@
           "epochEndDate": 1601430720000,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:05 JST",
           "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
@@ -184,7 +184,7 @@
           "epochEndDate": 1601430720000,
           "messageId": "2000589",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:09 JST",
           "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
@@ -207,7 +207,7 @@
           "epochEndDate": 1601431800000,
           "messageId": "2000593",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 10:29 JST",
           "endDate": "2020/09/30 11:10 JST",
           "affectedServices": null,
@@ -240,7 +240,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
@@ -270,7 +270,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -316,7 +316,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -348,7 +348,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -374,7 +374,7 @@
           "epochEndDate": 1601334600000,
           "messageId": "1003303",
           "statusType": "Issue",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/29 05:30 JST",
           "endDate": "2020/09/29 08:10 JST",
           "affectedServices": null,
@@ -393,7 +393,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -439,7 +439,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -465,7 +465,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
@@ -490,25 +490,12 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1601491200000,
-          "epochEndDate": null,
-          "messageId": "1003308",
-          "statusType": "Issue",
-          "datePosted": "2020/10/01 07:18 JST",
-          "startDate": "2020/10/01 03:40 JST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
-        },
-        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1601424000000,
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -525,6 +512,19 @@
             "探す",
             null
           ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1601491200000,
+          "epochEndDate": 1601504400000,
+          "messageId": "1003308",
+          "statusType": "Issue",
+          "datePosted": "2020/10/01 07:33 JST",
+          "startDate": "2020/10/01 03:40 JST",
+          "endDate": "2020/10/01 07:20 JST",
+          "affectedServices": null,
           "eventStatus": "resolved",
           "message": "このサービスに関する問題が発生しました。"
         }
@@ -554,7 +554,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -614,7 +614,7 @@
           "epochEndDate": 1601430720000,
           "messageId": "2000589",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:09 JST",
           "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
@@ -637,7 +637,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -669,7 +669,7 @@
           "epochEndDate": 1601430720000,
           "messageId": "2000589",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:09 JST",
           "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
@@ -706,7 +706,7 @@
           "epochEndDate": 1601430720000,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:05 JST",
           "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
@@ -759,7 +759,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -833,7 +833,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -865,7 +865,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -891,7 +891,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/10/01 07:18 JST",
+          "datePosted": "2020/10/01 07:33 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
