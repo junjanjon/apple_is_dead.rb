@@ -13,14 +13,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1601424300000,
-          "epochEndDate": null,
+          "epochEndDate": 1601430720000,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:05 JST",
-          "endDate": null,
+          "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
             "Apple Arcade",
             "Apple Music",
@@ -28,8 +28,8 @@
             "Apple TV+",
             "Radio"
           ],
-          "eventStatus": "ongoing",
-          "message": "一部のユーザに対して、サービスがご利用になれないか遅い可能性があります。"
+          "eventStatus": "resolved",
+          "message": "一部のユーザに対して、サービスがご利用になれなかったか遅かった可能性があります。"
         }
       ],
       "serviceName": "Apple Arcade"
@@ -38,17 +38,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1601424540000,
-          "epochEndDate": null,
+          "epochEndDate": 1601428800000,
           "messageId": "2000587",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:09 JST",
-          "endDate": null,
+          "endDate": "2020/09/30 10:20 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "serviceName": "Apple Books"
@@ -64,14 +64,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1601424300000,
-          "epochEndDate": null,
+          "epochEndDate": 1601430720000,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:05 JST",
-          "endDate": null,
+          "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
             "Apple Arcade",
             "Apple Music",
@@ -79,8 +79,8 @@
             "Apple TV+",
             "Radio"
           ],
-          "eventStatus": "ongoing",
-          "message": "一部のユーザの音楽ストリーム配信または再生に問題がある可能性があります。"
+          "eventStatus": "resolved",
+          "message": "一部のユーザの音楽ストリーム配信または再生に問題があった可能性があります。"
         }
       ],
       "serviceName": "Apple Music"
@@ -89,14 +89,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1601424300000,
-          "epochEndDate": null,
+          "epochEndDate": 1601430720000,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:05 JST",
-          "endDate": null,
+          "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
             "Apple Arcade",
             "Apple Music",
@@ -104,8 +104,8 @@
             "Apple TV+",
             "Radio"
           ],
-          "eventStatus": "ongoing",
-          "message": "一部のユーザに対して、サービスがご利用になれないか遅い可能性があります。"
+          "eventStatus": "resolved",
+          "message": "一部のユーザに対して、サービスがご利用になれなかったか遅かった可能性があります。"
         }
       ],
       "serviceName": "Apple Music Radio"
@@ -140,7 +140,7 @@
           "epochEndDate": 1601428500000,
           "messageId": "2000590",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:15 JST",
           "affectedServices": null,
@@ -154,14 +154,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1601424300000,
-          "epochEndDate": null,
+          "epochEndDate": 1601430720000,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:05 JST",
-          "endDate": null,
+          "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
             "Apple Arcade",
             "Apple Music",
@@ -169,8 +169,8 @@
             "Apple TV+",
             "Radio"
           ],
-          "eventStatus": "ongoing",
-          "message": "Apple TV+の利用に問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "Apple TV+の利用に問題が発生しました。"
         }
       ],
       "serviceName": "Apple TV+"
@@ -179,21 +179,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1601424540000,
-          "epochEndDate": null,
+          "epochEndDate": 1601430720000,
           "messageId": "2000589",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:09 JST",
-          "endDate": null,
+          "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
             "Apple TVチャンネル",
             "Mac App Store",
             "iTunes U"
           ],
-          "eventStatus": "ongoing",
-          "message": "Apple TVの利用に問題が生じています。現在、問題の原因を究明中です。新しい情報が入り次第、このシステム状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "Apple TVの利用に問題が生じていました。"
         }
       ],
       "serviceName": "Apple TVチャンネル"
@@ -207,7 +207,7 @@
           "epochEndDate": 1601431800000,
           "messageId": "2000593",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 10:29 JST",
           "endDate": "2020/09/30 11:10 JST",
           "affectedServices": null,
@@ -240,7 +240,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
@@ -270,7 +270,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -316,7 +316,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -348,7 +348,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -374,7 +374,7 @@
           "epochEndDate": 1601334600000,
           "messageId": "1003303",
           "statusType": "Issue",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/29 05:30 JST",
           "endDate": "2020/09/29 08:10 JST",
           "affectedServices": null,
@@ -393,7 +393,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -439,7 +439,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -465,7 +465,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
@@ -495,7 +495,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -541,7 +541,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -596,21 +596,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1601424540000,
-          "epochEndDate": null,
+          "epochEndDate": 1601430720000,
           "messageId": "2000589",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:09 JST",
-          "endDate": null,
+          "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
             "Apple TVチャンネル",
             "Mac App Store",
             "iTunes U"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "serviceName": "iTunes U"
@@ -624,7 +624,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -651,21 +651,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1601424540000,
-          "epochEndDate": null,
+          "epochEndDate": 1601430720000,
           "messageId": "2000589",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:09 JST",
-          "endDate": null,
+          "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
             "Apple TVチャンネル",
             "Mac App Store",
             "iTunes U"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "serviceName": "Mac App Store"
@@ -688,14 +688,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1601424300000,
-          "epochEndDate": null,
+          "epochEndDate": 1601430720000,
           "messageId": "2000584",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:05 JST",
-          "endDate": null,
+          "endDate": "2020/09/30 10:52 JST",
           "affectedServices": [
             "Apple Arcade",
             "Apple Music",
@@ -703,8 +703,8 @@
             "Apple TV+",
             "Radio"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "serviceName": "Radio"
@@ -746,7 +746,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -820,7 +820,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -852,7 +852,7 @@
           "epochEndDate": 1601429520000,
           "messageId": "2000586",
           "statusType": "Outage",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/30 09:00 JST",
           "endDate": "2020/09/30 10:32 JST",
           "affectedServices": [
@@ -878,7 +878,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/30 11:13 JST",
+          "datePosted": "2020/09/30 11:57 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
