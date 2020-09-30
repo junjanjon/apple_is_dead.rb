@@ -13,7 +13,25 @@
       "redirectUrl": null,
       "serviceName": "Apple Arcade",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1601424300000,
+          "epochEndDate": null,
+          "messageId": "2000584",
+          "statusType": "Outage",
+          "datePosted": "2020/09/30 09:42 JST",
+          "startDate": "2020/09/30 09:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Arcade",
+            "Apple Music",
+            "Apple Music Radio",
+            "Apple TV+",
+            "Radio"
+          ],
+          "eventStatus": "ongoing",
+          "message": "一部のユーザに対して、サービスがご利用になれないか遅い可能性があります。"
+        }
       ]
     },
     {
@@ -34,14 +52,50 @@
       "redirectUrl": null,
       "serviceName": "Apple Music",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1601424300000,
+          "epochEndDate": null,
+          "messageId": "2000584",
+          "statusType": "Outage",
+          "datePosted": "2020/09/30 09:42 JST",
+          "startDate": "2020/09/30 09:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Arcade",
+            "Apple Music",
+            "Apple Music Radio",
+            "Apple TV+",
+            "Radio"
+          ],
+          "eventStatus": "ongoing",
+          "message": "一部のユーザの音楽ストリーム配信または再生に問題がある可能性があります。"
+        }
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "Apple Music Radio",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1601424300000,
+          "epochEndDate": null,
+          "messageId": "2000584",
+          "statusType": "Outage",
+          "datePosted": "2020/09/30 09:42 JST",
+          "startDate": "2020/09/30 09:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Arcade",
+            "Apple Music",
+            "Apple Music Radio",
+            "Apple TV+",
+            "Radio"
+          ],
+          "eventStatus": "ongoing",
+          "message": "一部のユーザに対して、サービスがご利用になれないか遅い可能性があります。"
+        }
       ]
     },
     {
@@ -76,7 +130,25 @@
       "redirectUrl": null,
       "serviceName": "Apple TV+",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1601424300000,
+          "epochEndDate": null,
+          "messageId": "2000584",
+          "statusType": "Outage",
+          "datePosted": "2020/09/30 09:42 JST",
+          "startDate": "2020/09/30 09:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Arcade",
+            "Apple Music",
+            "Apple Music Radio",
+            "Apple TV+",
+            "Radio"
+          ],
+          "eventStatus": "ongoing",
+          "message": "Apple TV+の利用に問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ]
     },
     {
@@ -117,7 +189,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/30 06:57 JST",
+          "datePosted": "2020/09/30 09:42 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
@@ -175,7 +247,7 @@
           "epochEndDate": 1601334600000,
           "messageId": "1003303",
           "statusType": "Issue",
-          "datePosted": "2020/09/30 06:57 JST",
+          "datePosted": "2020/09/30 09:42 JST",
           "startDate": "2020/09/29 05:30 JST",
           "endDate": "2020/09/29 08:10 JST",
           "affectedServices": null,
@@ -215,7 +287,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/30 06:57 JST",
+          "datePosted": "2020/09/30 09:42 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
@@ -330,7 +402,25 @@
       "redirectUrl": null,
       "serviceName": "Radio",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1601424300000,
+          "epochEndDate": null,
+          "messageId": "2000584",
+          "statusType": "Outage",
+          "datePosted": "2020/09/30 09:42 JST",
+          "startDate": "2020/09/30 09:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Arcade",
+            "Apple Music",
+            "Apple Music Radio",
+            "Apple TV+",
+            "Radio"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ]
     },
     {
@@ -427,7 +517,7 @@
           "epochEndDate": 1601260980000,
           "messageId": "2000581",
           "statusType": "Issue",
-          "datePosted": "2020/09/30 06:57 JST",
+          "datePosted": "2020/09/30 09:42 JST",
           "startDate": "2020/09/28 09:31 JST",
           "endDate": "2020/09/28 11:43 JST",
           "affectedServices": [
