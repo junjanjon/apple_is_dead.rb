@@ -13,44 +13,14 @@
       "redirectUrl": null,
       "serviceName": "Apple Arcade",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424300000,
-          "epochEndDate": 1601430720000,
-          "messageId": "2000584",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:05 JST",
-          "endDate": "2020/09/30 10:52 JST",
-          "affectedServices": [
-            "Apple Arcade",
-            "Apple Music",
-            "Apple Music Radio",
-            "Apple TV+",
-            "Radio"
-          ],
-          "eventStatus": "resolved",
-          "message": "一部のユーザに対して、サービスがご利用になれなかったか遅かった可能性があります。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "Apple Books",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424540000,
-          "epochEndDate": 1601428800000,
-          "messageId": "2000587",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:09 JST",
-          "endDate": "2020/09/30 10:20 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -64,50 +34,14 @@
       "redirectUrl": null,
       "serviceName": "Apple Music",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424300000,
-          "epochEndDate": 1601430720000,
-          "messageId": "2000584",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:05 JST",
-          "endDate": "2020/09/30 10:52 JST",
-          "affectedServices": [
-            "Apple Arcade",
-            "Apple Music",
-            "Apple Music Radio",
-            "Apple TV+",
-            "Radio"
-          ],
-          "eventStatus": "resolved",
-          "message": "一部のユーザの音楽ストリーム配信または再生に問題があった可能性があります。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "Apple Music Radio",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424300000,
-          "epochEndDate": 1601430720000,
-          "messageId": "2000584",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:05 JST",
-          "endDate": "2020/09/30 10:52 JST",
-          "affectedServices": [
-            "Apple Arcade",
-            "Apple Music",
-            "Apple Music Radio",
-            "Apple TV+",
-            "Radio"
-          ],
-          "eventStatus": "resolved",
-          "message": "一部のユーザに対して、サービスがご利用になれなかったか遅かった可能性があります。"
-        }
+
       ]
     },
     {
@@ -135,86 +69,28 @@
       "redirectUrl": null,
       "serviceName": "Apple School Manager",
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1601424000000,
-          "epochEndDate": 1601428500000,
-          "messageId": "2000590",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:00 JST",
-          "endDate": "2020/09/30 10:15 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。問題について調査し、解決しました。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "Apple TV+",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424300000,
-          "epochEndDate": 1601430720000,
-          "messageId": "2000584",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:05 JST",
-          "endDate": "2020/09/30 10:52 JST",
-          "affectedServices": [
-            "Apple Arcade",
-            "Apple Music",
-            "Apple Music Radio",
-            "Apple TV+",
-            "Radio"
-          ],
-          "eventStatus": "resolved",
-          "message": "Apple TV+の利用に問題が発生しました。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "Apple TVチャンネル",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424540000,
-          "epochEndDate": 1601430720000,
-          "messageId": "2000589",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:09 JST",
-          "endDate": "2020/09/30 10:52 JST",
-          "affectedServices": [
-            "Apple TVチャンネル",
-            "Mac App Store",
-            "iTunes U"
-          ],
-          "eventStatus": "resolved",
-          "message": "Apple TVの利用に問題が生じていました。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "AppleCare（iOS）",
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1601429340000,
-          "epochEndDate": 1601431800000,
-          "messageId": "2000593",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 10:29 JST",
-          "endDate": "2020/09/30 11:10 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "システムメンテナンス中、AppleCareは一時的に購入できませんでした。"
-        }
+
       ]
     },
     {
@@ -249,32 +125,7 @@
       "redirectUrl": null,
       "serviceName": "Game Center",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424000000,
-          "epochEndDate": 1601429520000,
-          "messageId": "2000586",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:00 JST",
-          "endDate": "2020/09/30 10:32 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクールワーク",
-            "写真",
-            "探す",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "上記のサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -295,96 +146,21 @@
       "redirectUrl": null,
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424000000,
-          "epochEndDate": 1601429520000,
-          "messageId": "2000586",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:00 JST",
-          "endDate": "2020/09/30 10:32 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクールワーク",
-            "写真",
-            "探す",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iCloudアカウントおよびサインイン",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424000000,
-          "epochEndDate": 1601429520000,
-          "messageId": "2000586",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:00 JST",
-          "endDate": "2020/09/30 10:32 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクールワーク",
-            "写真",
-            "探す",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iCloudカレンダー",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424000000,
-          "epochEndDate": 1601429520000,
-          "messageId": "2000586",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:00 JST",
-          "endDate": "2020/09/30 10:32 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクールワーク",
-            "写真",
-            "探す",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -405,32 +181,7 @@
       "redirectUrl": null,
       "serviceName": "iCloudバックアップ",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424000000,
-          "epochEndDate": 1601429520000,
-          "messageId": "2000586",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:00 JST",
-          "endDate": "2020/09/30 10:32 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクールワーク",
-            "写真",
-            "探す",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -446,37 +197,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424000000,
-          "epochEndDate": 1601429520000,
-          "messageId": "2000586",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:00 JST",
-          "endDate": "2020/09/30 10:32 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクールワーク",
-            "写真",
-            "探す",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1601585160000,
           "epochEndDate": 1601587920000,
           "messageId": "1003310",
           "statusType": "Issue",
-          "datePosted": "2020/10/02 17:00 JST",
+          "datePosted": "2020/10/03 17:00 JST",
           "startDate": "2020/10/02 05:46 JST",
           "endDate": "2020/10/02 06:32 JST",
           "affectedServices": null,
@@ -489,7 +214,7 @@
           "epochEndDate": 1601504400000,
           "messageId": "1003308",
           "statusType": "Issue",
-          "datePosted": "2020/10/02 17:00 JST",
+          "datePosted": "2020/10/03 17:00 JST",
           "startDate": "2020/10/01 03:40 JST",
           "endDate": "2020/10/01 07:20 JST",
           "affectedServices": null,
@@ -516,32 +241,7 @@
       "redirectUrl": null,
       "serviceName": "iCloud連絡先",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424000000,
-          "epochEndDate": 1601429520000,
-          "messageId": "2000586",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:00 JST",
-          "endDate": "2020/09/30 10:32 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクールワーク",
-            "写真",
-            "探す",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -576,78 +276,21 @@
       "redirectUrl": null,
       "serviceName": "iTunes U",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424540000,
-          "epochEndDate": 1601430720000,
-          "messageId": "2000589",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:09 JST",
-          "endDate": "2020/09/30 10:52 JST",
-          "affectedServices": [
-            "Apple TVチャンネル",
-            "Mac App Store",
-            "iTunes U"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iWork for iCloud",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424000000,
-          "epochEndDate": 1601429520000,
-          "messageId": "2000586",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:00 JST",
-          "endDate": "2020/09/30 10:32 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクールワーク",
-            "写真",
-            "探す",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "Mac App Store",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424540000,
-          "epochEndDate": 1601430720000,
-          "messageId": "2000589",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:09 JST",
-          "endDate": "2020/09/30 10:52 JST",
-          "affectedServices": [
-            "Apple TVチャンネル",
-            "Mac App Store",
-            "iTunes U"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -668,25 +311,7 @@
       "redirectUrl": null,
       "serviceName": "Radio",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424300000,
-          "epochEndDate": 1601430720000,
-          "messageId": "2000584",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:05 JST",
-          "endDate": "2020/09/30 10:52 JST",
-          "affectedServices": [
-            "Apple Arcade",
-            "Apple Music",
-            "Apple Music Radio",
-            "Apple TV+",
-            "Radio"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -721,32 +346,7 @@
       "redirectUrl": null,
       "serviceName": "スクールワーク",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424000000,
-          "epochEndDate": 1601429520000,
-          "messageId": "2000586",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:00 JST",
-          "endDate": "2020/09/30 10:32 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクールワーク",
-            "写真",
-            "探す",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -795,64 +395,14 @@
       "redirectUrl": null,
       "serviceName": "探す",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424000000,
-          "epochEndDate": 1601429520000,
-          "messageId": "2000586",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:00 JST",
-          "endDate": "2020/09/30 10:32 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクールワーク",
-            "写真",
-            "探す",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "「探す」を使用できなかった可能性があります。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "写真",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601424000000,
-          "epochEndDate": 1601429520000,
-          "messageId": "2000586",
-          "statusType": "Outage",
-          "datePosted": "2020/10/02 17:00 JST",
-          "startDate": "2020/09/30 09:00 JST",
-          "endDate": "2020/09/30 10:32 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudカレンダー",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクールワーク",
-            "写真",
-            "探す",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     }
   ]
