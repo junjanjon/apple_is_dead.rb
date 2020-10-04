@@ -201,25 +201,12 @@
           "epochEndDate": 1601587920000,
           "messageId": "1003310",
           "statusType": "Issue",
-          "datePosted": "2020/10/03 17:00 JST",
+          "datePosted": "2020/10/04 17:00 JST",
           "startDate": "2020/10/02 05:46 JST",
           "endDate": "2020/10/02 06:32 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "ユーザはiCloudメールを受信できなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1601491200000,
-          "epochEndDate": 1601504400000,
-          "messageId": "1003308",
-          "statusType": "Issue",
-          "datePosted": "2020/10/03 17:00 JST",
-          "startDate": "2020/10/01 03:40 JST",
-          "endDate": "2020/10/01 07:20 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
         }
       ]
     },
