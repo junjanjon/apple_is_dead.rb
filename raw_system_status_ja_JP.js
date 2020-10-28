@@ -195,30 +195,30 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1603873080000,
-          "epochEndDate": null,
-          "messageId": "2000000029",
-          "statusType": "Issue",
-          "datePosted": "2020/10/28 17:58 JST",
-          "startDate": "2020/10/28 17:18 JST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "ユーザはiCloudメールにアクセスできない可能性があります。"
-        },
-        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1602760800000,
           "epochEndDate": 1602763020000,
           "messageId": "1000000082",
           "statusType": "Outage",
-          "datePosted": "2020/10/28 17:58 JST",
+          "datePosted": "2020/10/28 18:20 JST",
           "startDate": "2020/10/15 20:20 JST",
           "endDate": "2020/10/15 20:57 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "ユーザはiCloudメールを受信できなかった可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1603873080000,
+          "epochEndDate": 1603876020000,
+          "messageId": "2000000029",
+          "statusType": "Issue",
+          "datePosted": "2020/10/28 18:20 JST",
+          "startDate": "2020/10/28 17:18 JST",
+          "endDate": "2020/10/28 18:07 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "ユーザはiCloudメールにアクセスできなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudメール"
