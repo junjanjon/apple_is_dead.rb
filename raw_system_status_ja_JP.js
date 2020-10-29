@@ -200,7 +200,7 @@
           "epochEndDate": 1602763020000,
           "messageId": "1000000082",
           "statusType": "Outage",
-          "datePosted": "2020/10/28 18:20 JST",
+          "datePosted": "2020/10/30 05:13 JST",
           "startDate": "2020/10/15 20:20 JST",
           "endDate": "2020/10/15 20:57 JST",
           "affectedServices": null,
@@ -213,7 +213,7 @@
           "epochEndDate": 1603876020000,
           "messageId": "2000000029",
           "statusType": "Issue",
-          "datePosted": "2020/10/28 18:20 JST",
+          "datePosted": "2020/10/30 05:13 JST",
           "startDate": "2020/10/28 17:18 JST",
           "endDate": "2020/10/28 18:07 JST",
           "affectedServices": null,
@@ -396,6 +396,13 @@
       "events": [
 
       ],
+      "serviceName": "株価"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
       "serviceName": "探す"
     },
     {
@@ -404,6 +411,13 @@
 
       ],
       "serviceName": "写真"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
+      "serviceName": "天気"
     }
   ]
 }
