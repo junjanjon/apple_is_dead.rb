@@ -144,7 +144,7 @@
           "epochEndDate": null,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/02 00:24 JST",
+          "datePosted": "2020/11/02 01:13 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": null,
           "affectedServices": [
@@ -152,11 +152,14 @@
             "iCloudアカウントおよびサインイン",
             "iCloudカレンダー",
             "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudブックマークおよびタブ",
             "iCloudメール",
             "iCloud連絡先",
-            "写真"
+            "スクリーンタイム",
+            "写真",
+            "探す"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生している可能性があります。"
@@ -180,7 +183,7 @@
           "epochEndDate": null,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/02 00:24 JST",
+          "datePosted": "2020/11/02 01:13 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": null,
           "affectedServices": [
@@ -188,11 +191,14 @@
             "iCloudアカウントおよびサインイン",
             "iCloudカレンダー",
             "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudブックマークおよびタブ",
             "iCloudメール",
             "iCloud連絡先",
-            "写真"
+            "スクリーンタイム",
+            "写真",
+            "探す"
           ],
           "eventStatus": "ongoing",
           "message": "ユーザがサインインできない可能性があります。"
@@ -209,7 +215,7 @@
           "epochEndDate": null,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/02 00:24 JST",
+          "datePosted": "2020/11/02 01:13 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": null,
           "affectedServices": [
@@ -217,11 +223,14 @@
             "iCloudアカウントおよびサインイン",
             "iCloudカレンダー",
             "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudブックマークおよびタブ",
             "iCloudメール",
             "iCloud連絡先",
-            "写真"
+            "スクリーンタイム",
+            "写真",
+            "探す"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生している可能性があります。"
@@ -238,7 +247,7 @@
           "epochEndDate": null,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/02 00:24 JST",
+          "datePosted": "2020/11/02 01:13 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": null,
           "affectedServices": [
@@ -246,11 +255,14 @@
             "iCloudアカウントおよびサインイン",
             "iCloudカレンダー",
             "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudブックマークおよびタブ",
             "iCloudメール",
             "iCloud連絡先",
-            "写真"
+            "スクリーンタイム",
+            "写真",
+            "探す"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生している可能性があります。"
@@ -261,7 +273,32 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1604239320000,
+          "epochEndDate": null,
+          "messageId": "1000000124",
+          "statusType": "Issue",
+          "datePosted": "2020/11/02 01:13 JST",
+          "startDate": "2020/11/01 23:02 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "iCloudストレージアップグレード"
     },
@@ -274,7 +311,7 @@
           "epochEndDate": null,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/02 00:24 JST",
+          "datePosted": "2020/11/02 01:13 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": null,
           "affectedServices": [
@@ -282,11 +319,14 @@
             "iCloudアカウントおよびサインイン",
             "iCloudカレンダー",
             "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudブックマークおよびタブ",
             "iCloudメール",
             "iCloud連絡先",
-            "写真"
+            "スクリーンタイム",
+            "写真",
+            "探す"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生している可能性があります。"
@@ -303,7 +343,7 @@
           "epochEndDate": null,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/02 00:24 JST",
+          "datePosted": "2020/11/02 01:13 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": null,
           "affectedServices": [
@@ -311,11 +351,14 @@
             "iCloudアカウントおよびサインイン",
             "iCloudカレンダー",
             "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudブックマークおよびタブ",
             "iCloudメール",
             "iCloud連絡先",
-            "写真"
+            "スクリーンタイム",
+            "写真",
+            "探す"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生している可能性があります。"
@@ -332,7 +375,7 @@
           "epochEndDate": null,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/02 00:24 JST",
+          "datePosted": "2020/11/02 01:13 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": null,
           "affectedServices": [
@@ -340,11 +383,14 @@
             "iCloudアカウントおよびサインイン",
             "iCloudカレンダー",
             "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudブックマークおよびタブ",
             "iCloudメール",
             "iCloud連絡先",
-            "写真"
+            "スクリーンタイム",
+            "写真",
+            "探す"
           ],
           "eventStatus": "ongoing",
           "message": "ユーザはiCloudメールにアクセスできない可能性があります。"
@@ -355,7 +401,7 @@
           "epochEndDate": 1602763020000,
           "messageId": "1000000082",
           "statusType": "Outage",
-          "datePosted": "2020/11/02 00:24 JST",
+          "datePosted": "2020/11/02 01:13 JST",
           "startDate": "2020/10/15 20:20 JST",
           "endDate": "2020/10/15 20:57 JST",
           "affectedServices": null,
@@ -368,7 +414,7 @@
           "epochEndDate": 1603876020000,
           "messageId": "2000000029",
           "statusType": "Issue",
-          "datePosted": "2020/11/02 00:24 JST",
+          "datePosted": "2020/11/02 01:13 JST",
           "startDate": "2020/10/28 17:18 JST",
           "endDate": "2020/10/28 18:07 JST",
           "affectedServices": null,
@@ -401,7 +447,7 @@
           "epochEndDate": null,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/02 00:24 JST",
+          "datePosted": "2020/11/02 01:13 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": null,
           "affectedServices": [
@@ -409,11 +455,14 @@
             "iCloudアカウントおよびサインイン",
             "iCloudカレンダー",
             "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudブックマークおよびタブ",
             "iCloudメール",
             "iCloud連絡先",
-            "写真"
+            "スクリーンタイム",
+            "写真",
+            "探す"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生している可能性があります。"
@@ -529,7 +578,32 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1604239320000,
+          "epochEndDate": null,
+          "messageId": "1000000124",
+          "statusType": "Issue",
+          "datePosted": "2020/11/02 01:13 JST",
+          "startDate": "2020/11/01 23:02 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "スクリーンタイム"
     },
@@ -578,7 +652,32 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1604239320000,
+          "epochEndDate": null,
+          "messageId": "1000000124",
+          "statusType": "Issue",
+          "datePosted": "2020/11/02 01:13 JST",
+          "startDate": "2020/11/01 23:02 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "参加者やデバイスの位置検索、登録済みデバイスのリスト表示、デバイスでのサウンド再生、デバイスのリモートワイプ、デバイスの紛失モード設定ができない可能性があります。"
+        }
       ],
       "serviceName": "探す"
     },
@@ -591,7 +690,7 @@
           "epochEndDate": null,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/02 00:24 JST",
+          "datePosted": "2020/11/02 01:13 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": null,
           "affectedServices": [
@@ -599,11 +698,14 @@
             "iCloudアカウントおよびサインイン",
             "iCloudカレンダー",
             "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudブックマークおよびタブ",
             "iCloudメール",
             "iCloud連絡先",
-            "写真"
+            "スクリーンタイム",
+            "写真",
+            "探す"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生している可能性があります。"
