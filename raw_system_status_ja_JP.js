@@ -11,7 +11,7 @@
           "epochEndDate": 1604498100000,
           "messageId": "2000000033",
           "statusType": "Outage",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/04 21:21 JST",
           "endDate": "2020/11/04 22:55 JST",
           "affectedServices": [
@@ -42,7 +42,7 @@
           "epochEndDate": 1604498100000,
           "messageId": "2000000033",
           "statusType": "Outage",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/04 21:21 JST",
           "endDate": "2020/11/04 22:55 JST",
           "affectedServices": [
@@ -178,7 +178,7 @@
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -232,7 +232,7 @@
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -273,7 +273,7 @@
           "epochEndDate": 1604506680000,
           "messageId": "2000000035",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/04 23:00 JST",
           "endDate": "2020/11/05 01:18 JST",
           "affectedServices": [
@@ -299,7 +299,7 @@
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -346,7 +346,7 @@
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -387,7 +387,7 @@
           "epochEndDate": 1604506680000,
           "messageId": "2000000035",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/04 23:00 JST",
           "endDate": "2020/11/05 01:18 JST",
           "affectedServices": [
@@ -413,7 +413,7 @@
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -454,7 +454,7 @@
           "epochEndDate": 1604506680000,
           "messageId": "2000000035",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/04 23:00 JST",
           "endDate": "2020/11/05 01:18 JST",
           "affectedServices": [
@@ -480,7 +480,7 @@
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -527,7 +527,7 @@
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -574,7 +574,7 @@
           "epochEndDate": 1602763020000,
           "messageId": "1000000082",
           "statusType": "Outage",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/10/15 20:20 JST",
           "endDate": "2020/10/15 20:57 JST",
           "affectedServices": null,
@@ -583,11 +583,24 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1603873080000,
+          "epochEndDate": 1603876020000,
+          "messageId": "2000000029",
+          "statusType": "Issue",
+          "datePosted": "2020/11/05 10:06 JST",
+          "startDate": "2020/10/28 17:18 JST",
+          "endDate": "2020/10/28 18:07 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "ユーザはiCloudメールにアクセスできなかった可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1604239320000,
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -624,24 +637,11 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1603873080000,
-          "epochEndDate": 1603876020000,
-          "messageId": "2000000029",
-          "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
-          "startDate": "2020/10/28 17:18 JST",
-          "endDate": "2020/10/28 18:07 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザはiCloudメールにアクセスできなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1604498400000,
           "epochEndDate": 1604506680000,
           "messageId": "2000000035",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/04 23:00 JST",
           "endDate": "2020/11/05 01:18 JST",
           "affectedServices": [
@@ -681,7 +681,7 @@
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -722,7 +722,7 @@
           "epochEndDate": 1604506680000,
           "messageId": "2000000035",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/04 23:00 JST",
           "endDate": "2020/11/05 01:18 JST",
           "affectedServices": [
@@ -769,7 +769,7 @@
           "epochEndDate": 1604498100000,
           "messageId": "2000000033",
           "statusType": "Outage",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/04 21:21 JST",
           "endDate": "2020/11/04 22:55 JST",
           "affectedServices": [
@@ -800,7 +800,7 @@
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -847,7 +847,7 @@
           "epochEndDate": 1604498100000,
           "messageId": "2000000033",
           "statusType": "Outage",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/04 21:21 JST",
           "endDate": "2020/11/04 22:55 JST",
           "affectedServices": [
@@ -878,7 +878,7 @@
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -967,7 +967,7 @@
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -1056,7 +1056,7 @@
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -1103,7 +1103,7 @@
           "epochEndDate": 1604257020000,
           "messageId": "1000000124",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/01 23:02 JST",
           "endDate": "2020/11/02 03:57 JST",
           "affectedServices": [
@@ -1144,7 +1144,7 @@
           "epochEndDate": 1604506680000,
           "messageId": "2000000035",
           "statusType": "Issue",
-          "datePosted": "2020/11/05 01:46 JST",
+          "datePosted": "2020/11/05 10:06 JST",
           "startDate": "2020/11/04 23:00 JST",
           "endDate": "2020/11/05 01:18 JST",
           "affectedServices": [
