@@ -104,7 +104,19 @@
       "redirectUrl": null,
       "serviceName": "Device Enrollment Program",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1610601300000,
+          "epochEndDate": 1610603040000,
+          "messageId": "2000000225",
+          "statusType": "Issue",
+          "datePosted": "2021/01/14 15:00 JST",
+          "startDate": "2021/01/14 14:15 JST",
+          "endDate": "2021/01/14 14:44 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "システムメンテナンス中、一時的にDevice Enrollment Programをご利用いただけませんでした。"
+        }
       ]
     },
     {
