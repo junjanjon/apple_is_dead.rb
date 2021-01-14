@@ -69,7 +69,19 @@
       "redirectUrl": null,
       "serviceName": "Apple School Manager",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1610647200000,
+          "epochEndDate": 1610649300000,
+          "messageId": "2000000228",
+          "statusType": "Issue",
+          "datePosted": "2021/01/15 04:21 JST",
+          "startDate": "2021/01/15 03:00 JST",
+          "endDate": "2021/01/15 03:35 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "This service may have been slow or unavailable."
+        }
       ]
     },
     {
@@ -110,7 +122,7 @@
           "epochEndDate": 1610603040000,
           "messageId": "2000000225",
           "statusType": "Issue",
-          "datePosted": "2021/01/15 04:12 JST",
+          "datePosted": "2021/01/15 04:21 JST",
           "startDate": "2021/01/14 14:15 JST",
           "endDate": "2021/01/14 14:44 JST",
           "affectedServices": null,
@@ -185,7 +197,7 @@
           "epochEndDate": 1610649300000,
           "messageId": "1000000172",
           "statusType": "Issue",
-          "datePosted": "2021/01/15 04:12 JST",
+          "datePosted": "2021/01/15 04:21 JST",
           "startDate": "2021/01/15 03:00 JST",
           "endDate": "2021/01/15 03:35 JST",
           "affectedServices": [
@@ -230,7 +242,7 @@
           "epochEndDate": 1610649300000,
           "messageId": "1000000172",
           "statusType": "Issue",
-          "datePosted": "2021/01/15 04:12 JST",
+          "datePosted": "2021/01/15 04:21 JST",
           "startDate": "2021/01/15 03:00 JST",
           "endDate": "2021/01/15 03:35 JST",
           "affectedServices": [
@@ -275,7 +287,7 @@
           "epochEndDate": 1610649300000,
           "messageId": "1000000172",
           "statusType": "Issue",
-          "datePosted": "2021/01/15 04:12 JST",
+          "datePosted": "2021/01/15 04:21 JST",
           "startDate": "2021/01/15 03:00 JST",
           "endDate": "2021/01/15 03:35 JST",
           "affectedServices": [
@@ -433,7 +445,19 @@
       "redirectUrl": null,
       "serviceName": "株価",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1610647800000,
+          "epochEndDate": 1610649300000,
+          "messageId": "2000000229",
+          "statusType": "Issue",
+          "datePosted": "2021/01/15 04:21 JST",
+          "startDate": "2021/01/15 03:10 JST",
+          "endDate": "2021/01/15 03:35 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "「株価」で問題が発生した可能性があります。"
+        }
       ]
     },
     {
@@ -446,7 +470,7 @@
           "epochEndDate": 1610649300000,
           "messageId": "2000000227",
           "statusType": "Issue",
-          "datePosted": "2021/01/15 04:12 JST",
+          "datePosted": "2021/01/15 04:21 JST",
           "startDate": "2021/01/15 03:00 JST",
           "endDate": "2021/01/15 03:35 JST",
           "affectedServices": null,
@@ -465,7 +489,7 @@
           "epochEndDate": 1610649300000,
           "messageId": "1000000172",
           "statusType": "Issue",
-          "datePosted": "2021/01/15 04:12 JST",
+          "datePosted": "2021/01/15 04:21 JST",
           "startDate": "2021/01/15 03:00 JST",
           "endDate": "2021/01/15 03:35 JST",
           "affectedServices": [
