@@ -6,7 +6,35 @@
       "redirectUrl": null,
       "serviceName": "App Store",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1612358760000,
+          "epochEndDate": null,
+          "messageId": "2000000264",
+          "statusType": "Outage",
+          "datePosted": "2021/02/04 00:29 JST",
+          "startDate": "2021/02/03 22:26 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "App Store",
+            "Apple Books",
+            "Apple Books",
+            "Apple Music",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Mac App Store",
+            "Mac App Store",
+            "Radio",
+            "Radio",
+            "Radio",
+            "iTunes Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ]
     },
     {
@@ -20,7 +48,35 @@
       "redirectUrl": null,
       "serviceName": "Apple Books",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1612358760000,
+          "epochEndDate": null,
+          "messageId": "2000000264",
+          "statusType": "Outage",
+          "datePosted": "2021/02/04 00:29 JST",
+          "startDate": "2021/02/03 22:26 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "App Store",
+            "Apple Books",
+            "Apple Books",
+            "Apple Music",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Mac App Store",
+            "Mac App Store",
+            "Radio",
+            "Radio",
+            "Radio",
+            "iTunes Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ]
     },
     {
@@ -34,14 +90,70 @@
       "redirectUrl": null,
       "serviceName": "Apple Music",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1612358760000,
+          "epochEndDate": null,
+          "messageId": "2000000264",
+          "statusType": "Outage",
+          "datePosted": "2021/02/04 00:29 JST",
+          "startDate": "2021/02/03 22:26 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "App Store",
+            "Apple Books",
+            "Apple Books",
+            "Apple Music",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Mac App Store",
+            "Mac App Store",
+            "Radio",
+            "Radio",
+            "Radio",
+            "iTunes Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "Apple Music Radio",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1612358760000,
+          "epochEndDate": null,
+          "messageId": "2000000264",
+          "statusType": "Outage",
+          "datePosted": "2021/02/04 00:29 JST",
+          "startDate": "2021/02/03 22:26 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "App Store",
+            "Apple Books",
+            "Apple Books",
+            "Apple Music",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Mac App Store",
+            "Mac App Store",
+            "Radio",
+            "Radio",
+            "Radio",
+            "iTunes Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ]
     },
     {
@@ -244,7 +356,35 @@
       "redirectUrl": null,
       "serviceName": "iTunes Store",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1612358760000,
+          "epochEndDate": null,
+          "messageId": "2000000264",
+          "statusType": "Outage",
+          "datePosted": "2021/02/04 00:29 JST",
+          "startDate": "2021/02/03 22:26 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "App Store",
+            "Apple Books",
+            "Apple Books",
+            "Apple Music",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Mac App Store",
+            "Mac App Store",
+            "Radio",
+            "Radio",
+            "Radio",
+            "iTunes Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ]
     },
     {
@@ -265,7 +405,35 @@
       "redirectUrl": null,
       "serviceName": "Mac App Store",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1612358760000,
+          "epochEndDate": null,
+          "messageId": "2000000264",
+          "statusType": "Outage",
+          "datePosted": "2021/02/04 00:29 JST",
+          "startDate": "2021/02/03 22:26 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "App Store",
+            "Apple Books",
+            "Apple Books",
+            "Apple Music",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Mac App Store",
+            "Mac App Store",
+            "Radio",
+            "Radio",
+            "Radio",
+            "iTunes Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ]
     },
     {
@@ -286,7 +454,35 @@
       "redirectUrl": null,
       "serviceName": "Radio",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1612358760000,
+          "epochEndDate": null,
+          "messageId": "2000000264",
+          "statusType": "Outage",
+          "datePosted": "2021/02/04 00:29 JST",
+          "startDate": "2021/02/03 22:26 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "App Store",
+            "Apple Books",
+            "Apple Books",
+            "Apple Music",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Apple Music Radio",
+            "Mac App Store",
+            "Mac App Store",
+            "Radio",
+            "Radio",
+            "Radio",
+            "iTunes Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ]
     },
     {
