@@ -7,14 +7,14 @@
       "serviceName": "App Store",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1612358760000,
-          "epochEndDate": null,
+          "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 00:29 JST",
+          "datePosted": "2021/02/04 01:30 JST",
           "startDate": "2021/02/03 22:26 JST",
-          "endDate": null,
+          "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
             "App Store",
             "App Store",
@@ -32,8 +32,8 @@
             "iTunes Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "This service may be slow or unavailable."
+          "eventStatus": "resolved",
+          "message": "This service may have been slow or unavailable."
         }
       ]
     },
@@ -49,14 +49,14 @@
       "serviceName": "Apple Books",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1612358760000,
-          "epochEndDate": null,
+          "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 00:29 JST",
+          "datePosted": "2021/02/04 01:30 JST",
           "startDate": "2021/02/03 22:26 JST",
-          "endDate": null,
+          "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
             "App Store",
             "App Store",
@@ -74,8 +74,8 @@
             "iTunes Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "This service may be slow or unavailable."
+          "eventStatus": "resolved",
+          "message": "This service may have been slow or unavailable."
         }
       ]
     },
@@ -91,14 +91,14 @@
       "serviceName": "Apple Music",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1612358760000,
-          "epochEndDate": null,
+          "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 00:29 JST",
+          "datePosted": "2021/02/04 01:30 JST",
           "startDate": "2021/02/03 22:26 JST",
-          "endDate": null,
+          "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
             "App Store",
             "App Store",
@@ -116,8 +116,8 @@
             "iTunes Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ]
     },
@@ -126,14 +126,14 @@
       "serviceName": "Apple Music Radio",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1612358760000,
-          "epochEndDate": null,
+          "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 00:29 JST",
+          "datePosted": "2021/02/04 01:30 JST",
           "startDate": "2021/02/03 22:26 JST",
-          "endDate": null,
+          "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
             "App Store",
             "App Store",
@@ -151,8 +151,8 @@
             "iTunes Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ]
     },
@@ -357,14 +357,14 @@
       "serviceName": "iTunes Store",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1612358760000,
-          "epochEndDate": null,
+          "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 00:29 JST",
+          "datePosted": "2021/02/04 01:30 JST",
           "startDate": "2021/02/03 22:26 JST",
-          "endDate": null,
+          "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
             "App Store",
             "App Store",
@@ -382,8 +382,8 @@
             "iTunes Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "This service may be slow or unavailable."
+          "eventStatus": "resolved",
+          "message": "This service may have been slow or unavailable."
         }
       ]
     },
@@ -406,14 +406,14 @@
       "serviceName": "Mac App Store",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1612358760000,
-          "epochEndDate": null,
+          "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 00:29 JST",
+          "datePosted": "2021/02/04 01:30 JST",
           "startDate": "2021/02/03 22:26 JST",
-          "endDate": null,
+          "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
             "App Store",
             "App Store",
@@ -431,8 +431,8 @@
             "iTunes Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "This service may be slow or unavailable."
+          "eventStatus": "resolved",
+          "message": "This service may have been slow or unavailable."
         }
       ]
     },
@@ -455,14 +455,14 @@
       "serviceName": "Radio",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1612358760000,
-          "epochEndDate": null,
+          "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 00:29 JST",
+          "datePosted": "2021/02/04 01:30 JST",
           "startDate": "2021/02/03 22:26 JST",
-          "endDate": null,
+          "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
             "App Store",
             "App Store",
@@ -480,8 +480,8 @@
             "iTunes Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ]
     },
