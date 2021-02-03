@@ -11,7 +11,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 02:03 JST",
+          "datePosted": "2021/02/04 03:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -53,7 +53,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 02:03 JST",
+          "datePosted": "2021/02/04 03:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -95,7 +95,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 02:03 JST",
+          "datePosted": "2021/02/04 03:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -130,7 +130,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 02:03 JST",
+          "datePosted": "2021/02/04 03:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -250,7 +250,25 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1612375980000,
+          "epochEndDate": null,
+          "messageId": "1000000179",
+          "statusType": "Issue",
+          "datePosted": "2021/02/04 03:44 JST",
+          "startDate": "2021/02/04 03:13 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloud Drive"
     },
@@ -285,14 +303,50 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1612375980000,
+          "epochEndDate": null,
+          "messageId": "1000000179",
+          "statusType": "Issue",
+          "datePosted": "2021/02/04 03:44 JST",
+          "startDate": "2021/02/04 03:13 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloudストレージアップグレード"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1612375980000,
+          "epochEndDate": null,
+          "messageId": "1000000179",
+          "statusType": "Issue",
+          "datePosted": "2021/02/04 03:44 JST",
+          "startDate": "2021/02/04 03:13 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudバックアップ"
     },
@@ -313,7 +367,25 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1612375980000,
+          "epochEndDate": null,
+          "messageId": "1000000179",
+          "statusType": "Issue",
+          "datePosted": "2021/02/04 03:44 JST",
+          "startDate": "2021/02/04 03:13 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudメモ"
     },
@@ -361,7 +433,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 02:03 JST",
+          "datePosted": "2021/02/04 03:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -410,7 +482,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 02:03 JST",
+          "datePosted": "2021/02/04 03:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -459,7 +531,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 02:03 JST",
+          "datePosted": "2021/02/04 03:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -579,7 +651,25 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1612375980000,
+          "epochEndDate": null,
+          "messageId": "1000000179",
+          "statusType": "Issue",
+          "datePosted": "2021/02/04 03:44 JST",
+          "startDate": "2021/02/04 03:13 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "写真"
     },
