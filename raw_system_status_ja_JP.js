@@ -6,28 +6,12 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1612478700000,
-          "epochEndDate": null,
-          "messageId": "1000000182",
-          "statusType": "Outage",
-          "datePosted": "2021/02/05 08:18 JST",
-          "startDate": "2021/02/05 07:45 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Mac App Store"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
-        },
-        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1612358760000,
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -49,6 +33,22 @@
           ],
           "eventStatus": "resolved",
           "message": "This service may have been slow or unavailable."
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1612478700000,
+          "epochEndDate": 1612481820000,
+          "messageId": "1000000182",
+          "statusType": "Issue",
+          "datePosted": "2021/02/05 08:44 JST",
+          "startDate": "2021/02/05 07:45 JST",
+          "endDate": "2021/02/05 08:37 JST",
+          "affectedServices": [
+            "App Store",
+            "Mac App Store"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "serviceName": "App Store"
@@ -69,7 +69,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -111,7 +111,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -146,7 +146,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -272,7 +272,7 @@
           "epochEndDate": 1612408200000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
@@ -319,7 +319,7 @@
           "epochEndDate": 1612382400000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
@@ -373,7 +373,7 @@
           "epochEndDate": 1612382400000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
@@ -420,7 +420,7 @@
           "epochEndDate": 1612413300000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
@@ -467,7 +467,7 @@
           "epochEndDate": 1612378860000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
@@ -514,7 +514,7 @@
           "epochEndDate": 1612408200000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
@@ -561,7 +561,7 @@
           "epochEndDate": 1612408200000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
@@ -608,7 +608,7 @@
           "epochEndDate": 1612405080000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
@@ -655,7 +655,7 @@
           "epochEndDate": 1612408200000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
@@ -709,7 +709,7 @@
           "epochEndDate": 1612411920000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
@@ -756,7 +756,7 @@
           "epochEndDate": 1612378860000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
@@ -817,7 +817,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -859,7 +859,7 @@
           "epochEndDate": 1612395780000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
@@ -901,28 +901,12 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1612478700000,
-          "epochEndDate": null,
-          "messageId": "1000000182",
-          "statusType": "Outage",
-          "datePosted": "2021/02/05 08:18 JST",
-          "startDate": "2021/02/05 07:45 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Mac App Store"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
-        },
-        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1612358760000,
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -944,6 +928,22 @@
           ],
           "eventStatus": "resolved",
           "message": "This service may have been slow or unavailable."
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1612478700000,
+          "epochEndDate": 1612481820000,
+          "messageId": "1000000182",
+          "statusType": "Issue",
+          "datePosted": "2021/02/05 08:44 JST",
+          "startDate": "2021/02/05 07:45 JST",
+          "endDate": "2021/02/05 08:37 JST",
+          "affectedServices": [
+            "App Store",
+            "Mac App Store"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "serviceName": "Mac App Store"
@@ -971,7 +971,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -1090,7 +1090,7 @@
           "epochEndDate": 1612403160000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
@@ -1137,7 +1137,7 @@
           "epochEndDate": 1612408200000,
           "messageId": "1000000179",
           "statusType": "",
-          "datePosted": "2021/02/05 08:18 JST",
+          "datePosted": "2021/02/05 08:44 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": "2021/02/04 13:35 JST",
           "affectedServices": [
