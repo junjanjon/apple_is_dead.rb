@@ -11,7 +11,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -53,7 +53,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -95,7 +95,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -130,7 +130,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -256,7 +256,7 @@
           "epochEndDate": null,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -303,7 +303,7 @@
           "epochEndDate": 1612382400000,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -357,7 +357,7 @@
           "epochEndDate": 1612382400000,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -404,7 +404,7 @@
           "epochEndDate": null,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -451,7 +451,7 @@
           "epochEndDate": 1612378860000,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -498,7 +498,7 @@
           "epochEndDate": null,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -545,7 +545,7 @@
           "epochEndDate": null,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -587,12 +587,12 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1612375980000,
-          "epochEndDate": null,
+          "epochEndDate": 1612405080000,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -624,8 +624,8 @@
             "探す",
             "探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "serviceName": "iCloudメール"
@@ -639,7 +639,7 @@
           "epochEndDate": null,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -693,7 +693,7 @@
           "epochEndDate": null,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -740,7 +740,7 @@
           "epochEndDate": 1612378860000,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -801,7 +801,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -843,7 +843,7 @@
           "epochEndDate": 1612395780000,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -890,7 +890,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -939,7 +939,7 @@
           "epochEndDate": 1612366980000,
           "messageId": "2000000264",
           "statusType": "Outage",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/03 22:26 JST",
           "endDate": "2021/02/04 00:43 JST",
           "affectedServices": [
@@ -1058,7 +1058,7 @@
           "epochEndDate": 1612403160000,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -1105,7 +1105,7 @@
           "epochEndDate": null,
           "messageId": "1000000179",
           "statusType": "Issue",
-          "datePosted": "2021/02/04 10:54 JST",
+          "datePosted": "2021/02/04 11:39 JST",
           "startDate": "2021/02/04 03:13 JST",
           "endDate": null,
           "affectedServices": [
