@@ -8,40 +8,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612358760000,
-          "epochEndDate": 1612366980000,
-          "messageId": "2000000264",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/03 22:26 JST",
-          "endDate": "2021/02/04 00:43 JST",
-          "affectedServices": [
-            "App Store",
-            "App Store",
-            "Apple Books",
-            "Apple Books",
-            "Apple Music",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Mac App Store",
-            "Mac App Store",
-            "Radio",
-            "Radio",
-            "Radio",
-            "iTunes Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1612478700000,
           "epochEndDate": 1612481820000,
           "messageId": "1000000182",
           "statusType": "Issue",
-          "datePosted": "2021/02/06 05:57 JST",
+          "datePosted": "2021/02/06 18:00 JST",
           "startDate": "2021/02/05 07:45 JST",
           "endDate": "2021/02/05 08:37 JST",
           "affectedServices": [
@@ -64,35 +35,7 @@
       "redirectUrl": null,
       "serviceName": "Apple Books",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612358760000,
-          "epochEndDate": 1612366980000,
-          "messageId": "2000000264",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/03 22:26 JST",
-          "endDate": "2021/02/04 00:43 JST",
-          "affectedServices": [
-            "App Store",
-            "App Store",
-            "Apple Books",
-            "Apple Books",
-            "Apple Music",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Mac App Store",
-            "Mac App Store",
-            "Radio",
-            "Radio",
-            "Radio",
-            "iTunes Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        }
+
       ]
     },
     {
@@ -106,70 +49,14 @@
       "redirectUrl": null,
       "serviceName": "Apple Music",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612358760000,
-          "epochEndDate": 1612366980000,
-          "messageId": "2000000264",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/03 22:26 JST",
-          "endDate": "2021/02/04 00:43 JST",
-          "affectedServices": [
-            "App Store",
-            "App Store",
-            "Apple Books",
-            "Apple Books",
-            "Apple Music",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Mac App Store",
-            "Mac App Store",
-            "Radio",
-            "Radio",
-            "Radio",
-            "iTunes Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "Apple Music Radio",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612358760000,
-          "epochEndDate": 1612366980000,
-          "messageId": "2000000264",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/03 22:26 JST",
-          "endDate": "2021/02/04 00:43 JST",
-          "affectedServices": [
-            "App Store",
-            "App Store",
-            "Apple Books",
-            "Apple Books",
-            "Apple Music",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Mac App Store",
-            "Mac App Store",
-            "Radio",
-            "Radio",
-            "Radio",
-            "iTunes Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -267,94 +154,14 @@
       "redirectUrl": null,
       "serviceName": "iCloud Drive",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612408200000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612382400000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -368,329 +175,49 @@
       "redirectUrl": null,
       "serviceName": "iCloudカレンダー",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612382400000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iCloudキーチェーン",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612413300000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iCloudストレージアップグレード",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612378860000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iCloudバックアップ",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612408200000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iCloudブックマークおよびタブ",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612408200000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iCloudメール",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612405080000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iCloudメモ",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612408200000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -704,94 +231,14 @@
       "redirectUrl": null,
       "serviceName": "iCloud連絡先",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612411920000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iMessage",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612378860000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -812,35 +259,7 @@
       "redirectUrl": null,
       "serviceName": "iTunes Store",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612358760000,
-          "epochEndDate": 1612366980000,
-          "messageId": "2000000264",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/03 22:26 JST",
-          "endDate": "2021/02/04 00:43 JST",
-          "affectedServices": [
-            "App Store",
-            "App Store",
-            "Apple Books",
-            "Apple Books",
-            "Apple Music",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Mac App Store",
-            "Mac App Store",
-            "Radio",
-            "Radio",
-            "Radio",
-            "iTunes Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        }
+
       ]
     },
     {
@@ -854,47 +273,7 @@
       "redirectUrl": null,
       "serviceName": "iWork for iCloud",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612395780000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "新しいファイルの共有や、共有ファイルに参加者を追加することができなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -903,40 +282,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612358760000,
-          "epochEndDate": 1612366980000,
-          "messageId": "2000000264",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/03 22:26 JST",
-          "endDate": "2021/02/04 00:43 JST",
-          "affectedServices": [
-            "App Store",
-            "App Store",
-            "Apple Books",
-            "Apple Books",
-            "Apple Music",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Mac App Store",
-            "Mac App Store",
-            "Radio",
-            "Radio",
-            "Radio",
-            "iTunes Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1612478700000,
           "epochEndDate": 1612481820000,
           "messageId": "1000000182",
           "statusType": "Issue",
-          "datePosted": "2021/02/06 05:57 JST",
+          "datePosted": "2021/02/06 18:00 JST",
           "startDate": "2021/02/05 07:45 JST",
           "endDate": "2021/02/05 08:37 JST",
           "affectedServices": [
@@ -966,35 +316,7 @@
       "redirectUrl": null,
       "serviceName": "Radio",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612358760000,
-          "epochEndDate": 1612366980000,
-          "messageId": "2000000264",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/03 22:26 JST",
-          "endDate": "2021/02/04 00:43 JST",
-          "affectedServices": [
-            "App Store",
-            "App Store",
-            "Apple Books",
-            "Apple Books",
-            "Apple Music",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Apple Music Radio",
-            "Mac App Store",
-            "Mac App Store",
-            "Radio",
-            "Radio",
-            "Radio",
-            "iTunes Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -1085,47 +407,7 @@
       "redirectUrl": null,
       "serviceName": "探す",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612403160000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -1138,53 +420,12 @@
           "epochEndDate": 1612558080000,
           "messageId": "1000000183",
           "statusType": "Issue",
-          "datePosted": "2021/02/06 05:57 JST",
+          "datePosted": "2021/02/06 18:00 JST",
           "startDate": "2021/02/05 05:00 JST",
           "endDate": "2021/02/06 05:48 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "新しい写真とビデオが共有アルバムに表示されなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612375980000,
-          "epochEndDate": 1612408200000,
-          "messageId": "1000000179",
-          "statusType": "",
-          "datePosted": "2021/02/06 05:57 JST",
-          "startDate": "2021/02/04 03:13 JST",
-          "endDate": "2021/02/04 13:35 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudキーチェーン",
-            "iCloudストレージアップグレード",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudブックマークおよびタブ",
-            "iCloudメモ",
-            "iCloudメモ",
-            "iCloudメール",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iCloud連絡先",
-            "iMessage",
-            "iMessage",
-            "iWork for iCloud",
-            "写真",
-            "写真",
-            "探す",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
     },
