@@ -62,7 +62,22 @@
       "redirectUrl": null,
       "serviceName": "Apple Pay",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1612695600000,
+          "epochEndDate": null,
+          "messageId": "1000000184",
+          "statusType": "Outage",
+          "datePosted": "2021/02/07 21:40 JST",
+          "startDate": "2021/02/07 20:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Card",
+            "Apple Pay"
+          ],
+          "eventStatus": "ongoing",
+          "message": "Mastercardのカード保有者は、Apple Payで既存のカードの追加、停止、または削除ができない場合があります。"
+        }
       ]
     },
     {
@@ -390,7 +405,7 @@
           "epochEndDate": 1612558080000,
           "messageId": "1000000183",
           "statusType": "Issue",
-          "datePosted": "2021/02/07 18:00 JST",
+          "datePosted": "2021/02/07 21:40 JST",
           "startDate": "2021/02/05 05:00 JST",
           "endDate": "2021/02/06 05:48 JST",
           "affectedServices": null,
