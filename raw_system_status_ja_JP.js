@@ -6,22 +6,7 @@
       "redirectUrl": null,
       "serviceName": "App Store",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612478700000,
-          "epochEndDate": 1612481820000,
-          "messageId": "1000000182",
-          "statusType": "Issue",
-          "datePosted": "2021/02/06 18:00 JST",
-          "startDate": "2021/02/05 07:45 JST",
-          "endDate": "2021/02/05 08:37 JST",
-          "affectedServices": [
-            "App Store",
-            "Mac App Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ]
     },
     {
@@ -280,22 +265,7 @@
       "redirectUrl": null,
       "serviceName": "Mac App Store",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1612478700000,
-          "epochEndDate": 1612481820000,
-          "messageId": "1000000182",
-          "statusType": "Issue",
-          "datePosted": "2021/02/06 18:00 JST",
-          "startDate": "2021/02/05 07:45 JST",
-          "endDate": "2021/02/05 08:37 JST",
-          "affectedServices": [
-            "App Store",
-            "Mac App Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ]
     },
     {
@@ -420,7 +390,7 @@
           "epochEndDate": 1612558080000,
           "messageId": "1000000183",
           "statusType": "Issue",
-          "datePosted": "2021/02/06 18:00 JST",
+          "datePosted": "2021/02/07 18:00 JST",
           "startDate": "2021/02/05 05:00 JST",
           "endDate": "2021/02/06 05:48 JST",
           "affectedServices": null,
