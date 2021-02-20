@@ -70,33 +70,33 @@
       "serviceName": "Apple School Manager",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1613841720000,
-          "epochEndDate": 1613844000000,
-          "messageId": "2000000312",
-          "statusType": "Maintenance",
-          "datePosted": "2021/02/21 02:22 JST",
-          "startDate": "2021/02/21 02:22 JST",
-          "endDate": "2021/02/21 03:00 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Device Enrollment Program",
-            null
-          ],
-          "eventStatus": "ongoing",
-          "message": "Classroom Appを使用できない可能性があります。"
-        },
-        {
           "usersAffected": "すべてのユーザに影響しました",
           "epochStartDate": 1613840400000,
           "epochEndDate": 1613841300000,
           "messageId": "2000000307",
           "statusType": "Maintenance",
-          "datePosted": "2021/02/21 02:22 JST",
+          "datePosted": "2021/02/21 03:00 JST",
           "startDate": "2021/02/21 02:00 JST",
           "endDate": "2021/02/21 02:15 JST",
           "affectedServices": [
             "Apple School Manager",
+            null
+          ],
+          "eventStatus": "completed",
+          "message": "Classroom Appを使用できませんでした。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1613841720000,
+          "epochEndDate": 1613844000000,
+          "messageId": "2000000312",
+          "statusType": "Maintenance",
+          "datePosted": "2021/02/21 03:00 JST",
+          "startDate": "2021/02/21 02:22 JST",
+          "endDate": "2021/02/21 03:00 JST",
+          "affectedServices": [
+            "Apple School Manager",
+            "Device Enrollment Program",
             null
           ],
           "eventStatus": "completed",
@@ -137,12 +137,25 @@
       "serviceName": "Device Enrollment Program",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "すべてのユーザに影響しました",
+          "epochStartDate": 1613840400000,
+          "epochEndDate": 1613841300000,
+          "messageId": "2000000310",
+          "statusType": "Maintenance",
+          "datePosted": "2021/02/21 03:00 JST",
+          "startDate": "2021/02/21 02:00 JST",
+          "endDate": "2021/02/21 02:15 JST",
+          "affectedServices": null,
+          "eventStatus": "completed",
+          "message": "システムメンテナンス中、一時的にDevice Enrollment Programをご利用いただけませんでした。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1613841720000,
           "epochEndDate": 1613844000000,
           "messageId": "2000000312",
           "statusType": "Maintenance",
-          "datePosted": "2021/02/21 02:22 JST",
+          "datePosted": "2021/02/21 03:00 JST",
           "startDate": "2021/02/21 02:22 JST",
           "endDate": "2021/02/21 03:00 JST",
           "affectedServices": [
@@ -150,21 +163,8 @@
             "Device Enrollment Program",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "システムメンテナンス中のため、最近購入されたデバイスの登録に時間がかかる可能性があります。"
-        },
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1613840400000,
-          "epochEndDate": 1613841300000,
-          "messageId": "2000000310",
-          "statusType": "Maintenance",
-          "datePosted": "2021/02/21 02:22 JST",
-          "startDate": "2021/02/21 02:00 JST",
-          "endDate": "2021/02/21 02:15 JST",
-          "affectedServices": null,
           "eventStatus": "completed",
-          "message": "システムメンテナンス中、一時的にDevice Enrollment Programをご利用いただけませんでした。"
+          "message": "システムメンテナンス中のため、最近購入されたデバイスの登録に時間がかかった可能性があります。"
         }
       ]
     },
@@ -241,7 +241,7 @@
           "epochEndDate": 1613757960000,
           "messageId": "2000000308",
           "statusType": "Issue",
-          "datePosted": "2021/02/21 02:22 JST",
+          "datePosted": "2021/02/21 03:00 JST",
           "startDate": "2021/02/20 02:27 JST",
           "endDate": "2021/02/20 03:06 JST",
           "affectedServices": null,
@@ -274,7 +274,7 @@
           "epochEndDate": 1613793300000,
           "messageId": "1000000204",
           "statusType": "Issue",
-          "datePosted": "2021/02/21 02:22 JST",
+          "datePosted": "2021/02/21 03:00 JST",
           "startDate": "2021/02/20 12:06 JST",
           "endDate": "2021/02/20 12:55 JST",
           "affectedServices": null,
