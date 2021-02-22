@@ -74,7 +74,7 @@
           "epochEndDate": 1613844600000,
           "messageId": "2000000307",
           "statusType": "Maintenance",
-          "datePosted": "2021/02/23 06:30 JST",
+          "datePosted": "2021/02/23 06:42 JST",
           "startDate": "2021/02/21 02:00 JST",
           "endDate": "2021/02/21 03:10 JST",
           "affectedServices": [
@@ -126,7 +126,7 @@
           "epochEndDate": 1613844600000,
           "messageId": "2000000307",
           "statusType": "Maintenance",
-          "datePosted": "2021/02/23 06:30 JST",
+          "datePosted": "2021/02/23 06:42 JST",
           "startDate": "2021/02/21 02:00 JST",
           "endDate": "2021/02/21 03:10 JST",
           "affectedServices": [
@@ -187,22 +187,24 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1614026460000,
-          "epochEndDate": null,
+          "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 06:30 JST",
+          "datePosted": "2021/02/23 06:42 JST",
           "startDate": "2021/02/23 05:41 JST",
-          "endDate": null,
+          "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
             "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
             "iCloudキーチェーン",
             "iCloudメール",
+            "iCloud連絡先",
             "探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
@@ -210,7 +212,26 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1614026460000,
+          "epochEndDate": 1614029220000,
+          "messageId": "1000000205",
+          "statusType": "Issue",
+          "datePosted": "2021/02/23 06:42 JST",
+          "startDate": "2021/02/23 05:41 JST",
+          "endDate": "2021/02/23 06:27 JST",
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            "iCloud連絡先",
+            "探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
+        }
       ],
       "serviceName": "iCloudカレンダー"
     },
@@ -218,22 +239,24 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1614026460000,
-          "epochEndDate": null,
+          "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 06:30 JST",
+          "datePosted": "2021/02/23 06:42 JST",
           "startDate": "2021/02/23 05:41 JST",
-          "endDate": null,
+          "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
             "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
             "iCloudキーチェーン",
             "iCloudメール",
+            "iCloud連絡先",
             "探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudキーチェーン"
@@ -263,22 +286,24 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1614026460000,
-          "epochEndDate": null,
+          "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 06:30 JST",
+          "datePosted": "2021/02/23 06:42 JST",
           "startDate": "2021/02/23 05:41 JST",
-          "endDate": null,
+          "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
             "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
             "iCloudキーチェーン",
             "iCloudメール",
+            "iCloud連絡先",
             "探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "メールの送受信ができない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "メールの送受信ができなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudメール"
@@ -300,7 +325,26 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1614026460000,
+          "epochEndDate": 1614029220000,
+          "messageId": "1000000205",
+          "statusType": "Issue",
+          "datePosted": "2021/02/23 06:42 JST",
+          "startDate": "2021/02/23 05:41 JST",
+          "endDate": "2021/02/23 06:27 JST",
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            "iCloud連絡先",
+            "探す"
+          ],
+          "eventStatus": "resolved",
+          "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
+        }
       ],
       "serviceName": "iCloud連絡先"
     },
@@ -462,22 +506,24 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1614026460000,
-          "epochEndDate": null,
+          "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 06:30 JST",
+          "datePosted": "2021/02/23 06:42 JST",
           "startDate": "2021/02/23 05:41 JST",
-          "endDate": null,
+          "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
             "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
             "iCloudキーチェーン",
             "iCloudメール",
+            "iCloud連絡先",
             "探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "探す"
