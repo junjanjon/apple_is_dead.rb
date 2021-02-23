@@ -4,70 +4,69 @@
   "services": [
     {
       "redirectUrl": null,
-      "serviceName": "App Store",
       "events": [
 
-      ]
+      ],
+      "serviceName": "App Store"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Arcade",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Arcade"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Books",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Books"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple ID",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple ID"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Music",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Music"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Music Radio",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Music Radio"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Musicのサブスクリプション",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Musicのサブスクリプション"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Online Store",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Online Store"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Pay",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Pay"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple School Manager",
       "events": [
         {
           "usersAffected": "すべてのユーザに影響しました",
@@ -75,7 +74,7 @@
           "epochEndDate": 1613844600000,
           "messageId": "2000000307",
           "statusType": "Maintenance",
-          "datePosted": "2021/02/23 11:28 JST",
+          "datePosted": "2021/02/23 13:26 JST",
           "startDate": "2021/02/21 02:00 JST",
           "endDate": "2021/02/21 03:10 JST",
           "affectedServices": [
@@ -87,39 +86,39 @@
           "eventStatus": "completed",
           "message": "Classroom Appを使用できませんでした。"
         }
-      ]
+      ],
+      "serviceName": "Apple School Manager"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple TV+",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple TV+"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple TVチャンネル",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple TVチャンネル"
     },
     {
       "redirectUrl": null,
-      "serviceName": "AppleCare（iOS）",
       "events": [
 
-      ]
+      ],
+      "serviceName": "AppleCare（iOS）"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Appleでサインイン",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Appleでサインイン"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Device Enrollment Program",
       "events": [
         {
           "usersAffected": "すべてのユーザに影響しました",
@@ -127,7 +126,7 @@
           "epochEndDate": 1613844600000,
           "messageId": "2000000307",
           "statusType": "Maintenance",
-          "datePosted": "2021/02/23 11:28 JST",
+          "datePosted": "2021/02/23 13:26 JST",
           "startDate": "2021/02/21 02:00 JST",
           "endDate": "2021/02/21 03:10 JST",
           "affectedServices": [
@@ -139,53 +138,53 @@
           "eventStatus": "completed",
           "message": "システムメンテナンス中、一時的にDevice Enrollment Programをご利用いただけませんでした。"
         }
-      ]
+      ],
+      "serviceName": "Device Enrollment Program"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Documents in the Cloud",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Documents in the Cloud"
     },
     {
       "redirectUrl": null,
-      "serviceName": "FaceTime",
       "events": [
 
-      ]
+      ],
+      "serviceName": "FaceTime"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Game Center",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Game Center"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Global Service Exchange",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Global Service Exchange"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloud Drive",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloud Drive"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloud Web Apps (iCloud.com)"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudアカウントおよびサインイン",
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -193,7 +192,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 11:28 JST",
+          "datePosted": "2021/02/23 13:26 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -207,11 +206,11 @@
           "eventStatus": "resolved",
           "message": "このサービスを利用できなかった可能性があります。"
         }
-      ]
+      ],
+      "serviceName": "iCloudアカウントおよびサインイン"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudカレンダー",
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -219,7 +218,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 11:28 JST",
+          "datePosted": "2021/02/23 13:26 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -233,11 +232,11 @@
           "eventStatus": "resolved",
           "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
         }
-      ]
+      ],
+      "serviceName": "iCloudカレンダー"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudキーチェーン",
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -245,7 +244,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 11:28 JST",
+          "datePosted": "2021/02/23 13:26 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -259,32 +258,32 @@
           "eventStatus": "resolved",
           "message": "このサービスを利用できなかった可能性があります。"
         }
-      ]
+      ],
+      "serviceName": "iCloudキーチェーン"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudストレージアップグレード",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudストレージアップグレード"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudバックアップ",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudバックアップ"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudブックマークおよびタブ",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudブックマークおよびタブ"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudメール",
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -292,7 +291,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 11:28 JST",
+          "datePosted": "2021/02/23 13:26 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -306,25 +305,25 @@
           "eventStatus": "resolved",
           "message": "メールの送受信ができなかった可能性があります。"
         }
-      ]
+      ],
+      "serviceName": "iCloudメール"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudメモ",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudメモ"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudリマインダー",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudリマインダー"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloud連絡先",
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -332,7 +331,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 11:28 JST",
+          "datePosted": "2021/02/23 13:26 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -346,165 +345,165 @@
           "eventStatus": "resolved",
           "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
         }
-      ]
+      ],
+      "serviceName": "iCloud連絡先"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iMessage",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iMessage"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iOSデバイスアクティベーション",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iOSデバイスアクティベーション"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iTunes Match",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iTunes Match"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iTunes Store",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iTunes Store"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iTunes U",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iTunes U"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iWork for iCloud",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iWork for iCloud"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Mac App Store",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Mac App Store"
     },
     {
       "redirectUrl": null,
-      "serviceName": "macOSソフトウェアアップデート",
       "events": [
 
-      ]
+      ],
+      "serviceName": "macOSソフトウェアアップデート"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Mail Drop",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Mail Drop"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Radio",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Radio"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Siri",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Siri"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Spotlightの検索候補",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Spotlightの検索候補"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Volume Purchase Program",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Volume Purchase Program"
     },
     {
       "redirectUrl": null,
-      "serviceName": "スクールタイム",
       "events": [
 
-      ]
+      ],
+      "serviceName": "スクールタイム"
     },
     {
       "redirectUrl": null,
-      "serviceName": "スクールワーク",
       "events": [
 
-      ]
+      ],
+      "serviceName": "スクールワーク"
     },
     {
       "redirectUrl": null,
-      "serviceName": "スクリーンタイム",
       "events": [
 
-      ]
+      ],
+      "serviceName": "スクリーンタイム"
     },
     {
       "redirectUrl": null,
-      "serviceName": "トランシーバー",
       "events": [
 
-      ]
+      ],
+      "serviceName": "トランシーバー"
     },
     {
       "redirectUrl": null,
-      "serviceName": "マップの経路案内とナビゲーション",
       "events": [
 
-      ]
+      ],
+      "serviceName": "マップの経路案内とナビゲーション"
     },
     {
       "redirectUrl": null,
-      "serviceName": "マップの検索",
       "events": [
 
-      ]
+      ],
+      "serviceName": "マップの検索"
     },
     {
       "redirectUrl": null,
-      "serviceName": "マップの表示",
       "events": [
 
-      ]
+      ],
+      "serviceName": "マップの表示"
     },
     {
       "redirectUrl": null,
-      "serviceName": "音声入力",
       "events": [
 
-      ]
+      ],
+      "serviceName": "音声入力"
     },
     {
       "redirectUrl": null,
-      "serviceName": "株価",
       "events": [
 
-      ]
+      ],
+      "serviceName": "株価"
     },
     {
       "redirectUrl": null,
-      "serviceName": "探す",
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -512,7 +511,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 11:28 JST",
+          "datePosted": "2021/02/23 13:26 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -526,21 +525,22 @@
           "eventStatus": "resolved",
           "message": "このサービスを利用できなかった可能性があります。"
         }
-      ]
+      ],
+      "serviceName": "探す"
     },
     {
       "redirectUrl": null,
-      "serviceName": "写真",
       "events": [
 
-      ]
+      ],
+      "serviceName": "写真"
     },
     {
       "redirectUrl": null,
-      "serviceName": "天気",
       "events": [
 
-      ]
+      ],
+      "serviceName": "天気"
     }
   ]
 }
