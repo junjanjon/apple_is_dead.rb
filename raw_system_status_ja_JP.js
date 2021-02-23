@@ -74,7 +74,7 @@
           "epochEndDate": 1613844600000,
           "messageId": "2000000307",
           "statusType": "Maintenance",
-          "datePosted": "2021/02/23 13:26 JST",
+          "datePosted": "2021/02/23 14:55 JST",
           "startDate": "2021/02/21 02:00 JST",
           "endDate": "2021/02/21 03:10 JST",
           "affectedServices": [
@@ -126,7 +126,7 @@
           "epochEndDate": 1613844600000,
           "messageId": "2000000307",
           "statusType": "Maintenance",
-          "datePosted": "2021/02/23 13:26 JST",
+          "datePosted": "2021/02/23 14:55 JST",
           "startDate": "2021/02/21 02:00 JST",
           "endDate": "2021/02/21 03:10 JST",
           "affectedServices": [
@@ -192,7 +192,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 13:26 JST",
+          "datePosted": "2021/02/23 14:55 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -218,7 +218,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 13:26 JST",
+          "datePosted": "2021/02/23 14:55 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -244,7 +244,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 13:26 JST",
+          "datePosted": "2021/02/23 14:55 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -291,7 +291,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 13:26 JST",
+          "datePosted": "2021/02/23 14:55 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -331,7 +331,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 13:26 JST",
+          "datePosted": "2021/02/23 14:55 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -511,7 +511,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/23 13:26 JST",
+          "datePosted": "2021/02/23 14:55 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
