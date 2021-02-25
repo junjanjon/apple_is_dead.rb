@@ -47,7 +47,7 @@
           "epochEndDate": 1614210720000,
           "messageId": "1000000207",
           "statusType": "Issue",
-          "datePosted": "2021/02/25 11:39 JST",
+          "datePosted": "2021/02/25 16:38 JST",
           "startDate": "2021/02/25 08:13 JST",
           "endDate": "2021/02/25 08:52 JST",
           "affectedServices": [
@@ -174,7 +174,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/25 11:39 JST",
+          "datePosted": "2021/02/25 16:38 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -200,7 +200,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/25 11:39 JST",
+          "datePosted": "2021/02/25 16:38 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -226,7 +226,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/25 11:39 JST",
+          "datePosted": "2021/02/25 16:38 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -269,24 +269,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1614213000000,
-          "epochEndDate": 1614218820000,
-          "messageId": "2000000324",
-          "statusType": "Issue",
-          "datePosted": "2021/02/25 11:39 JST",
-          "startDate": "2021/02/25 09:30 JST",
-          "endDate": "2021/02/25 11:07 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザはiCloudメールにアクセスできなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1614026460000,
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/25 11:39 JST",
+          "datePosted": "2021/02/25 16:38 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -299,6 +286,19 @@
           ],
           "eventStatus": "resolved",
           "message": "メールの送受信ができなかった可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1614213000000,
+          "epochEndDate": 1614218820000,
+          "messageId": "2000000324",
+          "statusType": "Issue",
+          "datePosted": "2021/02/25 16:38 JST",
+          "startDate": "2021/02/25 09:30 JST",
+          "endDate": "2021/02/25 11:07 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "ユーザはiCloudメールにアクセスできなかった可能性があります。"
         }
       ]
     },
@@ -326,7 +326,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/25 11:39 JST",
+          "datePosted": "2021/02/25 16:38 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
@@ -415,7 +415,7 @@
           "epochEndDate": 1614210720000,
           "messageId": "1000000207",
           "statusType": "Issue",
-          "datePosted": "2021/02/25 11:39 JST",
+          "datePosted": "2021/02/25 16:38 JST",
           "startDate": "2021/02/25 08:13 JST",
           "endDate": "2021/02/25 08:52 JST",
           "affectedServices": [
@@ -521,7 +521,7 @@
           "epochEndDate": 1614029220000,
           "messageId": "1000000205",
           "statusType": "Issue",
-          "datePosted": "2021/02/25 11:39 JST",
+          "datePosted": "2021/02/25 16:38 JST",
           "startDate": "2021/02/23 05:41 JST",
           "endDate": "2021/02/23 06:27 JST",
           "affectedServices": [
