@@ -40,22 +40,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1614208380000,
-          "epochEndDate": 1614210720000,
-          "messageId": "1000000207",
-          "statusType": "Issue",
-          "datePosted": "2021/02/26 11:16 JST",
-          "startDate": "2021/02/25 08:13 JST",
-          "endDate": "2021/02/25 08:52 JST",
-          "affectedServices": [
-            "Apple Music Radio",
-            "Radio"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Apple Music Radio"
     },
@@ -209,19 +194,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1614213000000,
-          "epochEndDate": 1614218820000,
-          "messageId": "2000000324",
-          "statusType": "Issue",
-          "datePosted": "2021/02/26 11:16 JST",
-          "startDate": "2021/02/25 09:30 JST",
-          "endDate": "2021/02/25 11:07 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザはiCloudメールにアクセスできなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
@@ -312,22 +285,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1614208380000,
-          "epochEndDate": 1614210720000,
-          "messageId": "1000000207",
-          "statusType": "Issue",
-          "datePosted": "2021/02/26 11:16 JST",
-          "startDate": "2021/02/25 08:13 JST",
-          "endDate": "2021/02/25 08:52 JST",
-          "affectedServices": [
-            "Apple Music Radio",
-            "Radio"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Radio"
     },
