@@ -195,7 +195,19 @@
       "redirectUrl": null,
       "serviceName": "iCloudメール",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1615054620000,
+          "epochEndDate": null,
+          "messageId": "2000000382",
+          "statusType": "Issue",
+          "datePosted": "2021/03/07 03:59 JST",
+          "startDate": "2021/03/07 03:17 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ]
     },
     {
