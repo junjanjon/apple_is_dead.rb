@@ -153,20 +153,28 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1615327200000,
-          "epochEndDate": null,
+          "epochEndDate": 1615330800000,
           "messageId": "1000000226",
           "statusType": "Issue",
-          "datePosted": "2021/03/10 07:49 JST",
+          "datePosted": "2021/03/10 08:13 JST",
           "startDate": "2021/03/10 07:00 JST",
-          "endDate": null,
+          "endDate": "2021/03/10 08:00 JST",
           "affectedServices": [
             "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iMessage",
+            "スクリーンタイム",
+            "写真",
+            "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
@@ -181,28 +189,120 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1615327200000,
+          "epochEndDate": 1615330800000,
+          "messageId": "1000000226",
+          "statusType": "Issue",
+          "datePosted": "2021/03/10 08:13 JST",
+          "startDate": "2021/03/10 07:00 JST",
+          "endDate": "2021/03/10 08:00 JST",
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iMessage",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
+        }
       ],
       "serviceName": "iCloudキーチェーン"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1615327200000,
+          "epochEndDate": 1615330800000,
+          "messageId": "1000000226",
+          "statusType": "Issue",
+          "datePosted": "2021/03/10 08:13 JST",
+          "startDate": "2021/03/10 07:00 JST",
+          "endDate": "2021/03/10 08:00 JST",
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iMessage",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
+        }
       ],
       "serviceName": "iCloudストレージアップグレード"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1615327200000,
+          "epochEndDate": 1615330800000,
+          "messageId": "1000000226",
+          "statusType": "Issue",
+          "datePosted": "2021/03/10 08:13 JST",
+          "startDate": "2021/03/10 07:00 JST",
+          "endDate": "2021/03/10 08:00 JST",
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iMessage",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "中国本土のユーザには、このサービスの動作速度が通常より低下していた可能性があります。"
+        }
       ],
       "serviceName": "iCloudバックアップ"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1615327200000,
+          "epochEndDate": 1615330800000,
+          "messageId": "1000000226",
+          "statusType": "Issue",
+          "datePosted": "2021/03/10 08:13 JST",
+          "startDate": "2021/03/10 07:00 JST",
+          "endDate": "2021/03/10 08:00 JST",
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iMessage",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
+        }
       ],
       "serviceName": "iCloudブックマークおよびタブ"
     },
@@ -237,7 +337,30 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1615327200000,
+          "epochEndDate": 1615330800000,
+          "messageId": "1000000226",
+          "statusType": "Issue",
+          "datePosted": "2021/03/10 08:13 JST",
+          "startDate": "2021/03/10 07:00 JST",
+          "endDate": "2021/03/10 08:00 JST",
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iMessage",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
+        }
       ],
       "serviceName": "iMessage"
     },
@@ -342,7 +465,30 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1615327200000,
+          "epochEndDate": 1615330800000,
+          "messageId": "1000000226",
+          "statusType": "Issue",
+          "datePosted": "2021/03/10 08:13 JST",
+          "startDate": "2021/03/10 07:00 JST",
+          "endDate": "2021/03/10 08:00 JST",
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iMessage",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
+        }
       ],
       "serviceName": "スクリーンタイム"
     },
@@ -391,14 +537,60 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1615327200000,
+          "epochEndDate": 1615330800000,
+          "messageId": "1000000226",
+          "statusType": "Issue",
+          "datePosted": "2021/03/10 08:13 JST",
+          "startDate": "2021/03/10 07:00 JST",
+          "endDate": "2021/03/10 08:00 JST",
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iMessage",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "探す"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1615327200000,
+          "epochEndDate": 1615330800000,
+          "messageId": "1000000226",
+          "statusType": "Issue",
+          "datePosted": "2021/03/10 08:13 JST",
+          "startDate": "2021/03/10 07:00 JST",
+          "endDate": "2021/03/10 08:00 JST",
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iMessage",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
+        }
       ],
       "serviceName": "写真"
     },
