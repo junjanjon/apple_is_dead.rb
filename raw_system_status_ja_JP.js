@@ -61,7 +61,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1616263200000,
+          "epochEndDate": 1616335200000,
+          "messageId": "2000000464",
+          "statusType": "Maintenance",
+          "datePosted": "2021/03/18 09:54 JST",
+          "startDate": "2021/03/21 03:00 JST",
+          "endDate": "2021/03/21 23:00 JST",
+          "affectedServices": null,
+          "eventStatus": "upcoming",
+          "message": "JR東日本のカード保有者は、Apple Payでカードを追加したり、既存のカードをリチャージしたりすることができなくなります。"
+        }
       ],
       "serviceName": "Apple Pay"
     },
@@ -151,7 +163,7 @@
           "epochEndDate": 1615910400000,
           "messageId": "2000000462",
           "statusType": "Issue",
-          "datePosted": "2021/03/17 01:55 JST",
+          "datePosted": "2021/03/18 09:54 JST",
           "startDate": "2021/03/16 21:45 JST",
           "endDate": "2021/03/17 01:00 JST",
           "affectedServices": null,
