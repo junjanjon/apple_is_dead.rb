@@ -68,7 +68,7 @@
           "epochEndDate": 1616335200000,
           "messageId": "2000000464",
           "statusType": "Maintenance",
-          "datePosted": "2021/03/19 09:29 JST",
+          "datePosted": "2021/03/19 17:00 JST",
           "startDate": "2021/03/21 03:00 JST",
           "endDate": "2021/03/21 23:00 JST",
           "affectedServices": null,
@@ -158,19 +158,7 @@
       "redirectUrl": null,
       "serviceName": "iCloudアカウントおよびサインイン",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1615898700000,
-          "epochEndDate": 1615910400000,
-          "messageId": "2000000462",
-          "statusType": "Issue",
-          "datePosted": "2021/03/19 09:29 JST",
-          "startDate": "2021/03/16 21:45 JST",
-          "endDate": "2021/03/17 01:00 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ]
     },
     {
@@ -393,7 +381,7 @@
           "epochEndDate": 1616103000000,
           "messageId": "1000000242",
           "statusType": "Issue",
-          "datePosted": "2021/03/19 09:29 JST",
+          "datePosted": "2021/03/19 17:00 JST",
           "startDate": "2021/03/19 00:10 JST",
           "endDate": "2021/03/19 06:30 JST",
           "affectedServices": null,
