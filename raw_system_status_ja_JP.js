@@ -68,7 +68,7 @@
           "epochEndDate": 1616335200000,
           "messageId": "2000000464",
           "statusType": "Maintenance",
-          "datePosted": "2021/03/19 03:00 JST",
+          "datePosted": "2021/03/19 09:29 JST",
           "startDate": "2021/03/21 03:00 JST",
           "endDate": "2021/03/21 23:00 JST",
           "affectedServices": null,
@@ -164,7 +164,7 @@
           "epochEndDate": 1615910400000,
           "messageId": "2000000462",
           "statusType": "Issue",
-          "datePosted": "2021/03/19 03:00 JST",
+          "datePosted": "2021/03/19 09:29 JST",
           "startDate": "2021/03/16 21:45 JST",
           "endDate": "2021/03/17 01:00 JST",
           "affectedServices": null,
@@ -388,17 +388,17 @@
       "serviceName": "株価",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1616080200000,
-          "epochEndDate": null,
+          "epochEndDate": 1616103000000,
           "messageId": "1000000242",
           "statusType": "Issue",
-          "datePosted": "2021/03/19 03:00 JST",
+          "datePosted": "2021/03/19 09:29 JST",
           "startDate": "2021/03/19 00:10 JST",
-          "endDate": null,
+          "endDate": "2021/03/19 06:30 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "「株価」で問題が発生しています。"
+          "eventStatus": "resolved",
+          "message": "「株価」で問題が発生した可能性があります。"
         }
       ]
     },
