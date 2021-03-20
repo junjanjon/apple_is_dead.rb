@@ -46,7 +46,7 @@
           "epochEndDate": 1616188800000,
           "messageId": "2000000468",
           "statusType": "Issue",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/20 04:58 JST",
           "endDate": "2021/03/20 06:20 JST",
           "affectedServices": [
@@ -77,17 +77,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
+          "usersAffected": "すべてのユーザに影響しました",
           "epochStartDate": 1616205600000,
           "epochEndDate": 1616277600000,
           "messageId": "2000000467",
           "statusType": "Maintenance",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/20 11:00 JST",
           "endDate": "2021/03/21 07:00 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "JR東日本のカード保有者は、Apple Payでカードを追加したり、既存のカードをリチャージしたりすることができない場合があります。"
+          "eventStatus": "completed",
+          "message": "JR東日本のカード保有者は、Apple Payでカードを追加したり、既存のカードをリチャージしたりすることができませんでした。"
         }
       ],
       "serviceName": "Apple Pay"
@@ -164,7 +164,7 @@
           "epochEndDate": 1616169660000,
           "messageId": "2000000466",
           "statusType": "Issue",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/19 21:41 JST",
           "endDate": "2021/03/20 01:01 JST",
           "affectedServices": [
@@ -215,7 +215,7 @@
           "epochEndDate": 1616169660000,
           "messageId": "2000000466",
           "statusType": "Issue",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/19 21:41 JST",
           "endDate": "2021/03/20 01:01 JST",
           "affectedServices": [
@@ -252,7 +252,7 @@
           "epochEndDate": 1616169660000,
           "messageId": "2000000466",
           "statusType": "Issue",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/19 21:41 JST",
           "endDate": "2021/03/20 01:01 JST",
           "affectedServices": [
@@ -282,7 +282,7 @@
           "epochEndDate": 1616169660000,
           "messageId": "2000000466",
           "statusType": "Issue",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/19 21:41 JST",
           "endDate": "2021/03/20 01:01 JST",
           "affectedServices": [
@@ -312,7 +312,7 @@
           "epochEndDate": 1616169660000,
           "messageId": "2000000466",
           "statusType": "Issue",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/19 21:41 JST",
           "endDate": "2021/03/20 01:01 JST",
           "affectedServices": [
@@ -342,7 +342,7 @@
           "epochEndDate": 1616169660000,
           "messageId": "2000000466",
           "statusType": "Issue",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/19 21:41 JST",
           "endDate": "2021/03/20 01:01 JST",
           "affectedServices": [
@@ -372,7 +372,7 @@
           "epochEndDate": 1616169660000,
           "messageId": "2000000466",
           "statusType": "Issue",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/19 21:41 JST",
           "endDate": "2021/03/20 01:01 JST",
           "affectedServices": [
@@ -402,7 +402,7 @@
           "epochEndDate": 1616169660000,
           "messageId": "2000000466",
           "statusType": "Issue",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/19 21:41 JST",
           "endDate": "2021/03/20 01:01 JST",
           "affectedServices": [
@@ -495,7 +495,7 @@
           "epochEndDate": 1616188800000,
           "messageId": "2000000468",
           "statusType": "Issue",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/20 04:58 JST",
           "endDate": "2021/03/20 06:20 JST",
           "affectedServices": [
@@ -594,7 +594,7 @@
           "epochEndDate": 1616103000000,
           "messageId": "1000000242",
           "statusType": "Issue",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/19 00:10 JST",
           "endDate": "2021/03/19 06:30 JST",
           "affectedServices": null,
@@ -613,7 +613,7 @@
           "epochEndDate": 1616169660000,
           "messageId": "2000000466",
           "statusType": "Issue",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/19 21:41 JST",
           "endDate": "2021/03/20 01:01 JST",
           "affectedServices": [
@@ -643,7 +643,7 @@
           "epochEndDate": 1616169660000,
           "messageId": "2000000466",
           "statusType": "Issue",
-          "datePosted": "2021/03/20 17:00 JST",
+          "datePosted": "2021/03/21 07:00 JST",
           "startDate": "2021/03/19 21:41 JST",
           "endDate": "2021/03/20 01:01 JST",
           "affectedServices": [
