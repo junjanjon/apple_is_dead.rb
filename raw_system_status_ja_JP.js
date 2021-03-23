@@ -62,19 +62,7 @@
       "redirectUrl": null,
       "serviceName": "Apple Pay",
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1616205600000,
-          "epochEndDate": 1616277600000,
-          "messageId": "2000000467",
-          "statusType": "Maintenance",
-          "datePosted": "2021/03/22 17:00 JST",
-          "startDate": "2021/03/20 11:00 JST",
-          "endDate": "2021/03/21 07:00 JST",
-          "affectedServices": null,
-          "eventStatus": "completed",
-          "message": "JR東日本のカード保有者は、Apple Payでカードを追加したり、既存のカードをリチャージしたりすることができませんでした。"
-        }
+
       ]
     },
     {
@@ -94,6 +82,13 @@
     {
       "redirectUrl": null,
       "serviceName": "Apple TVチャンネル",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "AppleCare（iOS）",
       "events": [
 
       ]
