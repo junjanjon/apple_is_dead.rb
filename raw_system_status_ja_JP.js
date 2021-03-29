@@ -5,7 +5,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1617037500000,
+          "epochEndDate": null,
+          "messageId": "2000000487",
+          "statusType": "Outage",
+          "datePosted": "2021/03/30 02:30 JST",
+          "startDate": "2021/03/30 02:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Mac App Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ],
       "serviceName": "App Store"
     },
@@ -124,7 +139,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1617037020000,
+          "epochEndDate": null,
+          "messageId": "2000000488",
+          "statusType": "Issue",
+          "datePosted": "2021/03/30 02:30 JST",
+          "startDate": "2021/03/30 01:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudメール",
+            "iMessage",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "Game Center"
     },
@@ -194,7 +226,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1617037020000,
+          "epochEndDate": null,
+          "messageId": "2000000488",
+          "statusType": "Issue",
+          "datePosted": "2021/03/30 02:30 JST",
+          "startDate": "2021/03/30 01:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudメール",
+            "iMessage",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ],
       "serviceName": "iCloudメール"
     },
@@ -222,7 +271,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1617037020000,
+          "epochEndDate": null,
+          "messageId": "2000000488",
+          "statusType": "Issue",
+          "datePosted": "2021/03/30 02:30 JST",
+          "startDate": "2021/03/30 01:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudメール",
+            "iMessage",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iMessage"
     },
@@ -264,7 +330,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1617037500000,
+          "epochEndDate": null,
+          "messageId": "2000000487",
+          "statusType": "Outage",
+          "datePosted": "2021/03/30 02:30 JST",
+          "startDate": "2021/03/30 02:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Mac App Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ],
       "serviceName": "Mac App Store"
     },
@@ -376,7 +457,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1617037020000,
+          "epochEndDate": null,
+          "messageId": "2000000488",
+          "statusType": "Issue",
+          "datePosted": "2021/03/30 02:30 JST",
+          "startDate": "2021/03/30 01:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudメール",
+            "iMessage",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "探す"
     },
