@@ -11,7 +11,7 @@
           "epochEndDate": null,
           "messageId": "2000000487",
           "statusType": "Outage",
-          "datePosted": "2021/03/30 02:30 JST",
+          "datePosted": "2021/03/30 02:39 JST",
           "startDate": "2021/03/30 02:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -83,7 +83,27 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1617037020000,
+          "epochEndDate": null,
+          "messageId": "2000000488",
+          "statusType": "Issue",
+          "datePosted": "2021/03/30 02:39 JST",
+          "startDate": "2021/03/30 01:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudメール",
+            "iMessage",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "Classroom Appを使用できない可能性があります。"
+        }
       ],
       "serviceName": "Apple School Manager"
     },
@@ -145,11 +165,14 @@
           "epochEndDate": null,
           "messageId": "2000000488",
           "statusType": "Issue",
-          "datePosted": "2021/03/30 02:30 JST",
+          "datePosted": "2021/03/30 02:39 JST",
           "startDate": "2021/03/30 01:57 JST",
           "endDate": null,
           "affectedServices": [
+            "Apple School Manager",
             "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
             "iCloudメール",
             "iMessage",
             "探す"
@@ -170,7 +193,27 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1617037020000,
+          "epochEndDate": null,
+          "messageId": "2000000488",
+          "statusType": "Issue",
+          "datePosted": "2021/03/30 02:39 JST",
+          "startDate": "2021/03/30 01:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudメール",
+            "iMessage",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ],
       "serviceName": "iCloud Drive"
     },
@@ -184,7 +227,27 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1617037020000,
+          "epochEndDate": null,
+          "messageId": "2000000488",
+          "statusType": "Issue",
+          "datePosted": "2021/03/30 02:39 JST",
+          "startDate": "2021/03/30 01:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudメール",
+            "iMessage",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
     },
@@ -232,11 +295,14 @@
           "epochEndDate": null,
           "messageId": "2000000488",
           "statusType": "Issue",
-          "datePosted": "2021/03/30 02:30 JST",
+          "datePosted": "2021/03/30 02:39 JST",
           "startDate": "2021/03/30 01:57 JST",
           "endDate": null,
           "affectedServices": [
+            "Apple School Manager",
             "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
             "iCloudメール",
             "iMessage",
             "探す"
@@ -277,11 +343,14 @@
           "epochEndDate": null,
           "messageId": "2000000488",
           "statusType": "Issue",
-          "datePosted": "2021/03/30 02:30 JST",
+          "datePosted": "2021/03/30 02:39 JST",
           "startDate": "2021/03/30 01:57 JST",
           "endDate": null,
           "affectedServices": [
+            "Apple School Manager",
             "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
             "iCloudメール",
             "iMessage",
             "探す"
@@ -336,7 +405,7 @@
           "epochEndDate": null,
           "messageId": "2000000487",
           "statusType": "Outage",
-          "datePosted": "2021/03/30 02:30 JST",
+          "datePosted": "2021/03/30 02:39 JST",
           "startDate": "2021/03/30 02:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -463,11 +532,14 @@
           "epochEndDate": null,
           "messageId": "2000000488",
           "statusType": "Issue",
-          "datePosted": "2021/03/30 02:30 JST",
+          "datePosted": "2021/03/30 02:39 JST",
           "startDate": "2021/03/30 01:57 JST",
           "endDate": null,
           "affectedServices": [
+            "Apple School Manager",
             "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
             "iCloudメール",
             "iMessage",
             "探す"
