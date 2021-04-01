@@ -6,22 +6,7 @@
       "redirectUrl": null,
       "serviceName": "App Store",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1617037500000,
-          "epochEndDate": 1617039480000,
-          "messageId": "2000000487",
-          "statusType": "Outage",
-          "datePosted": "2021/03/31 17:00 JST",
-          "startDate": "2021/03/30 02:05 JST",
-          "endDate": "2021/03/30 02:38 JST",
-          "affectedServices": [
-            "App Store",
-            "Mac App Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        }
+
       ]
     },
     {
@@ -84,29 +69,7 @@
       "redirectUrl": null,
       "serviceName": "Apple School Manager",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1617037020000,
-          "epochEndDate": 1617039300000,
-          "messageId": "2000000488",
-          "statusType": "Issue",
-          "datePosted": "2021/03/31 17:00 JST",
-          "startDate": "2021/03/30 01:57 JST",
-          "endDate": "2021/03/30 02:35 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Game Center",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudメール",
-            "iMessage",
-            "スクールワーク",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "Classroom Appを使用できませんでした。"
-        }
+
       ]
     },
     {
@@ -162,29 +125,7 @@
       "redirectUrl": null,
       "serviceName": "Game Center",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1617037020000,
-          "epochEndDate": 1617039300000,
-          "messageId": "2000000488",
-          "statusType": "Issue",
-          "datePosted": "2021/03/31 17:00 JST",
-          "startDate": "2021/03/30 01:57 JST",
-          "endDate": "2021/03/30 02:35 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Game Center",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudメール",
-            "iMessage",
-            "スクールワーク",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -198,87 +139,21 @@
       "redirectUrl": null,
       "serviceName": "iCloud Drive",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1617037020000,
-          "epochEndDate": 1617039300000,
-          "messageId": "2000000488",
-          "statusType": "Issue",
-          "datePosted": "2021/03/31 17:00 JST",
-          "startDate": "2021/03/30 01:57 JST",
-          "endDate": "2021/03/30 02:35 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Game Center",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudメール",
-            "iMessage",
-            "スクールワーク",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1617037020000,
-          "epochEndDate": 1617039300000,
-          "messageId": "2000000488",
-          "statusType": "Issue",
-          "datePosted": "2021/03/31 17:00 JST",
-          "startDate": "2021/03/30 01:57 JST",
-          "endDate": "2021/03/30 02:35 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Game Center",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudメール",
-            "iMessage",
-            "スクールワーク",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iCloudアカウントおよびサインイン",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1617037020000,
-          "epochEndDate": 1617039120000,
-          "messageId": "2000000488",
-          "statusType": "Issue",
-          "datePosted": "2021/03/31 17:00 JST",
-          "startDate": "2021/03/30 01:57 JST",
-          "endDate": "2021/03/30 02:35 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Game Center",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudメール",
-            "iMessage",
-            "スクールワーク",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        }
+
       ]
     },
     {
@@ -320,29 +195,7 @@
       "redirectUrl": null,
       "serviceName": "iCloudメール",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1617037020000,
-          "epochEndDate": 1617039120000,
-          "messageId": "2000000488",
-          "statusType": "Issue",
-          "datePosted": "2021/03/31 17:00 JST",
-          "startDate": "2021/03/30 01:57 JST",
-          "endDate": "2021/03/30 02:35 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Game Center",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudメール",
-            "iMessage",
-            "スクールワーク",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -370,29 +223,7 @@
       "redirectUrl": null,
       "serviceName": "iMessage",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1617037020000,
-          "epochEndDate": 1617039300000,
-          "messageId": "2000000488",
-          "statusType": "Issue",
-          "datePosted": "2021/03/31 17:00 JST",
-          "startDate": "2021/03/30 01:57 JST",
-          "endDate": "2021/03/30 02:35 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Game Center",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudメール",
-            "iMessage",
-            "スクールワーク",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -434,22 +265,7 @@
       "redirectUrl": null,
       "serviceName": "Mac App Store",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1617037500000,
-          "epochEndDate": 1617039480000,
-          "messageId": "2000000487",
-          "statusType": "Outage",
-          "datePosted": "2021/03/31 17:00 JST",
-          "startDate": "2021/03/30 02:05 JST",
-          "endDate": "2021/03/30 02:38 JST",
-          "affectedServices": [
-            "App Store",
-            "Mac App Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        }
+
       ]
     },
     {
@@ -505,29 +321,7 @@
       "redirectUrl": null,
       "serviceName": "スクールワーク",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1617037020000,
-          "epochEndDate": 1617039300000,
-          "messageId": "2000000488",
-          "statusType": "Issue",
-          "datePosted": "2021/03/31 17:00 JST",
-          "startDate": "2021/03/30 01:57 JST",
-          "endDate": "2021/03/30 02:35 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Game Center",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudメール",
-            "iMessage",
-            "スクールワーク",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -583,29 +377,7 @@
       "redirectUrl": null,
       "serviceName": "探す",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1617037020000,
-          "epochEndDate": 1617039300000,
-          "messageId": "2000000488",
-          "statusType": "Issue",
-          "datePosted": "2021/03/31 17:00 JST",
-          "startDate": "2021/03/30 01:57 JST",
-          "endDate": "2021/03/30 02:35 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Game Center",
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudアカウントおよびサインイン",
-            "iCloudメール",
-            "iMessage",
-            "スクールワーク",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
