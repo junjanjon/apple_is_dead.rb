@@ -42,14 +42,14 @@
       "events": [
 
       ],
-      "serviceName": "Apple Musicのラジオ"
+      "serviceName": "Apple Musicのサブスクリプション"
     },
     {
       "redirectUrl": null,
       "events": [
 
       ],
-      "serviceName": "Apple Musicのサブスクリプション"
+      "serviceName": "Apple Musicのラジオ"
     },
     {
       "redirectUrl": null,
@@ -85,13 +85,6 @@
 
       ],
       "serviceName": "Apple TVチャンネル"
-    },
-    {
-      "redirectUrl": null,
-      "events": [
-
-      ],
-      "serviceName": "デバイスのAppleCare"
     },
     {
       "redirectUrl": null,
@@ -330,6 +323,13 @@
 
       ],
       "serviceName": "スクリーンタイム"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
+      "serviceName": "デバイスのAppleCare"
     },
     {
       "redirectUrl": null,
