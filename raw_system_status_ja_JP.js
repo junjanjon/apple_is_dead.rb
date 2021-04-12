@@ -125,7 +125,19 @@
       "redirectUrl": null,
       "serviceName": "Global Service Exchange",
       "events": [
-
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1618236900000,
+          "epochEndDate": null,
+          "messageId": "2000000543",
+          "statusType": "Performance",
+          "datePosted": "2021/04/13 00:55 JST",
+          "startDate": "2021/04/12 23:15 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "メンテナンスのため、GSXは現在ご利用になれません"
+        }
       ]
     },
     {
