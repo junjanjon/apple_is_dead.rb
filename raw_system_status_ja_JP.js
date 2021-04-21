@@ -152,7 +152,7 @@
           "epochEndDate": 1618814160000,
           "messageId": "1000000308",
           "statusType": "Issue",
-          "datePosted": "2021/04/21 08:20 JST",
+          "datePosted": "2021/04/21 09:03 JST",
           "startDate": "2021/04/19 15:00 JST",
           "endDate": "2021/04/19 15:36 JST",
           "affectedServices": null,
@@ -202,24 +202,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1618927560000,
-          "epochEndDate": 1618937880000,
-          "messageId": "2000000552",
-          "statusType": "Issue",
-          "datePosted": "2021/04/21 08:20 JST",
-          "startDate": "2021/04/20 23:06 JST",
-          "endDate": "2021/04/21 01:58 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "メールの送受信ができなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1618848360000,
           "epochEndDate": 1618861320000,
           "messageId": "2000000551",
           "statusType": "Issue",
-          "datePosted": "2021/04/21 08:20 JST",
+          "datePosted": "2021/04/21 09:03 JST",
           "startDate": "2021/04/20 01:06 JST",
           "endDate": "2021/04/20 04:42 JST",
           "affectedServices": null,
@@ -228,16 +215,16 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1618956120000,
-          "epochEndDate": 1618959540000,
-          "messageId": "2000000554",
+          "epochStartDate": 1618927560000,
+          "epochEndDate": 1618937880000,
+          "messageId": "2000000552",
           "statusType": "Issue",
-          "datePosted": "2021/04/21 08:20 JST",
-          "startDate": "2021/04/21 07:02 JST",
-          "endDate": "2021/04/21 07:59 JST",
+          "datePosted": "2021/04/21 09:03 JST",
+          "startDate": "2021/04/20 23:06 JST",
+          "endDate": "2021/04/21 01:58 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
+          "message": "メールの送受信ができなかった可能性があります。"
         }
       ]
     },
