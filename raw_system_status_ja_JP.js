@@ -193,22 +193,9 @@
           "epochEndDate": 1618937880000,
           "messageId": "2000000552",
           "statusType": "Issue",
-          "datePosted": "2021/04/21 17:02 JST",
+          "datePosted": "2021/04/22 17:00 JST",
           "startDate": "2021/04/20 23:06 JST",
           "endDate": "2021/04/21 01:58 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "メールの送受信ができなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1618848360000,
-          "epochEndDate": 1618861320000,
-          "messageId": "2000000551",
-          "statusType": "Issue",
-          "datePosted": "2021/04/21 17:02 JST",
-          "startDate": "2021/04/20 01:06 JST",
-          "endDate": "2021/04/20 04:42 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "メールの送受信ができなかった可能性があります。"
