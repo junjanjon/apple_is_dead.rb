@@ -159,7 +159,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1619291760000,
+          "epochEndDate": null,
+          "messageId": "2000000560",
+          "statusType": "Issue",
+          "datePosted": "2021/04/25 05:51 JST",
+          "startDate": "2021/04/25 04:16 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ],
       "serviceName": "iCloudキーチェーン"
     },
@@ -256,7 +268,7 @@
           "epochEndDate": 1619120100000,
           "messageId": "2000000556",
           "statusType": "Issue",
-          "datePosted": "2021/04/24 22:00 JST",
+          "datePosted": "2021/04/25 05:51 JST",
           "startDate": "2021/04/23 02:00 JST",
           "endDate": "2021/04/23 04:35 JST",
           "affectedServices": null,
