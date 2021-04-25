@@ -166,7 +166,7 @@
           "epochEndDate": 1619304900000,
           "messageId": "2000000560",
           "statusType": "Issue",
-          "datePosted": "2021/04/25 15:55 JST",
+          "datePosted": "2021/04/25 17:00 JST",
           "startDate": "2021/04/25 04:16 JST",
           "endDate": "2021/04/25 07:55 JST",
           "affectedServices": null,
@@ -263,19 +263,7 @@
       "redirectUrl": null,
       "serviceName": "iWork for iCloud",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1619110800000,
-          "epochEndDate": 1619120100000,
-          "messageId": "2000000556",
-          "statusType": "Issue",
-          "datePosted": "2021/04/25 15:55 JST",
-          "startDate": "2021/04/23 02:00 JST",
-          "endDate": "2021/04/23 04:35 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザがiCloud.comでiWork書類とメモの共同制作を行なう際に問題が発生しました。"
-        }
+
       ]
     },
     {
