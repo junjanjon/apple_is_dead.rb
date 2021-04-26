@@ -144,7 +144,7 @@
           "epochEndDate": null,
           "messageId": "1000000310",
           "statusType": "Issue",
-          "datePosted": "2021/04/27 00:41 JST",
+          "datePosted": "2021/04/27 00:52 JST",
           "startDate": "2021/04/26 20:13 JST",
           "endDate": null,
           "affectedServices": [
@@ -152,7 +152,7 @@
             "iCloudメール"
           ],
           "eventStatus": "ongoing",
-          "message": "icloud.comのメールWebアプリケーションが一時的にアクセスできません。この問題が発生している間、影響を受けたユーザはMac、PC、iPhone、iPad、またはiPod touchのメールアプリケーションを引き続き使用できます。"
+          "message": "このサービスに関する問題が発生している可能性があります。"
         }
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)"
@@ -180,7 +180,7 @@
           "epochEndDate": 1619304900000,
           "messageId": "2000000560",
           "statusType": "Issue",
-          "datePosted": "2021/04/27 00:41 JST",
+          "datePosted": "2021/04/27 00:52 JST",
           "startDate": "2021/04/25 04:16 JST",
           "endDate": "2021/04/25 07:55 JST",
           "affectedServices": null,
@@ -220,7 +220,7 @@
           "epochEndDate": null,
           "messageId": "1000000310",
           "statusType": "Outage",
-          "datePosted": "2021/04/27 00:41 JST",
+          "datePosted": "2021/04/27 00:52 JST",
           "startDate": "2021/04/26 20:13 JST",
           "endDate": null,
           "affectedServices": [
