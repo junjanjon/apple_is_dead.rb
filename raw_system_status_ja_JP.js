@@ -62,19 +62,7 @@
       "redirectUrl": null,
       "serviceName": "Apple Pay",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1619459040000,
-          "epochEndDate": null,
-          "messageId": "2000000561",
-          "statusType": "Outage",
-          "datePosted": "2021/04/27 04:48 JST",
-          "startDate": "2021/04/27 02:44 JST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "Thales/Gemalto - Capriのカード保有者は、Apple Payの一部の機能を使用できない場合があります。"
-        }
+
       ]
     },
     {
@@ -157,7 +145,7 @@
           "epochEndDate": 1619453820000,
           "messageId": "1000000310",
           "statusType": "Issue",
-          "datePosted": "2021/04/27 04:48 JST",
+          "datePosted": "2021/04/27 05:24 JST",
           "startDate": "2021/04/26 20:13 JST",
           "endDate": "2021/04/27 01:17 JST",
           "affectedServices": [
@@ -193,7 +181,7 @@
           "epochEndDate": 1619304900000,
           "messageId": "2000000560",
           "statusType": "Issue",
-          "datePosted": "2021/04/27 04:48 JST",
+          "datePosted": "2021/04/27 05:24 JST",
           "startDate": "2021/04/25 04:16 JST",
           "endDate": "2021/04/25 07:55 JST",
           "affectedServices": null,
@@ -233,7 +221,7 @@
           "epochEndDate": 1619453820000,
           "messageId": "1000000310",
           "statusType": "Outage",
-          "datePosted": "2021/04/27 04:48 JST",
+          "datePosted": "2021/04/27 05:24 JST",
           "startDate": "2021/04/26 20:13 JST",
           "endDate": "2021/04/27 01:17 JST",
           "affectedServices": [
