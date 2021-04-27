@@ -145,7 +145,7 @@
           "epochEndDate": 1619453820000,
           "messageId": "1000000310",
           "statusType": "Issue",
-          "datePosted": "2021/04/27 09:22 JST",
+          "datePosted": "2021/04/27 17:00 JST",
           "startDate": "2021/04/26 20:13 JST",
           "endDate": "2021/04/27 01:17 JST",
           "affectedServices": [
@@ -175,19 +175,7 @@
       "redirectUrl": null,
       "serviceName": "iCloudキーチェーン",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1619291760000,
-          "epochEndDate": 1619304900000,
-          "messageId": "2000000560",
-          "statusType": "Issue",
-          "datePosted": "2021/04/27 09:22 JST",
-          "startDate": "2021/04/25 04:16 JST",
-          "endDate": "2021/04/25 07:55 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -221,7 +209,7 @@
           "epochEndDate": 1619453820000,
           "messageId": "1000000310",
           "statusType": "Outage",
-          "datePosted": "2021/04/27 09:22 JST",
+          "datePosted": "2021/04/27 17:00 JST",
           "startDate": "2021/04/26 20:13 JST",
           "endDate": "2021/04/27 01:17 JST",
           "affectedServices": [
@@ -362,7 +350,7 @@
           "epochEndDate": 1619482200000,
           "messageId": "2000000562",
           "statusType": "Issue",
-          "datePosted": "2021/04/27 09:22 JST",
+          "datePosted": "2021/04/27 17:00 JST",
           "startDate": "2021/04/27 07:20 JST",
           "endDate": "2021/04/27 09:10 JST",
           "affectedServices": null,
