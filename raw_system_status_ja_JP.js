@@ -5,7 +5,26 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1619635980000,
+          "epochEndDate": null,
+          "messageId": "2000000584",
+          "statusType": "Issue",
+          "datePosted": "2021/04/29 04:26 JST",
+          "startDate": "2021/04/29 03:53 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Apple Music",
+            "Apple Musicのラジオ",
+            "Radio",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ],
       "serviceName": "App Store"
     },
@@ -19,7 +38,26 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1619635980000,
+          "epochEndDate": null,
+          "messageId": "2000000584",
+          "statusType": "Issue",
+          "datePosted": "2021/04/29 04:26 JST",
+          "startDate": "2021/04/29 03:53 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Apple Music",
+            "Apple Musicのラジオ",
+            "Radio",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ],
       "serviceName": "Apple Books"
     },
@@ -33,7 +71,26 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1619635980000,
+          "epochEndDate": null,
+          "messageId": "2000000584",
+          "statusType": "Issue",
+          "datePosted": "2021/04/29 04:26 JST",
+          "startDate": "2021/04/29 03:53 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Apple Music",
+            "Apple Musicのラジオ",
+            "Radio",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "Apple Music"
     },
@@ -52,13 +109,17 @@
           "epochStartDate": 1619635980000,
           "epochEndDate": null,
           "messageId": "2000000584",
-          "statusType": "Outage",
-          "datePosted": "2021/04/29 04:07 JST",
+          "statusType": "Issue",
+          "datePosted": "2021/04/29 04:26 JST",
           "startDate": "2021/04/29 03:53 JST",
           "endDate": null,
           "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Apple Music",
             "Apple Musicのラジオ",
-            "Radio"
+            "Radio",
+            "iTunes Store"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
@@ -159,7 +220,7 @@
           "epochEndDate": 1619453820000,
           "messageId": "1000000310",
           "statusType": "Issue",
-          "datePosted": "2021/04/29 04:07 JST",
+          "datePosted": "2021/04/29 04:26 JST",
           "startDate": "2021/04/26 20:13 JST",
           "endDate": "2021/04/27 01:17 JST",
           "affectedServices": [
@@ -195,7 +256,7 @@
           "epochEndDate": 1619630400000,
           "messageId": "2000000582",
           "statusType": "Issue",
-          "datePosted": "2021/04/29 04:07 JST",
+          "datePosted": "2021/04/29 04:26 JST",
           "startDate": "2021/04/28 23:30 JST",
           "endDate": "2021/04/29 02:20 JST",
           "affectedServices": null,
@@ -208,7 +269,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1619634420000,
+          "epochEndDate": 1619637660000,
+          "messageId": "2000000585",
+          "statusType": "Issue",
+          "datePosted": "2021/04/29 04:26 JST",
+          "startDate": "2021/04/29 03:27 JST",
+          "endDate": "2021/04/29 04:21 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "iCloudストレージアップグレード"
     },
@@ -235,7 +308,7 @@
           "epochEndDate": 1619453820000,
           "messageId": "1000000310",
           "statusType": "Outage",
-          "datePosted": "2021/04/29 04:07 JST",
+          "datePosted": "2021/04/29 04:26 JST",
           "startDate": "2021/04/26 20:13 JST",
           "endDate": "2021/04/27 01:17 JST",
           "affectedServices": [
@@ -293,7 +366,26 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1619635980000,
+          "epochEndDate": null,
+          "messageId": "2000000584",
+          "statusType": "Issue",
+          "datePosted": "2021/04/29 04:26 JST",
+          "startDate": "2021/04/29 03:53 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Apple Music",
+            "Apple Musicのラジオ",
+            "Radio",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ],
       "serviceName": "iTunes Store"
     },
@@ -340,13 +432,17 @@
           "epochStartDate": 1619635980000,
           "epochEndDate": null,
           "messageId": "2000000584",
-          "statusType": "Outage",
-          "datePosted": "2021/04/29 04:07 JST",
+          "statusType": "Issue",
+          "datePosted": "2021/04/29 04:26 JST",
           "startDate": "2021/04/29 03:53 JST",
           "endDate": null,
           "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Apple Music",
             "Apple Musicのラジオ",
-            "Radio"
+            "Radio",
+            "iTunes Store"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
@@ -391,7 +487,7 @@
           "epochEndDate": 1619482200000,
           "messageId": "2000000562",
           "statusType": "Issue",
-          "datePosted": "2021/04/29 04:07 JST",
+          "datePosted": "2021/04/29 04:26 JST",
           "startDate": "2021/04/27 07:20 JST",
           "endDate": "2021/04/27 09:10 JST",
           "affectedServices": null,
