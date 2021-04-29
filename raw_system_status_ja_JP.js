@@ -11,7 +11,7 @@
           "epochEndDate": 1619637780000,
           "messageId": "2000000584",
           "statusType": "Issue",
-          "datePosted": "2021/04/29 04:33 JST",
+          "datePosted": "2021/04/29 17:00 JST",
           "startDate": "2021/04/29 03:53 JST",
           "endDate": "2021/04/29 04:23 JST",
           "affectedServices": [
@@ -44,7 +44,7 @@
           "epochEndDate": 1619637780000,
           "messageId": "2000000584",
           "statusType": "Issue",
-          "datePosted": "2021/04/29 04:33 JST",
+          "datePosted": "2021/04/29 17:00 JST",
           "startDate": "2021/04/29 03:53 JST",
           "endDate": "2021/04/29 04:23 JST",
           "affectedServices": [
@@ -77,7 +77,7 @@
           "epochEndDate": 1619637780000,
           "messageId": "2000000584",
           "statusType": "Issue",
-          "datePosted": "2021/04/29 04:33 JST",
+          "datePosted": "2021/04/29 17:00 JST",
           "startDate": "2021/04/29 03:53 JST",
           "endDate": "2021/04/29 04:23 JST",
           "affectedServices": [
@@ -110,7 +110,7 @@
           "epochEndDate": 1619637780000,
           "messageId": "2000000584",
           "statusType": "Issue",
-          "datePosted": "2021/04/29 04:33 JST",
+          "datePosted": "2021/04/29 17:00 JST",
           "startDate": "2021/04/29 03:53 JST",
           "endDate": "2021/04/29 04:23 JST",
           "affectedServices": [
@@ -214,22 +214,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1619435580000,
-          "epochEndDate": 1619453820000,
-          "messageId": "1000000310",
-          "statusType": "Issue",
-          "datePosted": "2021/04/29 04:33 JST",
-          "startDate": "2021/04/26 20:13 JST",
-          "endDate": "2021/04/27 01:17 JST",
-          "affectedServices": [
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudメール"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)"
     },
@@ -256,7 +241,7 @@
           "epochEndDate": 1619630400000,
           "messageId": "2000000582",
           "statusType": "Issue",
-          "datePosted": "2021/04/29 04:33 JST",
+          "datePosted": "2021/04/29 17:00 JST",
           "startDate": "2021/04/28 23:30 JST",
           "endDate": "2021/04/29 02:20 JST",
           "affectedServices": null,
@@ -275,7 +260,7 @@
           "epochEndDate": 1619637660000,
           "messageId": "2000000585",
           "statusType": "Issue",
-          "datePosted": "2021/04/29 04:33 JST",
+          "datePosted": "2021/04/29 17:00 JST",
           "startDate": "2021/04/29 03:27 JST",
           "endDate": "2021/04/29 04:21 JST",
           "affectedServices": null,
@@ -302,22 +287,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1619435580000,
-          "epochEndDate": 1619453820000,
-          "messageId": "1000000310",
-          "statusType": "Outage",
-          "datePosted": "2021/04/29 04:33 JST",
-          "startDate": "2021/04/26 20:13 JST",
-          "endDate": "2021/04/27 01:17 JST",
-          "affectedServices": [
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudメール"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
@@ -372,7 +342,7 @@
           "epochEndDate": 1619637780000,
           "messageId": "2000000584",
           "statusType": "Issue",
-          "datePosted": "2021/04/29 04:33 JST",
+          "datePosted": "2021/04/29 17:00 JST",
           "startDate": "2021/04/29 03:53 JST",
           "endDate": "2021/04/29 04:23 JST",
           "affectedServices": [
@@ -433,7 +403,7 @@
           "epochEndDate": 1619637780000,
           "messageId": "2000000584",
           "statusType": "Issue",
-          "datePosted": "2021/04/29 04:33 JST",
+          "datePosted": "2021/04/29 17:00 JST",
           "startDate": "2021/04/29 03:53 JST",
           "endDate": "2021/04/29 04:23 JST",
           "affectedServices": [
@@ -481,19 +451,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1619475600000,
-          "epochEndDate": 1619482200000,
-          "messageId": "2000000562",
-          "statusType": "Issue",
-          "datePosted": "2021/04/29 04:33 JST",
-          "startDate": "2021/04/27 07:20 JST",
-          "endDate": "2021/04/27 09:10 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ],
       "serviceName": "スクールワーク"
     },
