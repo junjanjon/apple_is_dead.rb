@@ -68,19 +68,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1619722200000,
-          "epochEndDate": 1619724840000,
-          "messageId": "2000000588",
-          "statusType": "Issue",
-          "datePosted": "2021/05/02 02:19 JST",
-          "startDate": "2021/04/30 03:50 JST",
-          "endDate": "2021/04/30 04:34 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザは Apple School Manager へサインインできませんでした。"
-        }
+
       ],
       "serviceName": "Apple School Manager"
     },
@@ -171,22 +159,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1619729040000,
-          "epochEndDate": 1619737380000,
-          "messageId": "2000000591",
-          "statusType": "Issue",
-          "datePosted": "2021/05/02 02:19 JST",
-          "startDate": "2021/04/30 05:44 JST",
-          "endDate": "2021/04/30 08:03 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        }
+
       ],
       "serviceName": "iCloudキーチェーン"
     },
@@ -220,25 +193,12 @@
           "epochEndDate": 1619794080000,
           "messageId": "1000000313",
           "statusType": "Issue",
-          "datePosted": "2021/05/02 02:19 JST",
+          "datePosted": "2021/05/02 17:00 JST",
           "startDate": "2021/04/30 21:52 JST",
           "endDate": "2021/04/30 23:48 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1619722500000,
-          "epochEndDate": 1619729100000,
-          "messageId": "2000000590",
-          "statusType": "Issue",
-          "datePosted": "2021/05/02 02:19 JST",
-          "startDate": "2021/04/30 03:55 JST",
-          "endDate": "2021/04/30 05:45 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "メールの速度が低下、またはメールを利用できなかった可能性があります。メールの復旧後、受信メッセージの遅延が発生した可能性があります。"
         }
       ],
       "serviceName": "iCloudメール"
@@ -428,22 +388,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1619729040000,
-          "epochEndDate": 1619736420000,
-          "messageId": "2000000591",
-          "statusType": "Issue",
-          "datePosted": "2021/05/02 02:19 JST",
-          "startDate": "2021/04/30 05:44 JST",
-          "endDate": "2021/04/30 08:03 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "探す"
     },
