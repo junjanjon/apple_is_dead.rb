@@ -145,7 +145,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1620151200000,
+          "epochEndDate": null,
+          "messageId": "2000000601",
+          "statusType": "Issue",
+          "datePosted": "2021/05/05 04:25 JST",
+          "startDate": "2021/05/05 03:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudメール",
+            "iCloud連絡先",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
     },
@@ -193,12 +210,14 @@
           "epochEndDate": null,
           "messageId": "2000000601",
           "statusType": "Issue",
-          "datePosted": "2021/05/05 03:58 JST",
+          "datePosted": "2021/05/05 04:25 JST",
           "startDate": "2021/05/05 03:00 JST",
           "endDate": null,
           "affectedServices": [
+            "iCloudアカウントおよびサインイン",
             "iCloudメール",
-            "iCloud連絡先"
+            "iCloud連絡先",
+            "探す"
           ],
           "eventStatus": "ongoing",
           "message": "This service may be slow or unavailable."
@@ -229,12 +248,14 @@
           "epochEndDate": null,
           "messageId": "2000000601",
           "statusType": "Issue",
-          "datePosted": "2021/05/05 03:58 JST",
+          "datePosted": "2021/05/05 04:25 JST",
           "startDate": "2021/05/05 03:00 JST",
           "endDate": null,
           "affectedServices": [
+            "iCloudアカウントおよびサインイン",
             "iCloudメール",
-            "iCloud連絡先"
+            "iCloud連絡先",
+            "探す"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関する問題が発生している可能性があります。"
@@ -406,7 +427,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1620151200000,
+          "epochEndDate": null,
+          "messageId": "2000000601",
+          "statusType": "Issue",
+          "datePosted": "2021/05/05 04:25 JST",
+          "startDate": "2021/05/05 03:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudメール",
+            "iCloud連絡先",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "探す"
     },
