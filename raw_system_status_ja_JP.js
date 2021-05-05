@@ -151,9 +151,9 @@
           "epochEndDate": 1620170700000,
           "messageId": "2000000601",
           "statusType": "Issue",
-          "datePosted": "2021/05/05 08:45 JST",
+          "datePosted": "2021/05/05 10:24 JST",
           "startDate": "2021/05/05 03:00 JST",
-          "endDate": null,
+          "endDate": "2021/05/05 10:19 JST",
           "affectedServices": [
             "iCloudアカウントおよびサインイン",
             "iCloudメール",
@@ -205,22 +205,22 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1620151200000,
-          "epochEndDate": null,
+          "epochEndDate": 1620177540000,
           "messageId": "2000000601",
           "statusType": "Issue",
-          "datePosted": "2021/05/05 08:45 JST",
+          "datePosted": "2021/05/05 10:24 JST",
           "startDate": "2021/05/05 03:00 JST",
-          "endDate": null,
+          "endDate": "2021/05/05 10:19 JST",
           "affectedServices": [
             "iCloudアカウントおよびサインイン",
             "iCloudメール",
             "iCloud連絡先",
             "探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "This service may be slow or unavailable."
+          "eventStatus": "resolved",
+          "message": "This service may have been slow or unavailable."
         }
       ],
       "serviceName": "iCloudメール"
@@ -248,9 +248,9 @@
           "epochEndDate": 1620163200000,
           "messageId": "2000000601",
           "statusType": "Issue",
-          "datePosted": "2021/05/05 08:45 JST",
+          "datePosted": "2021/05/05 10:24 JST",
           "startDate": "2021/05/05 03:00 JST",
-          "endDate": null,
+          "endDate": "2021/05/05 10:19 JST",
           "affectedServices": [
             "iCloudアカウントおよびサインイン",
             "iCloudメール",
@@ -433,9 +433,9 @@
           "epochEndDate": 1620163200000,
           "messageId": "2000000601",
           "statusType": "Issue",
-          "datePosted": "2021/05/05 08:45 JST",
+          "datePosted": "2021/05/05 10:24 JST",
           "startDate": "2021/05/05 03:00 JST",
-          "endDate": null,
+          "endDate": "2021/05/05 10:19 JST",
           "affectedServices": [
             "iCloudアカウントおよびサインイン",
             "iCloudメール",
