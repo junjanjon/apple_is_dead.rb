@@ -139,7 +139,19 @@
       "redirectUrl": null,
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1620346980000,
+          "epochEndDate": 1620348660000,
+          "messageId": "2000000602",
+          "statusType": "Issue",
+          "datePosted": "2021/05/07 09:57 JST",
+          "startDate": "2021/05/07 09:23 JST",
+          "endDate": "2021/05/07 09:51 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスにアクセスできなかった可能性があります。"
+        }
       ]
     },
     {
@@ -152,7 +164,7 @@
           "epochEndDate": 1620170700000,
           "messageId": "2000000601",
           "statusType": "Issue",
-          "datePosted": "2021/05/07 01:21 JST",
+          "datePosted": "2021/05/07 09:57 JST",
           "startDate": "2021/05/05 03:00 JST",
           "endDate": "2021/05/05 10:19 JST",
           "affectedServices": [
@@ -211,7 +223,7 @@
           "epochEndDate": 1620177540000,
           "messageId": "2000000601",
           "statusType": "Issue",
-          "datePosted": "2021/05/07 01:21 JST",
+          "datePosted": "2021/05/07 09:57 JST",
           "startDate": "2021/05/05 03:00 JST",
           "endDate": "2021/05/05 10:19 JST",
           "affectedServices": [
@@ -249,7 +261,7 @@
           "epochEndDate": 1620163200000,
           "messageId": "2000000601",
           "statusType": "Issue",
-          "datePosted": "2021/05/07 01:21 JST",
+          "datePosted": "2021/05/07 09:57 JST",
           "startDate": "2021/05/05 03:00 JST",
           "endDate": "2021/05/05 10:19 JST",
           "affectedServices": [
@@ -434,7 +446,7 @@
           "epochEndDate": 1620163200000,
           "messageId": "2000000601",
           "statusType": "Issue",
-          "datePosted": "2021/05/07 01:21 JST",
+          "datePosted": "2021/05/07 09:57 JST",
           "startDate": "2021/05/05 03:00 JST",
           "endDate": "2021/05/05 10:19 JST",
           "affectedServices": [
@@ -465,7 +477,7 @@
           "epochEndDate": 1620316620000,
           "messageId": "1000000314",
           "statusType": "Issue",
-          "datePosted": "2021/05/07 01:21 JST",
+          "datePosted": "2021/05/07 09:57 JST",
           "startDate": "2021/05/06 14:20 JST",
           "endDate": "2021/05/07 00:57 JST",
           "affectedServices": null,
