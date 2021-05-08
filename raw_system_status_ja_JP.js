@@ -42,6 +42,13 @@
       "events": [
 
       ],
+      "serviceName": "Apple Music for Artists"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
       "serviceName": "Apple Musicのサブスクリプション"
     },
     {
@@ -144,7 +151,7 @@
           "epochEndDate": 1620348660000,
           "messageId": "2000000602",
           "statusType": "Issue",
-          "datePosted": "2021/05/08 04:27 JST",
+          "datePosted": "2021/05/08 08:49 JST",
           "startDate": "2021/05/07 09:23 JST",
           "endDate": "2021/05/07 09:51 JST",
           "affectedServices": null,
@@ -408,7 +415,7 @@
           "epochEndDate": 1620316620000,
           "messageId": "1000000314",
           "statusType": "Issue",
-          "datePosted": "2021/05/08 04:27 JST",
+          "datePosted": "2021/05/08 08:49 JST",
           "startDate": "2021/05/06 14:20 JST",
           "endDate": "2021/05/07 00:57 JST",
           "affectedServices": null,
@@ -417,13 +424,6 @@
         }
       ],
       "serviceName": "天気"
-    },
-    {
-      "redirectUrl": null,
-      "events": [
-
-      ],
-      "serviceName": "Apple Music for Artists"
     }
   ]
 }
