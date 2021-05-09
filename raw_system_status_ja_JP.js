@@ -145,19 +145,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1620346980000,
-          "epochEndDate": 1620348660000,
-          "messageId": "2000000602",
-          "statusType": "Issue",
-          "datePosted": "2021/05/08 08:49 JST",
-          "startDate": "2021/05/07 09:23 JST",
-          "endDate": "2021/05/07 09:51 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)"
     },
@@ -409,19 +397,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1620278400000,
-          "epochEndDate": 1620316620000,
-          "messageId": "1000000314",
-          "statusType": "Issue",
-          "datePosted": "2021/05/08 08:49 JST",
-          "startDate": "2021/05/06 14:20 JST",
-          "endDate": "2021/05/07 00:57 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "「天気」で問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "天気"
     }
