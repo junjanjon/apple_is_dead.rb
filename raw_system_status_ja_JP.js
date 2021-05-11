@@ -6,7 +6,22 @@
       "redirectUrl": null,
       "serviceName": "App Store",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1620720060000,
+          "epochEndDate": null,
+          "messageId": "2000000624",
+          "statusType": "Outage",
+          "datePosted": "2021/05/11 18:41 JST",
+          "startDate": "2021/05/11 17:01 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ]
     },
     {
@@ -47,7 +62,7 @@
           "epochEndDate": 1620759600000,
           "messageId": "2000000622",
           "statusType": "Maintenance",
-          "datePosted": "2021/05/11 17:00 JST",
+          "datePosted": "2021/05/11 18:41 JST",
           "startDate": "2021/05/12 01:00 JST",
           "endDate": "2021/05/12 04:00 JST",
           "affectedServices": null,
@@ -256,7 +271,22 @@
       "redirectUrl": null,
       "serviceName": "iTunes Store",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1620720060000,
+          "epochEndDate": null,
+          "messageId": "2000000624",
+          "statusType": "Outage",
+          "datePosted": "2021/05/11 18:41 JST",
+          "startDate": "2021/05/11 17:01 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ]
     },
     {
