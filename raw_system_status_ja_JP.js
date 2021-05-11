@@ -11,7 +11,7 @@
           "epochEndDate": 1620725400000,
           "messageId": "2000000624",
           "statusType": "Outage",
-          "datePosted": "2021/05/11 19:14 JST",
+          "datePosted": "2021/05/12 01:00 JST",
           "startDate": "2021/05/11 17:01 JST",
           "endDate": "2021/05/11 18:30 JST",
           "affectedServices": [
@@ -61,12 +61,12 @@
           "epochEndDate": 1620759600000,
           "messageId": "2000000622",
           "statusType": "Maintenance",
-          "datePosted": "2021/05/11 19:14 JST",
+          "datePosted": "2021/05/12 01:00 JST",
           "startDate": "2021/05/12 01:00 JST",
           "endDate": "2021/05/12 04:00 JST",
           "affectedServices": null,
-          "eventStatus": "upcoming",
-          "message": "Apple Music for Artistは定期メンテナンスのため、ご利用になれない場合があります"
+          "eventStatus": "ongoing",
+          "message": "Apple Music for Artistは定期メンテナンスのため、ご利用になれません"
         }
       ],
       "serviceName": "Apple Music for Artists"
@@ -276,7 +276,7 @@
           "epochEndDate": 1620725400000,
           "messageId": "2000000624",
           "statusType": "Outage",
-          "datePosted": "2021/05/11 19:14 JST",
+          "datePosted": "2021/05/12 01:00 JST",
           "startDate": "2021/05/11 17:01 JST",
           "endDate": "2021/05/11 18:30 JST",
           "affectedServices": [
