@@ -12,7 +12,7 @@
           "epochEndDate": 1620725400000,
           "messageId": "2000000624",
           "statusType": "Outage",
-          "datePosted": "2021/05/12 04:00 JST",
+          "datePosted": "2021/05/12 04:06 JST",
           "startDate": "2021/05/11 17:01 JST",
           "endDate": "2021/05/11 18:30 JST",
           "affectedServices": [
@@ -62,7 +62,7 @@
           "epochEndDate": 1620759600000,
           "messageId": "2000000622",
           "statusType": "Maintenance",
-          "datePosted": "2021/05/12 04:00 JST",
+          "datePosted": "2021/05/12 04:06 JST",
           "startDate": "2021/05/12 01:00 JST",
           "endDate": "2021/05/12 04:00 JST",
           "affectedServices": null,
@@ -109,11 +109,12 @@
           "epochEndDate": null,
           "messageId": "2000000628",
           "statusType": "Issue",
-          "datePosted": "2021/05/12 04:00 JST",
+          "datePosted": "2021/05/12 04:06 JST",
           "startDate": "2021/05/12 03:09 JST",
           "endDate": null,
           "affectedServices": [
             "Apple School Manager",
+            "スクールワーク",
             null
           ],
           "eventStatus": "ongoing",
@@ -292,7 +293,7 @@
           "epochEndDate": 1620725400000,
           "messageId": "2000000624",
           "statusType": "Outage",
-          "datePosted": "2021/05/12 04:00 JST",
+          "datePosted": "2021/05/12 04:06 JST",
           "startDate": "2021/05/11 17:01 JST",
           "endDate": "2021/05/11 18:30 JST",
           "affectedServices": [
@@ -378,7 +379,23 @@
       "redirectUrl": null,
       "serviceName": "スクールワーク",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1620756540000,
+          "epochEndDate": null,
+          "messageId": "2000000628",
+          "statusType": "Issue",
+          "datePosted": "2021/05/12 04:06 JST",
+          "startDate": "2021/05/12 03:09 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "スクールワーク",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ]
     },
     {
