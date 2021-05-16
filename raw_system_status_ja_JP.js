@@ -201,7 +201,7 @@
           "epochEndDate": 1621000680000,
           "messageId": "1000000322",
           "statusType": "Issue",
-          "datePosted": "2021/05/14 23:02 JST",
+          "datePosted": "2021/05/16 17:00 JST",
           "startDate": "2021/05/14 22:00 JST",
           "endDate": "2021/05/14 22:58 JST",
           "affectedServices": null,
@@ -403,19 +403,7 @@
       "redirectUrl": null,
       "serviceName": "写真",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1620952020000,
-          "epochEndDate": 1620955020000,
-          "messageId": "2000000638",
-          "statusType": "Issue",
-          "datePosted": "2021/05/14 23:02 JST",
-          "startDate": "2021/05/14 09:27 JST",
-          "endDate": "2021/05/14 10:17 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "新しい写真が「自分のフォトストリーム」に表示されず、また写真とビデオが共有アルバムに表示されなかった可能性があります。"
-        }
+
       ]
     },
     {
