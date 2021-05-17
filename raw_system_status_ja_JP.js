@@ -383,7 +383,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1621269420000,
+          "epochEndDate": null,
+          "messageId": "2000000639",
+          "statusType": "Issue",
+          "datePosted": "2021/05/18 01:41 JST",
+          "startDate": "2021/05/18 01:37 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "「探す」を使用できない可能性があります。"
+        }
       ],
       "serviceName": "探す"
     },
