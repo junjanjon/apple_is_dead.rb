@@ -222,19 +222,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1621519800000,
-          "epochEndDate": 1621533000000,
-          "messageId": "2000000643",
-          "statusType": "Issue",
-          "datePosted": "2021/05/23 15:45 JST",
-          "startDate": "2021/05/20 23:10 JST",
-          "endDate": "2021/05/21 02:50 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iMessage"
     },
