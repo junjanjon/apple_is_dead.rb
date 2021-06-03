@@ -384,17 +384,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1622675400000,
-          "epochEndDate": null,
+          "epochEndDate": 1622690400000,
           "messageId": "2000000651",
           "statusType": "Issue",
-          "datePosted": "2021/06/03 09:33 JST",
+          "datePosted": "2021/06/03 12:46 JST",
           "startDate": "2021/06/03 08:10 JST",
-          "endDate": null,
+          "endDate": "2021/06/03 12:20 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "探す"
