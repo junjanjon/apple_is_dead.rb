@@ -76,21 +76,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
+          "usersAffected": "すべてのユーザに影響しました",
           "epochStartDate": 1624726800000,
-          "epochEndDate": 1624741200000,
+          "epochEndDate": 1624737600000,
           "messageId": "2000000722",
           "statusType": "Maintenance",
-          "datePosted": "2021/06/27 05:13 JST",
+          "datePosted": "2021/06/27 05:21 JST",
           "startDate": "2021/06/27 02:00 JST",
-          "endDate": "2021/06/27 06:00 JST",
+          "endDate": "2021/06/27 05:00 JST",
           "affectedServices": [
             "Apple School Manager",
             "Device Enrollment Program",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "This service may be slow or unavailable."
+          "eventStatus": "completed",
+          "message": "This service may have been slow or unavailable."
         }
       ],
       "serviceName": "Apple School Manager"
@@ -120,21 +120,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
+          "usersAffected": "すべてのユーザに影響しました",
           "epochStartDate": 1624726800000,
-          "epochEndDate": 1624741200000,
+          "epochEndDate": 1624737600000,
           "messageId": "2000000722",
           "statusType": "Maintenance",
-          "datePosted": "2021/06/27 05:13 JST",
+          "datePosted": "2021/06/27 05:21 JST",
           "startDate": "2021/06/27 02:00 JST",
-          "endDate": "2021/06/27 06:00 JST",
+          "endDate": "2021/06/27 05:00 JST",
           "affectedServices": [
             "Apple School Manager",
             "Device Enrollment Program",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "システムメンテナンス中は、一時的にDevice Enrollment Programをご利用いただけません。"
+          "eventStatus": "completed",
+          "message": "システムメンテナンス中、一時的にDevice Enrollment Programをご利用いただけませんでした。"
         }
       ],
       "serviceName": "Device Enrollment Program"
@@ -232,7 +232,7 @@
           "epochEndDate": 1624620300000,
           "messageId": "1000000382",
           "statusType": "Issue",
-          "datePosted": "2021/06/27 05:13 JST",
+          "datePosted": "2021/06/27 05:21 JST",
           "startDate": "2021/06/25 19:27 JST",
           "endDate": "2021/06/25 20:25 JST",
           "affectedServices": null,
