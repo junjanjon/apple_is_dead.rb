@@ -81,7 +81,7 @@
           "epochEndDate": 1624741200000,
           "messageId": "2000000722",
           "statusType": "Maintenance",
-          "datePosted": "2021/06/27 05:05 JST",
+          "datePosted": "2021/06/27 05:13 JST",
           "startDate": "2021/06/27 02:00 JST",
           "endDate": "2021/06/27 06:00 JST",
           "affectedServices": [
@@ -125,7 +125,7 @@
           "epochEndDate": 1624741200000,
           "messageId": "2000000722",
           "statusType": "Maintenance",
-          "datePosted": "2021/06/27 05:05 JST",
+          "datePosted": "2021/06/27 05:13 JST",
           "startDate": "2021/06/27 02:00 JST",
           "endDate": "2021/06/27 06:00 JST",
           "affectedServices": [
@@ -232,7 +232,7 @@
           "epochEndDate": 1624620300000,
           "messageId": "1000000382",
           "statusType": "Issue",
-          "datePosted": "2021/06/27 05:05 JST",
+          "datePosted": "2021/06/27 05:13 JST",
           "startDate": "2021/06/25 19:27 JST",
           "endDate": "2021/06/25 20:25 JST",
           "affectedServices": null,
