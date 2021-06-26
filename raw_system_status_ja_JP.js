@@ -82,7 +82,7 @@
           "epochEndDate": 1624734000000,
           "messageId": "2000000722",
           "statusType": "Maintenance",
-          "datePosted": "2021/06/26 17:00 JST",
+          "datePosted": "2021/06/27 02:00 JST",
           "startDate": "2021/06/27 02:00 JST",
           "endDate": "2021/06/27 04:00 JST",
           "affectedServices": [
@@ -90,7 +90,7 @@
             "Device Enrollment Program",
             null
           ],
-          "eventStatus": "upcoming",
+          "eventStatus": "ongoing",
           "message": "This service may be slow or unavailable."
         }
       ]
@@ -126,7 +126,7 @@
           "epochEndDate": 1624734000000,
           "messageId": "2000000722",
           "statusType": "Maintenance",
-          "datePosted": "2021/06/26 17:00 JST",
+          "datePosted": "2021/06/27 02:00 JST",
           "startDate": "2021/06/27 02:00 JST",
           "endDate": "2021/06/27 04:00 JST",
           "affectedServices": [
@@ -134,8 +134,8 @@
             "Device Enrollment Program",
             null
           ],
-          "eventStatus": "upcoming",
-          "message": "システムメンテナンス中は、一時的にDevice Enrollment Programをご利用いただけなくなります。"
+          "eventStatus": "ongoing",
+          "message": "システムメンテナンス中は、一時的にDevice Enrollment Programをご利用いただけません。"
         }
       ]
     },
@@ -233,7 +233,7 @@
           "epochEndDate": 1624620300000,
           "messageId": "1000000382",
           "statusType": "Issue",
-          "datePosted": "2021/06/26 17:00 JST",
+          "datePosted": "2021/06/27 02:00 JST",
           "startDate": "2021/06/25 19:27 JST",
           "endDate": "2021/06/25 20:25 JST",
           "affectedServices": null,
