@@ -6,7 +6,25 @@
       "redirectUrl": null,
       "serviceName": "App Store",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1625061300000,
+          "epochEndDate": null,
+          "messageId": "2000000726",
+          "statusType": "Outage",
+          "datePosted": "2021/07/01 01:18 JST",
+          "startDate": "2021/06/30 22:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Mac App Store",
+            "Volume Purchase Program",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ]
     },
     {
@@ -20,7 +38,25 @@
       "redirectUrl": null,
       "serviceName": "Apple Books",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1625061300000,
+          "epochEndDate": null,
+          "messageId": "2000000726",
+          "statusType": "Outage",
+          "datePosted": "2021/07/01 01:18 JST",
+          "startDate": "2021/06/30 22:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Mac App Store",
+            "Volume Purchase Program",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ]
     },
     {
@@ -76,23 +112,7 @@
       "redirectUrl": null,
       "serviceName": "Apple School Manager",
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1624726800000,
-          "epochEndDate": 1624737600000,
-          "messageId": "2000000722",
-          "statusType": "Maintenance",
-          "datePosted": "2021/06/28 17:00 JST",
-          "startDate": "2021/06/27 02:00 JST",
-          "endDate": "2021/06/27 05:00 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Device Enrollment Program",
-            null
-          ],
-          "eventStatus": "completed",
-          "message": "This service may have been slow or unavailable."
-        }
+
       ]
     },
     {
@@ -120,23 +140,7 @@
       "redirectUrl": null,
       "serviceName": "Device Enrollment Program",
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1624726800000,
-          "epochEndDate": 1624737600000,
-          "messageId": "2000000722",
-          "statusType": "Maintenance",
-          "datePosted": "2021/06/28 17:00 JST",
-          "startDate": "2021/06/27 02:00 JST",
-          "endDate": "2021/06/27 05:00 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Device Enrollment Program",
-            null
-          ],
-          "eventStatus": "completed",
-          "message": "システムメンテナンス中、一時的にDevice Enrollment Programをご利用いただけませんでした。"
-        }
+
       ]
     },
     {
@@ -276,7 +280,25 @@
       "redirectUrl": null,
       "serviceName": "iTunes Store",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1625061300000,
+          "epochEndDate": null,
+          "messageId": "2000000726",
+          "statusType": "Outage",
+          "datePosted": "2021/07/01 01:18 JST",
+          "startDate": "2021/06/30 22:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Mac App Store",
+            "Volume Purchase Program",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ]
     },
     {
@@ -297,7 +319,25 @@
       "redirectUrl": null,
       "serviceName": "Mac App Store",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1625061300000,
+          "epochEndDate": null,
+          "messageId": "2000000726",
+          "statusType": "Outage",
+          "datePosted": "2021/07/01 01:18 JST",
+          "startDate": "2021/06/30 22:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Mac App Store",
+            "Volume Purchase Program",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "This service may be slow or unavailable."
+        }
       ]
     },
     {
@@ -339,7 +379,25 @@
       "redirectUrl": null,
       "serviceName": "Volume Purchase Program",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1625061300000,
+          "epochEndDate": null,
+          "messageId": "2000000726",
+          "statusType": "Outage",
+          "datePosted": "2021/07/01 01:18 JST",
+          "startDate": "2021/06/30 22:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Mac App Store",
+            "Volume Purchase Program",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ]
     },
     {
