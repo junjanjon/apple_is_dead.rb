@@ -7,14 +7,14 @@
       "serviceName": "App Store",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1625061300000,
-          "epochEndDate": null,
+          "epochEndDate": 1625075220000,
           "messageId": "2000000726",
           "statusType": "Outage",
-          "datePosted": "2021/07/01 01:18 JST",
+          "datePosted": "2021/07/01 14:04 JST",
           "startDate": "2021/06/30 22:55 JST",
-          "endDate": null,
+          "endDate": "2021/07/01 02:47 JST",
           "affectedServices": [
             "App Store",
             "Apple Books",
@@ -22,8 +22,8 @@
             "Volume Purchase Program",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "This service may be slow or unavailable."
+          "eventStatus": "resolved",
+          "message": "This service may have been slow or unavailable."
         }
       ]
     },
@@ -39,14 +39,14 @@
       "serviceName": "Apple Books",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1625061300000,
-          "epochEndDate": null,
+          "epochEndDate": 1625075220000,
           "messageId": "2000000726",
           "statusType": "Outage",
-          "datePosted": "2021/07/01 01:18 JST",
+          "datePosted": "2021/07/01 14:04 JST",
           "startDate": "2021/06/30 22:55 JST",
-          "endDate": null,
+          "endDate": "2021/07/01 02:47 JST",
           "affectedServices": [
             "App Store",
             "Apple Books",
@@ -54,8 +54,8 @@
             "Volume Purchase Program",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "This service may be slow or unavailable."
+          "eventStatus": "resolved",
+          "message": "This service may have been slow or unavailable."
         }
       ]
     },
@@ -281,14 +281,14 @@
       "serviceName": "iTunes Store",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1625061300000,
-          "epochEndDate": null,
+          "epochEndDate": 1625075220000,
           "messageId": "2000000726",
           "statusType": "Outage",
-          "datePosted": "2021/07/01 01:18 JST",
+          "datePosted": "2021/07/01 14:04 JST",
           "startDate": "2021/06/30 22:55 JST",
-          "endDate": null,
+          "endDate": "2021/07/01 02:47 JST",
           "affectedServices": [
             "App Store",
             "Apple Books",
@@ -296,8 +296,8 @@
             "Volume Purchase Program",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "This service may be slow or unavailable."
+          "eventStatus": "resolved",
+          "message": "This service may have been slow or unavailable."
         }
       ]
     },
@@ -320,14 +320,14 @@
       "serviceName": "Mac App Store",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1625061300000,
-          "epochEndDate": null,
+          "epochEndDate": 1625075220000,
           "messageId": "2000000726",
           "statusType": "Outage",
-          "datePosted": "2021/07/01 01:18 JST",
+          "datePosted": "2021/07/01 14:04 JST",
           "startDate": "2021/06/30 22:55 JST",
-          "endDate": null,
+          "endDate": "2021/07/01 02:47 JST",
           "affectedServices": [
             "App Store",
             "Apple Books",
@@ -335,8 +335,8 @@
             "Volume Purchase Program",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "This service may be slow or unavailable."
+          "eventStatus": "resolved",
+          "message": "This service may have been slow or unavailable."
         }
       ]
     },
@@ -380,14 +380,14 @@
       "serviceName": "Volume Purchase Program",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1625061300000,
-          "epochEndDate": null,
+          "epochEndDate": 1625075220000,
           "messageId": "2000000726",
           "statusType": "Outage",
-          "datePosted": "2021/07/01 01:18 JST",
+          "datePosted": "2021/07/01 14:04 JST",
           "startDate": "2021/06/30 22:55 JST",
-          "endDate": null,
+          "endDate": "2021/07/01 02:47 JST",
           "affectedServices": [
             "App Store",
             "Apple Books",
@@ -395,8 +395,8 @@
             "Volume Purchase Program",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ]
     },
