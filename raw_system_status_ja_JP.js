@@ -5,25 +5,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1625061300000,
-          "epochEndDate": 1625075220000,
-          "messageId": "2000000726",
-          "statusType": "Outage",
-          "datePosted": "2021/07/02 17:00 JST",
-          "startDate": "2021/06/30 22:55 JST",
-          "endDate": "2021/07/01 02:47 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Mac App Store",
-            "Volume Purchase Program",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        }
+
       ],
       "serviceName": "App Store"
     },
@@ -37,25 +19,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1625061300000,
-          "epochEndDate": 1625075220000,
-          "messageId": "2000000726",
-          "statusType": "Outage",
-          "datePosted": "2021/07/02 17:00 JST",
-          "startDate": "2021/06/30 22:55 JST",
-          "endDate": "2021/07/01 02:47 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Mac App Store",
-            "Volume Purchase Program",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        }
+
       ],
       "serviceName": "Apple Books"
     },
@@ -279,25 +243,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1625061300000,
-          "epochEndDate": 1625075220000,
-          "messageId": "2000000726",
-          "statusType": "Outage",
-          "datePosted": "2021/07/02 17:00 JST",
-          "startDate": "2021/06/30 22:55 JST",
-          "endDate": "2021/07/01 02:47 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Mac App Store",
-            "Volume Purchase Program",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        }
+
       ],
       "serviceName": "iTunes Store"
     },
@@ -318,25 +264,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1625061300000,
-          "epochEndDate": 1625075220000,
-          "messageId": "2000000726",
-          "statusType": "Outage",
-          "datePosted": "2021/07/02 17:00 JST",
-          "startDate": "2021/06/30 22:55 JST",
-          "endDate": "2021/07/01 02:47 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Mac App Store",
-            "Volume Purchase Program",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "This service may have been slow or unavailable."
-        }
+
       ],
       "serviceName": "Mac App Store"
     },
@@ -378,25 +306,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1625061300000,
-          "epochEndDate": 1625075220000,
-          "messageId": "2000000726",
-          "statusType": "Outage",
-          "datePosted": "2021/07/02 17:00 JST",
-          "startDate": "2021/06/30 22:55 JST",
-          "endDate": "2021/07/01 02:47 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Mac App Store",
-            "Volume Purchase Program",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Volume Purchase Program"
     },
