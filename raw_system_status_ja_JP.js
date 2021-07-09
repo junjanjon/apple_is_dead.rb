@@ -130,7 +130,7 @@
           "epochEndDate": 1625805000000,
           "messageId": "1000000408",
           "statusType": "Issue",
-          "datePosted": "2021/07/10 04:55 JST",
+          "datePosted": "2021/07/10 05:28 JST",
           "startDate": "2021/07/09 12:50 JST",
           "endDate": "2021/07/09 13:30 JST",
           "affectedServices": null,
@@ -163,7 +163,7 @@
           "epochEndDate": 1625819940000,
           "messageId": "1000000409",
           "statusType": "Issue",
-          "datePosted": "2021/07/10 04:55 JST",
+          "datePosted": "2021/07/10 05:28 JST",
           "startDate": "2021/07/09 10:00 JST",
           "endDate": "2021/07/09 17:39 JST",
           "affectedServices": null,
@@ -224,7 +224,7 @@
           "epochEndDate": 1625787480000,
           "messageId": "2000000742",
           "statusType": "Issue",
-          "datePosted": "2021/07/10 04:55 JST",
+          "datePosted": "2021/07/10 05:28 JST",
           "startDate": "2021/07/09 07:38 JST",
           "endDate": "2021/07/09 08:38 JST",
           "affectedServices": null,
@@ -294,17 +294,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1625857200000,
-          "epochEndDate": null,
+          "epochEndDate": 1625861700000,
           "messageId": "2000000743",
           "statusType": "Issue",
-          "datePosted": "2021/07/10 04:55 JST",
+          "datePosted": "2021/07/10 05:28 JST",
           "startDate": "2021/07/10 04:00 JST",
-          "endDate": null,
+          "endDate": "2021/07/10 05:15 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "ユーザがiCloud.comでiWork書類とメモの共同制作を行なう際に問題が発生しています。"
+          "eventStatus": "resolved",
+          "message": "ユーザがiCloud.comでiWork書類とメモの共同制作を行なう際に問題が発生しました。"
         }
       ],
       "serviceName": "iWork for iCloud"
