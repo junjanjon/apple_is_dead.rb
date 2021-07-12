@@ -146,19 +146,7 @@
       "redirectUrl": null,
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1625792400000,
-          "epochEndDate": 1625819940000,
-          "messageId": "1000000409",
-          "statusType": "Issue",
-          "datePosted": "2021/07/11 22:55 JST",
-          "startDate": "2021/07/09 10:00 JST",
-          "endDate": "2021/07/09 17:39 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "iCloud.comの複数のサービスの動作速度が低下した可能性があります。"
-        }
+
       ]
     },
     {
@@ -270,19 +258,7 @@
       "redirectUrl": null,
       "serviceName": "iWork for iCloud",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1625857200000,
-          "epochEndDate": 1625861700000,
-          "messageId": "2000000743",
-          "statusType": "Issue",
-          "datePosted": "2021/07/11 22:55 JST",
-          "startDate": "2021/07/10 04:00 JST",
-          "endDate": "2021/07/10 05:15 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザがiCloud.comでiWork書類とメモの共同制作を行なう際に問題が発生しました。"
-        }
+
       ]
     },
     {
