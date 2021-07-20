@@ -147,17 +147,17 @@
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
+          "usersAffected": "すべてのユーザに影響しました",
           "epochStartDate": 1626739200000,
-          "epochEndDate": null,
+          "epochEndDate": 1626746400000,
           "messageId": "2000000766",
           "statusType": "Issue",
-          "datePosted": "2021/07/20 10:34 JST",
+          "datePosted": "2021/07/20 11:03 JST",
           "startDate": "2021/07/20 09:00 JST",
-          "endDate": null,
+          "endDate": "2021/07/20 11:00 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "新規Apple IDを作成できません。"
+          "eventStatus": "resolved",
+          "message": "新規Apple IDを作成できませんでした。"
         }
       ]
     },
