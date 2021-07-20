@@ -146,7 +146,19 @@
       "redirectUrl": null,
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1626739200000,
+          "epochEndDate": null,
+          "messageId": "2000000766",
+          "statusType": "Issue",
+          "datePosted": "2021/07/20 10:28 JST",
+          "startDate": "2021/07/20 09:00 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "新規Apple IDを作成できません。"
+        }
       ]
     },
     {
