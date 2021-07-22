@@ -70,24 +70,12 @@
       "events": [
 
       ],
-      "serviceName": "Apple Pay & Wallet"
+      "serviceName": "Apple Pay"
     },
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1626361200000,
-          "epochEndDate": 1626372900000,
-          "messageId": "2000000763",
-          "statusType": "Issue",
-          "datePosted": "2021/07/16 04:03 JST",
-          "startDate": "2021/07/16 00:00 JST",
-          "endDate": "2021/07/16 03:15 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザは Apple School Manager へサインインできませんでした。"
-        }
+
       ],
       "serviceName": "Apple School Manager"
     },
@@ -206,7 +194,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1624277280000,
+          "epochEndDate": 1624282920000,
+          "messageId": "1000000345",
+          "statusType": "Issue",
+          "datePosted": "2021/06/22 00:00 JST",
+          "startDate": "2021/06/21 21:08 JST",
+          "endDate": "2021/06/21 22:42 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "ユーザはiCloudメールにアクセスできなかった可能性があります。"
+        }
       ],
       "serviceName": "iCloudメール"
     },
