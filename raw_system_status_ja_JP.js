@@ -152,7 +152,7 @@
           "epochEndDate": 1626746400000,
           "messageId": "2000000766",
           "statusType": "Issue",
-          "datePosted": "2021/07/20 17:00 JST",
+          "datePosted": "2021/07/22 10:55 JST",
           "startDate": "2021/07/20 09:00 JST",
           "endDate": "2021/07/20 11:00 JST",
           "affectedServices": null,
@@ -256,7 +256,22 @@
       "redirectUrl": null,
       "serviceName": "iTunes Store",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1626908400000,
+          "epochEndDate": 1626916380000,
+          "messageId": "2000000768",
+          "statusType": "Issue",
+          "datePosted": "2021/07/22 10:55 JST",
+          "startDate": "2021/07/22 08:00 JST",
+          "endDate": "2021/07/22 10:13 JST",
+          "affectedServices": [
+            "Radio",
+            "iTunes Store"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ]
     },
     {
@@ -298,7 +313,22 @@
       "redirectUrl": null,
       "serviceName": "Radio",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1626908400000,
+          "epochEndDate": 1626916380000,
+          "messageId": "2000000768",
+          "statusType": "Issue",
+          "datePosted": "2021/07/22 10:55 JST",
+          "startDate": "2021/07/22 08:00 JST",
+          "endDate": "2021/07/22 10:13 JST",
+          "affectedServices": [
+            "Radio",
+            "iTunes Store"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ]
     },
     {
