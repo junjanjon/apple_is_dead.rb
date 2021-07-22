@@ -76,7 +76,19 @@
       "redirectUrl": null,
       "serviceName": "Apple School Manager",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1626361200000,
+          "epochEndDate": 1626372900000,
+          "messageId": "2000000763",
+          "statusType": "Issue",
+          "datePosted": "2021/07/17 11:41 JST",
+          "startDate": "2021/07/16 00:00 JST",
+          "endDate": "2021/07/16 03:15 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "ユーザは Apple School Manager へサインインできませんでした。"
+        }
       ]
     },
     {
@@ -146,19 +158,7 @@
       "redirectUrl": null,
       "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1626739200000,
-          "epochEndDate": 1626746400000,
-          "messageId": "2000000766",
-          "statusType": "Issue",
-          "datePosted": "2021/07/22 10:55 JST",
-          "startDate": "2021/07/20 09:00 JST",
-          "endDate": "2021/07/20 11:00 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "新規Apple IDを作成できませんでした。"
-        }
+
       ]
     },
     {
@@ -256,22 +256,7 @@
       "redirectUrl": null,
       "serviceName": "iTunes Store",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1626908400000,
-          "epochEndDate": 1626916380000,
-          "messageId": "2000000768",
-          "statusType": "Issue",
-          "datePosted": "2021/07/22 10:55 JST",
-          "startDate": "2021/07/22 08:00 JST",
-          "endDate": "2021/07/22 10:13 JST",
-          "affectedServices": [
-            "Radio",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -313,22 +298,7 @@
       "redirectUrl": null,
       "serviceName": "Radio",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1626908400000,
-          "epochEndDate": 1626916380000,
-          "messageId": "2000000768",
-          "statusType": "Issue",
-          "datePosted": "2021/07/22 10:55 JST",
-          "startDate": "2021/07/22 08:00 JST",
-          "endDate": "2021/07/22 10:13 JST",
-          "affectedServices": [
-            "Radio",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
