@@ -70,7 +70,7 @@
       "events": [
 
       ],
-      "serviceName": "Apple Pay & Wallet"
+      "serviceName": "Apple Pay"
     },
     {
       "redirectUrl": null,
