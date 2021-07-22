@@ -173,14 +173,48 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1626960780000,
+          "epochEndDate": null,
+          "messageId": "2000000769",
+          "statusType": "Issue",
+          "datePosted": "2021/07/23 00:08 JST",
+          "startDate": "2021/07/22 22:33 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudメール",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudストレージアップグレード"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1626960780000,
+          "epochEndDate": null,
+          "messageId": "2000000769",
+          "statusType": "Issue",
+          "datePosted": "2021/07/23 00:08 JST",
+          "startDate": "2021/07/22 22:33 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudメール",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudバックアップ"
     },
@@ -194,7 +228,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1626960780000,
+          "epochEndDate": null,
+          "messageId": "2000000769",
+          "statusType": "Issue",
+          "datePosted": "2021/07/23 00:08 JST",
+          "startDate": "2021/07/22 22:33 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudメール",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudメール"
     },
@@ -249,7 +300,7 @@
           "epochEndDate": 1626916380000,
           "messageId": "2000000768",
           "statusType": "Issue",
-          "datePosted": "2021/07/22 17:00 JST",
+          "datePosted": "2021/07/23 00:08 JST",
           "startDate": "2021/07/22 08:00 JST",
           "endDate": "2021/07/22 10:13 JST",
           "affectedServices": [
@@ -306,7 +357,7 @@
           "epochEndDate": 1626916380000,
           "messageId": "2000000768",
           "statusType": "Issue",
-          "datePosted": "2021/07/22 17:00 JST",
+          "datePosted": "2021/07/23 00:08 JST",
           "startDate": "2021/07/22 08:00 JST",
           "endDate": "2021/07/22 10:13 JST",
           "affectedServices": [
@@ -420,7 +471,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1626960780000,
+          "epochEndDate": null,
+          "messageId": "2000000769",
+          "statusType": "Issue",
+          "datePosted": "2021/07/23 00:08 JST",
+          "startDate": "2021/07/22 22:33 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudメール",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "写真"
     },
