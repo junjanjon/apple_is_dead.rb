@@ -75,7 +75,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1626361200000,
+          "epochEndDate": 1626372900000,
+          "messageId": "2000000763",
+          "statusType": "Issue",
+          "datePosted": "2021/07/16 04:03 JST",
+          "startDate": "2021/07/16 00:00 JST",
+          "endDate": "2021/07/16 03:15 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "ユーザは Apple School Manager へサインインできませんでした。"
+        }
       ],
       "serviceName": "Apple School Manager"
     },
@@ -243,22 +255,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1626908400000,
-          "epochEndDate": 1626916380000,
-          "messageId": "2000000768",
-          "statusType": "Issue",
-          "datePosted": "2021/07/22 17:00 JST",
-          "startDate": "2021/07/22 08:00 JST",
-          "endDate": "2021/07/22 10:13 JST",
-          "affectedServices": [
-            "Radio",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iTunes Store"
     },
@@ -300,22 +297,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1626908400000,
-          "epochEndDate": 1626916380000,
-          "messageId": "2000000768",
-          "statusType": "Issue",
-          "datePosted": "2021/07/22 17:00 JST",
-          "startDate": "2021/07/22 08:00 JST",
-          "endDate": "2021/07/22 10:13 JST",
-          "affectedServices": [
-            "Radio",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Radio"
     },
