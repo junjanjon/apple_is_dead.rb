@@ -145,7 +145,7 @@
           "epochEndDate": 1626974160000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/24 03:32 JST",
+          "datePosted": "2021/07/24 05:05 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
@@ -198,7 +198,7 @@
           "epochEndDate": 1626974160000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/24 03:32 JST",
+          "datePosted": "2021/07/24 05:05 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
@@ -223,7 +223,7 @@
           "epochEndDate": 1626974160000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/24 03:32 JST",
+          "datePosted": "2021/07/24 05:05 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
@@ -250,25 +250,12 @@
       "serviceName": "iCloudメール",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1627053600000,
-          "epochEndDate": null,
-          "messageId": "2000000771",
-          "statusType": "Issue",
-          "datePosted": "2021/07/24 03:32 JST",
-          "startDate": "2021/07/24 00:20 JST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "メールの受信に遅延が発生する可能性があります。"
-        },
-        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1626960780000,
           "epochEndDate": 1626972420000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/24 03:32 JST",
+          "datePosted": "2021/07/24 05:05 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
@@ -280,6 +267,19 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1627053600000,
+          "epochEndDate": 1627069200000,
+          "messageId": "2000000771",
+          "statusType": "Issue",
+          "datePosted": "2021/07/24 05:05 JST",
+          "startDate": "2021/07/24 00:20 JST",
+          "endDate": "2021/07/24 04:40 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "メールの受信に遅延が発生した可能性があります。"
         }
       ]
     },
@@ -335,7 +335,7 @@
           "epochEndDate": 1626916380000,
           "messageId": "2000000768",
           "statusType": "Issue",
-          "datePosted": "2021/07/24 03:32 JST",
+          "datePosted": "2021/07/24 05:05 JST",
           "startDate": "2021/07/22 08:00 JST",
           "endDate": "2021/07/22 10:13 JST",
           "affectedServices": [
@@ -392,7 +392,7 @@
           "epochEndDate": 1626916380000,
           "messageId": "2000000768",
           "statusType": "Issue",
-          "datePosted": "2021/07/24 03:32 JST",
+          "datePosted": "2021/07/24 05:05 JST",
           "startDate": "2021/07/22 08:00 JST",
           "endDate": "2021/07/22 10:13 JST",
           "affectedServices": [
@@ -512,7 +512,7 @@
           "epochEndDate": 1626974160000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/24 03:32 JST",
+          "datePosted": "2021/07/24 05:05 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
