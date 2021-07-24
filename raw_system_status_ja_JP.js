@@ -145,7 +145,7 @@
           "epochEndDate": 1626974160000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/24 05:05 JST",
+          "datePosted": "2021/07/24 17:00 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
@@ -198,7 +198,7 @@
           "epochEndDate": 1626974160000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/24 05:05 JST",
+          "datePosted": "2021/07/24 17:00 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
@@ -223,7 +223,7 @@
           "epochEndDate": 1626974160000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/24 05:05 JST",
+          "datePosted": "2021/07/24 17:00 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
@@ -255,7 +255,7 @@
           "epochEndDate": 1626972420000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/24 05:05 JST",
+          "datePosted": "2021/07/24 17:00 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
@@ -274,7 +274,7 @@
           "epochEndDate": 1627069200000,
           "messageId": "2000000771",
           "statusType": "Issue",
-          "datePosted": "2021/07/24 05:05 JST",
+          "datePosted": "2021/07/24 17:00 JST",
           "startDate": "2021/07/24 00:20 JST",
           "endDate": "2021/07/24 04:40 JST",
           "affectedServices": null,
@@ -329,22 +329,7 @@
       "redirectUrl": null,
       "serviceName": "iTunes Store",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1626908400000,
-          "epochEndDate": 1626916380000,
-          "messageId": "2000000768",
-          "statusType": "Issue",
-          "datePosted": "2021/07/24 05:05 JST",
-          "startDate": "2021/07/22 08:00 JST",
-          "endDate": "2021/07/22 10:13 JST",
-          "affectedServices": [
-            "Radio",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -386,22 +371,7 @@
       "redirectUrl": null,
       "serviceName": "Radio",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1626908400000,
-          "epochEndDate": 1626916380000,
-          "messageId": "2000000768",
-          "statusType": "Issue",
-          "datePosted": "2021/07/24 05:05 JST",
-          "startDate": "2021/07/22 08:00 JST",
-          "endDate": "2021/07/22 10:13 JST",
-          "affectedServices": [
-            "Radio",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -512,7 +482,7 @@
           "epochEndDate": 1626974160000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/24 05:05 JST",
+          "datePosted": "2021/07/24 17:00 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
