@@ -145,7 +145,7 @@
           "epochEndDate": 1626974160000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/25 14:00 JST",
+          "datePosted": "2021/07/25 15:55 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
@@ -198,7 +198,7 @@
           "epochEndDate": 1626974160000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/25 14:00 JST",
+          "datePosted": "2021/07/25 15:55 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
@@ -223,7 +223,7 @@
           "epochEndDate": 1626974160000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/25 14:00 JST",
+          "datePosted": "2021/07/25 15:55 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
@@ -255,7 +255,7 @@
           "epochEndDate": 1627069200000,
           "messageId": "2000000771",
           "statusType": "Issue",
-          "datePosted": "2021/07/25 14:00 JST",
+          "datePosted": "2021/07/25 15:55 JST",
           "startDate": "2021/07/24 00:20 JST",
           "endDate": "2021/07/24 04:40 JST",
           "affectedServices": null,
@@ -268,7 +268,7 @@
           "epochEndDate": 1626972420000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/25 14:00 JST",
+          "datePosted": "2021/07/25 15:55 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
@@ -482,7 +482,7 @@
           "epochEndDate": 1626974160000,
           "messageId": "2000000769",
           "statusType": "Issue",
-          "datePosted": "2021/07/25 14:00 JST",
+          "datePosted": "2021/07/25 15:55 JST",
           "startDate": "2021/07/22 22:33 JST",
           "endDate": "2021/07/23 02:16 JST",
           "affectedServices": [
