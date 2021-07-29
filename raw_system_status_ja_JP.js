@@ -138,28 +138,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1627299420000,
-          "epochEndDate": 1627309680000,
-          "messageId": "1000000442",
-          "statusType": "Issue",
-          "datePosted": "2021/07/28 17:00 JST",
-          "startDate": "2021/07/26 20:37 JST",
-          "endDate": "2021/07/26 23:28 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "写真",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "iCloud Drive"
     },
@@ -180,56 +159,14 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1627299420000,
-          "epochEndDate": 1627309620000,
-          "messageId": "1000000442",
-          "statusType": "Issue",
-          "datePosted": "2021/07/28 17:00 JST",
-          "startDate": "2021/07/26 20:37 JST",
-          "endDate": "2021/07/26 23:28 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "写真",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudカレンダー"
     },
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1627299420000,
-          "epochEndDate": 1627309680000,
-          "messageId": "1000000442",
-          "statusType": "Issue",
-          "datePosted": "2021/07/28 17:00 JST",
-          "startDate": "2021/07/26 20:37 JST",
-          "endDate": "2021/07/26 23:28 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "写真",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudキーチェーン"
     },
@@ -250,56 +187,14 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1627299420000,
-          "epochEndDate": 1627309620000,
-          "messageId": "1000000442",
-          "statusType": "Issue",
-          "datePosted": "2021/07/28 17:00 JST",
-          "startDate": "2021/07/26 20:37 JST",
-          "endDate": "2021/07/26 23:28 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "写真",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudブックマークおよびタブ"
     },
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1627299420000,
-          "epochEndDate": 1627309620000,
-          "messageId": "1000000442",
-          "statusType": "Issue",
-          "datePosted": "2021/07/28 17:00 JST",
-          "startDate": "2021/07/26 20:37 JST",
-          "endDate": "2021/07/26 23:28 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "写真",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
@@ -320,28 +215,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1627299420000,
-          "epochEndDate": 1627309620000,
-          "messageId": "1000000442",
-          "statusType": "Issue",
-          "datePosted": "2021/07/28 17:00 JST",
-          "startDate": "2021/07/26 20:37 JST",
-          "endDate": "2021/07/26 23:28 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "写真",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "最近行った変更はデバイス間で更新されなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloud連絡先"
     },
@@ -509,56 +383,14 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1627299420000,
-          "epochEndDate": 1627309680000,
-          "messageId": "1000000442",
-          "statusType": "Issue",
-          "datePosted": "2021/07/28 17:00 JST",
-          "startDate": "2021/07/26 20:37 JST",
-          "endDate": "2021/07/26 23:28 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "写真",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "探す"
     },
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1627299420000,
-          "epochEndDate": 1627309680000,
-          "messageId": "1000000442",
-          "statusType": "Issue",
-          "datePosted": "2021/07/28 17:00 JST",
-          "startDate": "2021/07/26 20:37 JST",
-          "endDate": "2021/07/26 23:28 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "iCloudメール",
-            "iCloud連絡先",
-            "写真",
-            "探す"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "写真"
     },
