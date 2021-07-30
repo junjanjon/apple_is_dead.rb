@@ -12,7 +12,7 @@
           "epochEndDate": 1627602180000,
           "messageId": "2000000782",
           "statusType": "Outage",
-          "datePosted": "2021/07/30 09:09 JST",
+          "datePosted": "2021/07/30 12:04 JST",
           "startDate": "2021/07/30 07:29 JST",
           "endDate": "2021/07/30 08:43 JST",
           "affectedServices": [
@@ -84,7 +84,19 @@
       "redirectUrl": null,
       "serviceName": "Apple Pay & Wallet",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1627600200000,
+          "epochEndDate": null,
+          "messageId": "2000000783",
+          "statusType": "Outage",
+          "datePosted": "2021/07/30 12:04 JST",
+          "startDate": "2021/07/30 08:10 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "JPMorgan Chase Bank (VISA)のカード保有者は、Apple Payにカードの追加ができない場合があります。"
+        }
       ]
     },
     {
@@ -265,7 +277,7 @@
           "epochEndDate": 1627602180000,
           "messageId": "2000000782",
           "statusType": "Outage",
-          "datePosted": "2021/07/30 09:09 JST",
+          "datePosted": "2021/07/30 12:04 JST",
           "startDate": "2021/07/30 07:29 JST",
           "endDate": "2021/07/30 08:43 JST",
           "affectedServices": [
