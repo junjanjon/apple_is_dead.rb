@@ -6,20 +6,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1627750380000,
-          "epochEndDate": null,
+          "epochEndDate": 1627751220000,
           "messageId": "2000000785",
           "statusType": "Outage",
-          "datePosted": "2021/08/01 02:15 JST",
+          "datePosted": "2021/08/01 05:00 JST",
           "startDate": "2021/08/01 01:53 JST",
-          "endDate": null,
+          "endDate": "2021/08/01 02:07 JST",
           "affectedServices": [
             "App Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -27,7 +27,7 @@
           "epochEndDate": 1627602180000,
           "messageId": "2000000782",
           "statusType": "Outage",
-          "datePosted": "2021/08/01 02:15 JST",
+          "datePosted": "2021/08/01 05:00 JST",
           "startDate": "2021/07/30 07:29 JST",
           "endDate": "2021/07/30 08:43 JST",
           "affectedServices": [
@@ -105,7 +105,7 @@
           "epochEndDate": 1627617060000,
           "messageId": "2000000783",
           "statusType": "Outage",
-          "datePosted": "2021/08/01 02:15 JST",
+          "datePosted": "2021/08/01 05:00 JST",
           "startDate": "2021/07/30 08:10 JST",
           "endDate": "2021/07/30 12:51 JST",
           "affectedServices": null,
@@ -287,20 +287,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1627750380000,
-          "epochEndDate": null,
+          "epochEndDate": 1627751220000,
           "messageId": "2000000785",
           "statusType": "Outage",
-          "datePosted": "2021/08/01 02:15 JST",
+          "datePosted": "2021/08/01 05:00 JST",
           "startDate": "2021/08/01 01:53 JST",
-          "endDate": null,
+          "endDate": "2021/08/01 02:07 JST",
           "affectedServices": [
             "App Store",
             "iTunes Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -308,7 +308,7 @@
           "epochEndDate": 1627602180000,
           "messageId": "2000000782",
           "statusType": "Outage",
-          "datePosted": "2021/08/01 02:15 JST",
+          "datePosted": "2021/08/01 05:00 JST",
           "startDate": "2021/07/30 07:29 JST",
           "endDate": "2021/07/30 08:43 JST",
           "affectedServices": [
