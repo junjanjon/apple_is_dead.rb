@@ -11,7 +11,7 @@
           "epochEndDate": 1627751220000,
           "messageId": "2000000785",
           "statusType": "Outage",
-          "datePosted": "2021/08/01 17:00 JST",
+          "datePosted": "2021/08/01 19:46 JST",
           "startDate": "2021/08/01 01:53 JST",
           "endDate": "2021/08/01 02:07 JST",
           "affectedServices": [
@@ -264,7 +264,7 @@
           "epochEndDate": 1627751220000,
           "messageId": "2000000785",
           "statusType": "Outage",
-          "datePosted": "2021/08/01 17:00 JST",
+          "datePosted": "2021/08/01 19:46 JST",
           "startDate": "2021/08/01 01:53 JST",
           "endDate": "2021/08/01 02:07 JST",
           "affectedServices": [
