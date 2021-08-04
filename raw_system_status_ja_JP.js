@@ -160,7 +160,19 @@
       "redirectUrl": null,
       "serviceName": "iCloudカレンダー",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1628028000000,
+          "epochEndDate": null,
+          "messageId": "2000000789",
+          "statusType": "Issue",
+          "datePosted": "2021/08/05 00:34 JST",
+          "startDate": "2021/08/04 07:00 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの動作速度が通常より低下している可能性があります。"
+        }
       ]
     },
     {
