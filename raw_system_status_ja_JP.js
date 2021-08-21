@@ -139,7 +139,22 @@
       "redirectUrl": null,
       "serviceName": "iCloud Drive",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1629550800000,
+          "epochEndDate": null,
+          "messageId": "2000000842",
+          "statusType": "Issue",
+          "datePosted": "2021/08/22 00:13 JST",
+          "startDate": "2021/08/21 22:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの動作速度が通常より低下している可能性があります。"
+        }
       ]
     },
     {
@@ -397,10 +412,13 @@
           "epochEndDate": null,
           "messageId": "2000000842",
           "statusType": "Issue",
-          "datePosted": "2021/08/22 00:06 JST",
+          "datePosted": "2021/08/22 00:13 JST",
           "startDate": "2021/08/21 22:00 JST",
           "endDate": null,
-          "affectedServices": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "写真"
+          ],
           "eventStatus": "ongoing",
           "message": "このサービスの動作速度が通常より低下している可能性があります。"
         }
