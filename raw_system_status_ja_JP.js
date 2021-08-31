@@ -76,17 +76,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1630434300000,
-          "epochEndDate": null,
+          "epochEndDate": 1630447920000,
           "messageId": "2000000864",
           "statusType": "Issue",
-          "datePosted": "2021/09/01 04:46 JST",
+          "datePosted": "2021/09/01 08:15 JST",
           "startDate": "2021/09/01 03:25 JST",
-          "endDate": null,
+          "endDate": "2021/09/01 07:12 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -94,7 +94,7 @@
           "epochEndDate": 1630374300000,
           "messageId": "2000000862",
           "statusType": "Issue",
-          "datePosted": "2021/09/01 04:46 JST",
+          "datePosted": "2021/09/01 08:15 JST",
           "startDate": "2021/08/31 08:31 JST",
           "endDate": "2021/08/31 10:45 JST",
           "affectedServices": [
