@@ -81,7 +81,7 @@
           "epochEndDate": 1630447920000,
           "messageId": "2000000864",
           "statusType": "Issue",
-          "datePosted": "2021/09/03 06:25 JST",
+          "datePosted": "2021/09/03 07:45 JST",
           "startDate": "2021/09/01 03:25 JST",
           "endDate": "2021/09/01 07:12 JST",
           "affectedServices": null,
@@ -137,17 +137,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1630613280000,
-          "epochEndDate": null,
+          "epochEndDate": 1630622340000,
           "messageId": "2000000870",
           "statusType": "Issue",
-          "datePosted": "2021/09/03 06:25 JST",
+          "datePosted": "2021/09/03 07:45 JST",
           "startDate": "2021/09/03 05:08 JST",
-          "endDate": null,
+          "endDate": "2021/09/03 07:39 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
       "serviceName": "Game Center"
@@ -224,7 +224,7 @@
           "epochEndDate": 1630593000000,
           "messageId": "1000000524",
           "statusType": "Issue",
-          "datePosted": "2021/09/03 06:25 JST",
+          "datePosted": "2021/09/03 07:45 JST",
           "startDate": "2021/09/02 20:00 JST",
           "endDate": "2021/09/02 23:30 JST",
           "affectedServices": null,
