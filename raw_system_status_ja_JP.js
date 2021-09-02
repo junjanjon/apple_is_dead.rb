@@ -81,7 +81,7 @@
           "epochEndDate": 1630447920000,
           "messageId": "2000000864",
           "statusType": "Issue",
-          "datePosted": "2021/09/02 22:08 JST",
+          "datePosted": "2021/09/02 23:51 JST",
           "startDate": "2021/09/01 03:25 JST",
           "endDate": "2021/09/01 07:12 JST",
           "affectedServices": null,
@@ -207,17 +207,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1630580400000,
-          "epochEndDate": null,
+          "epochEndDate": 1630593000000,
           "messageId": "1000000524",
           "statusType": "Issue",
-          "datePosted": "2021/09/02 22:08 JST",
+          "datePosted": "2021/09/02 23:51 JST",
           "startDate": "2021/09/02 20:00 JST",
-          "endDate": null,
+          "endDate": "2021/09/02 23:30 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "メールの送受信またはアクセスができていない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "メールの送受信またはアクセスができなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudメール"
