@@ -81,28 +81,12 @@
           "epochEndDate": 1630447920000,
           "messageId": "2000000864",
           "statusType": "Issue",
-          "datePosted": "2021/09/01 19:04 JST",
+          "datePosted": "2021/09/02 17:00 JST",
           "startDate": "2021/09/01 03:25 JST",
           "endDate": "2021/09/01 07:12 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1630366260000,
-          "epochEndDate": 1630374300000,
-          "messageId": "2000000862",
-          "statusType": "Issue",
-          "datePosted": "2021/09/01 19:04 JST",
-          "startDate": "2021/08/31 08:31 JST",
-          "endDate": "2021/08/31 10:45 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。問題について調査し、解決しました。"
         }
       ],
       "serviceName": "Apple School Manager"
