@@ -124,19 +124,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1630613280000,
-          "epochEndDate": 1630622340000,
-          "messageId": "2000000870",
-          "statusType": "Issue",
-          "datePosted": "2021/09/05 13:00 JST",
-          "startDate": "2021/09/03 05:08 JST",
-          "endDate": "2021/09/03 07:39 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "Game Center"
     },
@@ -206,19 +194,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1630580400000,
-          "epochEndDate": 1630593000000,
-          "messageId": "1000000524",
-          "statusType": "Issue",
-          "datePosted": "2021/09/05 13:00 JST",
-          "startDate": "2021/09/02 20:00 JST",
-          "endDate": "2021/09/02 23:30 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "メールの送受信またはアクセスができなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
