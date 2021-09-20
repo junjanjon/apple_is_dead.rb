@@ -196,6 +196,13 @@
       "events": [
 
       ],
+      "serviceName": "iCloudプライベートリレー"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
       "serviceName": "iCloudメール"
     },
     {
