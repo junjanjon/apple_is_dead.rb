@@ -207,7 +207,7 @@
           "epochEndDate": 1632325680000,
           "messageId": "2000000884",
           "statusType": "Issue",
-          "datePosted": "2021/09/24 20:34 JST",
+          "datePosted": "2021/09/25 02:08 JST",
           "startDate": "2021/09/22 23:57 JST",
           "endDate": "2021/09/23 00:48 JST",
           "affectedServices": null,
@@ -353,7 +353,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1632474000000,
+          "epochEndDate": null,
+          "messageId": "2000000887",
+          "statusType": "Issue",
+          "datePosted": "2021/09/25 02:08 JST",
+          "startDate": "2021/09/24 18:00 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "保証範囲の詳細は更新されません。"
+        }
       ],
       "serviceName": "デバイスのAppleCare"
     },
