@@ -75,22 +75,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1632935040000,
-          "epochEndDate": 1632943020000,
-          "messageId": "2000000891",
-          "statusType": "Issue",
-          "datePosted": "2021/10/02 11:58 JST",
-          "startDate": "2021/09/30 02:04 JST",
-          "endDate": "2021/09/30 04:17 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "ユーザは Apple School Manager へサインインできませんでした。"
-        }
+
       ],
       "serviceName": "Apple School Manager"
     },
@@ -222,7 +207,7 @@
           "epochEndDate": 1633038240000,
           "messageId": "2000000893",
           "statusType": "Issue",
-          "datePosted": "2021/10/02 11:58 JST",
+          "datePosted": "2021/10/02 17:00 JST",
           "startDate": "2021/10/01 03:49 JST",
           "endDate": "2021/10/01 06:44 JST",
           "affectedServices": null,
