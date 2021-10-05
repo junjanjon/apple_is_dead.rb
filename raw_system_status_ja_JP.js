@@ -74,7 +74,7 @@
           "epochEndDate": 1633413120000,
           "messageId": "2000000896",
           "statusType": "Outage",
-          "datePosted": "2021/10/05 17:00 JST",
+          "datePosted": "2021/10/05 22:01 JST",
           "startDate": "2021/10/05 07:26 JST",
           "endDate": "2021/10/05 14:52 JST",
           "affectedServices": null,
