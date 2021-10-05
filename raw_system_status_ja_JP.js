@@ -69,17 +69,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1633386360000,
-          "epochEndDate": null,
+          "epochEndDate": 1633413120000,
           "messageId": "2000000896",
           "statusType": "Outage",
-          "datePosted": "2021/10/05 09:38 JST",
+          "datePosted": "2021/10/05 15:24 JST",
           "startDate": "2021/10/05 07:26 JST",
-          "endDate": null,
+          "endDate": "2021/10/05 14:52 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "ユーザは、Apple Payに既存のカードの追加、停止、削除ができない場合があります。"
+          "eventStatus": "resolved",
+          "message": "ユーザは、Apple Payに既存のカードの追加、停止、削除ができませんでした。"
         }
       ],
       "serviceName": "Apple Pay & Wallet"
@@ -408,7 +408,7 @@
           "epochEndDate": 1633209300000,
           "messageId": "2000000895",
           "statusType": "Issue",
-          "datePosted": "2021/10/05 09:38 JST",
+          "datePosted": "2021/10/05 15:24 JST",
           "startDate": "2021/10/03 04:30 JST",
           "endDate": "2021/10/03 06:15 JST",
           "affectedServices": null,
