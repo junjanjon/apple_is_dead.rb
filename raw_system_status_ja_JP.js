@@ -357,6 +357,13 @@
       "events": [
 
       ],
+      "serviceName": "ヘルスデータをプロバイダと共有"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
       "serviceName": "マップの経路案内とナビゲーション"
     },
     {
