@@ -208,7 +208,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1634672400000,
+          "epochEndDate": null,
+          "messageId": "2000000920",
+          "statusType": "Issue",
+          "datePosted": "2021/10/20 06:25 JST",
+          "startDate": "2021/10/20 04:40 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスにアクセスできない可能性があります。"
+        }
       ],
       "serviceName": "iCloudメモ"
     },
