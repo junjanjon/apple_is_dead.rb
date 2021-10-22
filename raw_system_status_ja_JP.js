@@ -207,7 +207,7 @@
           "epochEndDate": 1634878800000,
           "messageId": "2000000922",
           "statusType": "Issue",
-          "datePosted": "2021/10/22 14:54 JST",
+          "datePosted": "2021/10/22 17:00 JST",
           "startDate": "2021/10/22 07:40 JST",
           "endDate": "2021/10/22 14:00 JST",
           "affectedServices": null,
@@ -220,19 +220,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1634672400000,
-          "epochEndDate": 1634689440000,
-          "messageId": "2000000920",
-          "statusType": "Issue",
-          "datePosted": "2021/10/22 14:54 JST",
-          "startDate": "2021/10/20 04:40 JST",
-          "endDate": "2021/10/20 09:24 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメモ"
     },
