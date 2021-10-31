@@ -399,13 +399,6 @@
       "events": [
 
       ],
-      "serviceName": "探す"
-    },
-    {
-      "redirectUrl": null,
-      "events": [
-
-      ],
       "serviceName": "写真"
     },
     {
