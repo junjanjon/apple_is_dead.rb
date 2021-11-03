@@ -194,7 +194,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1635964800000,
+          "epochEndDate": null,
+          "messageId": "2000000945",
+          "statusType": "Outage",
+          "datePosted": "2021/11/04 04:10 JST",
+          "startDate": "2021/11/04 03:40 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudプライベートリレー"
     },
