@@ -138,27 +138,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1636578540000,
-          "epochEndDate": 1636582740000,
-          "messageId": "2000000961",
-          "statusType": "Issue",
-          "datePosted": "2021/11/13 06:28 JST",
-          "startDate": "2021/11/11 06:09 JST",
-          "endDate": "2021/11/11 07:19 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "iCloud Drive"
     },
@@ -186,27 +166,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1636578540000,
-          "epochEndDate": 1636582740000,
-          "messageId": "2000000961",
-          "statusType": "Issue",
-          "datePosted": "2021/11/13 06:28 JST",
-          "startDate": "2021/11/11 06:09 JST",
-          "endDate": "2021/11/11 07:19 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "iCloudキーチェーンおよびiCloudタブへのアクセスの応答速度が低下していたか、アクセスできなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudキーチェーン"
     },
@@ -220,27 +180,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1636578540000,
-          "epochEndDate": 1636582740000,
-          "messageId": "2000000961",
-          "statusType": "Issue",
-          "datePosted": "2021/11/13 06:28 JST",
-          "startDate": "2021/11/11 06:09 JST",
-          "endDate": "2021/11/11 07:19 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudバックアップ"
     },
@@ -249,32 +189,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1636578540000,
-          "epochEndDate": 1636582740000,
-          "messageId": "2000000961",
-          "statusType": "Issue",
-          "datePosted": "2021/11/13 06:28 JST",
-          "startDate": "2021/11/11 06:09 JST",
-          "endDate": "2021/11/11 07:19 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1636732080000,
           "epochEndDate": 1636736760000,
           "messageId": "2000000962",
           "statusType": "Issue",
-          "datePosted": "2021/11/13 06:28 JST",
+          "datePosted": "2021/11/13 18:00 JST",
           "startDate": "2021/11/13 00:48 JST",
           "endDate": "2021/11/13 02:06 JST",
           "affectedServices": null,
@@ -308,27 +227,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1636578540000,
-          "epochEndDate": 1636582740000,
-          "messageId": "2000000961",
-          "statusType": "Issue",
-          "datePosted": "2021/11/13 06:28 JST",
-          "startDate": "2021/11/11 06:09 JST",
-          "endDate": "2021/11/11 07:19 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudリマインダー"
     },
@@ -447,27 +346,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1636578540000,
-          "epochEndDate": 1636582740000,
-          "messageId": "2000000961",
-          "statusType": "Issue",
-          "datePosted": "2021/11/13 06:28 JST",
-          "startDate": "2021/11/11 06:09 JST",
-          "endDate": "2021/11/11 07:19 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "ユーザがサインインできなかった可能性があります。"
-        }
+
       ],
       "serviceName": "スクリーンタイム"
     },
@@ -536,33 +415,12 @@
           "epochEndDate": 1636751280000,
           "messageId": "2000000963",
           "statusType": "Issue",
-          "datePosted": "2021/11/13 06:28 JST",
+          "datePosted": "2021/11/13 18:00 JST",
           "startDate": "2021/11/13 04:15 JST",
           "endDate": "2021/11/13 06:08 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1636578540000,
-          "epochEndDate": 1636582740000,
-          "messageId": "2000000961",
-          "statusType": "Issue",
-          "datePosted": "2021/11/13 06:28 JST",
-          "startDate": "2021/11/11 06:09 JST",
-          "endDate": "2021/11/11 07:19 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudブックマークおよびタブ",
-            "iCloudリマインダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
         }
       ],
       "serviceName": "写真"
