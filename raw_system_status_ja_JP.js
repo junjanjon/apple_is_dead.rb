@@ -187,19 +187,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1636732080000,
-          "epochEndDate": 1636736760000,
-          "messageId": "2000000962",
-          "statusType": "Issue",
-          "datePosted": "2021/11/15 07:05 JST",
-          "startDate": "2021/11/13 00:48 JST",
-          "endDate": "2021/11/13 02:06 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudブックマークおよびタブ"
     },
@@ -212,7 +200,7 @@
           "epochEndDate": 1636926960000,
           "messageId": "2000000965",
           "statusType": "Issue",
-          "datePosted": "2021/11/15 07:05 JST",
+          "datePosted": "2021/11/15 18:00 JST",
           "startDate": "2021/11/15 05:34 JST",
           "endDate": "2021/11/15 06:56 JST",
           "affectedServices": null,
@@ -421,19 +409,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1636744500000,
-          "epochEndDate": 1636751280000,
-          "messageId": "2000000963",
-          "statusType": "Issue",
-          "datePosted": "2021/11/15 07:05 JST",
-          "startDate": "2021/11/13 04:15 JST",
-          "endDate": "2021/11/13 06:08 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "写真"
     },
