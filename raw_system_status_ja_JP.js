@@ -200,7 +200,7 @@
           "epochEndDate": 1636926960000,
           "messageId": "2000000965",
           "statusType": "Issue",
-          "datePosted": "2021/11/16 16:23 JST",
+          "datePosted": "2021/11/17 06:10 JST",
           "startDate": "2021/11/15 05:34 JST",
           "endDate": "2021/11/15 06:56 JST",
           "affectedServices": null,
@@ -405,6 +405,13 @@
 
       ],
       "serviceName": "株価"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
+      "serviceName": "探す"
     },
     {
       "redirectUrl": null,
