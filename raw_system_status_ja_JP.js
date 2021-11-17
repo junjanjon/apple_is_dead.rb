@@ -172,7 +172,7 @@
           "epochEndDate": 1637097960000,
           "messageId": "2000000967",
           "statusType": "Issue",
-          "datePosted": "2021/11/17 09:17 JST",
+          "datePosted": "2021/11/17 18:01 JST",
           "startDate": "2021/11/17 05:52 JST",
           "endDate": "2021/11/17 06:26 JST",
           "affectedServices": [
@@ -209,7 +209,7 @@
           "epochEndDate": 1637097960000,
           "messageId": "2000000967",
           "statusType": "Issue",
-          "datePosted": "2021/11/17 09:17 JST",
+          "datePosted": "2021/11/17 18:01 JST",
           "startDate": "2021/11/17 05:52 JST",
           "endDate": "2021/11/17 06:26 JST",
           "affectedServices": [
@@ -226,19 +226,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1636922040000,
-          "epochEndDate": 1636926960000,
-          "messageId": "2000000965",
-          "statusType": "Issue",
-          "datePosted": "2021/11/17 09:17 JST",
-          "startDate": "2021/11/15 05:34 JST",
-          "endDate": "2021/11/15 06:56 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudプライベートリレー"
     },
@@ -384,7 +372,7 @@
           "epochEndDate": 1637097960000,
           "messageId": "2000000967",
           "statusType": "Issue",
-          "datePosted": "2021/11/17 09:17 JST",
+          "datePosted": "2021/11/17 18:01 JST",
           "startDate": "2021/11/17 05:52 JST",
           "endDate": "2021/11/17 06:26 JST",
           "affectedServices": [
