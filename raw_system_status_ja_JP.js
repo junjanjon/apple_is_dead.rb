@@ -166,23 +166,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1637095920000,
-          "epochEndDate": 1637097960000,
-          "messageId": "2000000967",
-          "statusType": "Issue",
-          "datePosted": "2021/11/17 18:01 JST",
-          "startDate": "2021/11/17 05:52 JST",
-          "endDate": "2021/11/17 06:26 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "スクリーンタイム"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスにアクセスできなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudキーチェーン"
     },
@@ -203,23 +187,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1637095920000,
-          "epochEndDate": 1637097960000,
-          "messageId": "2000000967",
-          "statusType": "Issue",
-          "datePosted": "2021/11/17 18:01 JST",
-          "startDate": "2021/11/17 05:52 JST",
-          "endDate": "2021/11/17 06:26 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "スクリーンタイム"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの動作速度が通常より低下した可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudブックマークおよびタブ"
     },
@@ -326,7 +294,7 @@
       "events": [
 
       ],
-      "serviceName": "Radio"
+      "serviceName": "ラジオ"
     },
     {
       "redirectUrl": null,
@@ -366,23 +334,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1637095920000,
-          "epochEndDate": 1637097960000,
-          "messageId": "2000000967",
-          "statusType": "Issue",
-          "datePosted": "2021/11/17 18:01 JST",
-          "startDate": "2021/11/17 05:52 JST",
-          "endDate": "2021/11/17 06:26 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "スクリーンタイム"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの動作速度が通常より低下した可能性があります。"
-        }
+
       ],
       "serviceName": "スクリーンタイム"
     },
