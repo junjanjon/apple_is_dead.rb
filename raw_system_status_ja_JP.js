@@ -146,17 +146,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1637682300000,
-          "epochEndDate": null,
+          "epochEndDate": 1637688000000,
           "messageId": "1000000764",
           "statusType": "Issue",
-          "datePosted": "2021/11/24 02:13 JST",
+          "datePosted": "2021/11/24 02:29 JST",
           "startDate": "2021/11/24 00:45 JST",
-          "endDate": null,
+          "endDate": "2021/11/24 02:20 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "ユーザがicloud.comへサインインできない可能性があります。この問題が発生している間でも、影響を受けたユーザはデバイスやコンピュータから引き続きiCloudサービスにアクセスできます。"
+          "eventStatus": "resolved",
+          "message": "ユーザがicloud.comへサインインできなかった可能性があります。"
         }
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)"
