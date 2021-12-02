@@ -201,19 +201,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1638198900000,
-          "epochEndDate": 1638211500000,
-          "messageId": "1000000783",
-          "statusType": "Issue",
-          "datePosted": "2021/12/02 13:50 JST",
-          "startDate": "2021/11/30 00:15 JST",
-          "endDate": "2021/11/30 03:45 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "メールの送受信またはアクセスができなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
