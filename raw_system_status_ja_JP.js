@@ -140,6 +140,13 @@
       "events": [
 
       ],
+      "serviceName": "HomeKit"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
       "serviceName": "iCloud Drive"
     },
     {
@@ -414,6 +421,13 @@
 
       ],
       "serviceName": "天気"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
+      "serviceName": "HomeKitセキュアビデオ"
     }
   ]
 }
