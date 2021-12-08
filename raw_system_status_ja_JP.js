@@ -397,7 +397,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1638987420000,
+          "epochEndDate": 1638989700000,
+          "messageId": "2000001029",
+          "statusType": "Issue",
+          "datePosted": "2021/12/09 04:14 JST",
+          "startDate": "2021/12/09 03:17 JST",
+          "endDate": "2021/12/09 03:55 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "探す"
     },
