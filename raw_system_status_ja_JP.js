@@ -153,17 +153,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1639067400000,
-          "epochEndDate": null,
+          "epochEndDate": 1639075380000,
           "messageId": "2000001032",
           "statusType": "Issue",
-          "datePosted": "2021/12/10 03:32 JST",
+          "datePosted": "2021/12/10 03:47 JST",
           "startDate": "2021/12/10 01:30 JST",
-          "endDate": null,
+          "endDate": "2021/12/10 03:43 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)"
@@ -415,7 +415,7 @@
           "epochEndDate": 1638989700000,
           "messageId": "2000001029",
           "statusType": "Issue",
-          "datePosted": "2021/12/10 03:32 JST",
+          "datePosted": "2021/12/10 03:47 JST",
           "startDate": "2021/12/09 03:17 JST",
           "endDate": "2021/12/09 03:55 JST",
           "affectedServices": null,
