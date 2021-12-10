@@ -75,7 +75,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1639099200000,
+          "epochEndDate": null,
+          "messageId": "2000001034",
+          "statusType": "Issue",
+          "datePosted": "2021/12/10 12:25 JST",
+          "startDate": "2021/12/10 10:20 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "ユーザがサインインできない可能性があります。"
+        }
       ],
       "serviceName": "Apple School Manager"
     },
@@ -158,7 +173,7 @@
           "epochEndDate": 1639075380000,
           "messageId": "2000001032",
           "statusType": "Issue",
-          "datePosted": "2021/12/10 03:47 JST",
+          "datePosted": "2021/12/10 12:25 JST",
           "startDate": "2021/12/10 01:30 JST",
           "endDate": "2021/12/10 03:43 JST",
           "affectedServices": null,
@@ -415,7 +430,7 @@
           "epochEndDate": 1638989700000,
           "messageId": "2000001029",
           "statusType": "Issue",
-          "datePosted": "2021/12/10 03:47 JST",
+          "datePosted": "2021/12/10 12:25 JST",
           "startDate": "2021/12/09 03:17 JST",
           "endDate": "2021/12/09 03:55 JST",
           "affectedServices": null,
