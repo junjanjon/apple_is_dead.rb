@@ -81,11 +81,12 @@
           "epochEndDate": null,
           "messageId": "2000001034",
           "statusType": "Issue",
-          "datePosted": "2021/12/10 12:25 JST",
+          "datePosted": "2021/12/10 13:40 JST",
           "startDate": "2021/12/10 10:20 JST",
           "endDate": null,
           "affectedServices": [
             "Apple School Manager",
+            "iCloud Web Apps (iCloud.com)",
             null
           ],
           "eventStatus": "ongoing",
@@ -168,12 +169,29 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1639099200000,
+          "epochEndDate": null,
+          "messageId": "2000001034",
+          "statusType": "Issue",
+          "datePosted": "2021/12/10 13:40 JST",
+          "startDate": "2021/12/10 10:20 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "iCloud Web Apps (iCloud.com)",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "ユーザがicloud.comへサインインできない可能性があります。この問題が発生している間でも、影響を受けたユーザはデバイスやコンピュータから引き続きiCloudサービスにアクセスできます。"
+        },
+        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1639067400000,
           "epochEndDate": 1639075380000,
           "messageId": "2000001032",
           "statusType": "Issue",
-          "datePosted": "2021/12/10 12:25 JST",
+          "datePosted": "2021/12/10 13:40 JST",
           "startDate": "2021/12/10 01:30 JST",
           "endDate": "2021/12/10 03:43 JST",
           "affectedServices": null,
@@ -430,7 +448,7 @@
           "epochEndDate": 1638989700000,
           "messageId": "2000001029",
           "statusType": "Issue",
-          "datePosted": "2021/12/10 12:25 JST",
+          "datePosted": "2021/12/10 13:40 JST",
           "startDate": "2021/12/09 03:17 JST",
           "endDate": "2021/12/09 03:55 JST",
           "affectedServices": null,
