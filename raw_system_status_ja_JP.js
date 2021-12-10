@@ -81,7 +81,7 @@
           "epochEndDate": 1639107900000,
           "messageId": "2000001034",
           "statusType": "Issue",
-          "datePosted": "2021/12/10 22:51 JST",
+          "datePosted": "2021/12/11 00:06 JST",
           "startDate": "2021/12/10 10:20 JST",
           "endDate": "2021/12/10 19:10 JST",
           "affectedServices": [
@@ -169,17 +169,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1639134000000,
-          "epochEndDate": null,
+          "epochEndDate": 1639143600000,
           "messageId": "1000000843",
           "statusType": "Issue",
-          "datePosted": "2021/12/10 22:51 JST",
+          "datePosted": "2021/12/11 00:06 JST",
           "startDate": "2021/12/10 20:00 JST",
-          "endDate": null,
+          "endDate": "2021/12/10 22:40 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "ユーザがicloud.comへサインインできない可能性があります。この問題が発生している間でも、影響を受けたユーザはデバイスやコンピュータから引き続きiCloudサービスにアクセスできます。"
+          "eventStatus": "resolved",
+          "message": "ユーザがicloud.comへサインインできなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -187,7 +187,7 @@
           "epochEndDate": 1639075380000,
           "messageId": "2000001032",
           "statusType": "Issue",
-          "datePosted": "2021/12/10 22:51 JST",
+          "datePosted": "2021/12/11 00:06 JST",
           "startDate": "2021/12/10 01:30 JST",
           "endDate": "2021/12/10 03:43 JST",
           "affectedServices": null,
@@ -200,7 +200,7 @@
           "epochEndDate": 1639131000000,
           "messageId": "2000001034",
           "statusType": "Issue",
-          "datePosted": "2021/12/10 22:51 JST",
+          "datePosted": "2021/12/11 00:06 JST",
           "startDate": "2021/12/10 10:20 JST",
           "endDate": "2021/12/10 19:10 JST",
           "affectedServices": [
@@ -461,7 +461,7 @@
           "epochEndDate": 1638989700000,
           "messageId": "2000001029",
           "statusType": "Issue",
-          "datePosted": "2021/12/10 22:51 JST",
+          "datePosted": "2021/12/11 00:06 JST",
           "startDate": "2021/12/09 03:17 JST",
           "endDate": "2021/12/09 03:55 JST",
           "affectedServices": null,
