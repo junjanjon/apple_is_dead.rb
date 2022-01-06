@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "redirectUrl": null,
@@ -216,16 +216,16 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
           "epochStartDate": 1641501900000,
           "epochEndDate": null,
           "messageId": "2000001119",
-          "statusType": "Issue",
-          "datePosted": "2022/01/07 06:21 JST",
+          "statusType": "Outage",
+          "datePosted": "2022/01/07 07:05 JST",
           "startDate": "2022/01/07 05:45 JST",
           "endDate": null,
           "affectedServices": null,
           "eventStatus": "ongoing",
+          "usersAffected": "一部のユーザに影響します",
           "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
         }
       ],
