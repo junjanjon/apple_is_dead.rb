@@ -216,17 +216,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1641501900000,
-          "epochEndDate": null,
+          "epochEndDate": 1641527880000,
           "messageId": "2000001119",
           "statusType": "Issue",
-          "datePosted": "2022/01/07 09:52 JST",
+          "datePosted": "2022/01/07 13:06 JST",
           "startDate": "2022/01/07 05:45 JST",
-          "endDate": null,
+          "endDate": "2022/01/07 12:58 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudメール"
