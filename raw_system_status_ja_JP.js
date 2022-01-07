@@ -70,16 +70,16 @@
       "events": [
         {
           "epochStartDate": 1641550500000,
-          "epochEndDate": null,
+          "epochEndDate": 1641560640000,
           "messageId": "1000000923",
           "statusType": "Outage",
-          "datePosted": "2022/01/07 21:36 JST",
+          "datePosted": "2022/01/08 02:18 JST",
           "startDate": "2022/01/07 19:15 JST",
-          "endDate": null,
+          "endDate": "2022/01/07 22:04 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
+          "eventStatus": "resolved",
           "usersAffected": null,
-          "message": "JR東日本カード保有者は、Apple Payの一部の機能を使用できない場合があります。"
+          "message": "JR東日本カード保有者は、Apple Payの一部の機能を使用できませんでした。"
         }
       ],
       "serviceName": "Apple Pay & Wallet"
@@ -232,7 +232,7 @@
           "epochEndDate": 1641527880000,
           "messageId": "2000001119",
           "statusType": "Issue",
-          "datePosted": "2022/01/07 21:36 JST",
+          "datePosted": "2022/01/08 02:18 JST",
           "startDate": "2022/01/07 05:45 JST",
           "endDate": "2022/01/07 12:58 JST",
           "affectedServices": null,
