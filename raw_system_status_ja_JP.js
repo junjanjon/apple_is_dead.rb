@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "redirectUrl": null,
@@ -69,16 +69,16 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": null,
           "epochStartDate": 1641550500000,
           "epochEndDate": 1641560640000,
           "messageId": "1000000923",
           "statusType": "Outage",
-          "datePosted": "2022/01/08 22:00 JST",
+          "datePosted": "2022/01/09 18:00 JST",
           "startDate": "2022/01/07 19:15 JST",
           "endDate": "2022/01/07 22:04 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
+          "usersAffected": null,
           "message": "JR東日本カード保有者は、Apple Payの一部の機能を使用できませんでした。"
         }
       ],
@@ -227,19 +227,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1641501900000,
-          "epochEndDate": 1641527880000,
-          "messageId": "2000001119",
-          "statusType": "Issue",
-          "datePosted": "2022/01/08 22:00 JST",
-          "startDate": "2022/01/07 05:45 JST",
-          "endDate": "2022/01/07 12:58 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
