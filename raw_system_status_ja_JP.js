@@ -152,7 +152,25 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1641812040000,
+          "epochEndDate": null,
+          "messageId": "2000001139",
+          "statusType": "Issue",
+          "datePosted": "2022/01/11 03:28 JST",
+          "startDate": "2022/01/10 19:54 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloud Drive"
     },
@@ -186,12 +204,15 @@
           "epochEndDate": null,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 02:10 JST",
+          "datePosted": "2022/01/11 03:28 JST",
           "startDate": "2022/01/10 19:54 JST",
           "endDate": null,
           "affectedServices": [
+            "iCloud Drive",
             "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ"
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "写真"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
@@ -209,7 +230,25 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1641812040000,
+          "epochEndDate": null,
+          "messageId": "2000001139",
+          "statusType": "Issue",
+          "datePosted": "2022/01/11 03:28 JST",
+          "startDate": "2022/01/10 19:54 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudバックアップ"
     },
@@ -222,12 +261,15 @@
           "epochEndDate": null,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 02:10 JST",
+          "datePosted": "2022/01/11 03:28 JST",
           "startDate": "2022/01/10 19:54 JST",
           "endDate": null,
           "affectedServices": [
+            "iCloud Drive",
             "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ"
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "写真"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
@@ -448,7 +490,25 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1641812040000,
+          "epochEndDate": null,
+          "messageId": "2000001139",
+          "statusType": "Issue",
+          "datePosted": "2022/01/11 03:28 JST",
+          "startDate": "2022/01/10 19:54 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "写真"
     },
