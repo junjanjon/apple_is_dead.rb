@@ -181,12 +181,12 @@
       "redirectUrl": null,
       "events": [
         {
-          "epochStartDate": 1641830220000,
+          "epochStartDate": 1641812040000,
           "epochEndDate": null,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 00:59 JST",
-          "startDate": "2022/01/11 00:57 JST",
+          "datePosted": "2022/01/11 01:11 JST",
+          "startDate": "2022/01/10 19:54 JST",
           "endDate": null,
           "affectedServices": null,
           "eventStatus": "ongoing",
