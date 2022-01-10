@@ -1,6 +1,6 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
@@ -181,16 +181,19 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響します",
           "epochStartDate": 1641812040000,
           "epochEndDate": null,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 01:11 JST",
+          "datePosted": "2022/01/11 02:10 JST",
           "startDate": "2022/01/10 19:54 JST",
           "endDate": null,
-          "affectedServices": null,
+          "affectedServices": [
+            "iCloudキーチェーン",
+            "iCloudブックマークおよびタブ"
+          ],
           "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
           "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
         }
       ],
@@ -213,7 +216,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1641812040000,
+          "epochEndDate": null,
+          "messageId": "2000001139",
+          "statusType": "Issue",
+          "datePosted": "2022/01/11 02:10 JST",
+          "startDate": "2022/01/10 19:54 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudキーチェーン",
+            "iCloudブックマークおよびタブ"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudブックマークおよびタブ"
     },
