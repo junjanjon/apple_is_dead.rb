@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "redirectUrl": null,
@@ -153,12 +153,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1641812040000,
           "epochEndDate": 1641860580000,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 09:30 JST",
+          "datePosted": "2022/01/11 18:00 JST",
           "startDate": "2022/01/10 19:54 JST",
           "endDate": "2022/01/11 09:23 JST",
           "affectedServices": [
@@ -169,6 +168,7 @@
             "写真"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
@@ -199,12 +199,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1641812040000,
           "epochEndDate": 1641860580000,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 09:30 JST",
+          "datePosted": "2022/01/11 18:00 JST",
           "startDate": "2022/01/10 19:54 JST",
           "endDate": "2022/01/11 09:23 JST",
           "affectedServices": [
@@ -215,6 +214,7 @@
             "写真"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
@@ -231,12 +231,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1641812040000,
           "epochEndDate": 1641860580000,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 09:30 JST",
+          "datePosted": "2022/01/11 18:00 JST",
           "startDate": "2022/01/10 19:54 JST",
           "endDate": "2022/01/11 09:23 JST",
           "affectedServices": [
@@ -247,6 +246,7 @@
             "写真"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
@@ -256,12 +256,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1641812040000,
           "epochEndDate": 1641860580000,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 09:30 JST",
+          "datePosted": "2022/01/11 18:00 JST",
           "startDate": "2022/01/10 19:54 JST",
           "endDate": "2022/01/11 09:23 JST",
           "affectedServices": [
@@ -272,6 +271,7 @@
             "写真"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
@@ -491,12 +491,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1641812040000,
           "epochEndDate": 1641860580000,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 09:30 JST",
+          "datePosted": "2022/01/11 18:00 JST",
           "startDate": "2022/01/10 19:54 JST",
           "endDate": "2022/01/11 09:23 JST",
           "affectedServices": [
@@ -507,6 +506,7 @@
             "写真"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
