@@ -154,12 +154,12 @@
       "events": [
         {
           "epochStartDate": 1641906180000,
-          "epochEndDate": null,
+          "epochEndDate": 1641916140000,
           "messageId": "1000000943",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/11 22:03 JST",
-          "endDate": null,
+          "endDate": "2022/01/12 00:49 JST",
           "affectedServices": [
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -176,16 +176,16 @@
             "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         },
         {
           "epochStartDate": 1641812040000,
           "epochEndDate": 1641860580000,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/10 19:54 JST",
           "endDate": "2022/01/11 09:23 JST",
           "affectedServices": [
@@ -207,12 +207,12 @@
       "events": [
         {
           "epochStartDate": 1641906180000,
-          "epochEndDate": null,
+          "epochEndDate": 1641916140000,
           "messageId": "1000000943",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/11 22:03 JST",
-          "endDate": null,
+          "endDate": "2022/01/12 00:49 JST",
           "affectedServices": [
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -229,9 +229,9 @@
             "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)"
@@ -248,12 +248,12 @@
       "events": [
         {
           "epochStartDate": 1641906180000,
-          "epochEndDate": null,
+          "epochEndDate": 1641916140000,
           "messageId": "1000000943",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/11 22:03 JST",
-          "endDate": null,
+          "endDate": "2022/01/12 00:49 JST",
           "affectedServices": [
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -270,9 +270,9 @@
             "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudカレンダー"
@@ -282,12 +282,12 @@
       "events": [
         {
           "epochStartDate": 1641906180000,
-          "epochEndDate": null,
+          "epochEndDate": 1641916140000,
           "messageId": "1000000943",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/11 22:03 JST",
-          "endDate": null,
+          "endDate": "2022/01/12 00:49 JST",
           "affectedServices": [
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -304,16 +304,16 @@
             "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         },
         {
           "epochStartDate": 1641812040000,
           "epochEndDate": 1641860580000,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/10 19:54 JST",
           "endDate": "2022/01/11 09:23 JST",
           "affectedServices": [
@@ -342,12 +342,12 @@
       "events": [
         {
           "epochStartDate": 1641906180000,
-          "epochEndDate": null,
+          "epochEndDate": 1641916140000,
           "messageId": "1000000943",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/11 22:03 JST",
-          "endDate": null,
+          "endDate": "2022/01/12 00:49 JST",
           "affectedServices": [
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -364,16 +364,16 @@
             "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスにアクセスできない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスにアクセスできなかった可能性があります。"
         },
         {
           "epochStartDate": 1641812040000,
           "epochEndDate": 1641860580000,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/10 19:54 JST",
           "endDate": "2022/01/11 09:23 JST",
           "affectedServices": [
@@ -395,12 +395,12 @@
       "events": [
         {
           "epochStartDate": 1641906180000,
-          "epochEndDate": null,
+          "epochEndDate": 1641916140000,
           "messageId": "1000000943",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/11 22:03 JST",
-          "endDate": null,
+          "endDate": "2022/01/12 00:49 JST",
           "affectedServices": [
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -417,16 +417,16 @@
             "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスを利用できなかった可能性があります。"
         },
         {
           "epochStartDate": 1641812040000,
           "epochEndDate": 1641860580000,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/10 19:54 JST",
           "endDate": "2022/01/11 09:23 JST",
           "affectedServices": [
@@ -455,12 +455,12 @@
       "events": [
         {
           "epochStartDate": 1641906180000,
-          "epochEndDate": null,
+          "epochEndDate": 1641916140000,
           "messageId": "1000000943",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/11 22:03 JST",
-          "endDate": null,
+          "endDate": "2022/01/12 00:49 JST",
           "affectedServices": [
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -477,9 +477,9 @@
             "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudメール"
@@ -489,12 +489,12 @@
       "events": [
         {
           "epochStartDate": 1641906180000,
-          "epochEndDate": null,
+          "epochEndDate": 1641916140000,
           "messageId": "1000000943",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/11 22:03 JST",
-          "endDate": null,
+          "endDate": "2022/01/12 00:49 JST",
           "affectedServices": [
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -511,9 +511,9 @@
             "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudメモ"
@@ -523,12 +523,12 @@
       "events": [
         {
           "epochStartDate": 1641906180000,
-          "epochEndDate": null,
+          "epochEndDate": 1641916140000,
           "messageId": "1000000943",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/11 22:03 JST",
-          "endDate": null,
+          "endDate": "2022/01/12 00:49 JST",
           "affectedServices": [
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -545,9 +545,9 @@
             "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudリマインダー"
@@ -557,12 +557,12 @@
       "events": [
         {
           "epochStartDate": 1641906180000,
-          "epochEndDate": null,
+          "epochEndDate": 1641916140000,
           "messageId": "1000000943",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/11 22:03 JST",
-          "endDate": null,
+          "endDate": "2022/01/12 00:49 JST",
           "affectedServices": [
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -579,9 +579,9 @@
             "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloud連絡先"
@@ -689,12 +689,12 @@
       "events": [
         {
           "epochStartDate": 1641906180000,
-          "epochEndDate": null,
+          "epochEndDate": 1641916140000,
           "messageId": "1000000943",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/11 22:03 JST",
-          "endDate": null,
+          "endDate": "2022/01/12 00:49 JST",
           "affectedServices": [
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -711,9 +711,9 @@
             "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
       "serviceName": "スクリーンタイム"
@@ -786,12 +786,12 @@
       "events": [
         {
           "epochStartDate": 1641906180000,
-          "epochEndDate": null,
+          "epochEndDate": 1641916140000,
           "messageId": "1000000943",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/11 22:03 JST",
-          "endDate": null,
+          "endDate": "2022/01/12 00:49 JST",
           "affectedServices": [
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -808,9 +808,9 @@
             "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "探す"
@@ -820,12 +820,12 @@
       "events": [
         {
           "epochStartDate": 1641906180000,
-          "epochEndDate": null,
+          "epochEndDate": 1641916140000,
           "messageId": "1000000943",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/11 22:03 JST",
-          "endDate": null,
+          "endDate": "2022/01/12 00:49 JST",
           "affectedServices": [
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -842,16 +842,16 @@
             "探す",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         },
         {
           "epochStartDate": 1641812040000,
           "epochEndDate": 1641860580000,
           "messageId": "2000001139",
           "statusType": "Issue",
-          "datePosted": "2022/01/11 23:55 JST",
+          "datePosted": "2022/01/12 00:54 JST",
           "startDate": "2022/01/10 19:54 JST",
           "endDate": "2022/01/11 09:23 JST",
           "affectedServices": [
