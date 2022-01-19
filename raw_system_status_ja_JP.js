@@ -172,7 +172,7 @@
           "epochEndDate": null,
           "messageId": "2000001159",
           "statusType": "Issue",
-          "datePosted": "2022/01/19 10:51 JST",
+          "datePosted": "2022/01/19 14:22 JST",
           "startDate": "2022/01/19 08:19 JST",
           "endDate": null,
           "affectedServices": [
@@ -209,7 +209,7 @@
           "epochEndDate": null,
           "messageId": "2000001159",
           "statusType": "Issue",
-          "datePosted": "2022/01/19 10:51 JST",
+          "datePosted": "2022/01/19 14:22 JST",
           "startDate": "2022/01/19 08:19 JST",
           "endDate": null,
           "affectedServices": [
@@ -248,12 +248,12 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1642547940000,
-          "epochEndDate": null,
+          "epochEndDate": 1642565520000,
           "messageId": "2000001159",
           "statusType": "Issue",
-          "datePosted": "2022/01/19 10:51 JST",
+          "datePosted": "2022/01/19 14:22 JST",
           "startDate": "2022/01/19 08:19 JST",
           "endDate": null,
           "affectedServices": [
@@ -261,8 +261,8 @@
             "iCloudストレージアップグレード",
             "iCloudメール"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスを利用できません。"
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できませんでした。"
         }
       ],
       "serviceName": "iCloudメール"
