@@ -166,7 +166,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1642547940000,
+          "epochEndDate": null,
+          "messageId": "2000001159",
+          "statusType": "Issue",
+          "datePosted": "2022/01/19 10:51 JST",
+          "startDate": "2022/01/19 08:19 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudストレージアップグレード",
+            "iCloudメール"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
     },
@@ -193,10 +209,11 @@
           "epochEndDate": null,
           "messageId": "2000001159",
           "statusType": "Issue",
-          "datePosted": "2022/01/19 09:51 JST",
+          "datePosted": "2022/01/19 10:51 JST",
           "startDate": "2022/01/19 08:19 JST",
           "endDate": null,
           "affectedServices": [
+            "iCloudアカウントおよびサインイン",
             "iCloudストレージアップグレード",
             "iCloudメール"
           ],
@@ -236,10 +253,11 @@
           "epochEndDate": null,
           "messageId": "2000001159",
           "statusType": "Issue",
-          "datePosted": "2022/01/19 09:51 JST",
+          "datePosted": "2022/01/19 10:51 JST",
           "startDate": "2022/01/19 08:19 JST",
           "endDate": null,
           "affectedServices": [
+            "iCloudアカウントおよびサインイン",
             "iCloudストレージアップグレード",
             "iCloudメール"
           ],
