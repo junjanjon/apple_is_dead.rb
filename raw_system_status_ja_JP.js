@@ -167,21 +167,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
           "epochStartDate": 1642547940000,
-          "epochEndDate": null,
+          "epochEndDate": 1642564200000,
           "messageId": "2000001159",
           "statusType": "Issue",
-          "datePosted": "2022/01/19 14:22 JST",
+          "datePosted": "2022/01/19 14:43 JST",
           "startDate": "2022/01/19 08:19 JST",
-          "endDate": null,
+          "endDate": "2022/01/19 13:12 JST",
           "affectedServices": [
             "iCloudアカウントおよびサインイン",
             "iCloudストレージアップグレード",
             "iCloudメール"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
@@ -204,21 +204,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
           "epochStartDate": 1642547940000,
-          "epochEndDate": null,
+          "epochEndDate": 1642564200000,
           "messageId": "2000001159",
           "statusType": "Issue",
-          "datePosted": "2022/01/19 14:22 JST",
+          "datePosted": "2022/01/19 14:43 JST",
           "startDate": "2022/01/19 08:19 JST",
-          "endDate": null,
+          "endDate": "2022/01/19 13:12 JST",
           "affectedServices": [
             "iCloudアカウントおよびサインイン",
             "iCloudストレージアップグレード",
             "iCloudメール"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "serviceName": "iCloudストレージアップグレード"
@@ -248,20 +248,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1642547940000,
           "epochEndDate": 1642565520000,
           "messageId": "2000001159",
           "statusType": "Issue",
-          "datePosted": "2022/01/19 14:22 JST",
+          "datePosted": "2022/01/19 14:43 JST",
           "startDate": "2022/01/19 08:19 JST",
-          "endDate": null,
+          "endDate": "2022/01/19 13:12 JST",
           "affectedServices": [
             "iCloudアカウントおよびサインイン",
             "iCloudストレージアップグレード",
             "iCloudメール"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "message": "このサービスを利用できませんでした。"
         }
       ],
