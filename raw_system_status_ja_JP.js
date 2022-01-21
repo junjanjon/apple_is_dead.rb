@@ -166,23 +166,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "epochStartDate": 1642547940000,
-          "epochEndDate": 1642564200000,
-          "messageId": "2000001159",
-          "statusType": "Issue",
-          "datePosted": "2022/01/19 18:00 JST",
-          "startDate": "2022/01/19 08:19 JST",
-          "endDate": "2022/01/19 13:12 JST",
-          "affectedServices": [
-            "iCloudアカウントおよびサインイン",
-            "iCloudストレージアップグレード",
-            "iCloudメール"
-          ],
-          "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "message": "このサービスに関する問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
     },
@@ -203,23 +187,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "epochStartDate": 1642547940000,
-          "epochEndDate": 1642564200000,
-          "messageId": "2000001159",
-          "statusType": "Issue",
-          "datePosted": "2022/01/19 18:00 JST",
-          "startDate": "2022/01/19 08:19 JST",
-          "endDate": "2022/01/19 13:12 JST",
-          "affectedServices": [
-            "iCloudアカウントおよびサインイン",
-            "iCloudストレージアップグレード",
-            "iCloudメール"
-          ],
-          "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ],
       "serviceName": "iCloudストレージアップグレード"
     },
@@ -247,23 +215,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "epochStartDate": 1642547940000,
-          "epochEndDate": 1642565520000,
-          "messageId": "2000001159",
-          "statusType": "Issue",
-          "datePosted": "2022/01/19 18:00 JST",
-          "startDate": "2022/01/19 08:19 JST",
-          "endDate": "2022/01/19 13:12 JST",
-          "affectedServices": [
-            "iCloudアカウントおよびサインイン",
-            "iCloudストレージアップグレード",
-            "iCloudメール"
-          ],
-          "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "message": "このサービスを利用できませんでした。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
