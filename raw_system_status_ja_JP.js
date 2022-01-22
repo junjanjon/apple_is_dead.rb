@@ -74,7 +74,7 @@
           "epochEndDate": 1642835700000,
           "messageId": "2000001161",
           "statusType": "Maintenance",
-          "datePosted": "2022/01/22 10:13 JST",
+          "datePosted": "2022/01/22 10:44 JST",
           "startDate": "2022/01/22 16:00 JST",
           "endDate": "2022/01/22 16:15 JST",
           "affectedServices": [
@@ -83,7 +83,7 @@
             "Apple Pay &ウォレット"
           ],
           "eventStatus": "upcoming",
-          "message": "一部のユーザが、サービスをご利用になれない可能性があります。"
+          "message": "Some users may experience issues with this service"
         }
       ],
       "serviceName": "Apple Pay &ウォレット"
