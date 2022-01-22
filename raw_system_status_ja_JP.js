@@ -74,7 +74,7 @@
           "epochEndDate": 1642835700000,
           "messageId": "2000001161",
           "statusType": "Maintenance",
-          "datePosted": "2022/01/22 10:01 JST",
+          "datePosted": "2022/01/22 10:13 JST",
           "startDate": "2022/01/22 16:00 JST",
           "endDate": "2022/01/22 16:15 JST",
           "affectedServices": [
