@@ -69,11 +69,12 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1642834800000,
           "epochEndDate": 1642835700000,
           "messageId": "2000001161",
           "statusType": "Maintenance",
-          "datePosted": "2022/01/22 16:00 JST",
+          "datePosted": "2022/01/22 16:15 JST",
           "startDate": "2022/01/22 16:00 JST",
           "endDate": "2022/01/22 16:15 JST",
           "affectedServices": [
@@ -81,9 +82,8 @@
             "Apple Cash",
             "Apple Pay &ウォレット"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "Some users may experience issues with this service."
+          "eventStatus": "completed",
+          "message": "Some users had experience issues with this service."
         }
       ],
       "serviceName": "Apple Pay &ウォレット"
