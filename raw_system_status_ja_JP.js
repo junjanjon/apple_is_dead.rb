@@ -73,7 +73,7 @@
           "epochEndDate": 1642843800000,
           "messageId": "1000000965",
           "statusType": "Maintenance",
-          "datePosted": "2022/01/24 08:33 JST",
+          "datePosted": "2022/01/24 08:48 JST",
           "startDate": "2022/01/22 18:00 JST",
           "endDate": "2022/01/22 18:30 JST",
           "affectedServices": [
@@ -90,7 +90,7 @@
           "epochEndDate": 1642835700000,
           "messageId": "2000001161",
           "statusType": "Maintenance",
-          "datePosted": "2022/01/24 08:33 JST",
+          "datePosted": "2022/01/24 08:48 JST",
           "startDate": "2022/01/22 16:00 JST",
           "endDate": "2022/01/22 16:15 JST",
           "affectedServices": [
