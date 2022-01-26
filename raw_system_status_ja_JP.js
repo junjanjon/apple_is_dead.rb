@@ -125,12 +125,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1643152500000,
           "epochEndDate": 1643171820000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 18:00 JST",
+          "datePosted": "2022/01/26 19:34 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": "2022/01/26 13:37 JST",
           "affectedServices": [
@@ -142,6 +141,7 @@
             "写真"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "message": "このサービスを利用できませんでした。"
         }
       ],
@@ -179,12 +179,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1643152500000,
           "epochEndDate": 1643169180000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 18:00 JST",
+          "datePosted": "2022/01/26 19:34 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": "2022/01/26 13:37 JST",
           "affectedServices": [
@@ -196,6 +195,7 @@
             "写真"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "message": "ユーザがサインインできなかった可能性があります。"
         }
       ],
@@ -226,12 +226,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1643152500000,
           "epochEndDate": 1643170380000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 18:00 JST",
+          "datePosted": "2022/01/26 19:34 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": "2022/01/26 13:37 JST",
           "affectedServices": [
@@ -243,6 +242,7 @@
             "写真"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "message": "このサービスを利用できませんでした。"
         }
       ],
@@ -252,12 +252,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1643152500000,
           "epochEndDate": 1643169180000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 18:00 JST",
+          "datePosted": "2022/01/26 19:34 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": "2022/01/26 13:37 JST",
           "affectedServices": [
@@ -269,6 +268,7 @@
             "写真"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "message": "ユーザがデータをバックアップできなかった可能性があります。"
         }
       ],
@@ -292,12 +292,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1643152500000,
           "epochEndDate": 1643156880000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 18:00 JST",
+          "datePosted": "2022/01/26 19:34 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": "2022/01/26 13:37 JST",
           "affectedServices": [
@@ -309,6 +308,7 @@
             "写真"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "message": "ユーザはiCloudメールにアクセスできなかった可能性があります。"
         }
       ],
@@ -514,12 +514,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1643152500000,
           "epochEndDate": 1643169180000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 18:00 JST",
+          "datePosted": "2022/01/26 19:34 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": "2022/01/26 13:37 JST",
           "affectedServices": [
@@ -531,6 +530,7 @@
             "写真"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
