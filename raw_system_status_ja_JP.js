@@ -126,12 +126,12 @@
       "events": [
         {
           "epochStartDate": 1643152500000,
-          "epochEndDate": null,
+          "epochEndDate": 1643171820000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 13:17 JST",
+          "datePosted": "2022/01/26 13:45 JST",
           "startDate": "2022/01/26 08:15 JST",
-          "endDate": null,
+          "endDate": "2022/01/26 13:37 JST",
           "affectedServices": [
             "Game Center",
             "iCloud Web Apps (iCloud.com)",
@@ -140,9 +140,9 @@
             "iCloudメール",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスを利用できません。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスを利用できませんでした。"
         }
       ],
       "serviceName": "Game Center"
@@ -183,9 +183,9 @@
           "epochEndDate": 1643169180000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 13:17 JST",
+          "datePosted": "2022/01/26 13:45 JST",
           "startDate": "2022/01/26 08:15 JST",
-          "endDate": null,
+          "endDate": "2022/01/26 13:37 JST",
           "affectedServices": [
             "Game Center",
             "iCloud Web Apps (iCloud.com)",
@@ -230,9 +230,9 @@
           "epochEndDate": 1643170380000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 13:17 JST",
+          "datePosted": "2022/01/26 13:45 JST",
           "startDate": "2022/01/26 08:15 JST",
-          "endDate": null,
+          "endDate": "2022/01/26 13:37 JST",
           "affectedServices": [
             "Game Center",
             "iCloud Web Apps (iCloud.com)",
@@ -256,9 +256,9 @@
           "epochEndDate": 1643169180000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 13:17 JST",
+          "datePosted": "2022/01/26 13:45 JST",
           "startDate": "2022/01/26 08:15 JST",
-          "endDate": null,
+          "endDate": "2022/01/26 13:37 JST",
           "affectedServices": [
             "Game Center",
             "iCloud Web Apps (iCloud.com)",
@@ -296,9 +296,9 @@
           "epochEndDate": 1643156880000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 13:17 JST",
+          "datePosted": "2022/01/26 13:45 JST",
           "startDate": "2022/01/26 08:15 JST",
-          "endDate": null,
+          "endDate": "2022/01/26 13:37 JST",
           "affectedServices": [
             "Game Center",
             "iCloud Web Apps (iCloud.com)",
@@ -518,9 +518,9 @@
           "epochEndDate": 1643169180000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 13:17 JST",
+          "datePosted": "2022/01/26 13:45 JST",
           "startDate": "2022/01/26 08:15 JST",
-          "endDate": null,
+          "endDate": "2022/01/26 13:37 JST",
           "affectedServices": [
             "Game Center",
             "iCloud Web Apps (iCloud.com)",
