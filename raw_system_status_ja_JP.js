@@ -125,12 +125,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
           "epochStartDate": 1643152500000,
           "epochEndDate": null,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 12:24 JST",
+          "datePosted": "2022/01/26 13:11 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
@@ -139,10 +138,10 @@
             "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudメール",
-            "iMessage",
             "写真"
           ],
           "eventStatus": "ongoing",
+          "usersAffected": "一部のユーザに影響します",
           "message": "このサービスを利用できません。"
         }
       ],
@@ -180,12 +179,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
           "epochStartDate": 1643152500000,
-          "epochEndDate": null,
+          "epochEndDate": 1643169180000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 12:24 JST",
+          "datePosted": "2022/01/26 13:11 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
@@ -194,11 +192,11 @@
             "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudメール",
-            "iMessage",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "message": "ユーザがサインインできない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "ユーザがサインインできなかった可能性があります。"
         }
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)"
@@ -228,12 +226,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
           "epochStartDate": 1643152500000,
           "epochEndDate": null,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 12:24 JST",
+          "datePosted": "2022/01/26 13:11 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
@@ -242,10 +239,10 @@
             "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudメール",
-            "iMessage",
             "写真"
           ],
           "eventStatus": "ongoing",
+          "usersAffected": "一部のユーザに影響します",
           "message": "このサービスを利用できません。"
         }
       ],
@@ -255,12 +252,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
           "epochStartDate": 1643152500000,
-          "epochEndDate": null,
+          "epochEndDate": 1643169180000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 12:24 JST",
+          "datePosted": "2022/01/26 13:11 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
@@ -269,11 +265,11 @@
             "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudメール",
-            "iMessage",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "message": "ユーザがデータをバックアップできない可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "ユーザがデータをバックアップできなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudバックアップ"
@@ -296,12 +292,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1643152500000,
           "epochEndDate": 1643156880000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 12:24 JST",
+          "datePosted": "2022/01/26 13:11 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
@@ -310,10 +305,10 @@
             "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudメール",
-            "iMessage",
             "写真"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "message": "ユーザはiCloudメールにアクセスできなかった可能性があります。"
         }
       ],
@@ -343,27 +338,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1643152500000,
-          "epochEndDate": null,
-          "messageId": "2000001166",
-          "statusType": "Issue",
-          "datePosted": "2022/01/26 12:24 JST",
-          "startDate": "2022/01/26 08:15 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudストレージアップグレード",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iMessage",
-            "写真"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスを利用できません。"
-        }
+
       ],
       "serviceName": "iMessage"
     },
@@ -539,12 +514,11 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
           "epochStartDate": 1643152500000,
-          "epochEndDate": null,
+          "epochEndDate": 1643169180000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 12:24 JST",
+          "datePosted": "2022/01/26 13:11 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
@@ -553,11 +527,11 @@
             "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudメール",
-            "iMessage",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
       "serviceName": "写真"
