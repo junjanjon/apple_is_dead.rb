@@ -129,7 +129,7 @@
           "epochEndDate": null,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 13:11 JST",
+          "datePosted": "2022/01/26 13:17 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
@@ -183,7 +183,7 @@
           "epochEndDate": 1643169180000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 13:11 JST",
+          "datePosted": "2022/01/26 13:17 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
@@ -227,10 +227,10 @@
       "events": [
         {
           "epochStartDate": 1643152500000,
-          "epochEndDate": null,
+          "epochEndDate": 1643170380000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 13:11 JST",
+          "datePosted": "2022/01/26 13:17 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
@@ -241,9 +241,9 @@
             "iCloudメール",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "message": "このサービスを利用できません。"
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "このサービスを利用できませんでした。"
         }
       ],
       "serviceName": "iCloudストレージアップグレード"
@@ -256,7 +256,7 @@
           "epochEndDate": 1643169180000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 13:11 JST",
+          "datePosted": "2022/01/26 13:17 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
@@ -296,7 +296,7 @@
           "epochEndDate": 1643156880000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 13:11 JST",
+          "datePosted": "2022/01/26 13:17 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
@@ -518,7 +518,7 @@
           "epochEndDate": 1643169180000,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 13:11 JST",
+          "datePosted": "2022/01/26 13:17 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
