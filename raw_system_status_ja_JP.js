@@ -124,7 +124,27 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1643152500000,
+          "epochEndDate": null,
+          "messageId": "2000001166",
+          "statusType": "Issue",
+          "datePosted": "2022/01/26 11:10 JST",
+          "startDate": "2022/01/26 08:15 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudメール",
+            "iMessage",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できません。"
+        }
       ],
       "serviceName": "Game Center"
     },
@@ -159,7 +179,27 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1643152500000,
+          "epochEndDate": null,
+          "messageId": "2000001166",
+          "statusType": "Issue",
+          "datePosted": "2022/01/26 11:10 JST",
+          "startDate": "2022/01/26 08:15 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudメール",
+            "iMessage",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "ユーザがサインインできない可能性があります。"
+        }
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)"
     },
@@ -187,7 +227,27 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1643152500000,
+          "epochEndDate": null,
+          "messageId": "2000001166",
+          "statusType": "Issue",
+          "datePosted": "2022/01/26 11:10 JST",
+          "startDate": "2022/01/26 08:15 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudメール",
+            "iMessage",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できません。"
+        }
       ],
       "serviceName": "iCloudストレージアップグレード"
     },
@@ -200,12 +260,16 @@
           "epochEndDate": null,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 10:16 JST",
+          "datePosted": "2022/01/26 11:10 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
+            "Game Center",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudメール",
+            "iMessage",
             "写真"
           ],
           "eventStatus": "ongoing",
@@ -237,12 +301,16 @@
           "epochEndDate": null,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 10:16 JST",
+          "datePosted": "2022/01/26 11:10 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
+            "Game Center",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudメール",
+            "iMessage",
             "写真"
           ],
           "eventStatus": "ongoing",
@@ -275,7 +343,27 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1643152500000,
+          "epochEndDate": null,
+          "messageId": "2000001166",
+          "statusType": "Issue",
+          "datePosted": "2022/01/26 11:10 JST",
+          "startDate": "2022/01/26 08:15 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudメール",
+            "iMessage",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できません。"
+        }
       ],
       "serviceName": "iMessage"
     },
@@ -456,12 +544,16 @@
           "epochEndDate": null,
           "messageId": "2000001166",
           "statusType": "Issue",
-          "datePosted": "2022/01/26 10:16 JST",
+          "datePosted": "2022/01/26 11:10 JST",
           "startDate": "2022/01/26 08:15 JST",
           "endDate": null,
           "affectedServices": [
+            "Game Center",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudストレージアップグレード",
             "iCloudバックアップ",
             "iCloudメール",
+            "iMessage",
             "写真"
           ],
           "eventStatus": "ongoing",
