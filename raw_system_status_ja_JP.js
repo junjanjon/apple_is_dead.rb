@@ -70,7 +70,7 @@
       "events": [
 
       ],
-      "serviceName": "Apple Pay &ウォレット"
+      "serviceName": "Apple Pay & ウォレット"
     },
     {
       "redirectUrl": null,
