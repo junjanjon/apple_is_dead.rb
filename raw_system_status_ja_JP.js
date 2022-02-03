@@ -80,7 +80,7 @@
           "epochEndDate": 1643874180000,
           "messageId": "1000000983",
           "statusType": "Issue",
-          "datePosted": "2022/02/04 04:52 JST",
+          "datePosted": "2022/02/04 07:26 JST",
           "startDate": "2022/02/03 12:00 JST",
           "endDate": "2022/02/03 16:43 JST",
           "affectedServices": [
@@ -167,7 +167,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "epochStartDate": 1643850000000,
+          "epochEndDate": 1643926740000,
+          "messageId": "2000001182",
+          "statusType": "Issue",
+          "datePosted": "2022/02/04 07:26 JST",
+          "startDate": "2022/02/03 10:00 JST",
+          "endDate": "2022/02/04 07:19 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "message": "ユーザが iOS デバイスまたは Windows パソコン上で「書類とデータ」または iCloud Drive を有効にできませんでした。"
+        }
       ],
       "serviceName": "iCloud Drive"
     },
