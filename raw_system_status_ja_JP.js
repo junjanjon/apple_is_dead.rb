@@ -105,17 +105,17 @@
       "serviceName": "Device Enrollment Program",
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
-          "epochStartDate": 1644296400000,
-          "epochEndDate": 1644300000000,
+          "usersAffected": "すべてのユーザに影響しました",
+          "epochStartDate": 1644296880000,
+          "epochEndDate": 1644297600000,
           "messageId": "2000001199",
           "statusType": "Maintenance",
-          "datePosted": "2022/02/08 14:00 JST",
-          "startDate": "2022/02/08 14:00 JST",
-          "endDate": "2022/02/08 15:00 JST",
+          "datePosted": "2022/02/08 14:29 JST",
+          "startDate": "2022/02/08 14:08 JST",
+          "endDate": "2022/02/08 14:20 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "システムメンテナンス中は、一時的にDevice Enrollment Programをご利用いただけません。"
+          "eventStatus": "completed",
+          "message": "システムメンテナンス中、一時的にDevice Enrollment Programをご利用いただけませんでした。"
         }
       ]
     },
