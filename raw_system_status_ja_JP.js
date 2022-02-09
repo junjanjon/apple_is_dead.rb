@@ -1,6 +1,6 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
@@ -109,7 +109,7 @@
           "epochEndDate": 1644297600000,
           "messageId": "2000001199",
           "statusType": "Maintenance",
-          "datePosted": "2022/02/10 05:59 JST",
+          "datePosted": "2022/02/10 06:23 JST",
           "startDate": "2022/02/08 14:08 JST",
           "endDate": "2022/02/08 14:20 JST",
           "affectedServices": null,
