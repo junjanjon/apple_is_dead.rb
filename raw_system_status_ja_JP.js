@@ -81,9 +81,9 @@
           "epochEndDate": 1645523100000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:21 JST",
+          "datePosted": "2022/02/22 19:30 JST",
           "startDate": "2022/02/22 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/02/22 19:02 JST",
           "affectedServices": [
             "Apple School Manager",
             "Game Center",
@@ -158,9 +158,9 @@
           "epochEndDate": 1645524000000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:21 JST",
+          "datePosted": "2022/02/22 19:30 JST",
           "startDate": "2022/02/22 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/02/22 19:02 JST",
           "affectedServices": [
             "Apple School Manager",
             "Game Center",
@@ -209,14 +209,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1645512600000,
-          "epochEndDate": null,
+          "epochEndDate": 1645524000000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:21 JST",
+          "datePosted": "2022/02/22 19:30 JST",
           "startDate": "2022/02/22 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/02/22 19:02 JST",
           "affectedServices": [
             "Apple School Manager",
             "Game Center",
@@ -234,7 +234,7 @@
             null,
             null
           ],
-          "eventStatus": "ongoing",
+          "eventStatus": "resolved",
           "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
         }
       ],
@@ -251,14 +251,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1645512600000,
-          "epochEndDate": null,
+          "epochEndDate": 1645524000000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:21 JST",
+          "datePosted": "2022/02/22 19:30 JST",
           "startDate": "2022/02/22 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/02/22 19:02 JST",
           "affectedServices": [
             "Apple School Manager",
             "Game Center",
@@ -276,8 +276,8 @@
             null,
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "iCloudアカウントを作成するための新しいApple IDを一時的に取得できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "iCloudアカウントを作成するための新しいApple IDを一時的に取得できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
@@ -293,14 +293,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1645512600000,
-          "epochEndDate": null,
+          "epochEndDate": 1645524000000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:21 JST",
+          "datePosted": "2022/02/22 19:30 JST",
           "startDate": "2022/02/22 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/02/22 19:02 JST",
           "affectedServices": [
             "Apple School Manager",
             "Game Center",
@@ -318,7 +318,7 @@
             null,
             null
           ],
-          "eventStatus": "ongoing",
+          "eventStatus": "resolved",
           "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
         }
       ],
@@ -335,14 +335,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1645512600000,
-          "epochEndDate": null,
+          "epochEndDate": 1645524000000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:21 JST",
+          "datePosted": "2022/02/22 19:30 JST",
           "startDate": "2022/02/22 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/02/22 19:02 JST",
           "affectedServices": [
             "Apple School Manager",
             "Game Center",
@@ -360,8 +360,8 @@
             null,
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "ユーザがデータをバックアップできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "ユーザがデータをバックアップできなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudバックアップ"
@@ -370,14 +370,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1645512600000,
-          "epochEndDate": null,
+          "epochEndDate": 1645524000000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:21 JST",
+          "datePosted": "2022/02/22 19:30 JST",
           "startDate": "2022/02/22 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/02/22 19:02 JST",
           "affectedServices": [
             "Apple School Manager",
             "Game Center",
@@ -395,7 +395,7 @@
             null,
             null
           ],
-          "eventStatus": "ongoing",
+          "eventStatus": "resolved",
           "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
         }
       ],
@@ -419,14 +419,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1645512600000,
-          "epochEndDate": null,
+          "epochEndDate": 1645524000000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:21 JST",
+          "datePosted": "2022/02/22 19:30 JST",
           "startDate": "2022/02/22 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/02/22 19:02 JST",
           "affectedServices": [
             "Apple School Manager",
             "Game Center",
@@ -444,7 +444,7 @@
             null,
             null
           ],
-          "eventStatus": "ongoing",
+          "eventStatus": "resolved",
           "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
         }
       ],
@@ -454,14 +454,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1645512600000,
-          "epochEndDate": null,
+          "epochEndDate": 1645524000000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:21 JST",
+          "datePosted": "2022/02/22 19:30 JST",
           "startDate": "2022/02/22 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/02/22 19:02 JST",
           "affectedServices": [
             "Apple School Manager",
             "Game Center",
@@ -479,7 +479,7 @@
             null,
             null
           ],
-          "eventStatus": "ongoing",
+          "eventStatus": "resolved",
           "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
         }
       ],
@@ -489,14 +489,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1645512600000,
-          "epochEndDate": null,
+          "epochEndDate": 1645524000000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:21 JST",
+          "datePosted": "2022/02/22 19:30 JST",
           "startDate": "2022/02/22 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/02/22 19:02 JST",
           "affectedServices": [
             "Apple School Manager",
             "Game Center",
@@ -514,7 +514,7 @@
             null,
             null
           ],
-          "eventStatus": "ongoing",
+          "eventStatus": "resolved",
           "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
         }
       ],
@@ -622,14 +622,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1645512600000,
-          "epochEndDate": null,
+          "epochEndDate": 1645524000000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:21 JST",
+          "datePosted": "2022/02/22 19:30 JST",
           "startDate": "2022/02/22 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/02/22 19:02 JST",
           "affectedServices": [
             "Apple School Manager",
             "Game Center",
@@ -647,8 +647,8 @@
             null,
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "ユーザがサインインできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "ユーザがサインインできなかった可能性があります。"
         }
       ],
       "serviceName": "スクリーンタイム"
@@ -725,9 +725,9 @@
           "epochEndDate": 1645524120000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:21 JST",
+          "datePosted": "2022/02/22 19:30 JST",
           "startDate": "2022/02/22 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/02/22 19:02 JST",
           "affectedServices": [
             "Apple School Manager",
             "Game Center",
@@ -755,14 +755,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1645512600000,
-          "epochEndDate": null,
+          "epochEndDate": 1645524000000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:21 JST",
+          "datePosted": "2022/02/22 19:30 JST",
           "startDate": "2022/02/22 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/02/22 19:02 JST",
           "affectedServices": [
             "Apple School Manager",
             "Game Center",
@@ -780,8 +780,8 @@
             null,
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "新しい写真とビデオが共有アルバムに表示されない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "新しい写真とビデオが共有アルバムに表示されなかった可能性があります。"
         }
       ],
       "serviceName": "写真"
