@@ -76,12 +76,12 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1645512600000,
-          "epochEndDate": null,
+          "epochEndDate": 1645523100000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:03 JST",
+          "datePosted": "2022/02/22 19:21 JST",
           "startDate": "2022/02/22 15:50 JST",
           "endDate": null,
           "affectedServices": [
@@ -101,8 +101,8 @@
             null,
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "ユーザがサインインできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "ユーザがサインインできなかった可能性があります。"
         }
       ],
       "serviceName": "Apple School Manager"
@@ -153,12 +153,12 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1645512600000,
-          "epochEndDate": null,
+          "epochEndDate": 1645524000000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:03 JST",
+          "datePosted": "2022/02/22 19:21 JST",
           "startDate": "2022/02/22 15:50 JST",
           "endDate": null,
           "affectedServices": [
@@ -178,8 +178,8 @@
             null,
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "Game Centerにサインインできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "Game Centerにサインインできなかった可能性があります。"
         }
       ],
       "serviceName": "Game Center"
@@ -214,7 +214,7 @@
           "epochEndDate": null,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:03 JST",
+          "datePosted": "2022/02/22 19:21 JST",
           "startDate": "2022/02/22 15:50 JST",
           "endDate": null,
           "affectedServices": [
@@ -256,7 +256,7 @@
           "epochEndDate": null,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:03 JST",
+          "datePosted": "2022/02/22 19:21 JST",
           "startDate": "2022/02/22 15:50 JST",
           "endDate": null,
           "affectedServices": [
@@ -298,7 +298,7 @@
           "epochEndDate": null,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:03 JST",
+          "datePosted": "2022/02/22 19:21 JST",
           "startDate": "2022/02/22 15:50 JST",
           "endDate": null,
           "affectedServices": [
@@ -340,7 +340,7 @@
           "epochEndDate": null,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:03 JST",
+          "datePosted": "2022/02/22 19:21 JST",
           "startDate": "2022/02/22 15:50 JST",
           "endDate": null,
           "affectedServices": [
@@ -375,7 +375,7 @@
           "epochEndDate": null,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:03 JST",
+          "datePosted": "2022/02/22 19:21 JST",
           "startDate": "2022/02/22 15:50 JST",
           "endDate": null,
           "affectedServices": [
@@ -424,7 +424,7 @@
           "epochEndDate": null,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:03 JST",
+          "datePosted": "2022/02/22 19:21 JST",
           "startDate": "2022/02/22 15:50 JST",
           "endDate": null,
           "affectedServices": [
@@ -459,7 +459,7 @@
           "epochEndDate": null,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:03 JST",
+          "datePosted": "2022/02/22 19:21 JST",
           "startDate": "2022/02/22 15:50 JST",
           "endDate": null,
           "affectedServices": [
@@ -494,7 +494,7 @@
           "epochEndDate": null,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:03 JST",
+          "datePosted": "2022/02/22 19:21 JST",
           "startDate": "2022/02/22 15:50 JST",
           "endDate": null,
           "affectedServices": [
@@ -627,7 +627,7 @@
           "epochEndDate": null,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:03 JST",
+          "datePosted": "2022/02/22 19:21 JST",
           "startDate": "2022/02/22 15:50 JST",
           "endDate": null,
           "affectedServices": [
@@ -720,12 +720,12 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1645512600000,
-          "epochEndDate": null,
+          "epochEndDate": 1645524120000,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:03 JST",
+          "datePosted": "2022/02/22 19:21 JST",
           "startDate": "2022/02/22 15:50 JST",
           "endDate": null,
           "affectedServices": [
@@ -745,8 +745,8 @@
             null,
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
       "serviceName": "探す"
@@ -760,7 +760,7 @@
           "epochEndDate": null,
           "messageId": "1000001024",
           "statusType": "Issue",
-          "datePosted": "2022/02/22 19:03 JST",
+          "datePosted": "2022/02/22 19:21 JST",
           "startDate": "2022/02/22 15:50 JST",
           "endDate": null,
           "affectedServices": [
