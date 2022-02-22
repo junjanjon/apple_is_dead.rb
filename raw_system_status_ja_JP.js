@@ -75,7 +75,35 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1645512600000,
+          "epochEndDate": null,
+          "messageId": "1000001024",
+          "statusType": "Issue",
+          "datePosted": "2022/02/22 18:32 JST",
+          "startDate": "2022/02/22 15:50 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null,
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "ユーザがサインインできない可能性があります。"
+        }
       ],
       "serviceName": "Apple School Manager"
     },
@@ -124,7 +152,35 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1645512600000,
+          "epochEndDate": null,
+          "messageId": "1000001024",
+          "statusType": "Issue",
+          "datePosted": "2022/02/22 18:32 JST",
+          "startDate": "2022/02/22 15:50 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null,
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "Game Centerにサインインできない可能性があります。"
+        }
       ],
       "serviceName": "Game Center"
     },
@@ -152,7 +208,35 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1645512600000,
+          "epochEndDate": null,
+          "messageId": "1000001024",
+          "statusType": "Issue",
+          "datePosted": "2022/02/22 18:32 JST",
+          "startDate": "2022/02/22 15:50 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null,
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloud Drive"
     },
@@ -166,7 +250,35 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1645512600000,
+          "epochEndDate": null,
+          "messageId": "1000001024",
+          "statusType": "Issue",
+          "datePosted": "2022/02/22 18:32 JST",
+          "startDate": "2022/02/22 15:50 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null,
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "iCloudアカウントを作成するための新しいApple IDを一時的に取得できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
     },
@@ -180,7 +292,35 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1645512600000,
+          "epochEndDate": null,
+          "messageId": "1000001024",
+          "statusType": "Issue",
+          "datePosted": "2022/02/22 18:32 JST",
+          "startDate": "2022/02/22 15:50 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null,
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloudキーチェーン"
     },
@@ -194,14 +334,70 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1645512600000,
+          "epochEndDate": null,
+          "messageId": "1000001024",
+          "statusType": "Issue",
+          "datePosted": "2022/02/22 18:32 JST",
+          "startDate": "2022/02/22 15:50 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null,
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "ユーザがデータをバックアップできない可能性があります。"
+        }
       ],
       "serviceName": "iCloudバックアップ"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1645512600000,
+          "epochEndDate": null,
+          "messageId": "1000001024",
+          "statusType": "Issue",
+          "datePosted": "2022/02/22 18:32 JST",
+          "startDate": "2022/02/22 15:50 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null,
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloudブックマークおよびタブ"
     },
@@ -222,21 +418,105 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1645512600000,
+          "epochEndDate": null,
+          "messageId": "1000001024",
+          "statusType": "Issue",
+          "datePosted": "2022/02/22 18:32 JST",
+          "startDate": "2022/02/22 15:50 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null,
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloudメモ"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1645512600000,
+          "epochEndDate": null,
+          "messageId": "1000001024",
+          "statusType": "Issue",
+          "datePosted": "2022/02/22 18:32 JST",
+          "startDate": "2022/02/22 15:50 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null,
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloudリマインダー"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1645512600000,
+          "epochEndDate": null,
+          "messageId": "1000001024",
+          "statusType": "Issue",
+          "datePosted": "2022/02/22 18:32 JST",
+          "startDate": "2022/02/22 15:50 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null,
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloud連絡先"
     },
@@ -341,7 +621,35 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1645512600000,
+          "epochEndDate": null,
+          "messageId": "1000001024",
+          "statusType": "Issue",
+          "datePosted": "2022/02/22 18:32 JST",
+          "startDate": "2022/02/22 15:50 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null,
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "ユーザがサインインできない可能性があります。"
+        }
       ],
       "serviceName": "スクリーンタイム"
     },
@@ -411,14 +719,70 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1645512600000,
+          "epochEndDate": null,
+          "messageId": "1000001024",
+          "statusType": "Issue",
+          "datePosted": "2022/02/22 18:32 JST",
+          "startDate": "2022/02/22 15:50 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null,
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "探す"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1645512600000,
+          "epochEndDate": null,
+          "messageId": "1000001024",
+          "statusType": "Issue",
+          "datePosted": "2022/02/22 18:32 JST",
+          "startDate": "2022/02/22 15:50 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloudアカウントおよびサインイン",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            "探す",
+            null,
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "新しい写真とビデオが共有アルバムに表示されない可能性があります。"
+        }
       ],
       "serviceName": "写真"
     },
