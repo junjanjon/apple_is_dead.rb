@@ -1,6 +1,6 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
@@ -411,7 +411,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1647294300000,
+          "epochEndDate": 1647297480000,
+          "messageId": "2000001279",
+          "statusType": "Issue",
+          "datePosted": "2022/03/15 07:56 JST",
+          "startDate": "2022/03/15 06:45 JST",
+          "endDate": "2022/03/15 07:38 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
+        }
       ],
       "serviceName": "探す"
     },
