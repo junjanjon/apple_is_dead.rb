@@ -215,7 +215,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647304200000,
+          "epochEndDate": null,
+          "messageId": "2000001280",
+          "statusType": "Issue",
+          "datePosted": "2022/03/15 10:38 JST",
+          "startDate": "2022/03/15 09:30 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "メールの受信に遅延が発生する可能性があります。"
+        }
       ],
       "serviceName": "iCloudメール"
     },
@@ -417,7 +429,7 @@
           "epochEndDate": 1647297480000,
           "messageId": "2000001279",
           "statusType": "Issue",
-          "datePosted": "2022/03/15 07:56 JST",
+          "datePosted": "2022/03/15 10:38 JST",
           "startDate": "2022/03/15 06:45 JST",
           "endDate": "2022/03/15 07:38 JST",
           "affectedServices": null,
