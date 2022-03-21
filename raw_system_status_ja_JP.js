@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "redirectUrl": null,
@@ -173,7 +173,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647882840000,
+          "epochEndDate": null,
+          "messageId": "2000001299",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 02:32 JST",
+          "startDate": "2022/03/22 02:14 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudプライベートリレー",
+            "iCloudメール",
+            "iCloud連絡先"
+          ],
+          "eventStatus": "ongoing",
+          "message": "カレンダーWebアプリケーションのカレンダーがiCloud.com上でアクセス不可能である可能性があります。"
+        }
       ],
       "serviceName": "iCloudカレンダー"
     },
@@ -208,14 +225,48 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647882840000,
+          "epochEndDate": null,
+          "messageId": "2000001299",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 02:32 JST",
+          "startDate": "2022/03/22 02:14 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudプライベートリレー",
+            "iCloudメール",
+            "iCloud連絡先"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudプライベートリレー"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647882840000,
+          "epochEndDate": null,
+          "messageId": "2000001299",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 02:32 JST",
+          "startDate": "2022/03/22 02:14 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudプライベートリレー",
+            "iCloudメール",
+            "iCloud連絡先"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudメール"
     },
@@ -236,7 +287,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647882840000,
+          "epochEndDate": null,
+          "messageId": "2000001299",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 02:32 JST",
+          "startDate": "2022/03/22 02:14 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudプライベートリレー",
+            "iCloudメール",
+            "iCloud連絡先"
+          ],
+          "eventStatus": "ongoing",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloud連絡先"
     },
