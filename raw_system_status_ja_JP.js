@@ -75,7 +75,31 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1647880020000,
+          "epochEndDate": 1647882780000,
+          "messageId": "2000001303",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:37 JST",
+          "startDate": "2022/03/22 01:27 JST",
+          "endDate": "2022/03/22 02:15 JST",
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudプライベートリレー",
+            "iCloudメール",
+            "iMessage",
+            "スクールワーク"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "Apple School Manager"
     },
@@ -130,10 +154,11 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 01:27 JST",
-          "endDate": null,
+          "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
+            "Apple School Manager",
             "Game Center",
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -142,7 +167,8 @@
             "iCloudキーチェーン",
             "iCloudプライベートリレー",
             "iCloudメール",
-            "iMessage"
+            "iMessage",
+            "スクールワーク"
           ],
           "eventStatus": "resolved",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
@@ -175,15 +201,16 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1647880020000,
-          "epochEndDate": null,
+          "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 01:27 JST",
-          "endDate": null,
+          "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
+            "Apple School Manager",
             "Game Center",
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -192,10 +219,11 @@
             "iCloudキーチェーン",
             "iCloudプライベートリレー",
             "iCloudメール",
-            "iMessage"
+            "iMessage",
+            "スクールワーク"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloud Drive"
@@ -209,10 +237,11 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 01:27 JST",
-          "endDate": null,
+          "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
+            "Apple School Manager",
             "Game Center",
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -221,7 +250,8 @@
             "iCloudキーチェーン",
             "iCloudプライベートリレー",
             "iCloudメール",
-            "iMessage"
+            "iMessage",
+            "スクールワーク"
           ],
           "eventStatus": "resolved",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
@@ -233,15 +263,16 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1647880020000,
-          "epochEndDate": null,
+          "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 01:27 JST",
-          "endDate": null,
+          "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
+            "Apple School Manager",
             "Game Center",
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -250,10 +281,11 @@
             "iCloudキーチェーン",
             "iCloudプライベートリレー",
             "iCloudメール",
-            "iMessage"
+            "iMessage",
+            "スクールワーク"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
@@ -262,15 +294,16 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1647880020000,
-          "epochEndDate": null,
+          "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 01:27 JST",
-          "endDate": null,
+          "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
+            "Apple School Manager",
             "Game Center",
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -279,10 +312,11 @@
             "iCloudキーチェーン",
             "iCloudプライベートリレー",
             "iCloudメール",
-            "iMessage"
+            "iMessage",
+            "スクールワーク"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudカレンダー"
@@ -291,15 +325,16 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1647880020000,
-          "epochEndDate": null,
+          "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 01:27 JST",
-          "endDate": null,
+          "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
+            "Apple School Manager",
             "Game Center",
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -308,10 +343,11 @@
             "iCloudキーチェーン",
             "iCloudプライベートリレー",
             "iCloudメール",
-            "iMessage"
+            "iMessage",
+            "スクールワーク"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudキーチェーン"
@@ -346,10 +382,11 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 01:27 JST",
-          "endDate": null,
+          "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
+            "Apple School Manager",
             "Game Center",
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -358,7 +395,8 @@
             "iCloudキーチェーン",
             "iCloudプライベートリレー",
             "iCloudメール",
-            "iMessage"
+            "iMessage",
+            "スクールワーク"
           ],
           "eventStatus": "resolved",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
@@ -370,15 +408,16 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1647880020000,
-          "epochEndDate": null,
+          "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 01:27 JST",
-          "endDate": null,
+          "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
+            "Apple School Manager",
             "Game Center",
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -387,10 +426,11 @@
             "iCloudキーチェーン",
             "iCloudプライベートリレー",
             "iCloudメール",
-            "iMessage"
+            "iMessage",
+            "スクールワーク"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudメール"
@@ -425,10 +465,11 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 01:27 JST",
-          "endDate": null,
+          "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
+            "Apple School Manager",
             "Game Center",
             "iCloud Drive",
             "iCloud Web Apps (iCloud.com)",
@@ -437,7 +478,8 @@
             "iCloudキーチェーン",
             "iCloudプライベートリレー",
             "iCloudメール",
-            "iMessage"
+            "iMessage",
+            "スクールワーク"
           ],
           "eventStatus": "resolved",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
@@ -454,7 +496,7 @@
           "epochEndDate": 1647882840000,
           "messageId": "2000001300",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 01:25 JST",
           "endDate": "2022/03/22 02:14 JST",
           "affectedServices": null,
@@ -544,7 +586,31 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1647880020000,
+          "epochEndDate": 1647882780000,
+          "messageId": "2000001303",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:37 JST",
+          "startDate": "2022/03/22 01:27 JST",
+          "endDate": "2022/03/22 02:15 JST",
+          "affectedServices": [
+            "Apple School Manager",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudプライベートリレー",
+            "iCloudメール",
+            "iMessage",
+            "スクールワーク"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "スクールワーク"
     },
@@ -564,7 +630,7 @@
           "epochEndDate": null,
           "messageId": "2000001301",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 01:32 JST",
           "endDate": null,
           "affectedServices": null,
@@ -597,7 +663,7 @@
           "epochEndDate": null,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 02:14 JST",
           "endDate": null,
           "affectedServices": [
@@ -622,7 +688,7 @@
           "epochEndDate": null,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 02:14 JST",
           "endDate": null,
           "affectedServices": [
@@ -661,7 +727,7 @@
           "epochEndDate": null,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 02:14 JST",
           "endDate": null,
           "affectedServices": [
@@ -700,7 +766,7 @@
           "epochEndDate": null,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:26 JST",
+          "datePosted": "2022/03/22 03:37 JST",
           "startDate": "2022/03/22 02:14 JST",
           "endDate": null,
           "affectedServices": [
