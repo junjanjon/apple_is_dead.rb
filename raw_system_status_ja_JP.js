@@ -81,7 +81,7 @@
           "epochEndDate": null,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": null,
           "affectedServices": [
@@ -131,7 +131,7 @@
           "epochEndDate": null,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": null,
           "affectedServices": [
@@ -168,7 +168,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1647880020000,
+          "epochEndDate": 1647882780000,
+          "messageId": "2000001308",
+          "statusType": "Issue",
+          "datePosted": "2022/03/22 03:13 JST",
+          "startDate": "2022/03/22 01:27 JST",
+          "endDate": "2022/03/22 02:13 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "Game Centerにサインインできなかった可能性があります。"
+        }
       ],
       "serviceName": "Game Center"
     },
@@ -202,7 +214,7 @@
           "epochEndDate": null,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": null,
           "affectedServices": [
@@ -231,7 +243,7 @@
           "epochEndDate": null,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": null,
           "affectedServices": [
@@ -260,7 +272,7 @@
           "epochEndDate": null,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": null,
           "affectedServices": [
@@ -289,7 +301,7 @@
           "epochEndDate": null,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": null,
           "affectedServices": [
@@ -318,7 +330,7 @@
           "epochEndDate": null,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": null,
           "affectedServices": [
@@ -375,7 +387,7 @@
           "epochEndDate": null,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": null,
           "affectedServices": [
@@ -432,7 +444,7 @@
           "epochEndDate": 1647882840000,
           "messageId": "2000001300",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 01:25 JST",
           "endDate": "2022/03/22 02:14 JST",
           "affectedServices": null,
@@ -542,7 +554,7 @@
           "epochEndDate": null,
           "messageId": "2000001301",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 01:32 JST",
           "endDate": null,
           "affectedServices": null,
@@ -575,7 +587,7 @@
           "epochEndDate": null,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 02:14 JST",
           "endDate": null,
           "affectedServices": [
@@ -600,7 +612,7 @@
           "epochEndDate": null,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 02:14 JST",
           "endDate": null,
           "affectedServices": [
@@ -639,7 +651,7 @@
           "epochEndDate": null,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 02:14 JST",
           "endDate": null,
           "affectedServices": [
@@ -678,7 +690,7 @@
           "epochEndDate": null,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:04 JST",
+          "datePosted": "2022/03/22 03:13 JST",
           "startDate": "2022/03/22 02:14 JST",
           "endDate": null,
           "affectedServices": [
