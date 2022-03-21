@@ -1,6 +1,6 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
@@ -81,7 +81,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
+          "datePosted": "2022/03/22 04:01 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -154,7 +154,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
+          "datePosted": "2022/03/22 04:01 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -206,7 +206,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
+          "datePosted": "2022/03/22 04:01 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -237,7 +237,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
+          "datePosted": "2022/03/22 04:01 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -268,7 +268,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
+          "datePosted": "2022/03/22 04:01 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -299,7 +299,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
+          "datePosted": "2022/03/22 04:01 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -330,7 +330,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
+          "datePosted": "2022/03/22 04:01 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -382,7 +382,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
+          "datePosted": "2022/03/22 04:01 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -413,7 +413,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
+          "datePosted": "2022/03/22 04:01 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -465,7 +465,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
+          "datePosted": "2022/03/22 04:01 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -496,7 +496,7 @@
           "epochEndDate": 1647882840000,
           "messageId": "2000001300",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
+          "datePosted": "2022/03/22 04:01 JST",
           "startDate": "2022/03/22 01:25 JST",
           "endDate": "2022/03/22 02:14 JST",
           "affectedServices": null,
@@ -592,7 +592,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
+          "datePosted": "2022/03/22 04:01 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -630,7 +630,7 @@
           "epochEndDate": null,
           "messageId": "2000001301",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
+          "datePosted": "2022/03/22 04:01 JST",
           "startDate": "2022/03/22 01:32 JST",
           "endDate": null,
           "affectedServices": null,
@@ -658,14 +658,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1647882840000,
-          "epochEndDate": null,
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1647880020000,
+          "epochEndDate": 1647882840000,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
-          "startDate": "2022/03/22 02:14 JST",
-          "endDate": null,
+          "datePosted": "2022/03/22 04:01 JST",
+          "startDate": "2022/03/22 01:27 JST",
+          "endDate": "2022/03/22 02:14 JST",
           "affectedServices": [
             "マップの交通情報",
             "マップの検索",
@@ -673,8 +673,8 @@
             "マップの表示",
             "探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。問題について調査し、解決しました。"
         }
       ],
       "serviceName": "マップの経路案内とナビゲーション"
@@ -683,14 +683,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1647882840000,
-          "epochEndDate": null,
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1647880020000,
+          "epochEndDate": 1647882840000,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
-          "startDate": "2022/03/22 02:14 JST",
-          "endDate": null,
+          "datePosted": "2022/03/22 04:01 JST",
+          "startDate": "2022/03/22 01:27 JST",
+          "endDate": "2022/03/22 02:14 JST",
           "affectedServices": [
             "マップの交通情報",
             "マップの検索",
@@ -698,8 +698,8 @@
             "マップの表示",
             "探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。問題について調査し、解決しました。"
         }
       ],
       "serviceName": "マップの検索"
@@ -722,14 +722,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1647882840000,
-          "epochEndDate": null,
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1647880020000,
+          "epochEndDate": 1647882840000,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
-          "startDate": "2022/03/22 02:14 JST",
-          "endDate": null,
+          "datePosted": "2022/03/22 04:01 JST",
+          "startDate": "2022/03/22 01:27 JST",
+          "endDate": "2022/03/22 02:14 JST",
           "affectedServices": [
             "マップの交通情報",
             "マップの検索",
@@ -737,8 +737,8 @@
             "マップの表示",
             "探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
       "serviceName": "探す"
@@ -761,14 +761,14 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1647882840000,
-          "epochEndDate": null,
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1647880020000,
+          "epochEndDate": 1647882840000,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 03:37 JST",
-          "startDate": "2022/03/22 02:14 JST",
-          "endDate": null,
+          "datePosted": "2022/03/22 04:01 JST",
+          "startDate": "2022/03/22 01:27 JST",
+          "endDate": "2022/03/22 02:14 JST",
           "affectedServices": [
             "マップの交通情報",
             "マップの検索",
@@ -776,8 +776,8 @@
             "マップの表示",
             "探す"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。問題について調査し、解決しました。"
         }
       ],
       "serviceName": "マップの表示"
