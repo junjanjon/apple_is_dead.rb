@@ -75,7 +75,29 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647880020000,
+          "epochEndDate": null,
+          "messageId": "2000001303",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 01:27 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Device Enrollment Program",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "Apple School Manager"
     },
@@ -103,7 +125,29 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647880020000,
+          "epochEndDate": null,
+          "messageId": "2000001303",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 01:27 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Device Enrollment Program",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+        }
       ],
       "serviceName": "Device Enrollment Program"
     },
@@ -152,21 +196,87 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647880020000,
+          "epochEndDate": null,
+          "messageId": "2000001303",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 01:27 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Device Enrollment Program",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloud Drive"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647880020000,
+          "epochEndDate": null,
+          "messageId": "2000001303",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 01:27 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Device Enrollment Program",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647880020000,
+          "epochEndDate": null,
+          "messageId": "2000001303",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 01:27 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Device Enrollment Program",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
     },
@@ -175,21 +285,26 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1647882840000,
+          "epochStartDate": 1647880020000,
           "epochEndDate": null,
-          "messageId": "2000001299",
+          "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 02:32 JST",
-          "startDate": "2022/03/22 02:14 JST",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 01:27 JST",
           "endDate": null,
           "affectedServices": [
+            "Apple School Manager",
+            "Device Enrollment Program",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
             "iCloudカレンダー",
-            "iCloudプライベートリレー",
+            "iCloudキーチェーン",
             "iCloudメール",
-            "iCloud連絡先"
+            null
           ],
           "eventStatus": "ongoing",
-          "message": "カレンダーWebアプリケーションのカレンダーがiCloud.com上でアクセス不可能である可能性があります。"
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
         }
       ],
       "serviceName": "iCloudカレンダー"
@@ -197,7 +312,29 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647880020000,
+          "epochEndDate": null,
+          "messageId": "2000001303",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 01:27 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Device Enrollment Program",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudキーチェーン"
     },
@@ -225,24 +362,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1647882840000,
-          "epochEndDate": null,
-          "messageId": "2000001299",
-          "statusType": "Outage",
-          "datePosted": "2022/03/22 02:32 JST",
-          "startDate": "2022/03/22 02:14 JST",
-          "endDate": null,
-          "affectedServices": [
-            "iCloudカレンダー",
-            "iCloudプライベートリレー",
-            "iCloudメール",
-            "iCloud連絡先"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudプライベートリレー"
     },
@@ -251,18 +371,23 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1647882840000,
+          "epochStartDate": 1647880020000,
           "epochEndDate": null,
-          "messageId": "2000001299",
+          "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/22 02:32 JST",
-          "startDate": "2022/03/22 02:14 JST",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 01:27 JST",
           "endDate": null,
           "affectedServices": [
+            "Apple School Manager",
+            "Device Enrollment Program",
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
             "iCloudカレンダー",
-            "iCloudプライベートリレー",
+            "iCloudキーチェーン",
             "iCloudメール",
-            "iCloud連絡先"
+            null
           ],
           "eventStatus": "ongoing",
           "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
@@ -287,24 +412,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1647882840000,
-          "epochEndDate": null,
-          "messageId": "2000001299",
-          "statusType": "Outage",
-          "datePosted": "2022/03/22 02:32 JST",
-          "startDate": "2022/03/22 02:14 JST",
-          "endDate": null,
-          "affectedServices": [
-            "iCloudカレンダー",
-            "iCloudプライベートリレー",
-            "iCloudメール",
-            "iCloud連絡先"
-          ],
-          "eventStatus": "ongoing",
-          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
-        }
+
       ],
       "serviceName": "iCloud連絡先"
     },
@@ -318,7 +426,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "すべてのユーザに影響しました",
+          "epochStartDate": 1647879900000,
+          "epochEndDate": 1647882840000,
+          "messageId": "2000001300",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 01:25 JST",
+          "endDate": "2022/03/22 02:14 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "iOS デバイスアクティベーションは一時的に利用できませんでした。"
+        }
       ],
       "serviceName": "iOSデバイスアクティベーション"
     },
@@ -416,7 +536,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647880320000,
+          "epochEndDate": null,
+          "messageId": "2000001301",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 01:32 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "保証範囲の詳細は更新されません。"
+        }
       ],
       "serviceName": "デバイスのAppleCare"
     },
@@ -437,30 +569,52 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647882840000,
+          "epochEndDate": null,
+          "messageId": "2000001299",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 02:14 JST",
+          "endDate": null,
+          "affectedServices": [
+            "マップの交通情報",
+            "マップの検索",
+            "マップの経路案内とナビゲーション",
+            "マップの表示",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+        }
       ],
       "serviceName": "マップの経路案内とナビゲーション"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647882840000,
+          "epochEndDate": null,
+          "messageId": "2000001299",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 02:14 JST",
+          "endDate": null,
+          "affectedServices": [
+            "マップの交通情報",
+            "マップの検索",
+            "マップの経路案内とナビゲーション",
+            "マップの表示",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+        }
       ],
       "serviceName": "マップの検索"
-    },
-    {
-      "redirectUrl": null,
-      "events": [
-
-      ],
-      "serviceName": "マップの表示"
-    },
-    {
-      "redirectUrl": null,
-      "events": [
-
-      ],
-      "serviceName": "ラジオ"
     },
     {
       "redirectUrl": null,
@@ -479,7 +633,25 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647882840000,
+          "epochEndDate": null,
+          "messageId": "2000001299",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 02:14 JST",
+          "endDate": null,
+          "affectedServices": [
+            "マップの交通情報",
+            "マップの検索",
+            "マップの経路案内とナビゲーション",
+            "マップの表示",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "探す"
     },
@@ -496,6 +668,38 @@
 
       ],
       "serviceName": "天気"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1647882840000,
+          "epochEndDate": null,
+          "messageId": "2000001299",
+          "statusType": "Outage",
+          "datePosted": "2022/03/22 03:04 JST",
+          "startDate": "2022/03/22 02:14 JST",
+          "endDate": null,
+          "affectedServices": [
+            "マップの交通情報",
+            "マップの検索",
+            "マップの経路案内とナビゲーション",
+            "マップの表示",
+            "探す"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+        }
+      ],
+      "serviceName": "マップの表示"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
+      "serviceName": "ラジオ"
     }
   ]
 }
