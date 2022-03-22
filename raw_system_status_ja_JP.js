@@ -1,29 +1,11 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1647983340000,
-          "epochEndDate": null,
-          "messageId": "2000001318",
-          "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
-          "startDate": "2022/03/23 06:09 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Apple Music",
-            "Mac App Store",
-            "Podcast"
-          ],
-          "eventStatus": "ongoing",
-          "message": "App Storeにアクセスできません。"
-        }
+
       ],
       "serviceName": "App Store"
     },
@@ -37,25 +19,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1647983340000,
-          "epochEndDate": null,
-          "messageId": "2000001318",
-          "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
-          "startDate": "2022/03/23 06:09 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Apple Music",
-            "Mac App Store",
-            "Podcast"
-          ],
-          "eventStatus": "ongoing",
-          "message": "複数のStore／サービスへのサインインや購入ができません。"
-        }
+
       ],
       "serviceName": "Apple Books"
     },
@@ -69,25 +33,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1647983340000,
-          "epochEndDate": null,
-          "messageId": "2000001318",
-          "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
-          "startDate": "2022/03/23 06:09 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Apple Music",
-            "Mac App Store",
-            "Podcast"
-          ],
-          "eventStatus": "ongoing",
-          "message": "ユーザがサインインできない可能性があります。"
-        }
+
       ],
       "serviceName": "Apple Music"
     },
@@ -128,7 +74,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001316",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:25 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -151,7 +97,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001314",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -167,7 +113,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -224,7 +170,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -254,7 +200,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001312",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": null,
@@ -273,7 +219,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001315",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": null,
@@ -299,7 +245,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -329,7 +275,7 @@
           "epochEndDate": 1647987060000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
@@ -373,7 +319,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -409,7 +355,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -439,7 +385,7 @@
           "epochEndDate": 1647987120000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
@@ -462,7 +408,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -498,7 +444,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -534,7 +480,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -591,7 +537,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -627,7 +573,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -677,7 +623,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -713,7 +659,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -749,7 +695,7 @@
           "epochEndDate": 1647882840000,
           "messageId": "2000001300",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:25 JST",
           "endDate": "2022/03/22 02:14 JST",
           "affectedServices": null,
@@ -789,7 +735,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -819,7 +765,7 @@
           "epochEndDate": 1647882780000,
           "messageId": "2000001313",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:13 JST",
           "affectedServices": null,
@@ -832,25 +778,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1647983340000,
-          "epochEndDate": null,
-          "messageId": "2000001318",
-          "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
-          "startDate": "2022/03/23 06:09 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Apple Music",
-            "Mac App Store",
-            "Podcast"
-          ],
-          "eventStatus": "ongoing",
-          "message": "複数のStore／サービスへのサインインや購入ができません。"
-        }
+
       ],
       "serviceName": "Mac App Store"
     },
@@ -905,7 +833,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001314",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -921,7 +849,7 @@
           "epochEndDate": 1647882900000,
           "messageId": "2000001303",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:15 JST",
           "affectedServices": [
@@ -964,7 +892,7 @@
           "epochEndDate": 1647883800000,
           "messageId": "2000001301",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:32 JST",
           "endDate": "2022/03/22 02:30 JST",
           "affectedServices": null,
@@ -997,7 +925,7 @@
           "epochEndDate": 1647882840000,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:14 JST",
           "affectedServices": [
@@ -1022,7 +950,7 @@
           "epochEndDate": 1647882840000,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:14 JST",
           "affectedServices": [
@@ -1061,7 +989,7 @@
           "epochEndDate": 1647882840000,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:14 JST",
           "affectedServices": [
@@ -1093,7 +1021,7 @@
           "epochEndDate": 1647987060000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
@@ -1116,7 +1044,7 @@
           "epochEndDate": 1647882840000,
           "messageId": "2000001299",
           "statusType": "Outage",
-          "datePosted": "2022/03/23 07:36 JST",
+          "datePosted": "2022/03/23 07:49 JST",
           "startDate": "2022/03/22 01:27 JST",
           "endDate": "2022/03/22 02:14 JST",
           "affectedServices": [
