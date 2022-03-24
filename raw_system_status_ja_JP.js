@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "redirectUrl": null,
@@ -137,7 +137,7 @@
           "epochEndDate": 1647987060000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 07:33 JST",
+          "datePosted": "2022/03/25 08:05 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
@@ -188,7 +188,7 @@
           "epochEndDate": 1647987120000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 07:33 JST",
+          "datePosted": "2022/03/25 08:05 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
@@ -225,9 +225,9 @@
           "epochEndDate": 1648155540000,
           "messageId": "2000001322",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 07:33 JST",
+          "datePosted": "2022/03/25 08:05 JST",
           "startDate": "2022/03/25 05:27 JST",
-          "endDate": null,
+          "endDate": "2022/03/25 07:55 JST",
           "affectedServices": [
             "iCloudキーチェーン",
             "iMessage"
@@ -298,20 +298,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1648153620000,
-          "epochEndDate": null,
+          "epochEndDate": 1648162500000,
           "messageId": "2000001322",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 07:33 JST",
+          "datePosted": "2022/03/25 08:05 JST",
           "startDate": "2022/03/25 05:27 JST",
-          "endDate": null,
+          "endDate": "2022/03/25 07:55 JST",
           "affectedServices": [
             "iCloudキーチェーン",
             "iMessage"
           ],
-          "eventStatus": "ongoing",
-          "message": "iMessage で添付ファイルを送信できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "iMessage で添付ファイルを送信できなかった可能性があります。"
         }
       ],
       "serviceName": "iMessage"
@@ -500,7 +500,7 @@
           "epochEndDate": 1647987060000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 07:33 JST",
+          "datePosted": "2022/03/25 08:05 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
