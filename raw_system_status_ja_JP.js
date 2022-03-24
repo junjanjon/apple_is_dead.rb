@@ -137,7 +137,7 @@
           "epochEndDate": 1647987060000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 06:12 JST",
+          "datePosted": "2022/03/25 06:20 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
@@ -188,7 +188,7 @@
           "epochEndDate": 1647987120000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 06:12 JST",
+          "datePosted": "2022/03/25 06:20 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
@@ -219,7 +219,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648153620000,
+          "epochEndDate": 1648155540000,
+          "messageId": "2000001322",
+          "statusType": "Issue",
+          "datePosted": "2022/03/25 06:20 JST",
+          "startDate": "2022/03/25 05:27 JST",
+          "endDate": "2022/03/25 05:59 JST",
+          "affectedServices": [
+            "iCloudキーチェーン",
+            "iMessage"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "iCloudキーチェーン"
     },
@@ -288,10 +303,13 @@
           "epochEndDate": 1648155540000,
           "messageId": "2000001322",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 06:12 JST",
+          "datePosted": "2022/03/25 06:20 JST",
           "startDate": "2022/03/25 05:27 JST",
           "endDate": "2022/03/25 05:59 JST",
-          "affectedServices": null,
+          "affectedServices": [
+            "iCloudキーチェーン",
+            "iMessage"
+          ],
           "eventStatus": "resolved",
           "message": "iMessage で添付ファイルを送信できなかった可能性があります。"
         }
@@ -482,7 +500,7 @@
           "epochEndDate": 1647987060000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 06:12 JST",
+          "datePosted": "2022/03/25 06:20 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
