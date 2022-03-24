@@ -35,6 +35,13 @@
       "events": [
 
       ],
+      "serviceName": "Apple Messages for Business"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
       "serviceName": "Apple Music"
     },
     {
@@ -130,7 +137,7 @@
           "epochEndDate": 1647987060000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/24 17:00 JST",
+          "datePosted": "2022/03/25 06:12 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
@@ -181,7 +188,7 @@
           "epochEndDate": 1647987120000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/24 17:00 JST",
+          "datePosted": "2022/03/25 06:12 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
@@ -275,7 +282,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648153620000,
+          "epochEndDate": 1648155540000,
+          "messageId": "2000001322",
+          "statusType": "Issue",
+          "datePosted": "2022/03/25 06:12 JST",
+          "startDate": "2022/03/25 05:27 JST",
+          "endDate": "2022/03/25 05:59 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "iMessage で添付ファイルを送信できなかった可能性があります。"
+        }
       ],
       "serviceName": "iMessage"
     },
@@ -334,13 +353,6 @@
 
       ],
       "serviceName": "Mail Drop"
-    },
-    {
-      "redirectUrl": null,
-      "events": [
-
-      ],
-      "serviceName": "Messages for Business"
     },
     {
       "redirectUrl": null,
@@ -470,7 +482,7 @@
           "epochEndDate": 1647987060000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/24 17:00 JST",
+          "datePosted": "2022/03/25 06:12 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
