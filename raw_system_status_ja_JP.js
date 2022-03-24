@@ -137,7 +137,7 @@
           "epochEndDate": 1647987060000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 08:05 JST",
+          "datePosted": "2022/03/25 08:30 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
@@ -188,7 +188,7 @@
           "epochEndDate": 1647987120000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 08:05 JST",
+          "datePosted": "2022/03/25 08:30 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
@@ -225,7 +225,7 @@
           "epochEndDate": 1648155540000,
           "messageId": "2000001322",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 08:05 JST",
+          "datePosted": "2022/03/25 08:30 JST",
           "startDate": "2022/03/25 05:27 JST",
           "endDate": "2022/03/25 07:55 JST",
           "affectedServices": [
@@ -303,7 +303,7 @@
           "epochEndDate": 1648162500000,
           "messageId": "2000001322",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 08:05 JST",
+          "datePosted": "2022/03/25 08:30 JST",
           "startDate": "2022/03/25 05:27 JST",
           "endDate": "2022/03/25 07:55 JST",
           "affectedServices": [
@@ -347,7 +347,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648158600000,
+          "epochEndDate": 1648163160000,
+          "messageId": "2000001323",
+          "statusType": "Issue",
+          "datePosted": "2022/03/25 08:30 JST",
+          "startDate": "2022/03/25 06:50 JST",
+          "endDate": "2022/03/25 08:06 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できませんでした。"
+        }
       ],
       "serviceName": "iWork for iCloud"
     },
@@ -500,7 +512,7 @@
           "epochEndDate": 1647987060000,
           "messageId": "2000001319",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 08:05 JST",
+          "datePosted": "2022/03/25 08:30 JST",
           "startDate": "2022/03/23 05:47 JST",
           "endDate": "2022/03/23 07:12 JST",
           "affectedServices": [
