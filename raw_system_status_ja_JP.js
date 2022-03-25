@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "redirectUrl": null,
@@ -131,23 +131,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1647982020000,
-          "epochEndDate": 1647987060000,
-          "messageId": "2000001319",
-          "statusType": "Issue",
-          "datePosted": "2022/03/25 13:52 JST",
-          "startDate": "2022/03/23 05:47 JST",
-          "endDate": "2022/03/23 07:12 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "天気"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Game Center"
     },
@@ -182,23 +166,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1647982020000,
-          "epochEndDate": 1647987120000,
-          "messageId": "2000001319",
-          "statusType": "Issue",
-          "datePosted": "2022/03/25 13:52 JST",
-          "startDate": "2022/03/23 05:47 JST",
-          "endDate": "2022/03/23 07:12 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "天気"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)"
     },
@@ -225,7 +193,7 @@
           "epochEndDate": 1648155540000,
           "messageId": "2000001322",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 13:52 JST",
+          "datePosted": "2022/03/25 17:00 JST",
           "startDate": "2022/03/25 05:27 JST",
           "endDate": "2022/03/25 07:55 JST",
           "affectedServices": [
@@ -303,7 +271,7 @@
           "epochEndDate": 1648162500000,
           "messageId": "2000001322",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 13:52 JST",
+          "datePosted": "2022/03/25 17:00 JST",
           "startDate": "2022/03/25 05:27 JST",
           "endDate": "2022/03/25 07:55 JST",
           "affectedServices": [
@@ -353,7 +321,7 @@
           "epochEndDate": 1648163160000,
           "messageId": "2000001323",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 13:52 JST",
+          "datePosted": "2022/03/25 17:00 JST",
           "startDate": "2022/03/25 06:50 JST",
           "endDate": "2022/03/25 08:06 JST",
           "affectedServices": null,
@@ -505,7 +473,7 @@
           "epochEndDate": 1648182180000,
           "messageId": "2000001324",
           "statusType": "Issue",
-          "datePosted": "2022/03/25 13:52 JST",
+          "datePosted": "2022/03/25 17:00 JST",
           "startDate": "2022/03/25 06:00 JST",
           "endDate": "2022/03/25 13:23 JST",
           "affectedServices": null,
@@ -518,23 +486,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1647982020000,
-          "epochEndDate": 1647987060000,
-          "messageId": "2000001319",
-          "statusType": "Issue",
-          "datePosted": "2022/03/25 13:52 JST",
-          "startDate": "2022/03/23 05:47 JST",
-          "endDate": "2022/03/23 07:12 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Web Apps (iCloud.com)",
-            "天気"
-          ],
-          "eventStatus": "resolved",
-          "message": "「天気」で問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "天気"
     }
