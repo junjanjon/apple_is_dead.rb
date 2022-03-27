@@ -159,28 +159,136 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648342980000,
+          "epochEndDate": 1648366920000,
+          "messageId": "2000001325",
+          "statusType": "Issue",
+          "datePosted": "2022/03/27 17:00 JST",
+          "startDate": "2022/03/27 10:03 JST",
+          "endDate": "2022/03/27 16:42 JST",
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloud Drive"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648342980000,
+          "epochEndDate": 1648366920000,
+          "messageId": "2000001325",
+          "statusType": "Issue",
+          "datePosted": "2022/03/27 17:00 JST",
+          "startDate": "2022/03/27 10:03 JST",
+          "endDate": "2022/03/27 16:42 JST",
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648342980000,
+          "epochEndDate": 1648366920000,
+          "messageId": "2000001325",
+          "statusType": "Issue",
+          "datePosted": "2022/03/27 17:00 JST",
+          "startDate": "2022/03/27 10:03 JST",
+          "endDate": "2022/03/27 16:42 JST",
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "ユーザはiCloud利用時に誤った認証エラーを受け取った可能性があります。"
+        }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648342980000,
+          "epochEndDate": 1648366920000,
+          "messageId": "2000001325",
+          "statusType": "Issue",
+          "datePosted": "2022/03/27 17:00 JST",
+          "startDate": "2022/03/27 10:03 JST",
+          "endDate": "2022/03/27 16:42 JST",
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "カレンダーWebアプリケーションのカレンダーがiCloud.com上でアクセス不可能だった可能性があります。"
+        }
       ],
       "serviceName": "iCloudカレンダー"
     },
@@ -189,19 +297,31 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1648153620000,
-          "epochEndDate": 1648155540000,
-          "messageId": "2000001322",
+          "epochStartDate": 1648342980000,
+          "epochEndDate": 1648366920000,
+          "messageId": "2000001325",
           "statusType": "Issue",
-          "datePosted": "2022/03/27 16:00 JST",
-          "startDate": "2022/03/25 05:27 JST",
-          "endDate": "2022/03/25 07:55 JST",
+          "datePosted": "2022/03/27 17:00 JST",
+          "startDate": "2022/03/27 10:03 JST",
+          "endDate": "2022/03/27 16:42 JST",
           "affectedServices": [
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
             "iCloudキーチェーン",
-            "iMessage"
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            null
           ],
           "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
         }
       ],
       "serviceName": "iCloudキーチェーン"
@@ -216,14 +336,68 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648342980000,
+          "epochEndDate": 1648366920000,
+          "messageId": "2000001325",
+          "statusType": "Issue",
+          "datePosted": "2022/03/27 17:00 JST",
+          "startDate": "2022/03/27 10:03 JST",
+          "endDate": "2022/03/27 16:42 JST",
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "ユーザがデータをバックアップできなかった可能性があります。"
+        }
       ],
       "serviceName": "iCloudバックアップ"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648342980000,
+          "epochEndDate": 1648366920000,
+          "messageId": "2000001325",
+          "statusType": "Issue",
+          "datePosted": "2022/03/27 17:00 JST",
+          "startDate": "2022/03/27 10:03 JST",
+          "endDate": "2022/03/27 16:42 JST",
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloudブックマークおよびタブ"
     },
@@ -237,50 +411,143 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648342980000,
+          "epochEndDate": 1648366920000,
+          "messageId": "2000001325",
+          "statusType": "Issue",
+          "datePosted": "2022/03/27 17:00 JST",
+          "startDate": "2022/03/27 10:03 JST",
+          "endDate": "2022/03/27 16:42 JST",
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "メールの速度が低下、またはメールを利用できなかった可能性があります。メールの復旧後、受信メッセージの遅延が発生した可能性があります。"
+        }
       ],
       "serviceName": "iCloudメール"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648342980000,
+          "epochEndDate": 1648366920000,
+          "messageId": "2000001325",
+          "statusType": "Issue",
+          "datePosted": "2022/03/27 17:00 JST",
+          "startDate": "2022/03/27 10:03 JST",
+          "endDate": "2022/03/27 16:42 JST",
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloudメモ"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648342980000,
+          "epochEndDate": 1648366920000,
+          "messageId": "2000001325",
+          "statusType": "Issue",
+          "datePosted": "2022/03/27 17:00 JST",
+          "startDate": "2022/03/27 10:03 JST",
+          "endDate": "2022/03/27 16:42 JST",
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloudリマインダー"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648342980000,
+          "epochEndDate": 1648366920000,
+          "messageId": "2000001325",
+          "statusType": "Issue",
+          "datePosted": "2022/03/27 17:00 JST",
+          "startDate": "2022/03/27 10:03 JST",
+          "endDate": "2022/03/27 16:42 JST",
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "serviceName": "iCloud連絡先"
     },
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1648153620000,
-          "epochEndDate": 1648162500000,
-          "messageId": "2000001322",
-          "statusType": "Issue",
-          "datePosted": "2022/03/27 16:00 JST",
-          "startDate": "2022/03/25 05:27 JST",
-          "endDate": "2022/03/25 07:55 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "iMessage"
-          ],
-          "eventStatus": "resolved",
-          "message": "iMessage で添付ファイルを送信できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iMessage"
     },
@@ -315,19 +582,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1648158600000,
-          "epochEndDate": 1648163160000,
-          "messageId": "2000001323",
-          "statusType": "Issue",
-          "datePosted": "2022/03/27 16:00 JST",
-          "startDate": "2022/03/25 06:50 JST",
-          "endDate": "2022/03/25 08:06 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できませんでした。"
-        }
+
       ],
       "serviceName": "iWork for iCloud"
     },
@@ -390,7 +645,34 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1648342980000,
+          "epochEndDate": 1648366920000,
+          "messageId": "2000001325",
+          "statusType": "Issue",
+          "datePosted": "2022/03/27 17:00 JST",
+          "startDate": "2022/03/27 10:03 JST",
+          "endDate": "2022/03/27 16:42 JST",
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "スクリーンタイム"
     },
@@ -469,16 +751,31 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1648155600000,
-          "epochEndDate": 1648182180000,
-          "messageId": "2000001324",
+          "epochStartDate": 1648342980000,
+          "epochEndDate": 1648366920000,
+          "messageId": "2000001325",
           "statusType": "Issue",
-          "datePosted": "2022/03/27 16:00 JST",
-          "startDate": "2022/03/25 06:00 JST",
-          "endDate": "2022/03/25 13:23 JST",
-          "affectedServices": null,
+          "datePosted": "2022/03/27 17:00 JST",
+          "startDate": "2022/03/27 10:03 JST",
+          "endDate": "2022/03/27 16:42 JST",
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloud Web Apps (iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真",
+            null
+          ],
           "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
         }
       ],
       "serviceName": "写真"
