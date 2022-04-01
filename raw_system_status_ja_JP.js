@@ -75,7 +75,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1648784340000,
+          "epochEndDate": null,
+          "messageId": "1000001104",
+          "statusType": "Issue",
+          "datePosted": "2022/04/01 16:11 JST",
+          "startDate": "2022/04/01 12:39 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "アメリカン・エキスプレス・インターナショナル, Inc.カード保有者は、Apple Payで既存のカードの追加、停止、または削除ができない場合があります。"
+        }
       ],
       "serviceName": "Apple Pay & ウォレット"
     },
@@ -291,7 +303,7 @@
           "epochEndDate": 1648782900000,
           "messageId": "1000001103",
           "statusType": "Issue",
-          "datePosted": "2022/04/01 12:39 JST",
+          "datePosted": "2022/04/01 16:11 JST",
           "startDate": "2022/04/01 09:15 JST",
           "endDate": "2022/04/01 12:15 JST",
           "affectedServices": null,
