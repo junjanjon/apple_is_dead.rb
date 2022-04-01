@@ -81,7 +81,7 @@
           "epochEndDate": null,
           "messageId": "1000001104",
           "statusType": "Issue",
-          "datePosted": "2022/04/01 17:22 JST",
+          "datePosted": "2022/04/01 18:35 JST",
           "startDate": "2022/04/01 12:39 JST",
           "endDate": null,
           "affectedServices": null,
@@ -298,17 +298,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1648795800000,
-          "epochEndDate": null,
+          "epochEndDate": 1648803000000,
           "messageId": "1000001105",
           "statusType": "Issue",
-          "datePosted": "2022/04/01 17:22 JST",
+          "datePosted": "2022/04/01 18:35 JST",
           "startDate": "2022/04/01 15:50 JST",
-          "endDate": null,
+          "endDate": "2022/04/01 17:50 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -316,7 +316,7 @@
           "epochEndDate": 1648782900000,
           "messageId": "1000001103",
           "statusType": "Issue",
-          "datePosted": "2022/04/01 17:22 JST",
+          "datePosted": "2022/04/01 18:35 JST",
           "startDate": "2022/04/01 09:15 JST",
           "endDate": "2022/04/01 12:15 JST",
           "affectedServices": null,
