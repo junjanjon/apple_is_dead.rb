@@ -76,17 +76,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1648784340000,
-          "epochEndDate": null,
+          "epochEndDate": 1648819740000,
           "messageId": "1000001104",
           "statusType": "Issue",
-          "datePosted": "2022/04/01 20:35 JST",
+          "datePosted": "2022/04/02 00:11 JST",
           "startDate": "2022/04/01 12:39 JST",
-          "endDate": null,
+          "endDate": "2022/04/01 22:29 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "アメリカン・エキスプレス・インターナショナル, Inc.カード保有者は、Apple Payで既存のカードの追加、停止、または削除ができない場合があります。"
+          "eventStatus": "resolved",
+          "message": "アメリカン・エキスプレス・インターナショナル, Inc.カード保有者は、Apple Payに既存のカードの追加、停止、または削除ができませんでした。"
         }
       ],
       "serviceName": "Apple Pay & ウォレット"
@@ -303,7 +303,7 @@
           "epochEndDate": 1648803000000,
           "messageId": "1000001105",
           "statusType": "Issue",
-          "datePosted": "2022/04/01 20:35 JST",
+          "datePosted": "2022/04/02 00:11 JST",
           "startDate": "2022/04/01 15:50 JST",
           "endDate": "2022/04/01 17:50 JST",
           "affectedServices": null,
@@ -316,7 +316,7 @@
           "epochEndDate": 1648782900000,
           "messageId": "1000001103",
           "statusType": "Issue",
-          "datePosted": "2022/04/01 20:35 JST",
+          "datePosted": "2022/04/02 00:11 JST",
           "startDate": "2022/04/01 09:15 JST",
           "endDate": "2022/04/01 12:15 JST",
           "affectedServices": null,
