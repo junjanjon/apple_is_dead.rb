@@ -1,6 +1,6 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
@@ -75,19 +75,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1648784340000,
-          "epochEndDate": 1648819740000,
-          "messageId": "1000001104",
-          "statusType": "Issue",
-          "datePosted": "2022/04/04 12:45 JST",
-          "startDate": "2022/04/01 12:39 JST",
-          "endDate": "2022/04/01 22:29 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "アメリカン・エキスプレス・インターナショナル, Inc.カード保有者は、Apple Payに既存のカードの追加、停止、または削除ができませんでした。"
-        }
+
       ],
       "serviceName": "Apple Pay & ウォレット"
     },
@@ -205,7 +193,7 @@
           "epochEndDate": 1649029500000,
           "messageId": "2000001339",
           "statusType": "Issue",
-          "datePosted": "2022/04/04 12:45 JST",
+          "datePosted": "2022/04/04 17:00 JST",
           "startDate": "2022/04/04 07:10 JST",
           "endDate": "2022/04/04 08:45 JST",
           "affectedServices": [
@@ -315,24 +303,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1648795800000,
-          "epochEndDate": 1648803000000,
-          "messageId": "1000001105",
-          "statusType": "Issue",
-          "datePosted": "2022/04/04 12:45 JST",
-          "startDate": "2022/04/01 15:50 JST",
-          "endDate": "2022/04/01 17:50 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1649032200000,
           "epochEndDate": 1649043000000,
           "messageId": "2000001340",
           "statusType": "Issue",
-          "datePosted": "2022/04/04 12:45 JST",
+          "datePosted": "2022/04/04 17:00 JST",
           "startDate": "2022/04/04 09:30 JST",
           "endDate": "2022/04/04 12:30 JST",
           "affectedServices": null,
@@ -407,7 +382,7 @@
           "epochEndDate": 1649029500000,
           "messageId": "2000001339",
           "statusType": "Issue",
-          "datePosted": "2022/04/04 12:45 JST",
+          "datePosted": "2022/04/04 17:00 JST",
           "startDate": "2022/04/04 07:10 JST",
           "endDate": "2022/04/04 08:45 JST",
           "affectedServices": [
@@ -500,7 +475,7 @@
           "epochEndDate": 1649029500000,
           "messageId": "2000001339",
           "statusType": "Issue",
-          "datePosted": "2022/04/04 12:45 JST",
+          "datePosted": "2022/04/04 17:00 JST",
           "startDate": "2022/04/04 07:10 JST",
           "endDate": "2022/04/04 08:45 JST",
           "affectedServices": [
