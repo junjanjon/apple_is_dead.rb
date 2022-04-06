@@ -187,23 +187,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1649023800000,
-          "epochEndDate": 1649029500000,
-          "messageId": "2000001339",
-          "statusType": "Issue",
-          "datePosted": "2022/04/05 02:19 JST",
-          "startDate": "2022/04/04 07:10 JST",
-          "endDate": "2022/04/04 08:45 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
-        }
+
       ],
       "serviceName": "iCloudキーチェーン"
     },
@@ -301,19 +285,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1649032200000,
-          "epochEndDate": 1649043000000,
-          "messageId": "2000001340",
-          "statusType": "Issue",
-          "datePosted": "2022/04/05 02:19 JST",
-          "startDate": "2022/04/04 09:30 JST",
-          "endDate": "2022/04/04 12:30 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ],
       "serviceName": "iWork for iCloud"
     },
@@ -376,23 +348,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1649023800000,
-          "epochEndDate": 1649029500000,
-          "messageId": "2000001339",
-          "statusType": "Issue",
-          "datePosted": "2022/04/05 02:19 JST",
-          "startDate": "2022/04/04 07:10 JST",
-          "endDate": "2022/04/04 08:45 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの動作速度が通常より低下した可能性があります。"
-        }
+
       ],
       "serviceName": "スクリーンタイム"
     },
@@ -469,23 +425,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1649023800000,
-          "epochEndDate": 1649029500000,
-          "messageId": "2000001339",
-          "statusType": "Issue",
-          "datePosted": "2022/04/05 02:19 JST",
-          "startDate": "2022/04/04 07:10 JST",
-          "endDate": "2022/04/04 08:45 JST",
-          "affectedServices": [
-            "iCloudキーチェーン",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "新しい写真とビデオが共有アルバムに表示されなかった可能性があります。"
-        }
+
       ],
       "serviceName": "写真"
     },
