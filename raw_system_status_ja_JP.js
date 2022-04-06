@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "redirectUrl": null,
@@ -223,17 +223,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1649253900000,
-          "epochEndDate": null,
+          "epochEndDate": 1649263740000,
           "messageId": "1000001123",
           "statusType": "Issue",
-          "datePosted": "2022/04/07 01:15 JST",
+          "datePosted": "2022/04/07 02:47 JST",
           "startDate": "2022/04/06 23:05 JST",
-          "endDate": null,
+          "endDate": "2022/04/07 01:49 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "serviceName": "iCloudメール"
