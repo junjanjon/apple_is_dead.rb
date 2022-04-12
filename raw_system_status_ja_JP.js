@@ -294,6 +294,13 @@
       "events": [
 
       ],
+      "serviceName": "iWorkの共同制作機能"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
       "serviceName": "Mac App Store"
     },
     {
