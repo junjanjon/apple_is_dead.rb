@@ -1,6 +1,6 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
@@ -76,17 +76,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1650452040000,
-          "epochEndDate": null,
+          "epochEndDate": 1650486180000,
           "messageId": "2000001367",
           "statusType": "Outage",
-          "datePosted": "2022/04/21 01:20 JST",
+          "datePosted": "2022/04/21 06:29 JST",
           "startDate": "2022/04/20 19:54 JST",
-          "endDate": null,
+          "endDate": "2022/04/21 05:23 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "Mastercardカード保有者は、Apple Payにカードの追加ができない場合があります。"
+          "eventStatus": "resolved",
+          "message": "Mastercardカード保有者は、Apple Payにカードの追加ができませんでした。"
         }
       ],
       "serviceName": "Apple Pay & ウォレット"
