@@ -81,7 +81,7 @@
           "epochEndDate": null,
           "messageId": "2000001370",
           "statusType": "Outage",
-          "datePosted": "2022/04/21 23:03 JST",
+          "datePosted": "2022/04/22 17:00 JST",
           "startDate": "2022/04/21 19:44 JST",
           "endDate": null,
           "affectedServices": null,
