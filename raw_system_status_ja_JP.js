@@ -1,13 +1,17 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "すべてのユーザに影響しました",
+          "epochStartDate": 1650874500000,
+          "epochEndDate": 1650902520000,
+          "messageId": "1000001165",
           "statusType": "Issue",
-          "datePosted": "2022/04/26 05:39 JST",
+          "datePosted": "2022/04/26 07:50 JST",
           "startDate": "2022/04/25 17:15 JST",
           "endDate": "2022/04/26 01:02 JST",
           "affectedServices": [
@@ -15,10 +19,6 @@
             "Apple Music"
           ],
           "eventStatus": "resolved",
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1650874500000,
-          "epochEndDate": 1650902520000,
-          "messageId": "1000001165",
           "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
@@ -56,8 +56,12 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "すべてのユーザに影響しました",
+          "epochStartDate": 1650874500000,
+          "epochEndDate": 1650902520000,
+          "messageId": "1000001165",
           "statusType": "Issue",
-          "datePosted": "2022/04/26 05:39 JST",
+          "datePosted": "2022/04/26 07:50 JST",
           "startDate": "2022/04/25 17:15 JST",
           "endDate": "2022/04/26 01:02 JST",
           "affectedServices": [
@@ -65,10 +69,6 @@
             "Apple Music"
           ],
           "eventStatus": "resolved",
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1650874500000,
-          "epochEndDate": 1650902520000,
-          "messageId": "1000001165",
           "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
