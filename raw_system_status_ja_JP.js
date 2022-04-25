@@ -6,20 +6,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
-          "epochStartDate": 1650901260000,
-          "epochEndDate": null,
-          "messageId": "1000001165",
           "statusType": "Issue",
-          "datePosted": "2022/04/26 00:44 JST",
-          "startDate": "2022/04/26 00:41 JST",
-          "endDate": null,
+          "datePosted": "2022/04/26 04:51 JST",
+          "startDate": "2022/04/25 17:15 JST",
+          "endDate": "2022/04/26 01:02 JST",
           "affectedServices": [
             "App Store",
             "Apple Music"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "すべてのユーザに影響しました",
+          "epochStartDate": 1650874500000,
+          "epochEndDate": 1650902520000,
+          "messageId": "1000001165",
+          "message": "このサービスに関する問題が発生した可能性があります。"
         }
       ],
       "serviceName": "App Store"
@@ -56,20 +56,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
-          "epochStartDate": 1650901260000,
-          "epochEndDate": null,
-          "messageId": "1000001165",
           "statusType": "Issue",
-          "datePosted": "2022/04/26 00:44 JST",
-          "startDate": "2022/04/26 00:41 JST",
-          "endDate": null,
+          "datePosted": "2022/04/26 04:51 JST",
+          "startDate": "2022/04/25 17:15 JST",
+          "endDate": "2022/04/26 01:02 JST",
           "affectedServices": [
             "App Store",
             "Apple Music"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "usersAffected": "すべてのユーザに影響しました",
+          "epochStartDate": 1650874500000,
+          "epochEndDate": 1650902520000,
+          "messageId": "1000001165",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "serviceName": "Apple Music"
