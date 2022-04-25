@@ -7,7 +7,7 @@
       "events": [
         {
           "statusType": "Issue",
-          "datePosted": "2022/04/26 04:51 JST",
+          "datePosted": "2022/04/26 05:39 JST",
           "startDate": "2022/04/25 17:15 JST",
           "endDate": "2022/04/26 01:02 JST",
           "affectedServices": [
@@ -57,7 +57,7 @@
       "events": [
         {
           "statusType": "Issue",
-          "datePosted": "2022/04/26 04:51 JST",
+          "datePosted": "2022/04/26 05:39 JST",
           "startDate": "2022/04/25 17:15 JST",
           "endDate": "2022/04/26 01:02 JST",
           "affectedServices": [
