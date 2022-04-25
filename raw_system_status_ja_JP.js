@@ -5,7 +5,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1650901260000,
+          "epochEndDate": null,
+          "messageId": "1000001165",
+          "statusType": "Issue",
+          "datePosted": "2022/04/26 00:44 JST",
+          "startDate": "2022/04/26 00:41 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Music"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "App Store"
     },
@@ -40,7 +55,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1650901260000,
+          "epochEndDate": null,
+          "messageId": "1000001165",
+          "statusType": "Issue",
+          "datePosted": "2022/04/26 00:44 JST",
+          "startDate": "2022/04/26 00:41 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Music"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "Apple Music"
     },
