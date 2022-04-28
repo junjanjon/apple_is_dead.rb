@@ -1,26 +1,11 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1650874500000,
-          "epochEndDate": 1650902520000,
-          "messageId": "1000001165",
-          "statusType": "Issue",
-          "datePosted": "2022/04/28 07:34 JST",
-          "startDate": "2022/04/25 17:15 JST",
-          "endDate": "2022/04/26 01:02 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Music"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "App Store"
     },
@@ -55,22 +40,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1650874500000,
-          "epochEndDate": 1650902520000,
-          "messageId": "1000001165",
-          "statusType": "Issue",
-          "datePosted": "2022/04/28 07:34 JST",
-          "startDate": "2022/04/25 17:15 JST",
-          "endDate": "2022/04/26 01:02 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Music"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "Apple Music"
     },
@@ -106,16 +76,16 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1651089960000,
-          "epochEndDate": null,
-          "messageId": "2000001377",
           "statusType": "Outage",
-          "datePosted": "2022/04/28 07:34 JST",
+          "datePosted": "2022/04/28 17:00 JST",
           "startDate": "2022/04/28 05:06 JST",
           "endDate": null,
           "affectedServices": null,
           "eventStatus": "ongoing",
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1651089960000,
+          "epochEndDate": null,
+          "messageId": "2000001377",
           "message": "Mastercardカード保有者は、Apple Payでカードの追加ができない場合があります。"
         }
       ],
