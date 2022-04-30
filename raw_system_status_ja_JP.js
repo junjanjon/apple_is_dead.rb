@@ -76,30 +76,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1651169040000,
           "epochEndDate": 1651194000000,
           "messageId": "2000001379",
           "statusType": "Maintenance",
-          "datePosted": "2022/04/29 05:17 JST",
+          "datePosted": "2022/04/30 17:00 JST",
           "startDate": "2022/04/29 03:04 JST",
           "endDate": "2022/04/29 10:00 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "Mastercardカード保有者は、Apple Payにカードの追加ができない場合があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1651089960000,
-          "epochEndDate": 1651106460000,
-          "messageId": "2000001377",
-          "statusType": "Outage",
-          "datePosted": "2022/04/29 05:17 JST",
-          "startDate": "2022/04/28 05:06 JST",
-          "endDate": "2022/04/28 09:41 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "Mastercardカード保有者は、Apple Payでカードの追加ができませんでした。"
+          "eventStatus": "completed",
+          "message": "Mastercardカード保有者は、Apple Payにカードの追加ができませんでした。"
         }
       ],
       "serviceName": "Apple Pay & ウォレット"
