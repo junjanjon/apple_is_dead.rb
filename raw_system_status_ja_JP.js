@@ -1,6 +1,6 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
@@ -113,13 +113,6 @@
 
       ],
       "serviceName": "Device Enrollment Program"
-    },
-    {
-      "redirectUrl": null,
-      "events": [
-
-      ],
-      "serviceName": "Documents in the Cloud"
     },
     {
       "redirectUrl": null,
