@@ -85,7 +85,7 @@
         {
           "messageId": "2000001419",
           "statusType": "Issue",
-          "datePosted": "2022/05/11 02:15 JST",
+          "datePosted": "2022/05/11 04:14 JST",
           "startDate": "2022/05/10 09:00 JST",
           "endDate": "2022/05/10 10:10 JST",
           "affectedServices": [
@@ -142,7 +142,7 @@
         {
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/11 02:15 JST",
+          "datePosted": "2022/05/11 04:14 JST",
           "startDate": "2022/05/11 01:06 JST",
           "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
@@ -215,7 +215,7 @@
         {
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/11 02:15 JST",
+          "datePosted": "2022/05/11 04:14 JST",
           "startDate": "2022/05/11 01:06 JST",
           "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
@@ -253,7 +253,7 @@
         {
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/11 02:15 JST",
+          "datePosted": "2022/05/11 04:14 JST",
           "startDate": "2022/05/11 01:06 JST",
           "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
@@ -281,7 +281,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "messageId": "2000001424",
+          "statusType": "Issue",
+          "datePosted": "2022/05/11 04:14 JST",
+          "startDate": "2022/05/11 02:15 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1652202900000,
+          "epochEndDate": null,
+          "message": "メールの送受信またはアクセスができていない可能性があります。"
+        }
       ],
       "serviceName": "iCloudメール"
     },
@@ -417,7 +429,7 @@
         {
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/11 02:15 JST",
+          "datePosted": "2022/05/11 04:14 JST",
           "startDate": "2022/05/11 01:06 JST",
           "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
