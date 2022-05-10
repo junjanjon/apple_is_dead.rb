@@ -85,18 +85,18 @@
         {
           "messageId": "2000001419",
           "statusType": "Issue",
-          "datePosted": "2022/05/10 09:58 JST",
+          "datePosted": "2022/05/10 10:24 JST",
           "startDate": "2022/05/10 09:00 JST",
-          "endDate": null,
+          "endDate": "2022/05/10 10:10 JST",
           "affectedServices": [
             "Apple School Manager",
             null
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1652140800000,
-          "epochEndDate": null,
-          "message": "ユーザがサインインできない可能性があります。"
+          "epochEndDate": 1652145000000,
+          "message": "ユーザがサインインできなかった可能性があります。"
         }
       ],
       "serviceName": "Apple School Manager"
