@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "redirectUrl": null,
@@ -83,9 +83,12 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1652140800000,
+          "epochEndDate": 1652145000000,
           "messageId": "2000001419",
           "statusType": "Issue",
-          "datePosted": "2022/05/10 10:24 JST",
+          "datePosted": "2022/05/11 01:25 JST",
           "startDate": "2022/05/10 09:00 JST",
           "endDate": "2022/05/10 10:10 JST",
           "affectedServices": [
@@ -93,9 +96,6 @@
             null
           ],
           "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652140800000,
-          "epochEndDate": 1652145000000,
           "message": "ユーザがサインインできなかった可能性があります。"
         }
       ],
