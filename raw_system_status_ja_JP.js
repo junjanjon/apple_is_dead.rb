@@ -85,7 +85,7 @@
         {
           "messageId": "2000001419",
           "statusType": "Issue",
-          "datePosted": "2022/05/11 02:01 JST",
+          "datePosted": "2022/05/11 02:15 JST",
           "startDate": "2022/05/10 09:00 JST",
           "endDate": "2022/05/10 10:10 JST",
           "affectedServices": [
@@ -142,20 +142,20 @@
         {
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/11 02:01 JST",
+          "datePosted": "2022/05/11 02:15 JST",
           "startDate": "2022/05/11 01:06 JST",
-          "endDate": null,
+          "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
             "Game Center",
             "iCloudキーチェーン",
             "iCloudブックマークおよびタブ",
             "スクリーンタイム"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1652198760000,
-          "epochEndDate": null,
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "epochEndDate": 1652202000000,
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "Game Center"
@@ -215,20 +215,20 @@
         {
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/11 02:01 JST",
+          "datePosted": "2022/05/11 02:15 JST",
           "startDate": "2022/05/11 01:06 JST",
-          "endDate": null,
+          "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
             "Game Center",
             "iCloudキーチェーン",
             "iCloudブックマークおよびタブ",
             "スクリーンタイム"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1652198760000,
-          "epochEndDate": null,
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "epochEndDate": 1652202000000,
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudキーチェーン"
@@ -253,20 +253,20 @@
         {
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/11 02:01 JST",
+          "datePosted": "2022/05/11 02:15 JST",
           "startDate": "2022/05/11 01:06 JST",
-          "endDate": null,
+          "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
             "Game Center",
             "iCloudキーチェーン",
             "iCloudブックマークおよびタブ",
             "スクリーンタイム"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1652198760000,
-          "epochEndDate": null,
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "epochEndDate": 1652202000000,
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudブックマークおよびタブ"
@@ -417,20 +417,20 @@
         {
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/11 02:01 JST",
+          "datePosted": "2022/05/11 02:15 JST",
           "startDate": "2022/05/11 01:06 JST",
-          "endDate": null,
+          "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
             "Game Center",
             "iCloudキーチェーン",
             "iCloudブックマークおよびタブ",
             "スクリーンタイム"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
+          "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1652198760000,
-          "epochEndDate": null,
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "epochEndDate": 1652202000000,
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "スクリーンタイム"
