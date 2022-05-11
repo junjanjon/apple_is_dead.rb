@@ -88,7 +88,7 @@
           "epochEndDate": 1652145000000,
           "messageId": "2000001419",
           "statusType": "Issue",
-          "datePosted": "2022/05/12 03:27 JST",
+          "datePosted": "2022/05/12 03:36 JST",
           "startDate": "2022/05/10 09:00 JST",
           "endDate": "2022/05/10 10:10 JST",
           "affectedServices": [
@@ -145,7 +145,7 @@
           "epochEndDate": 1652202000000,
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/12 03:27 JST",
+          "datePosted": "2022/05/12 03:36 JST",
           "startDate": "2022/05/11 01:06 JST",
           "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
@@ -218,7 +218,7 @@
           "epochEndDate": 1652202000000,
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/12 03:27 JST",
+          "datePosted": "2022/05/12 03:36 JST",
           "startDate": "2022/05/11 01:06 JST",
           "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
@@ -256,7 +256,7 @@
           "epochEndDate": 1652202000000,
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/12 03:27 JST",
+          "datePosted": "2022/05/12 03:36 JST",
           "startDate": "2022/05/11 01:06 JST",
           "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
@@ -287,7 +287,7 @@
           "epochEndDate": 1652210280000,
           "messageId": "2000001424",
           "statusType": "Issue",
-          "datePosted": "2022/05/12 03:27 JST",
+          "datePosted": "2022/05/12 03:36 JST",
           "startDate": "2022/05/11 02:15 JST",
           "endDate": "2022/05/11 04:18 JST",
           "affectedServices": null,
@@ -361,11 +361,14 @@
           "epochStartDate": 1652288700000,
           "epochEndDate": null,
           "messageId": "2000001426",
-          "statusType": "Issue",
-          "datePosted": "2022/05/12 03:27 JST",
+          "statusType": "Outage",
+          "datePosted": "2022/05/12 03:36 JST",
           "startDate": "2022/05/12 02:05 JST",
           "endDate": null,
-          "affectedServices": null,
+          "affectedServices": [
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
           "eventStatus": "ongoing",
           "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
         }
@@ -375,7 +378,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1652288700000,
+          "epochEndDate": null,
+          "messageId": "2000001426",
+          "statusType": "Outage",
+          "datePosted": "2022/05/12 03:36 JST",
+          "startDate": "2022/05/12 02:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iWorkの共同制作機能"
     },
@@ -444,7 +462,7 @@
           "epochEndDate": 1652202000000,
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/12 03:27 JST",
+          "datePosted": "2022/05/12 03:36 JST",
           "startDate": "2022/05/11 01:06 JST",
           "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
