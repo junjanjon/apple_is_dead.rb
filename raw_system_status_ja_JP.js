@@ -127,7 +127,7 @@
         {
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/12 17:00 JST",
+          "datePosted": "2022/05/12 17:36 JST",
           "startDate": "2022/05/11 01:06 JST",
           "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
@@ -200,7 +200,7 @@
         {
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/12 17:00 JST",
+          "datePosted": "2022/05/12 17:36 JST",
           "startDate": "2022/05/11 01:06 JST",
           "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
@@ -238,7 +238,7 @@
         {
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/12 17:00 JST",
+          "datePosted": "2022/05/12 17:36 JST",
           "startDate": "2022/05/11 01:06 JST",
           "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
@@ -269,7 +269,7 @@
         {
           "messageId": "2000001424",
           "statusType": "Issue",
-          "datePosted": "2022/05/12 17:00 JST",
+          "datePosted": "2022/05/12 17:36 JST",
           "startDate": "2022/05/11 02:15 JST",
           "endDate": "2022/05/11 04:18 JST",
           "affectedServices": null,
@@ -344,7 +344,7 @@
         {
           "messageId": "2000001426",
           "statusType": "Outage",
-          "datePosted": "2022/05/12 17:00 JST",
+          "datePosted": "2022/05/12 17:36 JST",
           "startDate": "2022/05/12 02:05 JST",
           "endDate": "2022/05/12 03:38 JST",
           "affectedServices": [
@@ -366,7 +366,7 @@
         {
           "messageId": "2000001426",
           "statusType": "Outage",
-          "datePosted": "2022/05/12 17:00 JST",
+          "datePosted": "2022/05/12 17:36 JST",
           "startDate": "2022/05/12 02:05 JST",
           "endDate": "2022/05/12 03:38 JST",
           "affectedServices": [
@@ -444,7 +444,7 @@
         {
           "messageId": "2000001423",
           "statusType": "Issue",
-          "datePosted": "2022/05/12 17:00 JST",
+          "datePosted": "2022/05/12 17:36 JST",
           "startDate": "2022/05/11 01:06 JST",
           "endDate": "2022/05/11 02:00 JST",
           "affectedServices": [
