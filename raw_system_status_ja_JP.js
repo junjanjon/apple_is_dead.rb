@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "redirectUrl": null,
@@ -41,9 +41,12 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1652380920000,
+          "epochEndDate": 1652392440000,
           "messageId": "2000001429",
           "statusType": "Issue",
-          "datePosted": "2022/05/13 06:57 JST",
+          "datePosted": "2022/05/13 17:00 JST",
           "startDate": "2022/05/13 03:42 JST",
           "endDate": "2022/05/13 06:54 JST",
           "affectedServices": [
@@ -53,9 +56,6 @@
             "ラジオ"
           ],
           "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652380920000,
-          "epochEndDate": 1652392440000,
           "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
@@ -79,9 +79,12 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1652380920000,
+          "epochEndDate": 1652392440000,
           "messageId": "2000001429",
           "statusType": "Issue",
-          "datePosted": "2022/05/13 06:57 JST",
+          "datePosted": "2022/05/13 17:00 JST",
           "startDate": "2022/05/13 03:42 JST",
           "endDate": "2022/05/13 06:54 JST",
           "affectedServices": [
@@ -91,9 +94,6 @@
             "ラジオ"
           ],
           "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652380920000,
-          "epochEndDate": 1652392440000,
           "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
@@ -158,24 +158,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "messageId": "2000001423",
-          "statusType": "Issue",
-          "datePosted": "2022/05/13 06:57 JST",
-          "startDate": "2022/05/11 01:06 JST",
-          "endDate": "2022/05/11 02:00 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "スクリーンタイム"
-          ],
-          "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652198760000,
-          "epochEndDate": 1652202000000,
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Game Center"
     },
@@ -231,24 +214,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "messageId": "2000001423",
-          "statusType": "Issue",
-          "datePosted": "2022/05/13 06:57 JST",
-          "startDate": "2022/05/11 01:06 JST",
-          "endDate": "2022/05/11 02:00 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "スクリーンタイム"
-          ],
-          "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652198760000,
-          "epochEndDate": 1652202000000,
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudキーチェーン"
     },
@@ -269,24 +235,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "messageId": "2000001423",
-          "statusType": "Issue",
-          "datePosted": "2022/05/13 06:57 JST",
-          "startDate": "2022/05/11 01:06 JST",
-          "endDate": "2022/05/11 02:00 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "スクリーンタイム"
-          ],
-          "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652198760000,
-          "epochEndDate": 1652202000000,
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudブックマークおよびタブ"
     },
@@ -300,19 +249,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "messageId": "2000001424",
-          "statusType": "Issue",
-          "datePosted": "2022/05/13 06:57 JST",
-          "startDate": "2022/05/11 02:15 JST",
-          "endDate": "2022/05/11 04:18 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652202900000,
-          "epochEndDate": 1652210280000,
-          "message": "メールの送受信またはアクセスができなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
@@ -355,9 +292,12 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1652380920000,
+          "epochEndDate": 1652392440000,
           "messageId": "2000001429",
           "statusType": "Issue",
-          "datePosted": "2022/05/13 06:57 JST",
+          "datePosted": "2022/05/13 17:00 JST",
           "startDate": "2022/05/13 03:42 JST",
           "endDate": "2022/05/13 06:54 JST",
           "affectedServices": [
@@ -367,9 +307,6 @@
             "ラジオ"
           ],
           "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652380920000,
-          "epochEndDate": 1652392440000,
           "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
@@ -393,9 +330,12 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1652288700000,
+          "epochEndDate": 1652294280000,
           "messageId": "2000001426",
           "statusType": "Outage",
-          "datePosted": "2022/05/13 06:57 JST",
+          "datePosted": "2022/05/13 17:00 JST",
           "startDate": "2022/05/12 02:05 JST",
           "endDate": "2022/05/12 03:38 JST",
           "affectedServices": [
@@ -403,9 +343,6 @@
             "iWorkの共同制作機能"
           ],
           "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652288700000,
-          "epochEndDate": 1652294280000,
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
@@ -415,9 +352,12 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1652288700000,
+          "epochEndDate": 1652294280000,
           "messageId": "2000001426",
           "statusType": "Outage",
-          "datePosted": "2022/05/13 06:57 JST",
+          "datePosted": "2022/05/13 17:00 JST",
           "startDate": "2022/05/12 02:05 JST",
           "endDate": "2022/05/12 03:38 JST",
           "affectedServices": [
@@ -425,9 +365,6 @@
             "iWorkの共同制作機能"
           ],
           "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652288700000,
-          "epochEndDate": 1652294280000,
           "message": "このサービスを利用できなかった可能性があります。"
         }
       ],
@@ -492,24 +429,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "messageId": "2000001423",
-          "statusType": "Issue",
-          "datePosted": "2022/05/13 06:57 JST",
-          "startDate": "2022/05/11 01:06 JST",
-          "endDate": "2022/05/11 02:00 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloudキーチェーン",
-            "iCloudブックマークおよびタブ",
-            "スクリーンタイム"
-          ],
-          "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652198760000,
-          "epochEndDate": 1652202000000,
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "スクリーンタイム"
     },
@@ -559,9 +479,12 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1652380920000,
+          "epochEndDate": 1652392440000,
           "messageId": "2000001429",
           "statusType": "Issue",
-          "datePosted": "2022/05/13 06:57 JST",
+          "datePosted": "2022/05/13 17:00 JST",
           "startDate": "2022/05/13 03:42 JST",
           "endDate": "2022/05/13 06:54 JST",
           "affectedServices": [
@@ -571,9 +494,6 @@
             "ラジオ"
           ],
           "eventStatus": "resolved",
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652380920000,
-          "epochEndDate": 1652392440000,
           "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
