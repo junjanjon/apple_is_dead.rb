@@ -46,7 +46,7 @@
           "epochEndDate": 1652392440000,
           "messageId": "2000001429",
           "statusType": "Issue",
-          "datePosted": "2022/05/15 01:33 JST",
+          "datePosted": "2022/05/15 02:00 JST",
           "startDate": "2022/05/13 03:42 JST",
           "endDate": "2022/05/13 06:54 JST",
           "affectedServices": [
@@ -84,7 +84,7 @@
           "epochEndDate": 1652392440000,
           "messageId": "2000001429",
           "statusType": "Issue",
-          "datePosted": "2022/05/15 01:33 JST",
+          "datePosted": "2022/05/15 02:00 JST",
           "startDate": "2022/05/13 03:42 JST",
           "endDate": "2022/05/13 06:54 JST",
           "affectedServices": [
@@ -122,7 +122,7 @@
           "epochEndDate": 1652499900000,
           "messageId": "2000001433",
           "statusType": "Issue",
-          "datePosted": "2022/05/15 01:33 JST",
+          "datePosted": "2022/05/15 02:00 JST",
           "startDate": "2022/05/14 11:51 JST",
           "endDate": "2022/05/14 12:45 JST",
           "affectedServices": [
@@ -313,7 +313,7 @@
           "epochEndDate": 1652392440000,
           "messageId": "2000001429",
           "statusType": "Issue",
-          "datePosted": "2022/05/15 01:33 JST",
+          "datePosted": "2022/05/15 02:00 JST",
           "startDate": "2022/05/13 03:42 JST",
           "endDate": "2022/05/13 06:54 JST",
           "affectedServices": [
@@ -428,7 +428,7 @@
           "epochEndDate": 1652612400000,
           "messageId": "2000001434",
           "statusType": "Maintenance",
-          "datePosted": "2022/05/15 01:33 JST",
+          "datePosted": "2022/05/15 02:00 JST",
           "startDate": "2022/05/14 22:00 JST",
           "endDate": "2022/05/15 20:00 JST",
           "affectedServices": null,
@@ -482,7 +482,7 @@
           "epochEndDate": 1652392440000,
           "messageId": "2000001429",
           "statusType": "Issue",
-          "datePosted": "2022/05/15 01:33 JST",
+          "datePosted": "2022/05/15 02:00 JST",
           "startDate": "2022/05/13 03:42 JST",
           "endDate": "2022/05/13 06:54 JST",
           "affectedServices": [
