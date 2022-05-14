@@ -46,7 +46,7 @@
           "epochEndDate": 1652392440000,
           "messageId": "2000001429",
           "statusType": "Issue",
-          "datePosted": "2022/05/14 13:19 JST",
+          "datePosted": "2022/05/14 13:38 JST",
           "startDate": "2022/05/13 03:42 JST",
           "endDate": "2022/05/13 06:54 JST",
           "affectedServices": [
@@ -84,7 +84,7 @@
           "epochEndDate": 1652392440000,
           "messageId": "2000001429",
           "statusType": "Issue",
-          "datePosted": "2022/05/14 13:19 JST",
+          "datePosted": "2022/05/14 13:38 JST",
           "startDate": "2022/05/13 03:42 JST",
           "endDate": "2022/05/13 06:54 JST",
           "affectedServices": [
@@ -117,21 +117,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1652489460000,
-          "epochEndDate": null,
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1652496660000,
+          "epochEndDate": 1652499900000,
           "messageId": "2000001433",
           "statusType": "Issue",
-          "datePosted": "2022/05/14 13:19 JST",
-          "startDate": "2022/05/14 09:51 JST",
-          "endDate": null,
+          "datePosted": "2022/05/14 13:38 JST",
+          "startDate": "2022/05/14 11:51 JST",
+          "endDate": "2022/05/14 12:45 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "ユーザがサインインできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "ユーザがサインインできなかった可能性があります。"
         }
       ],
       "serviceName": "Apple School Manager"
@@ -313,7 +313,7 @@
           "epochEndDate": 1652392440000,
           "messageId": "2000001429",
           "statusType": "Issue",
-          "datePosted": "2022/05/14 13:19 JST",
+          "datePosted": "2022/05/14 13:38 JST",
           "startDate": "2022/05/13 03:42 JST",
           "endDate": "2022/05/13 06:54 JST",
           "affectedServices": [
@@ -351,7 +351,7 @@
           "epochEndDate": 1652294280000,
           "messageId": "2000001426",
           "statusType": "Outage",
-          "datePosted": "2022/05/14 13:19 JST",
+          "datePosted": "2022/05/14 13:38 JST",
           "startDate": "2022/05/12 02:05 JST",
           "endDate": "2022/05/12 03:38 JST",
           "affectedServices": [
@@ -373,7 +373,7 @@
           "epochEndDate": 1652294280000,
           "messageId": "2000001426",
           "statusType": "Outage",
-          "datePosted": "2022/05/14 13:19 JST",
+          "datePosted": "2022/05/14 13:38 JST",
           "startDate": "2022/05/12 02:05 JST",
           "endDate": "2022/05/12 03:38 JST",
           "affectedServices": [
@@ -500,7 +500,7 @@
           "epochEndDate": 1652392440000,
           "messageId": "2000001429",
           "statusType": "Issue",
-          "datePosted": "2022/05/14 13:19 JST",
+          "datePosted": "2022/05/14 13:38 JST",
           "startDate": "2022/05/13 03:42 JST",
           "endDate": "2022/05/13 06:54 JST",
           "affectedServices": [
