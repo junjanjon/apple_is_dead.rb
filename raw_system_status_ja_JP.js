@@ -85,7 +85,7 @@
         {
           "messageId": "2000001433",
           "statusType": "Issue",
-          "datePosted": "2022/05/15 17:00 JST",
+          "datePosted": "2022/05/15 20:01 JST",
           "startDate": "2022/05/14 11:51 JST",
           "endDate": "2022/05/14 12:45 JST",
           "affectedServices": [
@@ -374,15 +374,15 @@
         {
           "messageId": "2000001434",
           "statusType": "Maintenance",
-          "datePosted": "2022/05/15 17:00 JST",
+          "datePosted": "2022/05/15 20:01 JST",
           "startDate": "2022/05/14 22:00 JST",
           "endDate": "2022/05/15 20:00 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "usersAffected": "すべてのユーザに影響します",
+          "eventStatus": "completed",
+          "usersAffected": "すべてのユーザに影響しました",
           "epochStartDate": 1652533200000,
           "epochEndDate": 1652612400000,
-          "message": "システムメンテナンス中のため、AppleCareは一時的に購入できません。"
+          "message": "システムメンテナンス中、AppleCareは一時的に購入できませんでした。"
         }
       ],
       "serviceName": "デバイスのAppleCare"
