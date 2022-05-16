@@ -1,6 +1,6 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
@@ -82,23 +82,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652496660000,
-          "epochEndDate": 1652499900000,
-          "messageId": "2000001433",
-          "statusType": "Issue",
-          "datePosted": "2022/05/15 22:00 JST",
-          "startDate": "2022/05/14 11:51 JST",
-          "endDate": "2022/05/14 12:45 JST",
-          "affectedServices": [
-            "Apple Business Essentials",
-            "Apple School Manager",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "ユーザがサインインできなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Apple School Manager"
     },
@@ -372,16 +356,16 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1652533200000,
-          "epochEndDate": 1652612400000,
           "messageId": "2000001434",
           "statusType": "Maintenance",
-          "datePosted": "2022/05/15 22:00 JST",
+          "datePosted": "2022/05/16 17:00 JST",
           "startDate": "2022/05/14 22:00 JST",
           "endDate": "2022/05/15 20:00 JST",
           "affectedServices": null,
           "eventStatus": "completed",
+          "usersAffected": "すべてのユーザに影響しました",
+          "epochStartDate": 1652533200000,
+          "epochEndDate": 1652612400000,
           "message": "システムメンテナンス中、AppleCareは一時的に購入できませんでした。"
         }
       ],
