@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "redirectUrl": null,
@@ -356,16 +356,16 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "すべてのユーザに影響しました",
+          "epochStartDate": 1652533200000,
+          "epochEndDate": 1652612400000,
           "messageId": "2000001434",
           "statusType": "Maintenance",
-          "datePosted": "2022/05/16 17:00 JST",
+          "datePosted": "2022/05/17 17:00 JST",
           "startDate": "2022/05/14 22:00 JST",
           "endDate": "2022/05/15 20:00 JST",
           "affectedServices": null,
           "eventStatus": "completed",
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1652533200000,
-          "epochEndDate": 1652612400000,
           "message": "システムメンテナンス中、AppleCareは一時的に購入できませんでした。"
         }
       ],
