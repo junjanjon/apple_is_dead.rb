@@ -1,6 +1,6 @@
 {
-  "drpost": false,
   "drMessage": null,
+  "drpost": false,
   "services": [
     {
       "redirectUrl": null,
@@ -62,20 +62,20 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1652909520000,
+          "epochEndDate": 1652912640000,
           "messageId": "2000001438",
           "statusType": "Outage",
-          "datePosted": "2022/05/19 06:48 JST",
+          "datePosted": "2022/05/19 07:34 JST",
           "startDate": "2022/05/19 06:32 JST",
-          "endDate": null,
+          "endDate": "2022/05/19 07:24 JST",
           "affectedServices": [
             "Apple Musicのラジオ",
             "ラジオ"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1652909520000,
-          "epochEndDate": null,
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "serviceName": "Apple Musicのラジオ"
@@ -413,20 +413,20 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1652909520000,
+          "epochEndDate": 1652912640000,
           "messageId": "2000001438",
           "statusType": "Outage",
-          "datePosted": "2022/05/19 06:48 JST",
+          "datePosted": "2022/05/19 07:34 JST",
           "startDate": "2022/05/19 06:32 JST",
-          "endDate": null,
+          "endDate": "2022/05/19 07:24 JST",
           "affectedServices": [
             "Apple Musicのラジオ",
             "ラジオ"
           ],
-          "eventStatus": "ongoing",
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1652909520000,
-          "epochEndDate": null,
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "serviceName": "ラジオ"
