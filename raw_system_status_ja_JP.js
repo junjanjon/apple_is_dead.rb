@@ -1,6 +1,6 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
@@ -61,7 +61,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "messageId": "2000001438",
+          "statusType": "Outage",
+          "datePosted": "2022/05/19 06:48 JST",
+          "startDate": "2022/05/19 06:32 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Musicのラジオ",
+            "ラジオ"
+          ],
+          "eventStatus": "ongoing",
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1652909520000,
+          "epochEndDate": null,
+          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "Apple Musicのラジオ"
     },
@@ -397,7 +412,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "messageId": "2000001438",
+          "statusType": "Outage",
+          "datePosted": "2022/05/19 06:48 JST",
+          "startDate": "2022/05/19 06:32 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Musicのラジオ",
+            "ラジオ"
+          ],
+          "eventStatus": "ongoing",
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1652909520000,
+          "epochEndDate": null,
+          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "ラジオ"
     },
