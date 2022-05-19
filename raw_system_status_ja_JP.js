@@ -1,6 +1,6 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
@@ -62,12 +62,9 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652909520000,
-          "epochEndDate": 1652912640000,
           "messageId": "2000001438",
           "statusType": "Outage",
-          "datePosted": "2022/05/19 07:34 JST",
+          "datePosted": "2022/05/19 17:00 JST",
           "startDate": "2022/05/19 06:32 JST",
           "endDate": "2022/05/19 07:24 JST",
           "affectedServices": [
@@ -75,6 +72,9 @@
             "ラジオ"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1652909520000,
+          "epochEndDate": 1652912640000,
           "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
@@ -413,12 +413,9 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1652909520000,
-          "epochEndDate": 1652912640000,
           "messageId": "2000001438",
           "statusType": "Outage",
-          "datePosted": "2022/05/19 07:34 JST",
+          "datePosted": "2022/05/19 17:00 JST",
           "startDate": "2022/05/19 06:32 JST",
           "endDate": "2022/05/19 07:24 JST",
           "affectedServices": [
@@ -426,6 +423,9 @@
             "ラジオ"
           ],
           "eventStatus": "resolved",
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1652909520000,
+          "epochEndDate": 1652912640000,
           "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
