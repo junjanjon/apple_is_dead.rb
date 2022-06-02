@@ -88,7 +88,7 @@
           "epochEndDate": 1654020000000,
           "messageId": "2000001465",
           "statusType": "Outage",
-          "datePosted": "2022/06/01 17:00 JST",
+          "datePosted": "2022/06/02 23:49 JST",
           "startDate": "2022/06/01 01:50 JST",
           "endDate": "2022/06/01 03:00 JST",
           "affectedServices": [
