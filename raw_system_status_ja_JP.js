@@ -82,22 +82,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1654015800000,
-          "epochEndDate": 1654020000000,
-          "messageId": "2000001465",
-          "statusType": "Outage",
-          "datePosted": "2022/06/03 11:36 JST",
-          "startDate": "2022/06/01 01:50 JST",
-          "endDate": "2022/06/01 03:00 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Apple School Manager"
     },
@@ -362,7 +347,7 @@
           "epochEndDate": 1654223100000,
           "messageId": "2000001470",
           "statusType": "Issue",
-          "datePosted": "2022/06/03 11:36 JST",
+          "datePosted": "2022/06/03 17:00 JST",
           "startDate": "2022/06/03 06:05 JST",
           "endDate": "2022/06/03 11:25 JST",
           "affectedServices": null,
