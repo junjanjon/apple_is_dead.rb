@@ -88,7 +88,7 @@
           "epochEndDate": 1654020000000,
           "messageId": "2000001465",
           "statusType": "Outage",
-          "datePosted": "2022/06/03 00:46 JST",
+          "datePosted": "2022/06/03 11:00 JST",
           "startDate": "2022/06/01 01:50 JST",
           "endDate": "2022/06/01 03:00 JST",
           "affectedServices": [
@@ -356,7 +356,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1654203900000,
+          "epochEndDate": null,
+          "messageId": "2000001470",
+          "statusType": "Issue",
+          "datePosted": "2022/06/03 11:00 JST",
+          "startDate": "2022/06/03 06:05 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。すべての問題が解決され次第、ステータスランプを更新します。"
+        }
       ],
       "serviceName": "スクールワーク"
     },
