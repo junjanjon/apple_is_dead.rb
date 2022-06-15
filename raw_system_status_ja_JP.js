@@ -174,20 +174,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1655301900000,
-          "epochEndDate": null,
+          "epochEndDate": 1655318040000,
           "messageId": "1000001284",
           "statusType": "Issue",
-          "datePosted": "2022/06/16 03:21 JST",
+          "datePosted": "2022/06/16 03:40 JST",
           "startDate": "2022/06/15 23:05 JST",
           "endDate": null,
           "affectedServices": [
             "iCloudカレンダー",
             "iCloudメール"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudカレンダー"
@@ -236,7 +236,7 @@
           "epochEndDate": null,
           "messageId": "1000001284",
           "statusType": "Issue",
-          "datePosted": "2022/06/16 03:21 JST",
+          "datePosted": "2022/06/16 03:40 JST",
           "startDate": "2022/06/15 23:05 JST",
           "endDate": null,
           "affectedServices": [
