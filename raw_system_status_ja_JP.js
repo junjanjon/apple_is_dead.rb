@@ -264,19 +264,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響します",
-          "epochStartDate": 1655301600000,
-          "epochEndDate": null,
-          "messageId": "1000001283",
-          "statusType": "Outage",
-          "datePosted": "2022/06/15 23:00 JST",
-          "startDate": "2022/06/15 23:00 JST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
-        }
+
       ],
       "serviceName": "iTunes Store"
     },
