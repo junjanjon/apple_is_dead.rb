@@ -1,6 +1,6 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
@@ -221,7 +221,7 @@
           "epochEndDate": null,
           "messageId": "1000001284",
           "statusType": "Issue",
-          "datePosted": "2022/06/16 02:02 JST",
+          "datePosted": "2022/06/16 02:59 JST",
           "startDate": "2022/06/15 23:05 JST",
           "endDate": null,
           "affectedServices": null,
