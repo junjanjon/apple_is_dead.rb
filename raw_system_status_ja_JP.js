@@ -1,6 +1,6 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
@@ -179,7 +179,7 @@
           "epochEndDate": 1655318040000,
           "messageId": "1000001284",
           "statusType": "Issue",
-          "datePosted": "2022/06/16 23:12 JST",
+          "datePosted": "2022/06/17 09:56 JST",
           "startDate": "2022/06/15 23:05 JST",
           "endDate": "2022/06/16 06:40 JST",
           "affectedServices": [
@@ -236,7 +236,7 @@
           "epochEndDate": 1655329200000,
           "messageId": "1000001284",
           "statusType": "Issue",
-          "datePosted": "2022/06/16 23:12 JST",
+          "datePosted": "2022/06/17 09:56 JST",
           "startDate": "2022/06/15 23:05 JST",
           "endDate": "2022/06/16 06:40 JST",
           "affectedServices": [
