@@ -48,17 +48,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
+          "usersAffected": "すべてのユーザに影響しました",
           "epochStartDate": 1656162000000,
           "epochEndDate": 1656198000000,
           "messageId": "2000001508",
           "statusType": "Maintenance",
-          "datePosted": "2022/06/25 23:30 JST",
+          "datePosted": "2022/06/26 08:00 JST",
           "startDate": "2022/06/25 22:00 JST",
           "endDate": "2022/06/26 08:00 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "Apple Music for Artistsは定期メンテナンスのため、ご利用になれません"
+          "eventStatus": "completed",
+          "message": "Apple Music for Artistsは定期メンテナンスのため、ご利用になれませんでした"
         }
       ],
       "serviceName": "Apple Music for Artists"
