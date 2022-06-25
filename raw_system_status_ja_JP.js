@@ -53,12 +53,12 @@
           "epochEndDate": 1656198000000,
           "messageId": "2000001508",
           "statusType": "Maintenance",
-          "datePosted": "2022/06/25 17:00 JST",
+          "datePosted": "2022/06/25 22:00 JST",
           "startDate": "2022/06/25 22:00 JST",
           "endDate": "2022/06/26 08:00 JST",
           "affectedServices": null,
-          "eventStatus": "upcoming",
-          "message": "Apple Music for Artistsは定期メンテナンスのため、ご利用になれない場合があります"
+          "eventStatus": "ongoing",
+          "message": "Apple Music for Artistsは定期メンテナンスのため、ご利用になれません"
         }
       ],
       "serviceName": "Apple Music for Artists"
