@@ -1,6 +1,6 @@
 {
-  "drMessage": null,
   "drpost": false,
+  "drMessage": null,
   "services": [
     {
       "redirectUrl": null,
@@ -53,7 +53,7 @@
           "epochEndDate": 1656198000000,
           "messageId": "2000001508",
           "statusType": "Maintenance",
-          "datePosted": "2022/06/26 08:00 JST",
+          "datePosted": "2022/06/26 09:24 JST",
           "startDate": "2022/06/25 22:00 JST",
           "endDate": "2022/06/26 08:00 JST",
           "affectedServices": null,
@@ -430,7 +430,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1656198000000,
+          "epochEndDate": null,
+          "messageId": "2000001510",
+          "statusType": "Issue",
+          "datePosted": "2022/06/26 09:24 JST",
+          "startDate": "2022/06/26 08:00 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "探す"
     },
