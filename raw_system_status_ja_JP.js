@@ -47,19 +47,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1656162000000,
-          "epochEndDate": 1656198000000,
-          "messageId": "2000001508",
-          "statusType": "Maintenance",
-          "datePosted": "2022/06/28 13:08 JST",
-          "startDate": "2022/06/25 22:00 JST",
-          "endDate": "2022/06/26 08:00 JST",
-          "affectedServices": null,
-          "eventStatus": "completed",
-          "message": "Apple Music for Artistsは定期メンテナンスのため、ご利用になれませんでした"
-        }
+
       ],
       "serviceName": "Apple Music for Artists"
     },
@@ -233,7 +221,7 @@
           "epochEndDate": 1656349980000,
           "messageId": "2000001511",
           "statusType": "Issue",
-          "datePosted": "2022/06/28 13:08 JST",
+          "datePosted": "2022/06/28 17:00 JST",
           "startDate": "2022/06/28 01:17 JST",
           "endDate": "2022/06/28 02:13 JST",
           "affectedServices": null,
@@ -442,19 +430,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1656198000000,
-          "epochEndDate": 1656213600000,
-          "messageId": "2000001510",
-          "statusType": "Issue",
-          "datePosted": "2022/06/28 13:08 JST",
-          "startDate": "2022/06/26 08:00 JST",
-          "endDate": "2022/06/26 12:20 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "探す"
     },
