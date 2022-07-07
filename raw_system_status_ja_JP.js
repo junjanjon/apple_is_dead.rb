@@ -285,7 +285,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1657215000000,
+          "epochEndDate": null,
+          "messageId": "2000001521",
+          "statusType": "Issue",
+          "datePosted": "2022/07/08 05:53 JST",
+          "startDate": "2022/07/08 02:30 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iWorkの共同制作機能"
     },
