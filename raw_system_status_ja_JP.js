@@ -278,7 +278,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1657242240000,
+          "epochEndDate": null,
+          "messageId": "2000001522",
+          "statusType": "Issue",
+          "datePosted": "2022/07/08 11:02 JST",
+          "startDate": "2022/07/08 10:04 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iWork for iCloud"
     },
@@ -287,16 +302,32 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1657215000000,
+          "epochStartDate": 1657242240000,
           "epochEndDate": null,
-          "messageId": "2000001521",
+          "messageId": "2000001522",
           "statusType": "Issue",
-          "datePosted": "2022/07/08 10:40 JST",
-          "startDate": "2022/07/08 02:30 JST",
+          "datePosted": "2022/07/08 11:02 JST",
+          "startDate": "2022/07/08 10:04 JST",
           "endDate": null,
-          "affectedServices": null,
+          "affectedServices": [
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
           "eventStatus": "ongoing",
           "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1657215000000,
+          "epochEndDate": 1657240020000,
+          "messageId": "2000001521",
+          "statusType": "Issue",
+          "datePosted": "2022/07/08 11:02 JST",
+          "startDate": "2022/07/08 02:30 JST",
+          "endDate": "2022/07/08 09:27 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iWorkの共同制作機能"
