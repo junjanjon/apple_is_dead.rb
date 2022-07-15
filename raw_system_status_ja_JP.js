@@ -215,7 +215,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1657863060000,
+          "epochEndDate": null,
+          "messageId": "1000001363",
+          "statusType": "Issue",
+          "datePosted": "2022/07/15 15:49 JST",
+          "startDate": "2022/07/15 14:31 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudメール",
+            "iWork for iCloud"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudメール"
     },
@@ -278,7 +293,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1657863060000,
+          "epochEndDate": null,
+          "messageId": "1000001363",
+          "statusType": "Issue",
+          "datePosted": "2022/07/15 15:49 JST",
+          "startDate": "2022/07/15 14:31 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudメール",
+            "iWork for iCloud"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iWork for iCloud"
     },
