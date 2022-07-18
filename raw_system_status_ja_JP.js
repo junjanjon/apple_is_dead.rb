@@ -124,25 +124,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1657863060000,
-          "epochEndDate": 1657872900000,
-          "messageId": "1000001363",
-          "statusType": "Issue",
-          "datePosted": "2022/07/15 17:42 JST",
-          "startDate": "2022/07/15 14:31 JST",
-          "endDate": "2022/07/15 17:16 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Drive",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "Game Centerにサインインできなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Game Center"
     },
@@ -170,25 +152,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1657863060000,
-          "epochEndDate": 1657872960000,
-          "messageId": "1000001363",
-          "statusType": "Issue",
-          "datePosted": "2022/07/15 17:42 JST",
-          "startDate": "2022/07/15 14:31 JST",
-          "endDate": "2022/07/15 17:16 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Drive",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
-        }
+
       ],
       "serviceName": "iCloud Drive"
     },
@@ -251,25 +215,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1657863060000,
-          "epochEndDate": 1657872900000,
-          "messageId": "1000001363",
-          "statusType": "Issue",
-          "datePosted": "2022/07/15 17:42 JST",
-          "startDate": "2022/07/15 14:31 JST",
-          "endDate": "2022/07/15 17:16 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Drive",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
@@ -332,25 +278,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1657863060000,
-          "epochEndDate": 1657872900000,
-          "messageId": "1000001363",
-          "statusType": "Issue",
-          "datePosted": "2022/07/15 17:42 JST",
-          "startDate": "2022/07/15 14:31 JST",
-          "endDate": "2022/07/15 17:16 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Drive",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iWork for iCloud"
     },
@@ -497,25 +425,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1657863060000,
-          "epochEndDate": 1657872960000,
-          "messageId": "1000001363",
-          "statusType": "Issue",
-          "datePosted": "2022/07/15 17:42 JST",
-          "startDate": "2022/07/15 14:31 JST",
-          "endDate": "2022/07/15 17:16 JST",
-          "affectedServices": [
-            "Game Center",
-            "iCloud Drive",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "写真"
     },
