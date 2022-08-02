@@ -85,10 +85,10 @@
         {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1659398580000,
-          "epochEndDate": 1659400620000,
+          "epochEndDate": 1659400560000,
           "messageId": "2000001599",
           "statusType": "Issue",
-          "datePosted": "2022/08/02 10:11 JST",
+          "datePosted": "2022/08/02 10:18 JST",
           "startDate": "2022/08/02 09:03 JST",
           "endDate": "2022/08/02 09:37 JST",
           "affectedServices": [
