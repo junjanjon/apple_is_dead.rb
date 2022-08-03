@@ -88,7 +88,7 @@
           "epochEndDate": 1659400560000,
           "messageId": "2000001599",
           "statusType": "Issue",
-          "datePosted": "2022/08/03 09:15 JST",
+          "datePosted": "2022/08/03 10:38 JST",
           "startDate": "2022/08/02 09:03 JST",
           "endDate": "2022/08/02 09:37 JST",
           "affectedServices": [
@@ -293,19 +293,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1657177200000,
-          "epochEndDate": null,
-          "messageId": "2000001600",
-          "statusType": "Issue",
-          "datePosted": "2022/08/03 09:15 JST",
-          "startDate": "2022/07/07 16:00 JST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生している可能性があります。"
-        }
+
       ],
       "serviceName": "iWork for iCloud"
     },
