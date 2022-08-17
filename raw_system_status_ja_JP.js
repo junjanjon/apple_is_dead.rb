@@ -158,7 +158,7 @@
           "epochEndDate": 1660682460000,
           "messageId": "2000001640",
           "statusType": "Issue",
-          "datePosted": "2022/08/17 13:39 JST",
+          "datePosted": "2022/08/17 14:14 JST",
           "startDate": "2022/08/17 03:05 JST",
           "endDate": "2022/08/17 05:41 JST",
           "affectedServices": [
@@ -187,7 +187,7 @@
           "epochEndDate": 1660682460000,
           "messageId": "2000001640",
           "statusType": "Issue",
-          "datePosted": "2022/08/17 13:39 JST",
+          "datePosted": "2022/08/17 14:14 JST",
           "startDate": "2022/08/17 03:05 JST",
           "endDate": "2022/08/17 05:41 JST",
           "affectedServices": [
@@ -211,17 +211,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1660705800000,
-          "epochEndDate": null,
+          "epochEndDate": 1660710840000,
           "messageId": "1000001423",
           "statusType": "Issue",
-          "datePosted": "2022/08/17 13:39 JST",
+          "datePosted": "2022/08/17 14:14 JST",
           "startDate": "2022/08/17 12:10 JST",
-          "endDate": null,
+          "endDate": "2022/08/17 13:34 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
@@ -235,7 +235,7 @@
           "epochEndDate": 1660682460000,
           "messageId": "2000001640",
           "statusType": "Issue",
-          "datePosted": "2022/08/17 13:39 JST",
+          "datePosted": "2022/08/17 14:14 JST",
           "startDate": "2022/08/17 03:05 JST",
           "endDate": "2022/08/17 05:41 JST",
           "affectedServices": [
@@ -264,7 +264,7 @@
           "epochEndDate": 1660682460000,
           "messageId": "2000001640",
           "statusType": "Issue",
-          "datePosted": "2022/08/17 13:39 JST",
+          "datePosted": "2022/08/17 14:14 JST",
           "startDate": "2022/08/17 03:05 JST",
           "endDate": "2022/08/17 05:41 JST",
           "affectedServices": [
@@ -293,7 +293,7 @@
           "epochEndDate": 1660682460000,
           "messageId": "2000001640",
           "statusType": "Issue",
-          "datePosted": "2022/08/17 13:39 JST",
+          "datePosted": "2022/08/17 14:14 JST",
           "startDate": "2022/08/17 03:05 JST",
           "endDate": "2022/08/17 05:41 JST",
           "affectedServices": [
@@ -329,7 +329,7 @@
           "epochEndDate": 1660682460000,
           "messageId": "2000001640",
           "statusType": "Issue",
-          "datePosted": "2022/08/17 13:39 JST",
+          "datePosted": "2022/08/17 14:14 JST",
           "startDate": "2022/08/17 03:05 JST",
           "endDate": "2022/08/17 05:41 JST",
           "affectedServices": [
@@ -365,7 +365,7 @@
           "epochEndDate": 1660682460000,
           "messageId": "2000001640",
           "statusType": "Issue",
-          "datePosted": "2022/08/17 13:39 JST",
+          "datePosted": "2022/08/17 14:14 JST",
           "startDate": "2022/08/17 03:05 JST",
           "endDate": "2022/08/17 05:41 JST",
           "affectedServices": [
@@ -408,7 +408,7 @@
           "epochEndDate": 1660682460000,
           "messageId": "2000001640",
           "statusType": "Issue",
-          "datePosted": "2022/08/17 13:39 JST",
+          "datePosted": "2022/08/17 14:14 JST",
           "startDate": "2022/08/17 03:05 JST",
           "endDate": "2022/08/17 05:41 JST",
           "affectedServices": [
@@ -619,7 +619,7 @@
           "epochEndDate": 1660682460000,
           "messageId": "2000001640",
           "statusType": "Issue",
-          "datePosted": "2022/08/17 13:39 JST",
+          "datePosted": "2022/08/17 14:14 JST",
           "startDate": "2022/08/17 03:05 JST",
           "endDate": "2022/08/17 05:41 JST",
           "affectedServices": [
