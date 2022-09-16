@@ -81,7 +81,7 @@
           "epochEndDate": null,
           "messageId": "1000001464",
           "statusType": "Outage",
-          "datePosted": "2022/09/17 05:54 JST",
+          "datePosted": "2022/09/17 07:07 JST",
           "startDate": "2022/09/17 00:38 JST",
           "endDate": null,
           "affectedServices": null,
@@ -445,17 +445,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1663212600000,
-          "epochEndDate": null,
+          "epochEndDate": 1663358400000,
           "messageId": "2000001739",
           "statusType": "Performance",
-          "datePosted": "2022/09/17 05:54 JST",
+          "datePosted": "2022/09/17 07:07 JST",
           "startDate": "2022/09/15 12:30 JST",
-          "endDate": null,
+          "endDate": "2022/09/17 05:00 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "「天気」で問題が発生しています。"
+          "eventStatus": "resolved",
+          "message": "「天気」で問題が発生した可能性があります。"
         }
       ],
       "serviceName": "天気"
