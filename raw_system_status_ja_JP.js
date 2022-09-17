@@ -77,17 +77,17 @@
       "serviceName": "Apple Pay & ウォレット",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1663342680000,
-          "epochEndDate": null,
+          "epochEndDate": 1663363500000,
           "messageId": "1000001464",
           "statusType": "Outage",
-          "datePosted": "2022/09/17 08:11 JST",
+          "datePosted": "2022/09/17 08:43 JST",
           "startDate": "2022/09/17 00:38 JST",
-          "endDate": null,
+          "endDate": "2022/09/17 06:25 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "Visaカード保有者は、Apple Payでカードの追加ができない場合があります。"
+          "eventStatus": "resolved",
+          "message": "Visaカード保有者は、Apple Payでカードの追加ができませんでした。"
         }
       ]
     },
@@ -451,7 +451,7 @@
           "epochEndDate": 1663358400000,
           "messageId": "2000001739",
           "statusType": "Performance",
-          "datePosted": "2022/09/17 08:11 JST",
+          "datePosted": "2022/09/17 08:43 JST",
           "startDate": "2022/09/15 12:30 JST",
           "endDate": "2022/09/17 05:00 JST",
           "affectedServices": null,
