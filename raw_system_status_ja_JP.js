@@ -75,7 +75,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1663944120000,
+          "epochEndDate": null,
+          "messageId": "2000001761",
+          "statusType": "Issue",
+          "datePosted": "2022/09/24 01:10 JST",
+          "startDate": "2022/09/23 23:42 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "Apple Pay & ウォレット"
     },
