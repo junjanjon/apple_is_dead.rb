@@ -81,7 +81,7 @@
           "epochEndDate": 1663950660000,
           "messageId": "2000001761",
           "statusType": "Issue",
-          "datePosted": "2022/09/24 04:02 JST",
+          "datePosted": "2022/09/24 04:05 JST",
           "startDate": "2022/09/23 23:42 JST",
           "endDate": "2022/09/24 01:31 JST",
           "affectedServices": null,
