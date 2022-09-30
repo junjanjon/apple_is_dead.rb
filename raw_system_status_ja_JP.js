@@ -11,7 +11,7 @@
           "epochEndDate": 1664449200000,
           "messageId": "1000001484",
           "statusType": "Performance",
-          "datePosted": "2022/09/29 20:15 JST",
+          "datePosted": "2022/09/30 17:00 JST",
           "startDate": "2022/09/29 04:00 JST",
           "endDate": "2022/09/29 20:00 JST",
           "affectedServices": null,
