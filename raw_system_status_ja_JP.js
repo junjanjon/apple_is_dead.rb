@@ -6,19 +6,7 @@
       "redirectUrl": null,
       "serviceName": "App Store",
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1664391600000,
-          "epochEndDate": 1664449200000,
-          "messageId": "1000001484",
-          "statusType": "Performance",
-          "datePosted": "2022/10/01 17:00 JST",
-          "startDate": "2022/09/29 04:00 JST",
-          "endDate": "2022/09/29 20:00 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "複数のサービスへのアクセスや購入ができませんでした。"
-        }
+
       ]
     },
     {
@@ -66,7 +54,7 @@
           "epochEndDate": 1664938800000,
           "messageId": "2000001782",
           "statusType": "Maintenance",
-          "datePosted": "2022/10/01 17:00 JST",
+          "datePosted": "2022/10/02 17:00 JST",
           "startDate": "2022/10/04 16:00 JST",
           "endDate": "2022/10/05 12:00 JST",
           "affectedServices": null,
