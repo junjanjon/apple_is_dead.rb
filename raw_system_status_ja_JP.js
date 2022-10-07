@@ -54,7 +54,7 @@
           "epochEndDate": 1664938800000,
           "messageId": "2000001782",
           "statusType": "Maintenance",
-          "datePosted": "2022/10/07 12:39 JST",
+          "datePosted": "2022/10/07 12:43 JST",
           "startDate": "2022/10/04 16:00 JST",
           "endDate": "2022/10/05 12:00 JST",
           "affectedServices": null,
