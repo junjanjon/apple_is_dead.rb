@@ -434,17 +434,17 @@
       "serviceName": "天気",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1665140400000,
-          "epochEndDate": null,
+          "epochEndDate": 1665165480000,
           "messageId": "2000001804",
           "statusType": "Issue",
-          "datePosted": "2022/10/08 01:42 JST",
+          "datePosted": "2022/10/08 03:18 JST",
           "startDate": "2022/10/07 20:00 JST",
-          "endDate": null,
+          "endDate": "2022/10/08 02:58 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "「天気」で問題が発生しています。"
+          "eventStatus": "resolved",
+          "message": "「天気」で問題が発生した可能性があります。"
         }
       ]
     }
