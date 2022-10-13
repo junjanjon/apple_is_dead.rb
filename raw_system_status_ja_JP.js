@@ -377,21 +377,72 @@
       "redirectUrl": null,
       "serviceName": "マップの経路案内とナビゲーション",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1665680400000,
+          "epochEndDate": null,
+          "messageId": "2000001820",
+          "statusType": "Outage",
+          "datePosted": "2022/10/14 02:20 JST",
+          "startDate": "2022/10/14 02:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "マップの交通情報",
+            "マップの検索",
+            "マップの経路案内とナビゲーション",
+            "マップの表示"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+        }
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "マップの検索",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1665680400000,
+          "epochEndDate": null,
+          "messageId": "2000001820",
+          "statusType": "Outage",
+          "datePosted": "2022/10/14 02:20 JST",
+          "startDate": "2022/10/14 02:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "マップの交通情報",
+            "マップの検索",
+            "マップの経路案内とナビゲーション",
+            "マップの表示"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+        }
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "マップの表示",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1665680400000,
+          "epochEndDate": null,
+          "messageId": "2000001820",
+          "statusType": "Outage",
+          "datePosted": "2022/10/14 02:20 JST",
+          "startDate": "2022/10/14 02:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "マップの交通情報",
+            "マップの検索",
+            "マップの経路案内とナビゲーション",
+            "マップの表示"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+        }
       ]
     },
     {
