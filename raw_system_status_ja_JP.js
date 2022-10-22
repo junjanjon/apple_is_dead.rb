@@ -5,7 +5,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1666371600000,
+          "epochEndDate": null,
+          "messageId": "2000001841",
+          "statusType": "Outage",
+          "datePosted": "2022/10/22 09:02 JST",
+          "startDate": "2022/10/22 02:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Mac App Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "複数のサービスへのアクセスや購入ができません。"
+        }
       ],
       "serviceName": "App Store"
     },
@@ -264,7 +280,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1666371600000,
+          "epochEndDate": null,
+          "messageId": "2000001841",
+          "statusType": "Outage",
+          "datePosted": "2022/10/22 09:02 JST",
+          "startDate": "2022/10/22 02:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Mac App Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "上記のサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ],
       "serviceName": "iTunes Store"
     },
@@ -292,7 +324,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1666371600000,
+          "epochEndDate": null,
+          "messageId": "2000001841",
+          "statusType": "Outage",
+          "datePosted": "2022/10/22 09:02 JST",
+          "startDate": "2022/10/22 02:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Mac App Store",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "複数のStore／サービスへのサインインや購入ができません。"
+        }
       ],
       "serviceName": "Mac App Store"
     },
