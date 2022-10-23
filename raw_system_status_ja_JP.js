@@ -12,7 +12,7 @@
           "epochEndDate": 1666398300000,
           "messageId": "2000001841",
           "statusType": "Outage",
-          "datePosted": "2022/10/22 09:54 JST",
+          "datePosted": "2022/10/23 17:00 JST",
           "startDate": "2022/10/22 02:00 JST",
           "endDate": "2022/10/22 09:25 JST",
           "affectedServices": [
@@ -287,7 +287,7 @@
           "epochEndDate": 1666398300000,
           "messageId": "2000001841",
           "statusType": "Outage",
-          "datePosted": "2022/10/22 09:54 JST",
+          "datePosted": "2022/10/23 17:00 JST",
           "startDate": "2022/10/22 02:00 JST",
           "endDate": "2022/10/22 09:25 JST",
           "affectedServices": [
@@ -331,7 +331,7 @@
           "epochEndDate": 1666398300000,
           "messageId": "2000001841",
           "statusType": "Outage",
-          "datePosted": "2022/10/22 09:54 JST",
+          "datePosted": "2022/10/23 17:00 JST",
           "startDate": "2022/10/22 02:00 JST",
           "endDate": "2022/10/22 09:25 JST",
           "affectedServices": [
