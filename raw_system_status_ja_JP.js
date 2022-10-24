@@ -6,23 +6,7 @@
       "redirectUrl": null,
       "serviceName": "App Store",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666371600000,
-          "epochEndDate": 1666398300000,
-          "messageId": "2000001841",
-          "statusType": "Outage",
-          "datePosted": "2022/10/23 17:00 JST",
-          "startDate": "2022/10/22 02:00 JST",
-          "endDate": "2022/10/22 09:25 JST",
-          "affectedServices": [
-            "App Store",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "複数のサービスへのアクセスや購入ができませんでした。"
-        }
+
       ]
     },
     {
@@ -281,23 +265,7 @@
       "redirectUrl": null,
       "serviceName": "iTunes Store",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666371600000,
-          "epochEndDate": 1666398300000,
-          "messageId": "2000001841",
-          "statusType": "Outage",
-          "datePosted": "2022/10/23 17:00 JST",
-          "startDate": "2022/10/22 02:00 JST",
-          "endDate": "2022/10/22 09:25 JST",
-          "affectedServices": [
-            "App Store",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "上記のサービスに関する問題が発生しました。"
-        }
+
       ]
     },
     {
@@ -325,23 +293,7 @@
       "redirectUrl": null,
       "serviceName": "Mac App Store",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666371600000,
-          "epochEndDate": 1666398300000,
-          "messageId": "2000001841",
-          "statusType": "Outage",
-          "datePosted": "2022/10/23 17:00 JST",
-          "startDate": "2022/10/22 02:00 JST",
-          "endDate": "2022/10/22 09:25 JST",
-          "affectedServices": [
-            "App Store",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "複数のStore／サービスへのアクセスや購入ができませんでした。"
-        }
+
       ]
     },
     {
