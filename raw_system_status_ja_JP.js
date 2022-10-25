@@ -39,7 +39,7 @@
           "epochEndDate": 1666714500000,
           "messageId": "2000001859",
           "statusType": "Issue",
-          "datePosted": "2022/10/26 02:03 JST",
+          "datePosted": "2022/10/26 02:12 JST",
           "startDate": "2022/10/26 00:48 JST",
           "endDate": "2022/10/26 01:15 JST",
           "affectedServices": [
@@ -142,7 +142,7 @@
           "epochEndDate": 1666714500000,
           "messageId": "2000001859",
           "statusType": "Issue",
-          "datePosted": "2022/10/26 02:03 JST",
+          "datePosted": "2022/10/26 02:12 JST",
           "startDate": "2022/10/26 00:48 JST",
           "endDate": "2022/10/26 01:15 JST",
           "affectedServices": [
@@ -182,7 +182,7 @@
           "epochEndDate": 1666714500000,
           "messageId": "2000001859",
           "statusType": "Issue",
-          "datePosted": "2022/10/26 02:03 JST",
+          "datePosted": "2022/10/26 02:12 JST",
           "startDate": "2022/10/26 00:48 JST",
           "endDate": "2022/10/26 01:15 JST",
           "affectedServices": [
@@ -214,13 +214,14 @@
           "epochStartDate": 1666714500000,
           "epochEndDate": null,
           "messageId": "1000001523",
-          "statusType": "Outage",
-          "datePosted": "2022/10/26 02:03 JST",
+          "statusType": "Issue",
+          "datePosted": "2022/10/26 02:12 JST",
           "startDate": "2022/10/26 01:15 JST",
           "endDate": null,
           "affectedServices": [
             "iCloud Drive",
             "iCloudバックアップ",
+            "iWork for iCloud",
             "写真"
           ],
           "eventStatus": "ongoing",
@@ -272,13 +273,14 @@
           "epochStartDate": 1666714500000,
           "epochEndDate": null,
           "messageId": "1000001523",
-          "statusType": "Outage",
-          "datePosted": "2022/10/26 02:03 JST",
+          "statusType": "Issue",
+          "datePosted": "2022/10/26 02:12 JST",
           "startDate": "2022/10/26 01:15 JST",
           "endDate": null,
           "affectedServices": [
             "iCloud Drive",
             "iCloudバックアップ",
+            "iWork for iCloud",
             "写真"
           ],
           "eventStatus": "ongoing",
@@ -338,7 +340,7 @@
           "epochEndDate": 1666714500000,
           "messageId": "2000001859",
           "statusType": "Issue",
-          "datePosted": "2022/10/26 02:03 JST",
+          "datePosted": "2022/10/26 02:12 JST",
           "startDate": "2022/10/26 00:48 JST",
           "endDate": "2022/10/26 01:15 JST",
           "affectedServices": [
@@ -386,7 +388,24 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1666714500000,
+          "epochEndDate": null,
+          "messageId": "1000001523",
+          "statusType": "Issue",
+          "datePosted": "2022/10/26 02:12 JST",
+          "startDate": "2022/10/26 01:15 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloud Drive",
+            "iCloudバックアップ",
+            "iWork for iCloud",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iWork for iCloud"
     },
@@ -462,7 +481,7 @@
           "epochEndDate": 1666714500000,
           "messageId": "2000001859",
           "statusType": "Issue",
-          "datePosted": "2022/10/26 02:03 JST",
+          "datePosted": "2022/10/26 02:12 JST",
           "startDate": "2022/10/26 00:48 JST",
           "endDate": "2022/10/26 01:15 JST",
           "affectedServices": [
@@ -495,7 +514,7 @@
           "epochEndDate": 1666714500000,
           "messageId": "2000001859",
           "statusType": "Issue",
-          "datePosted": "2022/10/26 02:03 JST",
+          "datePosted": "2022/10/26 02:12 JST",
           "startDate": "2022/10/26 00:48 JST",
           "endDate": "2022/10/26 01:15 JST",
           "affectedServices": [
@@ -576,13 +595,14 @@
           "epochStartDate": 1666714500000,
           "epochEndDate": null,
           "messageId": "1000001523",
-          "statusType": "Outage",
-          "datePosted": "2022/10/26 02:03 JST",
+          "statusType": "Issue",
+          "datePosted": "2022/10/26 02:12 JST",
           "startDate": "2022/10/26 01:15 JST",
           "endDate": null,
           "affectedServices": [
             "iCloud Drive",
             "iCloudバックアップ",
+            "iWork for iCloud",
             "写真"
           ],
           "eventStatus": "ongoing",
