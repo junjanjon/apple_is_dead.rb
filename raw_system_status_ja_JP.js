@@ -33,26 +33,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666712880000,
-          "epochEndDate": 1666714500000,
-          "messageId": "2000001859",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 00:48 JST",
-          "endDate": "2022/10/26 01:15 JST",
-          "affectedServices": [
-            "Apple Messages for Business",
-            "FaceTime",
-            "HomeKit",
-            "iMessage",
-            "スクリーンタイム",
-            "トランシーバー"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Apple Messages for Business"
     },
@@ -136,26 +117,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666712880000,
-          "epochEndDate": 1666714500000,
-          "messageId": "2000001859",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 00:48 JST",
-          "endDate": "2022/10/26 01:15 JST",
-          "affectedServices": [
-            "Apple Messages for Business",
-            "FaceTime",
-            "HomeKit",
-            "iMessage",
-            "スクリーンタイム",
-            "トランシーバー"
-          ],
-          "eventStatus": "resolved",
-          "message": "FaceTimeの通話を発信できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "FaceTime"
     },
@@ -168,7 +130,7 @@
           "epochEndDate": 1666828200000,
           "messageId": "1000001529",
           "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
+          "datePosted": "2022/10/28 17:00 JST",
           "startDate": "2022/10/27 07:25 JST",
           "endDate": "2022/10/27 08:50 JST",
           "affectedServices": null,
@@ -181,7 +143,7 @@
           "epochEndDate": 1666828200000,
           "messageId": "1000001530",
           "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
+          "datePosted": "2022/10/28 17:00 JST",
           "startDate": "2022/10/27 07:25 JST",
           "endDate": "2022/10/27 08:50 JST",
           "affectedServices": [
@@ -204,26 +166,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666712880000,
-          "epochEndDate": 1666714500000,
-          "messageId": "2000001859",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 00:48 JST",
-          "endDate": "2022/10/26 01:15 JST",
-          "affectedServices": [
-            "Apple Messages for Business",
-            "FaceTime",
-            "HomeKit",
-            "iMessage",
-            "スクリーンタイム",
-            "トランシーバー"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "HomeKit"
     },
@@ -237,56 +180,14 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666714500000,
-          "epochEndDate": 1666718700000,
-          "messageId": "1000001523",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 01:15 JST",
-          "endDate": "2022/10/26 03:27 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloud Drive"
     },
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666714500000,
-          "epochEndDate": 1666718700000,
-          "messageId": "1000001523",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 01:15 JST",
-          "endDate": "2022/10/26 03:27 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloud Web Apps (iCloud.com)"
     },
@@ -300,56 +201,14 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666714500000,
-          "epochEndDate": 1666722420000,
-          "messageId": "1000001523",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 01:15 JST",
-          "endDate": "2022/10/26 03:27 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "カレンダーWebアプリケーションのカレンダーがiCloud.com上でアクセス不可能だった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudカレンダー"
     },
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666714500000,
-          "epochEndDate": 1666722420000,
-          "messageId": "1000001523",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 01:15 JST",
-          "endDate": "2022/10/26 03:27 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudキーチェーン"
     },
@@ -363,28 +222,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666714500000,
-          "epochEndDate": 1666718700000,
-          "messageId": "1000001523",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 01:15 JST",
-          "endDate": "2022/10/26 03:27 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudバックアップ"
     },
@@ -405,28 +243,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666714500000,
-          "epochEndDate": 1666722420000,
-          "messageId": "1000001523",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 01:15 JST",
-          "endDate": "2022/10/26 03:27 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
@@ -454,26 +271,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666712880000,
-          "epochEndDate": 1666714500000,
-          "messageId": "2000001859",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 00:48 JST",
-          "endDate": "2022/10/26 01:15 JST",
-          "affectedServices": [
-            "Apple Messages for Business",
-            "FaceTime",
-            "HomeKit",
-            "iMessage",
-            "スクリーンタイム",
-            "トランシーバー"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iMessage"
     },
@@ -508,28 +306,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666714500000,
-          "epochEndDate": 1666719000000,
-          "messageId": "1000001523",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 01:15 JST",
-          "endDate": "2022/10/26 03:27 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iWork for iCloud"
     },
@@ -599,26 +376,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666712880000,
-          "epochEndDate": 1666714500000,
-          "messageId": "2000001859",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 00:48 JST",
-          "endDate": "2022/10/26 01:15 JST",
-          "affectedServices": [
-            "Apple Messages for Business",
-            "FaceTime",
-            "HomeKit",
-            "iMessage",
-            "スクリーンタイム",
-            "トランシーバー"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "スクリーンタイム"
     },
@@ -632,26 +390,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666712880000,
-          "epochEndDate": 1666714500000,
-          "messageId": "2000001859",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 00:48 JST",
-          "endDate": "2022/10/26 01:15 JST",
-          "affectedServices": [
-            "Apple Messages for Business",
-            "FaceTime",
-            "HomeKit",
-            "iMessage",
-            "スクリーンタイム",
-            "トランシーバー"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "トランシーバー"
     },
@@ -716,33 +455,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1666714500000,
-          "epochEndDate": 1666722420000,
-          "messageId": "1000001523",
-          "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
-          "startDate": "2022/10/26 01:15 JST",
-          "endDate": "2022/10/26 03:27 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudバックアップ",
-            "iCloudメール",
-            "iWork for iCloud",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1666823100000,
           "epochEndDate": 1666828200000,
           "messageId": "1000001530",
           "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
+          "datePosted": "2022/10/28 17:00 JST",
           "startDate": "2022/10/27 07:25 JST",
           "endDate": "2022/10/27 08:50 JST",
           "affectedServices": [
@@ -764,7 +481,7 @@
           "epochEndDate": 1666810020000,
           "messageId": "2000001861",
           "statusType": "Issue",
-          "datePosted": "2022/10/27 13:58 JST",
+          "datePosted": "2022/10/28 17:00 JST",
           "startDate": "2022/10/27 03:07 JST",
           "endDate": "2022/10/27 03:47 JST",
           "affectedServices": null,
