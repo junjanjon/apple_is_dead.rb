@@ -279,14 +279,44 @@
       "redirectUrl": null,
       "serviceName": "iWork for iCloud",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1667224800000,
+          "epochEndDate": null,
+          "messageId": "2000001885",
+          "statusType": "Issue",
+          "datePosted": "2022/11/08 12:46 JST",
+          "startDate": "2022/10/31 23:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "iWorkの共同制作機能",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1667224800000,
+          "epochEndDate": null,
+          "messageId": "2000001885",
+          "statusType": "Issue",
+          "datePosted": "2022/11/08 12:46 JST",
+          "startDate": "2022/10/31 23:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ]
     },
     {
