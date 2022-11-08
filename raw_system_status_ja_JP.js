@@ -279,20 +279,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
+          "usersAffected": "一部のユーザに影響します",
           "epochStartDate": 1667224800000,
-          "epochEndDate": 1667876400000,
+          "epochEndDate": null,
           "messageId": "2000001885",
           "statusType": "Issue",
-          "datePosted": "2022/11/08 21:33 JST",
+          "datePosted": "2022/11/09 01:42 JST",
           "startDate": "2022/10/31 23:00 JST",
-          "endDate": "2022/11/08 12:00 JST",
+          "endDate": null,
           "affectedServices": [
             "iWork for iCloud",
             "iWorkの共同制作機能"
           ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
         }
       ],
       "serviceName": "iWork for iCloud"
@@ -301,20 +301,20 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響しました",
+          "usersAffected": "一部のユーザに影響します",
           "epochStartDate": 1667224800000,
-          "epochEndDate": 1667876400000,
+          "epochEndDate": null,
           "messageId": "2000001885",
           "statusType": "Issue",
-          "datePosted": "2022/11/08 21:33 JST",
+          "datePosted": "2022/11/09 01:42 JST",
           "startDate": "2022/10/31 23:00 JST",
-          "endDate": "2022/11/08 12:00 JST",
+          "endDate": null,
           "affectedServices": [
             "iWork for iCloud",
             "iWorkの共同制作機能"
           ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
         }
       ],
       "serviceName": "iWorkの共同制作機能"
