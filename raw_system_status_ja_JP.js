@@ -280,20 +280,20 @@
       "serviceName": "iWork for iCloud",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1668004200000,
-          "epochEndDate": null,
+          "epochEndDate": 1668030300000,
           "messageId": "1000001563",
           "statusType": "Issue",
-          "datePosted": "2022/11/10 03:17 JST",
+          "datePosted": "2022/11/10 06:54 JST",
           "startDate": "2022/11/09 23:30 JST",
-          "endDate": null,
+          "endDate": "2022/11/10 06:45 JST",
           "affectedServices": [
             "iWork for iCloud",
             "iWorkの共同制作機能"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -301,7 +301,7 @@
           "epochEndDate": 1667944800000,
           "messageId": "2000001885",
           "statusType": "Issue",
-          "datePosted": "2022/11/10 03:17 JST",
+          "datePosted": "2022/11/10 06:54 JST",
           "startDate": "2022/10/31 23:00 JST",
           "endDate": "2022/11/09 07:00 JST",
           "affectedServices": [
@@ -318,20 +318,20 @@
       "serviceName": "iWorkの共同制作機能",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1668004200000,
-          "epochEndDate": null,
+          "epochEndDate": 1668030300000,
           "messageId": "1000001563",
           "statusType": "Issue",
-          "datePosted": "2022/11/10 03:17 JST",
+          "datePosted": "2022/11/10 06:54 JST",
           "startDate": "2022/11/09 23:30 JST",
-          "endDate": null,
+          "endDate": "2022/11/10 06:45 JST",
           "affectedServices": [
             "iWork for iCloud",
             "iWorkの共同制作機能"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -339,7 +339,7 @@
           "epochEndDate": 1667944800000,
           "messageId": "2000001885",
           "statusType": "Issue",
-          "datePosted": "2022/11/10 03:17 JST",
+          "datePosted": "2022/11/10 06:54 JST",
           "startDate": "2022/10/31 23:00 JST",
           "endDate": "2022/11/09 07:00 JST",
           "affectedServices": [
