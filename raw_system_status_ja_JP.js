@@ -194,7 +194,7 @@
           "epochEndDate": 1669675080000,
           "messageId": "2000001920",
           "statusType": "Issue",
-          "datePosted": "2022/11/29 07:54 JST",
+          "datePosted": "2022/11/29 14:52 JST",
           "startDate": "2022/11/29 06:48 JST",
           "endDate": "2022/11/29 07:38 JST",
           "affectedServices": [
@@ -218,7 +218,7 @@
           "epochEndDate": 1669675080000,
           "messageId": "2000001920",
           "statusType": "Issue",
-          "datePosted": "2022/11/29 07:54 JST",
+          "datePosted": "2022/11/29 14:52 JST",
           "startDate": "2022/11/29 06:48 JST",
           "endDate": "2022/11/29 07:38 JST",
           "affectedServices": [
@@ -252,24 +252,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1669647960000,
-          "epochEndDate": 1669667700000,
-          "messageId": "2000001919",
-          "statusType": "Issue",
-          "datePosted": "2022/11/29 07:54 JST",
-          "startDate": "2022/11/29 00:06 JST",
-          "endDate": "2022/11/29 05:35 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "メールの送受信またはアクセスができなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1669672080000,
           "epochEndDate": 1669675080000,
           "messageId": "2000001920",
           "statusType": "Issue",
-          "datePosted": "2022/11/29 07:54 JST",
+          "datePosted": "2022/11/29 14:52 JST",
           "startDate": "2022/11/29 06:48 JST",
           "endDate": "2022/11/29 07:38 JST",
           "affectedServices": [
@@ -280,6 +267,19 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1669647960000,
+          "epochEndDate": 1669667700000,
+          "messageId": "2000001919",
+          "statusType": "Issue",
+          "datePosted": "2022/11/29 14:52 JST",
+          "startDate": "2022/11/29 00:06 JST",
+          "endDate": "2022/11/29 05:35 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "メールの送受信またはアクセスができなかった可能性があります。"
         }
       ]
     },
@@ -496,7 +496,7 @@
           "epochEndDate": 1669675080000,
           "messageId": "2000001920",
           "statusType": "Issue",
-          "datePosted": "2022/11/29 07:54 JST",
+          "datePosted": "2022/11/29 14:52 JST",
           "startDate": "2022/11/29 06:48 JST",
           "endDate": "2022/11/29 07:38 JST",
           "affectedServices": [
