@@ -216,17 +216,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1669986360000,
-          "epochEndDate": null,
+          "epochEndDate": 1670001900000,
           "messageId": "1000001586",
-          "statusType": "Issue",
-          "datePosted": "2022/12/03 00:36 JST",
+          "statusType": "Outage",
+          "datePosted": "2022/12/03 03:05 JST",
           "startDate": "2022/12/02 22:06 JST",
-          "endDate": null,
+          "endDate": "2022/12/03 02:25 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         },
         {
           "usersAffected": "一部のユーザに影響しました",
@@ -234,7 +234,7 @@
           "epochEndDate": 1669925700000,
           "messageId": "2000001927",
           "statusType": "Issue",
-          "datePosted": "2022/12/03 00:36 JST",
+          "datePosted": "2022/12/03 03:05 JST",
           "startDate": "2022/12/02 04:25 JST",
           "endDate": "2022/12/02 05:15 JST",
           "affectedServices": null,
@@ -247,7 +247,7 @@
           "epochEndDate": 1669920300000,
           "messageId": "2000001925",
           "statusType": "Issue",
-          "datePosted": "2022/12/03 00:36 JST",
+          "datePosted": "2022/12/03 03:05 JST",
           "startDate": "2022/12/01 23:06 JST",
           "endDate": "2022/12/02 03:45 JST",
           "affectedServices": null,
