@@ -216,19 +216,7 @@
       "redirectUrl": null,
       "serviceName": "iCloudメール",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1669986360000,
-          "epochEndDate": 1670001900000,
-          "messageId": "1000001586",
-          "statusType": "Outage",
-          "datePosted": "2022/12/05 16:43 JST",
-          "startDate": "2022/12/02 22:06 JST",
-          "endDate": "2022/12/03 02:25 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -300,12 +288,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1670219100000,
+          "epochStartDate": 1670219400000,
           "epochEndDate": null,
           "messageId": "1000001589",
           "statusType": "Issue",
-          "datePosted": "2022/12/05 16:43 JST",
-          "startDate": "2022/12/05 14:45 JST",
+          "datePosted": "2022/12/05 18:00 JST",
+          "startDate": "2022/12/05 14:50 JST",
           "endDate": null,
           "affectedServices": null,
           "eventStatus": "ongoing",
