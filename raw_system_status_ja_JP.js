@@ -287,17 +287,17 @@
       "serviceName": "iWorkの共同制作機能",
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1670219400000,
-          "epochEndDate": null,
+          "epochEndDate": 1670229600000,
           "messageId": "1000001589",
           "statusType": "Issue",
-          "datePosted": "2022/12/05 18:00 JST",
+          "datePosted": "2022/12/05 18:31 JST",
           "startDate": "2022/12/05 14:50 JST",
-          "endDate": null,
+          "endDate": "2022/12/05 17:40 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
         }
       ]
     },
