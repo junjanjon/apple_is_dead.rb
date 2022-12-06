@@ -151,7 +151,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/06 18:31 JST",
+          "datePosted": "2022/12/07 00:47 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -200,7 +200,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/06 18:31 JST",
+          "datePosted": "2022/12/07 00:47 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -235,7 +235,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/06 18:31 JST",
+          "datePosted": "2022/12/07 00:47 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -263,7 +263,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/06 18:31 JST",
+          "datePosted": "2022/12/07 00:47 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -305,7 +305,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/06 18:31 JST",
+          "datePosted": "2022/12/07 00:47 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -333,7 +333,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/06 18:31 JST",
+          "datePosted": "2022/12/07 00:47 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -410,7 +410,7 @@
           "epochEndDate": 1670292480000,
           "messageId": "2000001941",
           "statusType": "Issue",
-          "datePosted": "2022/12/06 18:31 JST",
+          "datePosted": "2022/12/07 00:47 JST",
           "startDate": "2022/12/06 09:10 JST",
           "endDate": "2022/12/06 11:08 JST",
           "affectedServices": null,
@@ -423,7 +423,7 @@
           "epochEndDate": 1670229600000,
           "messageId": "1000001589",
           "statusType": "Issue",
-          "datePosted": "2022/12/06 18:31 JST",
+          "datePosted": "2022/12/07 00:47 JST",
           "startDate": "2022/12/05 14:50 JST",
           "endDate": "2022/12/05 17:40 JST",
           "affectedServices": null,
@@ -485,7 +485,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1670337000000,
+          "epochEndDate": null,
+          "messageId": "1000001591",
+          "statusType": "Issue",
+          "datePosted": "2022/12/07 00:47 JST",
+          "startDate": "2022/12/06 23:30 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "スクールワーク"
     },
@@ -498,7 +510,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/06 18:31 JST",
+          "datePosted": "2022/12/07 00:47 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -596,7 +608,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/06 18:31 JST",
+          "datePosted": "2022/12/07 00:47 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
