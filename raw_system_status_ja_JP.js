@@ -68,7 +68,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1670512440000,
+          "epochEndDate": null,
+          "messageId": "1000001594",
+          "statusType": "Outage",
+          "datePosted": "2022/12/09 08:25 JST",
+          "startDate": "2022/12/09 00:14 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "Apple Pay & ウォレット"
     },
@@ -151,7 +163,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/08 20:55 JST",
+          "datePosted": "2022/12/09 08:25 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -200,7 +212,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/08 20:55 JST",
+          "datePosted": "2022/12/09 08:25 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -235,7 +247,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/08 20:55 JST",
+          "datePosted": "2022/12/09 08:25 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -263,7 +275,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/08 20:55 JST",
+          "datePosted": "2022/12/09 08:25 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -305,7 +317,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/08 20:55 JST",
+          "datePosted": "2022/12/09 08:25 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -333,7 +345,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/08 20:55 JST",
+          "datePosted": "2022/12/09 08:25 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -399,13 +411,13 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1670479200000,
-          "epochEndDate": 1670484300000,
-          "messageId": "1000001593",
+          "epochStartDate": 1670378400000,
+          "epochEndDate": 1670381700000,
+          "messageId": "2000001942",
           "statusType": "Issue",
-          "datePosted": "2022/12/08 20:55 JST",
-          "startDate": "2022/12/08 15:00 JST",
-          "endDate": "2022/12/08 16:25 JST",
+          "datePosted": "2022/12/09 08:25 JST",
+          "startDate": "2022/12/07 11:00 JST",
+          "endDate": "2022/12/07 11:55 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
@@ -416,7 +428,7 @@
           "epochEndDate": 1670399700000,
           "messageId": "1000001592",
           "statusType": "Issue",
-          "datePosted": "2022/12/08 20:55 JST",
+          "datePosted": "2022/12/09 08:25 JST",
           "startDate": "2022/12/07 15:35 JST",
           "endDate": "2022/12/07 16:55 JST",
           "affectedServices": null,
@@ -425,13 +437,13 @@
         },
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1670378400000,
-          "epochEndDate": 1670381700000,
-          "messageId": "2000001942",
+          "epochStartDate": 1670479200000,
+          "epochEndDate": 1670484300000,
+          "messageId": "1000001593",
           "statusType": "Issue",
-          "datePosted": "2022/12/08 20:55 JST",
-          "startDate": "2022/12/07 11:00 JST",
-          "endDate": "2022/12/07 11:55 JST",
+          "datePosted": "2022/12/09 08:25 JST",
+          "startDate": "2022/12/08 15:00 JST",
+          "endDate": "2022/12/08 16:25 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
@@ -504,7 +516,7 @@
           "epochEndDate": 1670344500000,
           "messageId": "1000001591",
           "statusType": "Issue",
-          "datePosted": "2022/12/08 20:55 JST",
+          "datePosted": "2022/12/09 08:25 JST",
           "startDate": "2022/12/06 23:30 JST",
           "endDate": "2022/12/07 01:35 JST",
           "affectedServices": null,
@@ -523,7 +535,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/08 20:55 JST",
+          "datePosted": "2022/12/09 08:25 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
@@ -621,7 +633,7 @@
           "epochEndDate": 1670316720000,
           "messageId": "1000001590",
           "statusType": "Issue",
-          "datePosted": "2022/12/08 20:55 JST",
+          "datePosted": "2022/12/09 08:25 JST",
           "startDate": "2022/12/06 16:40 JST",
           "endDate": "2022/12/06 17:52 JST",
           "affectedServices": [
