@@ -74,7 +74,7 @@
           "epochEndDate": null,
           "messageId": "1000001595",
           "statusType": "Outage",
-          "datePosted": "2022/12/14 10:12 JST",
+          "datePosted": "2022/12/14 10:29 JST",
           "startDate": "2022/12/09 00:14 JST",
           "endDate": null,
           "affectedServices": null,
@@ -87,7 +87,7 @@
           "epochEndDate": null,
           "messageId": "1000001594",
           "statusType": "Outage",
-          "datePosted": "2022/12/14 10:12 JST",
+          "datePosted": "2022/12/14 10:29 JST",
           "startDate": "2022/12/09 00:14 JST",
           "endDate": null,
           "affectedServices": null,
@@ -191,7 +191,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1670976000000,
+          "epochEndDate": null,
+          "messageId": "2000001950",
+          "statusType": "Issue",
+          "datePosted": "2022/12/14 10:29 JST",
+          "startDate": "2022/12/14 09:00 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudカレンダー"
     },
@@ -372,10 +388,11 @@
           "epochEndDate": null,
           "messageId": "2000001950",
           "statusType": "Issue",
-          "datePosted": "2022/12/14 10:12 JST",
+          "datePosted": "2022/12/14 10:29 JST",
           "startDate": "2022/12/14 09:00 JST",
           "endDate": null,
           "affectedServices": [
+            "iCloudカレンダー",
             "スクリーンタイム",
             "写真"
           ],
@@ -464,10 +481,11 @@
           "epochEndDate": null,
           "messageId": "2000001950",
           "statusType": "Issue",
-          "datePosted": "2022/12/14 10:12 JST",
+          "datePosted": "2022/12/14 10:29 JST",
           "startDate": "2022/12/14 09:00 JST",
           "endDate": null,
           "affectedServices": [
+            "iCloudカレンダー",
             "スクリーンタイム",
             "写真"
           ],
