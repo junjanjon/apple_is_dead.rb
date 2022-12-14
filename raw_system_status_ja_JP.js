@@ -74,7 +74,7 @@
           "epochEndDate": null,
           "messageId": "1000001595",
           "statusType": "Outage",
-          "datePosted": "2022/12/14 10:29 JST",
+          "datePosted": "2022/12/14 10:44 JST",
           "startDate": "2022/12/09 00:14 JST",
           "endDate": null,
           "affectedServices": null,
@@ -87,7 +87,7 @@
           "epochEndDate": null,
           "messageId": "1000001594",
           "statusType": "Outage",
-          "datePosted": "2022/12/14 10:29 JST",
+          "datePosted": "2022/12/14 10:44 JST",
           "startDate": "2022/12/09 00:14 JST",
           "endDate": null,
           "affectedServices": null,
@@ -192,21 +192,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1670976000000,
-          "epochEndDate": null,
+          "epochEndDate": 1670980320000,
           "messageId": "2000001950",
           "statusType": "Issue",
-          "datePosted": "2022/12/14 10:29 JST",
+          "datePosted": "2022/12/14 10:44 JST",
           "startDate": "2022/12/14 09:00 JST",
-          "endDate": null,
+          "endDate": "2022/12/14 10:12 JST",
           "affectedServices": [
             "iCloudカレンダー",
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudカレンダー"
@@ -383,21 +383,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1670976000000,
-          "epochEndDate": null,
+          "epochEndDate": 1670980320000,
           "messageId": "2000001950",
           "statusType": "Issue",
-          "datePosted": "2022/12/14 10:29 JST",
+          "datePosted": "2022/12/14 10:44 JST",
           "startDate": "2022/12/14 09:00 JST",
-          "endDate": null,
+          "endDate": "2022/12/14 10:12 JST",
           "affectedServices": [
             "iCloudカレンダー",
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "スクリーンタイム"
@@ -476,21 +476,21 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1670976000000,
-          "epochEndDate": null,
+          "epochEndDate": 1670980320000,
           "messageId": "2000001950",
           "statusType": "Issue",
-          "datePosted": "2022/12/14 10:29 JST",
+          "datePosted": "2022/12/14 10:44 JST",
           "startDate": "2022/12/14 09:00 JST",
-          "endDate": null,
+          "endDate": "2022/12/14 10:12 JST",
           "affectedServices": [
             "iCloudカレンダー",
             "スクリーンタイム",
             "写真"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "写真"
