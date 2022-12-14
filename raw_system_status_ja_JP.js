@@ -11,7 +11,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -40,7 +40,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -69,7 +69,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -112,7 +112,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -141,7 +141,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -184,7 +184,7 @@
           "epochEndDate": null,
           "messageId": "1000001594",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/09 00:14 JST",
           "endDate": null,
           "affectedServices": null,
@@ -197,7 +197,7 @@
           "epochEndDate": null,
           "messageId": "1000001595",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/09 00:14 JST",
           "endDate": null,
           "affectedServices": null,
@@ -223,7 +223,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -329,7 +329,7 @@
           "epochEndDate": null,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": null,
           "affectedServices": [
@@ -337,6 +337,7 @@
             "iCloudキーチェーン",
             "iCloudメール",
             "iCloud連絡先",
+            "iWork for iCloud",
             "スクリーンタイム",
             "写真"
           ],
@@ -349,7 +350,7 @@
           "epochEndDate": 1670980320000,
           "messageId": "2000001950",
           "statusType": "Issue",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/14 09:00 JST",
           "endDate": "2022/12/14 10:12 JST",
           "affectedServices": [
@@ -372,7 +373,7 @@
           "epochEndDate": null,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": null,
           "affectedServices": [
@@ -380,6 +381,7 @@
             "iCloudキーチェーン",
             "iCloudメール",
             "iCloud連絡先",
+            "iWork for iCloud",
             "スクリーンタイム",
             "写真"
           ],
@@ -426,7 +428,7 @@
           "epochEndDate": null,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": null,
           "affectedServices": [
@@ -434,6 +436,7 @@
             "iCloudキーチェーン",
             "iCloudメール",
             "iCloud連絡先",
+            "iWork for iCloud",
             "スクリーンタイム",
             "写真"
           ],
@@ -466,7 +469,7 @@
           "epochEndDate": null,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": null,
           "affectedServices": [
@@ -474,6 +477,7 @@
             "iCloudキーチェーン",
             "iCloudメール",
             "iCloud連絡先",
+            "iWork for iCloud",
             "スクリーンタイム",
             "写真"
           ],
@@ -513,7 +517,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -543,7 +547,27 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1671051420000,
+          "epochEndDate": null,
+          "messageId": "1000001606",
+          "statusType": "Issue",
+          "datePosted": "2022/12/15 07:54 JST",
+          "startDate": "2022/12/15 05:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            "iCloud連絡先",
+            "iWork for iCloud",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iWork for iCloud"
     },
@@ -563,7 +587,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -641,7 +665,7 @@
           "epochEndDate": null,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": null,
           "affectedServices": [
@@ -649,6 +673,7 @@
             "iCloudキーチェーン",
             "iCloudメール",
             "iCloud連絡先",
+            "iWork for iCloud",
             "スクリーンタイム",
             "写真"
           ],
@@ -661,7 +686,7 @@
           "epochEndDate": 1670980320000,
           "messageId": "2000001950",
           "statusType": "Issue",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/14 09:00 JST",
           "endDate": "2022/12/14 10:12 JST",
           "affectedServices": [
@@ -747,7 +772,7 @@
           "epochEndDate": null,
           "messageId": "2000001951",
           "statusType": "Issue",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/15 05:55 JST",
           "endDate": null,
           "affectedServices": null,
@@ -766,7 +791,7 @@
           "epochEndDate": null,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": null,
           "affectedServices": [
@@ -774,6 +799,7 @@
             "iCloudキーチェーン",
             "iCloudメール",
             "iCloud連絡先",
+            "iWork for iCloud",
             "スクリーンタイム",
             "写真"
           ],
@@ -786,7 +812,7 @@
           "epochEndDate": 1670980320000,
           "messageId": "2000001950",
           "statusType": "Issue",
-          "datePosted": "2022/12/15 07:33 JST",
+          "datePosted": "2022/12/15 07:54 JST",
           "startDate": "2022/12/14 09:00 JST",
           "endDate": "2022/12/14 10:12 JST",
           "affectedServices": [
