@@ -11,7 +11,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -40,7 +40,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -69,7 +69,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -112,7 +112,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -141,7 +141,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -182,9 +182,9 @@
           "usersAffected": "すべてのユーザに影響します",
           "epochStartDate": 1670512440000,
           "epochEndDate": null,
-          "messageId": "1000001595",
+          "messageId": "1000001594",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/09 00:14 JST",
           "endDate": null,
           "affectedServices": null,
@@ -195,9 +195,9 @@
           "usersAffected": "すべてのユーザに影響します",
           "epochStartDate": 1670512440000,
           "epochEndDate": null,
-          "messageId": "1000001594",
+          "messageId": "1000001595",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/09 00:14 JST",
           "endDate": null,
           "affectedServices": null,
@@ -223,7 +223,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -324,12 +324,32 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1671051420000,
+          "epochEndDate": null,
+          "messageId": "1000001606",
+          "statusType": "Issue",
+          "datePosted": "2022/12/15 06:59 JST",
+          "startDate": "2022/12/15 05:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        },
+        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1670976000000,
           "epochEndDate": 1670980320000,
           "messageId": "2000001950",
           "statusType": "Issue",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/14 09:00 JST",
           "endDate": "2022/12/14 10:12 JST",
           "affectedServices": [
@@ -346,7 +366,26 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1671051420000,
+          "epochEndDate": null,
+          "messageId": "1000001606",
+          "statusType": "Issue",
+          "datePosted": "2022/12/15 06:59 JST",
+          "startDate": "2022/12/15 05:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudキーチェーン"
     },
@@ -387,10 +426,17 @@
           "epochEndDate": null,
           "messageId": "1000001606",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": null,
-          "affectedServices": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真"
+          ],
           "eventStatus": "ongoing",
           "message": "メールの送受信またはアクセスができていない可能性があります。"
         }
@@ -414,7 +460,26 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1671051420000,
+          "epochEndDate": null,
+          "messageId": "1000001606",
+          "statusType": "Issue",
+          "datePosted": "2022/12/15 06:59 JST",
+          "startDate": "2022/12/15 05:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloud連絡先"
     },
@@ -448,7 +513,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -498,7 +563,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -571,12 +636,32 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1671051420000,
+          "epochEndDate": null,
+          "messageId": "1000001606",
+          "statusType": "Issue",
+          "datePosted": "2022/12/15 06:59 JST",
+          "startDate": "2022/12/15 05:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        },
+        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1670976000000,
           "epochEndDate": 1670980320000,
           "messageId": "2000001950",
           "statusType": "Issue",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/14 09:00 JST",
           "endDate": "2022/12/14 10:12 JST",
           "affectedServices": [
@@ -664,12 +749,32 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1671051420000,
+          "epochEndDate": null,
+          "messageId": "1000001606",
+          "statusType": "Issue",
+          "datePosted": "2022/12/15 06:59 JST",
+          "startDate": "2022/12/15 05:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudメール",
+            "iCloud連絡先",
+            "スクリーンタイム",
+            "写真"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        },
+        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1670976000000,
           "epochEndDate": 1670980320000,
           "messageId": "2000001950",
           "statusType": "Issue",
-          "datePosted": "2022/12/15 06:28 JST",
+          "datePosted": "2022/12/15 06:59 JST",
           "startDate": "2022/12/14 09:00 JST",
           "endDate": "2022/12/14 10:12 JST",
           "affectedServices": [
