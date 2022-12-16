@@ -11,7 +11,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -40,7 +40,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -69,7 +69,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -112,7 +112,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -141,7 +141,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -198,7 +198,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -290,7 +290,7 @@
           "epochEndDate": 1671061440000,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": "2022/12/15 08:44 JST",
           "affectedServices": [
@@ -321,28 +321,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1670976000000,
-          "epochEndDate": 1670980320000,
-          "messageId": "2000001950",
-          "statusType": "Issue",
-          "datePosted": "2022/12/16 10:07 JST",
-          "startDate": "2022/12/14 09:00 JST",
-          "endDate": "2022/12/14 10:12 JST",
-          "affectedServices": [
-            "iCloudカレンダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1671051420000,
           "epochEndDate": 1671061440000,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": "2022/12/15 08:44 JST",
           "affectedServices": [
@@ -370,7 +353,7 @@
           "epochEndDate": 1671061440000,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": "2022/12/15 08:44 JST",
           "affectedServices": [
@@ -426,7 +409,7 @@
           "epochEndDate": 1671060960000,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": "2022/12/15 08:44 JST",
           "affectedServices": [
@@ -468,7 +451,7 @@
           "epochEndDate": 1671061440000,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": "2022/12/15 08:44 JST",
           "affectedServices": [
@@ -517,7 +500,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -553,7 +536,7 @@
           "epochEndDate": 1671061020000,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": "2022/12/15 08:44 JST",
           "affectedServices": [
@@ -588,7 +571,7 @@
           "epochEndDate": 1671018900000,
           "messageId": "1000001604",
           "statusType": "Outage",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/14 18:30 JST",
           "endDate": "2022/12/14 20:55 JST",
           "affectedServices": [
@@ -662,28 +645,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1670976000000,
-          "epochEndDate": 1670980320000,
-          "messageId": "2000001950",
-          "statusType": "Issue",
-          "datePosted": "2022/12/16 10:07 JST",
-          "startDate": "2022/12/14 09:00 JST",
-          "endDate": "2022/12/14 10:12 JST",
-          "affectedServices": [
-            "iCloudカレンダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1671051420000,
           "epochEndDate": 1671061440000,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": "2022/12/15 08:44 JST",
           "affectedServices": [
@@ -774,7 +740,7 @@
           "epochEndDate": 1671060600000,
           "messageId": "2000001951",
           "statusType": "Issue",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/15 05:55 JST",
           "endDate": "2022/12/15 08:30 JST",
           "affectedServices": null,
@@ -789,28 +755,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1670976000000,
-          "epochEndDate": 1670980320000,
-          "messageId": "2000001950",
-          "statusType": "Issue",
-          "datePosted": "2022/12/16 10:07 JST",
-          "startDate": "2022/12/14 09:00 JST",
-          "endDate": "2022/12/14 10:12 JST",
-          "affectedServices": [
-            "iCloudカレンダー",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1671051420000,
           "epochEndDate": 1671058200000,
           "messageId": "1000001606",
           "statusType": "Issue",
-          "datePosted": "2022/12/16 10:07 JST",
+          "datePosted": "2022/12/16 18:00 JST",
           "startDate": "2022/12/15 05:57 JST",
           "endDate": "2022/12/15 08:44 JST",
           "affectedServices": [
