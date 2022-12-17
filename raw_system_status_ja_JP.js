@@ -4,786 +4,430 @@
   "services": [
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671010200000,
-          "epochEndDate": 1671018900000,
-          "messageId": "1000001604",
-          "statusType": "Outage",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/14 18:30 JST",
-          "endDate": "2022/12/14 20:55 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Arcade",
-            "Apple Books",
-            "Apple Fitness+",
-            "Apple Music",
-            "Apple Musicのサブスクリプション",
-            "Apple TV+",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "App Storeにアクセスできませんでした。"
-        }
-      ],
-      "serviceName": "App Store"
-    },
-    {
-      "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671010200000,
-          "epochEndDate": 1671018900000,
-          "messageId": "1000001604",
-          "statusType": "Outage",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/14 18:30 JST",
-          "endDate": "2022/12/14 20:55 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Arcade",
-            "Apple Books",
-            "Apple Fitness+",
-            "Apple Music",
-            "Apple Musicのサブスクリプション",
-            "Apple TV+",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "ユーザがサインインできなかった可能性があります。"
-        }
-      ],
-      "serviceName": "Apple Arcade"
-    },
-    {
-      "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671010200000,
-          "epochEndDate": 1671018900000,
-          "messageId": "1000001604",
-          "statusType": "Outage",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/14 18:30 JST",
-          "endDate": "2022/12/14 20:55 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Arcade",
-            "Apple Books",
-            "Apple Fitness+",
-            "Apple Music",
-            "Apple Musicのサブスクリプション",
-            "Apple TV+",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "複数のStore／サービスへのアクセスや購入ができませんでした。"
-        }
-      ],
-      "serviceName": "Apple Books"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "App Store",
       "events": [
 
-      ],
-      "serviceName": "Apple ID"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple Arcade",
       "events": [
 
-      ],
-      "serviceName": "Apple Messages for Business"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671010200000,
-          "epochEndDate": 1671018900000,
-          "messageId": "1000001604",
-          "statusType": "Outage",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/14 18:30 JST",
-          "endDate": "2022/12/14 20:55 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Arcade",
-            "Apple Books",
-            "Apple Fitness+",
-            "Apple Music",
-            "Apple Musicのサブスクリプション",
-            "Apple TV+",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "ユーザがサインインできなかった可能性があります。"
-        }
-      ],
-      "serviceName": "Apple Music"
-    },
-    {
-      "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671010200000,
-          "epochEndDate": 1671018900000,
-          "messageId": "1000001604",
-          "statusType": "Outage",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/14 18:30 JST",
-          "endDate": "2022/12/14 20:55 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Arcade",
-            "Apple Books",
-            "Apple Fitness+",
-            "Apple Music",
-            "Apple Musicのサブスクリプション",
-            "Apple TV+",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "ユーザがサインインできなかった可能性があります。"
-        }
-      ],
-      "serviceName": "Apple Musicのサブスクリプション"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "Apple Books",
       "events": [
 
-      ],
-      "serviceName": "Apple Musicのラジオ"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple ID",
       "events": [
 
-      ],
-      "serviceName": "Apple Online Store"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple Messages for Business",
       "events": [
 
-      ],
-      "serviceName": "Apple Pay & ウォレット"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple Music",
       "events": [
 
-      ],
-      "serviceName": "Apple School Manager"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671010200000,
-          "epochEndDate": 1671018900000,
-          "messageId": "1000001604",
-          "statusType": "Outage",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/14 18:30 JST",
-          "endDate": "2022/12/14 20:55 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Arcade",
-            "Apple Books",
-            "Apple Fitness+",
-            "Apple Music",
-            "Apple Musicのサブスクリプション",
-            "Apple TV+",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "ユーザがサインインできなかった可能性があります。"
-        }
-      ],
-      "serviceName": "Apple TV+"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "Apple Musicのサブスクリプション",
       "events": [
 
-      ],
-      "serviceName": "Apple TVチャンネル"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple Musicのラジオ",
       "events": [
 
-      ],
-      "serviceName": "Appleでサインイン"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple Online Store",
       "events": [
 
-      ],
-      "serviceName": "Device Enrollment Program"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple Pay & ウォレット",
       "events": [
 
-      ],
-      "serviceName": "FaceTime"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple School Manager",
       "events": [
 
-      ],
-      "serviceName": "Game Center"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple TV+",
       "events": [
 
-      ],
-      "serviceName": "Global Service Exchange"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Apple TVチャンネル",
       "events": [
 
-      ],
-      "serviceName": "HomeKit"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Appleでサインイン",
       "events": [
 
-      ],
-      "serviceName": "HomeKitセキュアビデオ"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Device Enrollment Program",
       "events": [
 
-      ],
-      "serviceName": "iCloud Drive"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671051420000,
-          "epochEndDate": 1671061440000,
-          "messageId": "1000001606",
-          "statusType": "Issue",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/15 05:57 JST",
-          "endDate": "2022/12/15 08:44 JST",
-          "affectedServices": [
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
-      ],
-      "serviceName": "iCloud Web Apps (iCloud.com)"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "FaceTime",
       "events": [
 
-      ],
-      "serviceName": "iCloudアカウントおよびサインイン"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671051420000,
-          "epochEndDate": 1671061440000,
-          "messageId": "1000001606",
-          "statusType": "Issue",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/15 05:57 JST",
-          "endDate": "2022/12/15 08:44 JST",
-          "affectedServices": [
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
-      ],
-      "serviceName": "iCloudカレンダー"
-    },
-    {
-      "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671051420000,
-          "epochEndDate": 1671061440000,
-          "messageId": "1000001606",
-          "statusType": "Issue",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/15 05:57 JST",
-          "endDate": "2022/12/15 08:44 JST",
-          "affectedServices": [
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
-      ],
-      "serviceName": "iCloudキーチェーン"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "Game Center",
       "events": [
 
-      ],
-      "serviceName": "iCloudストレージアップグレード"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Global Service Exchange",
       "events": [
 
-      ],
-      "serviceName": "iCloudバックアップ"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "HomeKit",
       "events": [
 
-      ],
-      "serviceName": "iCloudブックマークおよびタブ"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "HomeKitセキュアビデオ",
       "events": [
 
-      ],
-      "serviceName": "iCloudプライベートリレー"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671051420000,
-          "epochEndDate": 1671060960000,
-          "messageId": "1000001606",
-          "statusType": "Issue",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/15 05:57 JST",
-          "endDate": "2022/12/15 08:44 JST",
-          "affectedServices": [
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "メールの送受信またはアクセスができなかった可能性があります。"
-        }
-      ],
-      "serviceName": "iCloudメール"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "iCloud Drive",
       "events": [
 
-      ],
-      "serviceName": "iCloudメモ"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
 
-      ],
-      "serviceName": "iCloudリマインダー"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671051420000,
-          "epochEndDate": 1671061440000,
-          "messageId": "1000001606",
-          "statusType": "Issue",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/15 05:57 JST",
-          "endDate": "2022/12/15 08:44 JST",
-          "affectedServices": [
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
-      ],
-      "serviceName": "iCloud連絡先"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "iCloudアカウントおよびサインイン",
       "events": [
 
-      ],
-      "serviceName": "iMessage"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudカレンダー",
       "events": [
 
-      ],
-      "serviceName": "iOSデバイスアクティベーション"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudキーチェーン",
       "events": [
 
-      ],
-      "serviceName": "iTunes Match"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671010200000,
-          "epochEndDate": 1671018900000,
-          "messageId": "1000001604",
-          "statusType": "Outage",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/14 18:30 JST",
-          "endDate": "2022/12/14 20:55 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Arcade",
-            "Apple Books",
-            "Apple Fitness+",
-            "Apple Music",
-            "Apple Musicのサブスクリプション",
-            "Apple TV+",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "上記のサービスに関する問題が発生しました。"
-        }
-      ],
-      "serviceName": "iTunes Store"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "iCloudストレージアップグレード",
       "events": [
 
-      ],
-      "serviceName": "iTunes U"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671051420000,
-          "epochEndDate": 1671061020000,
-          "messageId": "1000001606",
-          "statusType": "Issue",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/15 05:57 JST",
-          "endDate": "2022/12/15 08:44 JST",
-          "affectedServices": [
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
-      ],
-      "serviceName": "iWork for iCloud"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "iCloudバックアップ",
       "events": [
 
-      ],
-      "serviceName": "iWorkの共同制作機能"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671010200000,
-          "epochEndDate": 1671018900000,
-          "messageId": "1000001604",
-          "statusType": "Outage",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/14 18:30 JST",
-          "endDate": "2022/12/14 20:55 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Arcade",
-            "Apple Books",
-            "Apple Fitness+",
-            "Apple Music",
-            "Apple Musicのサブスクリプション",
-            "Apple TV+",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "複数のStore／サービスへのアクセスや購入ができませんでした。"
-        }
-      ],
-      "serviceName": "Mac App Store"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "iCloudブックマークおよびタブ",
       "events": [
 
-      ],
-      "serviceName": "macOSソフトウェアアップデート"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudプライベートリレー",
       "events": [
 
-      ],
-      "serviceName": "Mail Drop"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudメール",
       "events": [
 
-      ],
-      "serviceName": "Siri"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudメモ",
       "events": [
 
-      ],
-      "serviceName": "Spotlightの検索候補"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloudリマインダー",
       "events": [
 
-      ],
-      "serviceName": "Volume Purchase Program"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iCloud連絡先",
       "events": [
 
-      ],
-      "serviceName": "スクールタイム"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iMessage",
       "events": [
 
-      ],
-      "serviceName": "スクールワーク"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671051420000,
-          "epochEndDate": 1671061440000,
-          "messageId": "1000001606",
-          "statusType": "Issue",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/15 05:57 JST",
-          "endDate": "2022/12/15 08:44 JST",
-          "affectedServices": [
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
-      ],
-      "serviceName": "スクリーンタイム"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "iOSデバイスアクティベーション",
       "events": [
 
-      ],
-      "serviceName": "デバイスのAppleCare"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iTunes Match",
       "events": [
 
-      ],
-      "serviceName": "トランシーバー"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iTunes Store",
       "events": [
 
-      ],
-      "serviceName": "ヘルスデータをプロバイダと共有"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iTunes U",
       "events": [
 
-      ],
-      "serviceName": "マップの経路案内とナビゲーション"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iWork for iCloud",
       "events": [
 
-      ],
-      "serviceName": "マップの検索"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "iWorkの共同制作機能",
       "events": [
 
-      ],
-      "serviceName": "マップの表示"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Mac App Store",
       "events": [
 
-      ],
-      "serviceName": "ラジオ"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "macOSソフトウェアアップデート",
       "events": [
 
-      ],
-      "serviceName": "音声入力"
+      ]
     },
     {
       "redirectUrl": null,
+      "serviceName": "Mail Drop",
       "events": [
 
-      ],
-      "serviceName": "株価"
+      ]
     },
     {
       "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671051300000,
-          "epochEndDate": 1671060600000,
-          "messageId": "2000001951",
-          "statusType": "Issue",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/15 05:55 JST",
-          "endDate": "2022/12/15 08:30 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生した可能性があります。"
-        }
-      ],
-      "serviceName": "探す"
-    },
-    {
-      "redirectUrl": null,
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671051420000,
-          "epochEndDate": 1671058200000,
-          "messageId": "1000001606",
-          "statusType": "Issue",
-          "datePosted": "2022/12/16 18:00 JST",
-          "startDate": "2022/12/15 05:57 JST",
-          "endDate": "2022/12/15 08:44 JST",
-          "affectedServices": [
-            "iCloud Web Apps (iCloud.com)",
-            "iCloudカレンダー",
-            "iCloudキーチェーン",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "スクリーンタイム",
-            "写真"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
-      ],
-      "serviceName": "写真"
-    },
-    {
-      "redirectUrl": null,
+      "serviceName": "Siri",
       "events": [
 
-      ],
-      "serviceName": "天気"
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "Spotlightの検索候補",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "Volume Purchase Program",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "スクールタイム",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "スクールワーク",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "スクリーンタイム",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "デバイスのAppleCare",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "トランシーバー",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "ヘルスデータをプロバイダと共有",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "マップの経路案内とナビゲーション",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "マップの検索",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "マップの表示",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "ラジオ",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "音声入力",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "株価",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "探す",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "写真",
+      "events": [
+
+      ]
+    },
+    {
+      "redirectUrl": null,
+      "serviceName": "天気",
+      "events": [
+
+      ]
     }
   ]
 }
