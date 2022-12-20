@@ -271,7 +271,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1671551760000,
+          "epochEndDate": null,
+          "messageId": "2000001959",
+          "statusType": "Issue",
+          "datePosted": "2022/12/21 02:10 JST",
+          "startDate": "2022/12/21 00:56 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iWork for iCloud"
     },
