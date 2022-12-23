@@ -278,7 +278,7 @@
           "epochEndDate": 1671561000000,
           "messageId": "2000001959",
           "statusType": "Issue",
-          "datePosted": "2022/12/21 18:00 JST",
+          "datePosted": "2022/12/23 09:52 JST",
           "startDate": "2022/12/21 00:56 JST",
           "endDate": "2022/12/21 03:30 JST",
           "affectedServices": null,
@@ -438,7 +438,19 @@
       "redirectUrl": null,
       "serviceName": "天気",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1671728400000,
+          "epochEndDate": null,
+          "messageId": "1000001643",
+          "statusType": "Issue",
+          "datePosted": "2022/12/23 09:52 JST",
+          "startDate": "2022/12/23 02:00 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "データプロバイダの不具合により、すべての地域の最新の重大な気象警報が表示されない可能性があります。"
+        }
       ]
     }
   ]
