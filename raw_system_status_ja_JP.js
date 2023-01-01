@@ -425,19 +425,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1671728400000,
-          "epochEndDate": 1672327800000,
-          "messageId": "1000001643",
-          "statusType": "Issue",
-          "datePosted": "2022/12/30 01:19 JST",
-          "startDate": "2022/12/23 02:00 JST",
-          "endDate": "2022/12/30 00:30 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "データプロバイダの不具合により、すべての地域の最新の重大な気象警報が表示されなかった可能性があります。"
-        }
+
       ],
       "serviceName": "天気"
     }
