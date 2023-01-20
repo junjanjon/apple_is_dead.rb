@@ -88,12 +88,13 @@
           "epochEndDate": null,
           "messageId": "2000002041",
           "statusType": "Issue",
-          "datePosted": "2023/01/20 10:17 JST",
+          "datePosted": "2023/01/20 10:29 JST",
           "startDate": "2023/01/20 10:13 JST",
           "endDate": null,
           "affectedServices": [
             "Apple TV+",
-            "Apple TVチャンネル"
+            "Apple TVチャンネル",
+            "iTunes Store"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関して一時的に問題が発生している可能性があります。"
@@ -110,12 +111,13 @@
           "epochEndDate": null,
           "messageId": "2000002041",
           "statusType": "Issue",
-          "datePosted": "2023/01/20 10:17 JST",
+          "datePosted": "2023/01/20 10:29 JST",
           "startDate": "2023/01/20 10:13 JST",
           "endDate": null,
           "affectedServices": [
             "Apple TV+",
-            "Apple TVチャンネル"
+            "Apple TVチャンネル",
+            "iTunes Store"
           ],
           "eventStatus": "ongoing",
           "message": "このサービスに関して一時的に問題が発生している可能性があります。"
@@ -287,7 +289,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1674177180000,
+          "epochEndDate": null,
+          "messageId": "2000002041",
+          "statusType": "Issue",
+          "datePosted": "2023/01/20 10:29 JST",
+          "startDate": "2023/01/20 10:13 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "iTunes Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "iTunes Store"
     },
