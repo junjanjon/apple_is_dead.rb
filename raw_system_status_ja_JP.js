@@ -83,44 +83,14 @@
       "redirectUrl": null,
       "serviceName": "Apple TV+",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1674177180000,
-          "epochEndDate": 1674182700000,
-          "messageId": "2000002041",
-          "statusType": "Issue",
-          "datePosted": "2023/01/22 02:29 JST",
-          "startDate": "2023/01/20 10:13 JST",
-          "endDate": "2023/01/20 11:45 JST",
-          "affectedServices": [
-            "Apple TV+",
-            "Apple TVチャンネル"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ]
     },
     {
       "redirectUrl": null,
       "serviceName": "Apple TVチャンネル",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1674177180000,
-          "epochEndDate": 1674182700000,
-          "messageId": "2000002041",
-          "statusType": "Issue",
-          "datePosted": "2023/01/22 02:29 JST",
-          "startDate": "2023/01/20 10:13 JST",
-          "endDate": "2023/01/20 11:45 JST",
-          "affectedServices": [
-            "Apple TV+",
-            "Apple TVチャンネル"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ]
     },
     {
