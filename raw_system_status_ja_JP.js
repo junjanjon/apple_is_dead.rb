@@ -81,7 +81,7 @@
           "epochEndDate": 1675540800000,
           "messageId": "2000002059",
           "statusType": "Maintenance",
-          "datePosted": "2023/01/25 05:47 JST",
+          "datePosted": "2023/01/27 18:00 JST",
           "startDate": "2023/02/05 02:00 JST",
           "endDate": "2023/02/05 05:00 JST",
           "affectedServices": [
@@ -125,7 +125,7 @@
           "epochEndDate": 1675540800000,
           "messageId": "2000002059",
           "statusType": "Maintenance",
-          "datePosted": "2023/01/25 05:47 JST",
+          "datePosted": "2023/01/27 18:00 JST",
           "startDate": "2023/02/05 02:00 JST",
           "endDate": "2023/02/05 05:00 JST",
           "affectedServices": [
@@ -198,19 +198,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1674577800000,
-          "epochEndDate": 1674592500000,
-          "messageId": "2000002060",
-          "statusType": "Issue",
-          "datePosted": "2023/01/25 05:47 JST",
-          "startDate": "2023/01/25 01:30 JST",
-          "endDate": "2023/01/25 05:35 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudカレンダー"
     },
