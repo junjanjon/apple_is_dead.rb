@@ -75,7 +75,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1675530000000,
+          "epochEndDate": 1675544400000,
+          "messageId": "2000002084",
+          "statusType": "Maintenance",
+          "datePosted": "2023/02/04 02:37 JST",
+          "startDate": "2023/02/05 02:00 JST",
+          "endDate": "2023/02/05 06:00 JST",
+          "affectedServices": [
+            "Apple School Manager",
+            "Device Enrollment Program",
+            null
+          ],
+          "eventStatus": "upcoming",
+          "message": "システムメンテナンス中は、一時的にApple School Managerをご利用いただけなくなります"
+        }
       ],
       "serviceName": "Apple School Manager"
     },
@@ -103,7 +119,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1675530000000,
+          "epochEndDate": 1675544400000,
+          "messageId": "2000002084",
+          "statusType": "Maintenance",
+          "datePosted": "2023/02/04 02:37 JST",
+          "startDate": "2023/02/05 02:00 JST",
+          "endDate": "2023/02/05 06:00 JST",
+          "affectedServices": [
+            "Apple School Manager",
+            "Device Enrollment Program",
+            null
+          ],
+          "eventStatus": "upcoming",
+          "message": "システムメンテナンス中は、一時的にDevice Enrollment Programをご利用いただけなくなります。"
+        }
       ],
       "serviceName": "Device Enrollment Program"
     },
