@@ -5,7 +5,25 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1675640640000,
+          "epochEndDate": null,
+          "messageId": "1000001723",
+          "statusType": "Outage",
+          "datePosted": "2023/02/06 10:05 JST",
+          "startDate": "2023/02/06 08:44 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Mac App Store",
+            "iTunes Store",
+            "オーディオブック",
+            "ポッドキャスト"
+          ],
+          "eventStatus": "ongoing",
+          "message": "App Storeにアクセスできません。"
+        }
       ],
       "serviceName": "App Store"
     },
@@ -81,7 +99,7 @@
           "epochEndDate": 1675539600000,
           "messageId": "2000002084",
           "statusType": "Maintenance",
-          "datePosted": "2023/02/05 05:13 JST",
+          "datePosted": "2023/02/06 10:05 JST",
           "startDate": "2023/02/05 02:00 JST",
           "endDate": "2023/02/05 04:40 JST",
           "affectedServices": [
@@ -126,7 +144,7 @@
           "epochEndDate": 1675539600000,
           "messageId": "2000002084",
           "statusType": "Maintenance",
-          "datePosted": "2023/02/05 05:13 JST",
+          "datePosted": "2023/02/06 10:05 JST",
           "startDate": "2023/02/05 02:00 JST",
           "endDate": "2023/02/05 04:40 JST",
           "affectedServices": [
@@ -291,7 +309,25 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1675640640000,
+          "epochEndDate": null,
+          "messageId": "1000001723",
+          "statusType": "Outage",
+          "datePosted": "2023/02/06 10:05 JST",
+          "startDate": "2023/02/06 08:44 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Mac App Store",
+            "iTunes Store",
+            "オーディオブック",
+            "ポッドキャスト"
+          ],
+          "eventStatus": "ongoing",
+          "message": "上記のサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ],
       "serviceName": "iTunes Store"
     },
@@ -319,7 +355,25 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1675640640000,
+          "epochEndDate": null,
+          "messageId": "1000001723",
+          "statusType": "Outage",
+          "datePosted": "2023/02/06 10:05 JST",
+          "startDate": "2023/02/06 08:44 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Mac App Store",
+            "iTunes Store",
+            "オーディオブック",
+            "ポッドキャスト"
+          ],
+          "eventStatus": "ongoing",
+          "message": "複数のStore／サービスへのサインインや購入ができません。"
+        }
       ],
       "serviceName": "Mac App Store"
     },
