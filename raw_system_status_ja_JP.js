@@ -12,7 +12,7 @@
           "epochEndDate": null,
           "messageId": "1000001723",
           "statusType": "Outage",
-          "datePosted": "2023/02/06 14:40 JST",
+          "datePosted": "2023/02/06 15:02 JST",
           "startDate": "2023/02/06 08:44 JST",
           "endDate": null,
           "affectedServices": [
@@ -26,22 +26,22 @@
           "message": "App Storeにアクセスできません。"
         },
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1675638600000,
-          "epochEndDate": null,
+          "epochEndDate": 1675641840000,
           "messageId": "1000001728",
           "statusType": "Outage",
-          "datePosted": "2023/02/06 14:40 JST",
+          "datePosted": "2023/02/06 15:02 JST",
           "startDate": "2023/02/06 08:10 JST",
-          "endDate": null,
+          "endDate": "2023/02/06 09:04 JST",
           "affectedServices": [
             "App Store",
             "Mac App Store",
             "オーディオブック",
             "ポッドキャスト"
           ],
-          "eventStatus": "ongoing",
-          "message": "App Storeにアクセスできません。"
+          "eventStatus": "resolved",
+          "message": "App Storeにアクセスできませんでした。"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "epochEndDate": 1675539600000,
           "messageId": "2000002084",
           "statusType": "Maintenance",
-          "datePosted": "2023/02/06 14:40 JST",
+          "datePosted": "2023/02/06 15:02 JST",
           "startDate": "2023/02/05 02:00 JST",
           "endDate": "2023/02/05 04:40 JST",
           "affectedServices": [
@@ -163,7 +163,7 @@
           "epochEndDate": 1675539600000,
           "messageId": "2000002084",
           "statusType": "Maintenance",
-          "datePosted": "2023/02/06 14:40 JST",
+          "datePosted": "2023/02/06 15:02 JST",
           "startDate": "2023/02/05 02:00 JST",
           "endDate": "2023/02/05 04:40 JST",
           "affectedServices": [
@@ -334,7 +334,7 @@
           "epochEndDate": null,
           "messageId": "1000001723",
           "statusType": "Outage",
-          "datePosted": "2023/02/06 14:40 JST",
+          "datePosted": "2023/02/06 15:02 JST",
           "startDate": "2023/02/06 08:44 JST",
           "endDate": null,
           "affectedServices": [
@@ -380,7 +380,7 @@
           "epochEndDate": null,
           "messageId": "1000001723",
           "statusType": "Outage",
-          "datePosted": "2023/02/06 14:40 JST",
+          "datePosted": "2023/02/06 15:02 JST",
           "startDate": "2023/02/06 08:44 JST",
           "endDate": null,
           "affectedServices": [
@@ -394,22 +394,22 @@
           "message": "複数のStore／サービスへのサインインや購入ができません。"
         },
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1675638600000,
-          "epochEndDate": null,
+          "epochEndDate": 1675641840000,
           "messageId": "1000001728",
           "statusType": "Outage",
-          "datePosted": "2023/02/06 14:40 JST",
+          "datePosted": "2023/02/06 15:02 JST",
           "startDate": "2023/02/06 08:10 JST",
-          "endDate": null,
+          "endDate": "2023/02/06 09:04 JST",
           "affectedServices": [
             "App Store",
             "Mac App Store",
             "オーディオブック",
             "ポッドキャスト"
           ],
-          "eventStatus": "ongoing",
-          "message": "複数のStore／サービスへのサインインや購入ができません。"
+          "eventStatus": "resolved",
+          "message": "複数のStore／サービスへのアクセスや購入ができませんでした。"
         }
       ]
     },
