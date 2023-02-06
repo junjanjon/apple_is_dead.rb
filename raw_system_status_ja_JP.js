@@ -11,7 +11,7 @@
           "epochEndDate": 1675641840000,
           "messageId": "1000001728",
           "statusType": "Outage",
-          "datePosted": "2023/02/06 15:07 JST",
+          "datePosted": "2023/02/06 15:10 JST",
           "startDate": "2023/02/06 08:10 JST",
           "endDate": "2023/02/06 09:04 JST",
           "affectedServices": [
@@ -98,7 +98,7 @@
           "epochEndDate": 1675539600000,
           "messageId": "2000002084",
           "statusType": "Maintenance",
-          "datePosted": "2023/02/06 15:07 JST",
+          "datePosted": "2023/02/06 15:10 JST",
           "startDate": "2023/02/05 02:00 JST",
           "endDate": "2023/02/05 04:40 JST",
           "affectedServices": [
@@ -143,7 +143,7 @@
           "epochEndDate": 1675539600000,
           "messageId": "2000002084",
           "statusType": "Maintenance",
-          "datePosted": "2023/02/06 15:07 JST",
+          "datePosted": "2023/02/06 15:10 JST",
           "startDate": "2023/02/05 02:00 JST",
           "endDate": "2023/02/05 04:40 JST",
           "affectedServices": [
@@ -342,7 +342,7 @@
           "epochEndDate": 1675641840000,
           "messageId": "1000001728",
           "statusType": "Outage",
-          "datePosted": "2023/02/06 15:07 JST",
+          "datePosted": "2023/02/06 15:10 JST",
           "startDate": "2023/02/06 08:10 JST",
           "endDate": "2023/02/06 09:04 JST",
           "affectedServices": [
