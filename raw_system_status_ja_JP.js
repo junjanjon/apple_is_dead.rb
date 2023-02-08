@@ -4,464 +4,430 @@
   "services": [
     {
       "redirectUrl": null,
-      "serviceName": "App Store",
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1675638600000,
-          "epochEndDate": 1675641840000,
-          "messageId": "1000001728",
-          "statusType": "Outage",
-          "datePosted": "2023/02/08 13:07 JST",
-          "startDate": "2023/02/06 08:10 JST",
-          "endDate": "2023/02/06 09:04 JST",
-          "affectedServices": [
-            "App Store",
-            "Mac App Store",
-            "オーディオブック",
-            "ポッドキャスト"
-          ],
-          "eventStatus": "resolved",
-          "message": "App Storeにアクセスできませんでした。"
-        }
-      ]
-    },
-    {
-      "redirectUrl": null,
-      "serviceName": "Apple Arcade",
       "events": [
 
-      ]
+      ],
+      "serviceName": "App Store"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Books",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Arcade"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple ID",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Books"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Messages for Business",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple ID"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Music",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Messages for Business"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Musicのサブスクリプション",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Music"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Musicのラジオ",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Musicのサブスクリプション"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Online Store",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Musicのラジオ"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple Pay & ウォレット",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Online Store"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple School Manager",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple Pay & ウォレット"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple TV+",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple School Manager"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Apple TVチャンネル",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple TV+"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Appleでサインイン",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Apple TVチャンネル"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Device Enrollment Program",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Appleでサインイン"
     },
     {
       "redirectUrl": null,
-      "serviceName": "FaceTime",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Device Enrollment Program"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Game Center",
       "events": [
 
-      ]
+      ],
+      "serviceName": "FaceTime"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Global Service Exchange",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Game Center"
     },
     {
       "redirectUrl": null,
-      "serviceName": "HomeKit",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Global Service Exchange"
     },
     {
       "redirectUrl": null,
-      "serviceName": "HomeKitセキュアビデオ",
       "events": [
 
-      ]
+      ],
+      "serviceName": "HomeKit"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloud Drive",
       "events": [
 
-      ]
+      ],
+      "serviceName": "HomeKitセキュアビデオ"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloud Web Apps (iCloud.com)",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloud Drive"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudアカウントおよびサインイン",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloud Web Apps (iCloud.com)"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudカレンダー",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudアカウントおよびサインイン"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudキーチェーン",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudカレンダー"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudストレージアップグレード",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudキーチェーン"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudバックアップ",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudストレージアップグレード"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudブックマークおよびタブ",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudバックアップ"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudプライベートリレー",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudブックマークおよびタブ"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudメール",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudプライベートリレー"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudメモ",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudメール"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloudリマインダー",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudメモ"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iCloud連絡先",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloudリマインダー"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iMessage",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iCloud連絡先"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iOSデバイスアクティベーション",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iMessage"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iTunes Match",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iOSデバイスアクティベーション"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iTunes Store",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iTunes Match"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iTunes U",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iTunes Store"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iWork for iCloud",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iTunes U"
     },
     {
       "redirectUrl": null,
-      "serviceName": "iWorkの共同制作機能",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iWork for iCloud"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Mac App Store",
-      "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1675638600000,
-          "epochEndDate": 1675641840000,
-          "messageId": "1000001728",
-          "statusType": "Outage",
-          "datePosted": "2023/02/08 13:07 JST",
-          "startDate": "2023/02/06 08:10 JST",
-          "endDate": "2023/02/06 09:04 JST",
-          "affectedServices": [
-            "App Store",
-            "Mac App Store",
-            "オーディオブック",
-            "ポッドキャスト"
-          ],
-          "eventStatus": "resolved",
-          "message": "複数のStore／サービスへのアクセスや購入ができませんでした。"
-        }
-      ]
-    },
-    {
-      "redirectUrl": null,
-      "serviceName": "macOSソフトウェアアップデート",
       "events": [
 
-      ]
+      ],
+      "serviceName": "iWorkの共同制作機能"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Mail Drop",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Mac App Store"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Siri",
       "events": [
 
-      ]
+      ],
+      "serviceName": "macOSソフトウェアアップデート"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Spotlightの検索候補",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Mail Drop"
     },
     {
       "redirectUrl": null,
-      "serviceName": "Volume Purchase Program",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Siri"
     },
     {
       "redirectUrl": null,
-      "serviceName": "スクールタイム",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Spotlightの検索候補"
     },
     {
       "redirectUrl": null,
-      "serviceName": "スクールワーク",
       "events": [
 
-      ]
+      ],
+      "serviceName": "Volume Purchase Program"
     },
     {
       "redirectUrl": null,
-      "serviceName": "スクリーンタイム",
       "events": [
 
-      ]
+      ],
+      "serviceName": "スクールタイム"
     },
     {
       "redirectUrl": null,
-      "serviceName": "デバイスのAppleCare",
       "events": [
 
-      ]
+      ],
+      "serviceName": "スクールワーク"
     },
     {
       "redirectUrl": null,
-      "serviceName": "トランシーバー",
       "events": [
 
-      ]
+      ],
+      "serviceName": "スクリーンタイム"
     },
     {
       "redirectUrl": null,
-      "serviceName": "ヘルスデータをプロバイダと共有",
       "events": [
 
-      ]
+      ],
+      "serviceName": "デバイスのAppleCare"
     },
     {
       "redirectUrl": null,
-      "serviceName": "マップの経路案内とナビゲーション",
       "events": [
 
-      ]
+      ],
+      "serviceName": "トランシーバー"
     },
     {
       "redirectUrl": null,
-      "serviceName": "マップの検索",
       "events": [
 
-      ]
+      ],
+      "serviceName": "ヘルスデータをプロバイダと共有"
     },
     {
       "redirectUrl": null,
-      "serviceName": "マップの表示",
       "events": [
 
-      ]
+      ],
+      "serviceName": "マップの経路案内とナビゲーション"
     },
     {
       "redirectUrl": null,
-      "serviceName": "ラジオ",
       "events": [
 
-      ]
+      ],
+      "serviceName": "マップの検索"
     },
     {
       "redirectUrl": null,
-      "serviceName": "音声入力",
       "events": [
 
-      ]
+      ],
+      "serviceName": "マップの表示"
     },
     {
       "redirectUrl": null,
-      "serviceName": "株価",
       "events": [
 
-      ]
+      ],
+      "serviceName": "ラジオ"
     },
     {
       "redirectUrl": null,
-      "serviceName": "探す",
       "events": [
 
-      ]
+      ],
+      "serviceName": "音声入力"
     },
     {
       "redirectUrl": null,
-      "serviceName": "写真",
       "events": [
 
-      ]
+      ],
+      "serviceName": "株価"
     },
     {
       "redirectUrl": null,
-      "serviceName": "天気",
       "events": [
 
-      ]
+      ],
+      "serviceName": "探す"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
+      "serviceName": "写真"
+    },
+    {
+      "redirectUrl": null,
+      "events": [
+
+      ],
+      "serviceName": "天気"
     }
   ]
 }
