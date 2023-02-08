@@ -12,7 +12,7 @@
           "epochEndDate": 1675641840000,
           "messageId": "1000001728",
           "statusType": "Outage",
-          "datePosted": "2023/02/08 12:56 JST",
+          "datePosted": "2023/02/08 13:07 JST",
           "startDate": "2023/02/06 08:10 JST",
           "endDate": "2023/02/06 09:04 JST",
           "affectedServices": [
@@ -309,7 +309,7 @@
           "epochEndDate": 1675641840000,
           "messageId": "1000001728",
           "statusType": "Outage",
-          "datePosted": "2023/02/08 12:56 JST",
+          "datePosted": "2023/02/08 13:07 JST",
           "startDate": "2023/02/06 08:10 JST",
           "endDate": "2023/02/06 09:04 JST",
           "affectedServices": [
