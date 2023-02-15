@@ -167,7 +167,23 @@
       "redirectUrl": null,
       "serviceName": "iCloudカレンダー",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1676482500000,
+          "epochEndDate": null,
+          "messageId": "2000002139",
+          "statusType": "Issue",
+          "datePosted": "2023/02/16 03:53 JST",
+          "startDate": "2023/02/16 02:35 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudメール",
+            "iCloud連絡先"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ]
     },
     {
@@ -209,7 +225,23 @@
       "redirectUrl": null,
       "serviceName": "iCloudメール",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1676482500000,
+          "epochEndDate": 1676485080000,
+          "messageId": "2000002139",
+          "statusType": "Issue",
+          "datePosted": "2023/02/16 03:53 JST",
+          "startDate": "2023/02/16 02:35 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudメール",
+            "iCloud連絡先"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ]
     },
     {
@@ -230,7 +262,23 @@
       "redirectUrl": null,
       "serviceName": "iCloud連絡先",
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1676482500000,
+          "epochEndDate": null,
+          "messageId": "2000002139",
+          "statusType": "Issue",
+          "datePosted": "2023/02/16 03:53 JST",
+          "startDate": "2023/02/16 02:35 JST",
+          "endDate": null,
+          "affectedServices": [
+            "iCloudカレンダー",
+            "iCloudメール",
+            "iCloud連絡先"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ]
     },
     {
