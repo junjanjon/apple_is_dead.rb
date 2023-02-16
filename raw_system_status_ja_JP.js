@@ -54,7 +54,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1676575020000,
+          "epochEndDate": null,
+          "messageId": "2000002141",
+          "statusType": "Outage",
+          "datePosted": "2023/02/17 06:13 JST",
+          "startDate": "2023/02/17 04:17 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Musicのラジオ",
+            "ラジオ"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "Apple Musicのラジオ"
     },
@@ -172,7 +187,7 @@
           "epochEndDate": 1676488200000,
           "messageId": "2000002139",
           "statusType": "Issue",
-          "datePosted": "2023/02/16 18:00 JST",
+          "datePosted": "2023/02/17 06:13 JST",
           "startDate": "2023/02/16 02:35 JST",
           "endDate": "2023/02/16 04:10 JST",
           "affectedServices": [
@@ -230,7 +245,7 @@
           "epochEndDate": 1676485080000,
           "messageId": "2000002139",
           "statusType": "Issue",
-          "datePosted": "2023/02/16 18:00 JST",
+          "datePosted": "2023/02/17 06:13 JST",
           "startDate": "2023/02/16 02:35 JST",
           "endDate": "2023/02/16 04:10 JST",
           "affectedServices": [
@@ -267,7 +282,7 @@
           "epochEndDate": 1676488080000,
           "messageId": "2000002139",
           "statusType": "Issue",
-          "datePosted": "2023/02/16 18:00 JST",
+          "datePosted": "2023/02/17 06:13 JST",
           "startDate": "2023/02/16 02:35 JST",
           "endDate": "2023/02/16 04:10 JST",
           "affectedServices": [
@@ -438,7 +453,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1676575020000,
+          "epochEndDate": null,
+          "messageId": "2000002141",
+          "statusType": "Outage",
+          "datePosted": "2023/02/17 06:13 JST",
+          "startDate": "2023/02/17 04:17 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Musicのラジオ",
+            "ラジオ"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "ラジオ"
     },
