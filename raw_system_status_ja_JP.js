@@ -60,7 +60,7 @@
           "epochEndDate": 1676585700000,
           "messageId": "2000002141",
           "statusType": "Outage",
-          "datePosted": "2023/02/18 23:02 JST",
+          "datePosted": "2023/02/18 23:05 JST",
           "startDate": "2023/02/17 04:17 JST",
           "endDate": "2023/02/17 07:15 JST",
           "affectedServices": [
@@ -287,17 +287,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1676708400000,
-          "epochEndDate": null,
+          "epochEndDate": 1676724000000,
           "messageId": "1000001803",
           "statusType": "Issue",
-          "datePosted": "2023/02/18 23:02 JST",
+          "datePosted": "2023/02/18 23:05 JST",
           "startDate": "2023/02/18 17:20 JST",
-          "endDate": null,
+          "endDate": "2023/02/18 21:40 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iWork for iCloud"
@@ -423,7 +423,7 @@
           "epochEndDate": 1676585700000,
           "messageId": "2000002141",
           "statusType": "Outage",
-          "datePosted": "2023/02/18 23:02 JST",
+          "datePosted": "2023/02/18 23:05 JST",
           "startDate": "2023/02/17 04:17 JST",
           "endDate": "2023/02/17 07:15 JST",
           "affectedServices": [
