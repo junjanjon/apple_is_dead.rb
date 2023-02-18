@@ -61,7 +61,7 @@
           "epochEndDate": 1676585700000,
           "messageId": "2000002141",
           "statusType": "Outage",
-          "datePosted": "2023/02/17 07:24 JST",
+          "datePosted": "2023/02/18 18:00 JST",
           "startDate": "2023/02/17 04:17 JST",
           "endDate": "2023/02/17 07:15 JST",
           "affectedServices": [
@@ -182,23 +182,7 @@
       "redirectUrl": null,
       "serviceName": "iCloudカレンダー",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1676482500000,
-          "epochEndDate": 1676488200000,
-          "messageId": "2000002139",
-          "statusType": "Issue",
-          "datePosted": "2023/02/17 07:24 JST",
-          "startDate": "2023/02/16 02:35 JST",
-          "endDate": "2023/02/16 04:10 JST",
-          "affectedServices": [
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -240,23 +224,7 @@
       "redirectUrl": null,
       "serviceName": "iCloudメール",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1676482500000,
-          "epochEndDate": 1676485080000,
-          "messageId": "2000002139",
-          "statusType": "Issue",
-          "datePosted": "2023/02/17 07:24 JST",
-          "startDate": "2023/02/16 02:35 JST",
-          "endDate": "2023/02/16 04:10 JST",
-          "affectedServices": [
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -277,23 +245,7 @@
       "redirectUrl": null,
       "serviceName": "iCloud連絡先",
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1676482500000,
-          "epochEndDate": 1676488080000,
-          "messageId": "2000002139",
-          "statusType": "Issue",
-          "datePosted": "2023/02/17 07:24 JST",
-          "startDate": "2023/02/16 02:35 JST",
-          "endDate": "2023/02/16 04:10 JST",
-          "affectedServices": [
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ]
     },
     {
@@ -460,7 +412,7 @@
           "epochEndDate": 1676585700000,
           "messageId": "2000002141",
           "statusType": "Outage",
-          "datePosted": "2023/02/17 07:24 JST",
+          "datePosted": "2023/02/18 18:00 JST",
           "startDate": "2023/02/17 04:17 JST",
           "endDate": "2023/02/17 07:15 JST",
           "affectedServices": [
