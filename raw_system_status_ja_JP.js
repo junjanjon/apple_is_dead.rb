@@ -11,7 +11,7 @@
           "epochEndDate": null,
           "messageId": "2000002161",
           "statusType": "Outage",
-          "datePosted": "2023/02/24 06:22 JST",
+          "datePosted": null,
           "startDate": "2023/02/24 06:03 JST",
           "endDate": null,
           "affectedServices": [
@@ -46,7 +46,7 @@
           "epochEndDate": null,
           "messageId": "2000002161",
           "statusType": "Outage",
-          "datePosted": "2023/02/24 06:22 JST",
+          "datePosted": null,
           "startDate": "2023/02/24 06:03 JST",
           "endDate": null,
           "affectedServices": [
@@ -88,7 +88,7 @@
           "epochEndDate": null,
           "messageId": "2000002161",
           "statusType": "Outage",
-          "datePosted": "2023/02/24 06:22 JST",
+          "datePosted": null,
           "startDate": "2023/02/24 06:03 JST",
           "endDate": null,
           "affectedServices": [
@@ -138,7 +138,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": null,
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "3274",
+          "statusType": "Issue",
+          "datePosted": "2023/02/23 13:37 PST",
+          "startDate": "2023/02/23 12:55 PST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "Apple School Manager"
     },
@@ -151,7 +163,7 @@
           "epochEndDate": null,
           "messageId": "2000002161",
           "statusType": "Outage",
-          "datePosted": "2023/02/24 06:22 JST",
+          "datePosted": null,
           "startDate": "2023/02/24 06:03 JST",
           "endDate": null,
           "affectedServices": [
@@ -179,7 +191,7 @@
           "epochEndDate": null,
           "messageId": "2000002161",
           "statusType": "Outage",
-          "datePosted": "2023/02/24 06:22 JST",
+          "datePosted": null,
           "startDate": "2023/02/24 06:03 JST",
           "endDate": null,
           "affectedServices": [
@@ -222,7 +234,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": null,
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "3274",
+          "statusType": "Issue",
+          "datePosted": "2023/02/23 13:37 PST",
+          "startDate": "2023/02/23 12:55 PST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "Game Center"
     },
@@ -313,7 +337,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": null,
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "3274",
+          "statusType": "Issue",
+          "datePosted": "2023/02/23 13:37 PST",
+          "startDate": "2023/02/23 12:55 PST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudメール"
     },
@@ -376,14 +412,38 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": null,
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "3274",
+          "statusType": "Issue",
+          "datePosted": "2023/02/23 13:37 PST",
+          "startDate": "2023/02/23 12:55 PST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iWork for iCloud"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": null,
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "3274",
+          "statusType": "Issue",
+          "datePosted": "2023/02/23 13:37 PST",
+          "startDate": "2023/02/23 12:55 PST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iWorkの共同制作機能"
     },
@@ -396,7 +456,7 @@
           "epochEndDate": null,
           "messageId": "2000002161",
           "statusType": "Outage",
-          "datePosted": "2023/02/24 06:22 JST",
+          "datePosted": null,
           "startDate": "2023/02/24 06:03 JST",
           "endDate": null,
           "affectedServices": [
@@ -460,7 +520,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": null,
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "3274",
+          "statusType": "Issue",
+          "datePosted": "2023/02/23 13:37 PST",
+          "startDate": "2023/02/23 12:55 PST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "スクールワーク"
     },
