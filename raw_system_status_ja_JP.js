@@ -5,28 +5,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1677186180000,
-          "epochEndDate": null,
-          "messageId": "2000002161",
-          "statusType": "Outage",
-          "datePosted": null,
-          "startDate": "2023/02/24 06:03 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Apple Music",
-            "Apple TV+",
-            "Apple TVチャンネル",
-            "Mac App Store",
-            "オーディオブック",
-            "ポッドキャスト"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        }
+
       ],
       "serviceName": "App Store"
     },
@@ -40,28 +19,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1677186180000,
-          "epochEndDate": null,
-          "messageId": "2000002161",
-          "statusType": "Outage",
-          "datePosted": null,
-          "startDate": "2023/02/24 06:03 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Apple Music",
-            "Apple TV+",
-            "Apple TVチャンネル",
-            "Mac App Store",
-            "オーディオブック",
-            "ポッドキャスト"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        }
+
       ],
       "serviceName": "Apple Books"
     },
@@ -82,28 +40,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1677186180000,
-          "epochEndDate": null,
-          "messageId": "2000002161",
-          "statusType": "Outage",
-          "datePosted": null,
-          "startDate": "2023/02/24 06:03 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Apple Music",
-            "Apple TV+",
-            "Apple TVチャンネル",
-            "Mac App Store",
-            "オーディオブック",
-            "ポッドキャスト"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        }
+
       ],
       "serviceName": "Apple Music"
     },
@@ -138,75 +75,21 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": null,
-          "epochStartDate": 1677185700000,
-          "epochEndDate": null,
-          "messageId": "3274",
-          "statusType": "Issue",
-          "datePosted": "2023/02/23 13:37 PST",
-          "startDate": "2023/02/23 12:55 PST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        }
+
       ],
       "serviceName": "Apple School Manager"
     },
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1677186180000,
-          "epochEndDate": null,
-          "messageId": "2000002161",
-          "statusType": "Outage",
-          "datePosted": null,
-          "startDate": "2023/02/24 06:03 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Apple Music",
-            "Apple TV+",
-            "Apple TVチャンネル",
-            "Mac App Store",
-            "オーディオブック",
-            "ポッドキャスト"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        }
+
       ],
       "serviceName": "Apple TV+"
     },
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1677186180000,
-          "epochEndDate": null,
-          "messageId": "2000002161",
-          "statusType": "Outage",
-          "datePosted": null,
-          "startDate": "2023/02/24 06:03 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Apple Music",
-            "Apple TV+",
-            "Apple TVチャンネル",
-            "Mac App Store",
-            "オーディオブック",
-            "ポッドキャスト"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        }
+
       ],
       "serviceName": "Apple TVチャンネル"
     },
@@ -235,15 +118,42 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": null,
+          "usersAffected": "すべてのユーザに影響します",
           "epochStartDate": 1677185700000,
           "epochEndDate": null,
-          "messageId": "3274",
-          "statusType": "Issue",
-          "datePosted": "2023/02/23 13:37 PST",
-          "startDate": "2023/02/23 12:55 PST",
+          "messageId": "1000001825",
+          "statusType": "Outage",
+          "datePosted": null,
+          "startDate": "2023/02/24 05:55 JST",
           "endDate": null,
-          "affectedServices": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudカレンダー",
+            "iCloudメール",
+            "iCloud連絡先",
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        },
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "1000001823",
+          "statusType": "Outage",
+          "datePosted": null,
+          "startDate": "2023/02/24 05:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudカレンダー",
+            "iCloudメール",
+            "iCloud連絡先",
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
           "eventStatus": "ongoing",
           "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
         }
@@ -295,7 +205,46 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "1000001825",
+          "statusType": "Outage",
+          "datePosted": null,
+          "startDate": "2023/02/24 05:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudカレンダー",
+            "iCloudメール",
+            "iCloud連絡先",
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        },
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "1000001823",
+          "statusType": "Outage",
+          "datePosted": null,
+          "startDate": "2023/02/24 05:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudカレンダー",
+            "iCloudメール",
+            "iCloud連絡先",
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudカレンダー"
     },
@@ -340,15 +289,15 @@
         {
           "usersAffected": null,
           "epochStartDate": 1677185700000,
-          "epochEndDate": null,
+          "epochEndDate": 1677189120000,
           "messageId": "3274",
-          "statusType": "Issue",
-          "datePosted": "2023/02/23 13:37 PST",
-          "startDate": "2023/02/23 12:55 PST",
-          "endDate": null,
+          "statusType": "Outage",
+          "datePosted": null,
+          "startDate": "2023/02/24 05:55 JST",
+          "endDate": "2023/02/23 13:52 PST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudメール"
@@ -370,14 +319,65 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "1000001825",
+          "statusType": "Outage",
+          "datePosted": null,
+          "startDate": "2023/02/24 05:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudカレンダー",
+            "iCloudメール",
+            "iCloud連絡先",
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        },
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "1000001823",
+          "statusType": "Outage",
+          "datePosted": null,
+          "startDate": "2023/02/24 05:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudカレンダー",
+            "iCloudメール",
+            "iCloud連絡先",
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iCloud連絡先"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": null,
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "3274",
+          "statusType": "Issue",
+          "datePosted": null,
+          "startDate": "2023/02/23 12:55 PST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iMessage"
     },
@@ -413,15 +413,42 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": null,
+          "usersAffected": "すべてのユーザに影響します",
           "epochStartDate": 1677185700000,
           "epochEndDate": null,
-          "messageId": "3274",
-          "statusType": "Issue",
-          "datePosted": "2023/02/23 13:37 PST",
-          "startDate": "2023/02/23 12:55 PST",
+          "messageId": "1000001825",
+          "statusType": "Outage",
+          "datePosted": null,
+          "startDate": "2023/02/24 05:55 JST",
           "endDate": null,
-          "affectedServices": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudカレンダー",
+            "iCloudメール",
+            "iCloud連絡先",
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        },
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "1000001823",
+          "statusType": "Outage",
+          "datePosted": null,
+          "startDate": "2023/02/24 05:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudカレンダー",
+            "iCloudメール",
+            "iCloud連絡先",
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
           "eventStatus": "ongoing",
           "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
         }
@@ -432,15 +459,42 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": null,
+          "usersAffected": "すべてのユーザに影響します",
           "epochStartDate": 1677185700000,
           "epochEndDate": null,
-          "messageId": "3274",
-          "statusType": "Issue",
-          "datePosted": "2023/02/23 13:37 PST",
-          "startDate": "2023/02/23 12:55 PST",
+          "messageId": "1000001825",
+          "statusType": "Outage",
+          "datePosted": null,
+          "startDate": "2023/02/24 05:55 JST",
           "endDate": null,
-          "affectedServices": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudカレンダー",
+            "iCloudメール",
+            "iCloud連絡先",
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        },
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "1000001823",
+          "statusType": "Outage",
+          "datePosted": null,
+          "startDate": "2023/02/24 05:55 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Game Center",
+            "iCloudカレンダー",
+            "iCloudメール",
+            "iCloud連絡先",
+            "iWork for iCloud",
+            "iWorkの共同制作機能"
+          ],
           "eventStatus": "ongoing",
           "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
         }
@@ -450,28 +504,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1677186180000,
-          "epochEndDate": null,
-          "messageId": "2000002161",
-          "statusType": "Outage",
-          "datePosted": null,
-          "startDate": "2023/02/24 06:03 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Apple Books",
-            "Apple Music",
-            "Apple TV+",
-            "Apple TVチャンネル",
-            "Mac App Store",
-            "オーディオブック",
-            "ポッドキャスト"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        }
+
       ],
       "serviceName": "Mac App Store"
     },
@@ -520,19 +553,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": null,
-          "epochStartDate": 1677185700000,
-          "epochEndDate": null,
-          "messageId": "3274",
-          "statusType": "Issue",
-          "datePosted": "2023/02/23 13:37 PST",
-          "startDate": "2023/02/23 12:55 PST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        }
+
       ],
       "serviceName": "スクールワーク"
     },
@@ -609,7 +630,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1677185700000,
+          "epochEndDate": null,
+          "messageId": "2000002164",
+          "statusType": "Outage",
+          "datePosted": null,
+          "startDate": "2023/02/24 05:55 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生している可能性があります。"
+        }
       ],
       "serviceName": "探す"
     },
