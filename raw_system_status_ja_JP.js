@@ -5,7 +5,28 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1677186180000,
+          "epochEndDate": null,
+          "messageId": "2000002161",
+          "statusType": "Outage",
+          "datePosted": "2023/02/24 06:22 JST",
+          "startDate": "2023/02/24 06:03 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Apple Music",
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "Mac App Store",
+            "オーディオブック",
+            "ポッドキャスト"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "App Store"
     },
@@ -19,7 +40,28 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1677186180000,
+          "epochEndDate": null,
+          "messageId": "2000002161",
+          "statusType": "Outage",
+          "datePosted": "2023/02/24 06:22 JST",
+          "startDate": "2023/02/24 06:03 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Apple Music",
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "Mac App Store",
+            "オーディオブック",
+            "ポッドキャスト"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "Apple Books"
     },
@@ -40,7 +82,28 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1677186180000,
+          "epochEndDate": null,
+          "messageId": "2000002161",
+          "statusType": "Outage",
+          "datePosted": "2023/02/24 06:22 JST",
+          "startDate": "2023/02/24 06:03 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Apple Music",
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "Mac App Store",
+            "オーディオブック",
+            "ポッドキャスト"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "Apple Music"
     },
@@ -82,14 +145,56 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1677186180000,
+          "epochEndDate": null,
+          "messageId": "2000002161",
+          "statusType": "Outage",
+          "datePosted": "2023/02/24 06:22 JST",
+          "startDate": "2023/02/24 06:03 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Apple Music",
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "Mac App Store",
+            "オーディオブック",
+            "ポッドキャスト"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "Apple TV+"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1677186180000,
+          "epochEndDate": null,
+          "messageId": "2000002161",
+          "statusType": "Outage",
+          "datePosted": "2023/02/24 06:22 JST",
+          "startDate": "2023/02/24 06:03 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Apple Music",
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "Mac App Store",
+            "オーディオブック",
+            "ポッドキャスト"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "Apple TVチャンネル"
     },
@@ -285,7 +390,28 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1677186180000,
+          "epochEndDate": null,
+          "messageId": "2000002161",
+          "statusType": "Outage",
+          "datePosted": "2023/02/24 06:22 JST",
+          "startDate": "2023/02/24 06:03 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Books",
+            "Apple Music",
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "Mac App Store",
+            "オーディオブック",
+            "ポッドキャスト"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "Mac App Store"
     },
