@@ -206,44 +206,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
+          "usersAffected": null,
           "epochStartDate": 1677185700000,
-          "epochEndDate": null,
-          "messageId": "1000001825",
+          "epochEndDate": 1677189600000,
+          "messageId": "3274",
           "statusType": "Outage",
           "datePosted": null,
           "startDate": "2023/02/24 05:55 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Game Center",
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "iWorkの共同制作機能"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        },
-        {
-          "usersAffected": "すべてのユーザに影響します",
-          "epochStartDate": 1677185700000,
-          "epochEndDate": null,
-          "messageId": "1000001823",
-          "statusType": "Outage",
-          "datePosted": null,
-          "startDate": "2023/02/24 05:55 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Game Center",
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "iWorkの共同制作機能"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "endDate": "2023/02/23 14:00 PST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudカレンダー"
@@ -320,44 +293,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
+          "usersAffected": null,
           "epochStartDate": 1677185700000,
-          "epochEndDate": null,
-          "messageId": "1000001825",
+          "epochEndDate": 1677189600000,
+          "messageId": "3274",
           "statusType": "Outage",
           "datePosted": null,
           "startDate": "2023/02/24 05:55 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Game Center",
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "iWorkの共同制作機能"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        },
-        {
-          "usersAffected": "すべてのユーザに影響します",
-          "epochStartDate": 1677185700000,
-          "epochEndDate": null,
-          "messageId": "1000001823",
-          "statusType": "Outage",
-          "datePosted": null,
-          "startDate": "2023/02/24 05:55 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Game Center",
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "iWorkの共同制作機能"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "endDate": "2023/02/23 14:00 PST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloud連絡先"
@@ -413,44 +359,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
+          "usersAffected": null,
           "epochStartDate": 1677185700000,
-          "epochEndDate": null,
-          "messageId": "1000001825",
+          "epochEndDate": 1677189600000,
+          "messageId": "3274",
           "statusType": "Outage",
           "datePosted": null,
           "startDate": "2023/02/24 05:55 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Game Center",
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "iWorkの共同制作機能"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        },
-        {
-          "usersAffected": "すべてのユーザに影響します",
-          "epochStartDate": 1677185700000,
-          "epochEndDate": null,
-          "messageId": "1000001823",
-          "statusType": "Outage",
-          "datePosted": null,
-          "startDate": "2023/02/24 05:55 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Game Center",
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "iWorkの共同制作機能"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "endDate": "2023/02/23 14:00 PST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iWork for iCloud"
@@ -459,44 +378,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
+          "usersAffected": null,
           "epochStartDate": 1677185700000,
-          "epochEndDate": null,
-          "messageId": "1000001825",
+          "epochEndDate": 1677189600000,
+          "messageId": "3274",
           "statusType": "Outage",
           "datePosted": null,
           "startDate": "2023/02/24 05:55 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Game Center",
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "iWorkの共同制作機能"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        },
-        {
-          "usersAffected": "すべてのユーザに影響します",
-          "epochStartDate": 1677185700000,
-          "epochEndDate": null,
-          "messageId": "1000001823",
-          "statusType": "Outage",
-          "datePosted": null,
-          "startDate": "2023/02/24 05:55 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Game Center",
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud",
-            "iWorkの共同制作機能"
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "endDate": "2023/02/23 14:00 PST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iWorkの共同制作機能"
