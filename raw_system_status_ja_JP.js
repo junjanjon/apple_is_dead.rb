@@ -103,19 +103,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響します",
-          "epochStartDate": 1677185700000,
-          "epochEndDate": null,
-          "messageId": "1000001829",
-          "statusType": "Issue",
-          "datePosted": "2023/03/03 08:05 JST",
-          "startDate": "2023/02/24 05:55 JST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        }
+
       ],
       "serviceName": "Device Enrollment Program"
     },
