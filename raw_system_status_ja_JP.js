@@ -5,19 +5,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1679581020000,
-          "epochEndDate": null,
-          "messageId": "1000001884",
-          "statusType": "Performance",
-          "datePosted": "2023/03/24 00:42 JST",
-          "startDate": "2023/03/23 23:17 JST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生している可能性があります。"
-        }
+
       ],
       "serviceName": "App Store"
     },
