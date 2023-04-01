@@ -431,7 +431,7 @@
           "epochEndDate": null,
           "messageId": "1000001923",
           "statusType": "Performance",
-          "datePosted": "2023/04/01 00:40 JST",
+          "datePosted": "2023/04/01 17:00 JST",
           "startDate": "2023/03/31 08:37 JST",
           "endDate": null,
           "affectedServices": null,
