@@ -426,17 +426,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1680219420000,
-          "epochEndDate": null,
+          "epochEndDate": 1680386400000,
           "messageId": "1000001923",
           "statusType": "Performance",
-          "datePosted": "2023/04/01 17:00 JST",
+          "datePosted": "2023/04/02 07:50 JST",
           "startDate": "2023/03/31 08:37 JST",
-          "endDate": null,
+          "endDate": "2023/04/02 07:00 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "「天気」の動作が遅い、または利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "「天気」で問題が発生した可能性があります。"
         }
       ],
       "serviceName": "天気"
