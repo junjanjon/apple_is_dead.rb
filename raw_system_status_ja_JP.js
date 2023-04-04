@@ -426,12 +426,25 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1680577200000,
+          "epochEndDate": null,
+          "messageId": "1000001964",
+          "statusType": "Issue",
+          "datePosted": "2023/04/04 14:06 JST",
+          "startDate": "2023/04/04 12:00 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "データプロバイダの不具合により、アラスカの今後1時間の降水確率は表示できない可能性があります。"
+        },
+        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1680219420000,
           "epochEndDate": 1680386400000,
           "messageId": "1000001923",
           "statusType": "Performance",
-          "datePosted": "2023/04/04 14:04 JST",
+          "datePosted": "2023/04/04 14:06 JST",
           "startDate": "2023/03/31 08:37 JST",
           "endDate": "2023/04/02 07:00 JST",
           "affectedServices": null,
