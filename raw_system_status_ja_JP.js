@@ -426,12 +426,25 @@
       "redirectUrl": null,
       "events": [
         {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1680638040000,
+          "epochEndDate": null,
+          "messageId": "1000001983",
+          "statusType": "Issue",
+          "datePosted": "2023/04/05 05:14 JST",
+          "startDate": "2023/04/05 04:54 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        },
+        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1680577200000,
           "epochEndDate": 1680629460000,
           "messageId": "1000001964",
           "statusType": "Issue",
-          "datePosted": "2023/04/05 03:48 JST",
+          "datePosted": "2023/04/05 05:14 JST",
           "startDate": "2023/04/04 12:00 JST",
           "endDate": "2023/04/05 02:31 JST",
           "affectedServices": null,
