@@ -431,12 +431,12 @@
           "epochEndDate": null,
           "messageId": "1000001964",
           "statusType": "Issue",
-          "datePosted": "2023/04/04 17:00 JST",
+          "datePosted": "2023/04/04 23:36 JST",
           "startDate": "2023/04/04 12:00 JST",
           "endDate": null,
           "affectedServices": null,
           "eventStatus": "ongoing",
-          "message": "データプロバイダの不具合により、アラスカの今後1時間の降水確率は表示できない可能性があります。"
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
         }
       ],
       "serviceName": "天気"
