@@ -208,19 +208,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1680650280000,
-          "epochEndDate": 1680661260000,
-          "messageId": "2000002299",
-          "statusType": "Issue",
-          "datePosted": "2023/04/07 09:56 JST",
-          "startDate": "2023/04/05 08:18 JST",
-          "endDate": "2023/04/05 11:21 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザはiCloudメールにアクセスできなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
@@ -254,7 +242,7 @@
           "epochEndDate": 1680745680000,
           "messageId": "1000002003",
           "statusType": "Issue",
-          "datePosted": "2023/04/07 09:56 JST",
+          "datePosted": "2023/04/07 17:00 JST",
           "startDate": "2023/04/06 10:30 JST",
           "endDate": "2023/04/06 10:48 JST",
           "affectedServices": null,
@@ -451,24 +439,11 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1680577200000,
-          "epochEndDate": 1680629460000,
-          "messageId": "1000001964",
-          "statusType": "Issue",
-          "datePosted": "2023/04/07 09:56 JST",
-          "startDate": "2023/04/04 12:00 JST",
-          "endDate": "2023/04/05 02:31 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1680794820000,
           "epochEndDate": 1680809700000,
           "messageId": "1000002023",
           "statusType": "Issue",
-          "datePosted": "2023/04/07 09:56 JST",
+          "datePosted": "2023/04/07 17:00 JST",
           "startDate": "2023/04/07 00:27 JST",
           "endDate": "2023/04/07 04:35 JST",
           "affectedServices": null,
@@ -481,7 +456,7 @@
           "epochEndDate": 1680680640000,
           "messageId": "1000001983",
           "statusType": "Issue",
-          "datePosted": "2023/04/07 09:56 JST",
+          "datePosted": "2023/04/07 17:00 JST",
           "startDate": "2023/04/05 04:54 JST",
           "endDate": "2023/04/05 16:44 JST",
           "affectedServices": null,
