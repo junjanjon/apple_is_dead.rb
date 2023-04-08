@@ -236,19 +236,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1680744600000,
-          "epochEndDate": 1680745680000,
-          "messageId": "1000002003",
-          "statusType": "Issue",
-          "datePosted": "2023/04/08 06:27 JST",
-          "startDate": "2023/04/06 10:30 JST",
-          "endDate": "2023/04/06 10:48 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iMessage"
     },
@@ -443,22 +431,9 @@
           "epochEndDate": 1680809700000,
           "messageId": "1000002023",
           "statusType": "Issue",
-          "datePosted": "2023/04/08 06:27 JST",
+          "datePosted": "2023/04/08 17:00 JST",
           "startDate": "2023/04/07 00:27 JST",
           "endDate": "2023/04/07 04:35 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1680638040000,
-          "epochEndDate": 1680680640000,
-          "messageId": "1000001983",
-          "statusType": "Issue",
-          "datePosted": "2023/04/08 06:27 JST",
-          "startDate": "2023/04/05 04:54 JST",
-          "endDate": "2023/04/05 16:44 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
