@@ -425,19 +425,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1680794820000,
-          "epochEndDate": 1680809700000,
-          "messageId": "1000002023",
-          "statusType": "Issue",
-          "datePosted": "2023/04/09 14:00 JST",
-          "startDate": "2023/04/07 00:27 JST",
-          "endDate": "2023/04/07 04:35 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "天気"
     }
