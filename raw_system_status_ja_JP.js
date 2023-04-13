@@ -208,7 +208,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1681399800000,
+          "epochEndDate": 1681404540000,
+          "messageId": "2000002339",
+          "statusType": "Issue",
+          "datePosted": "2023/04/14 01:54 JST",
+          "startDate": "2023/04/14 00:30 JST",
+          "endDate": "2023/04/14 01:49 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "ユーザはiCloudメールにアクセスできなかった可能性があります。"
+        }
       ],
       "serviceName": "iCloudメール"
     },
