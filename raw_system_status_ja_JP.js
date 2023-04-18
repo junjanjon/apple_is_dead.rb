@@ -284,7 +284,7 @@
           "epochEndDate": 1681713600000,
           "messageId": "1000002103",
           "statusType": "Outage",
-          "datePosted": "2023/04/17 17:00 JST",
+          "datePosted": "2023/04/18 13:44 JST",
           "startDate": "2023/04/17 08:45 JST",
           "endDate": "2023/04/17 15:40 JST",
           "affectedServices": null,
