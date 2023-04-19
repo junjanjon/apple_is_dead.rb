@@ -278,19 +278,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1681688700000,
-          "epochEndDate": 1681713600000,
-          "messageId": "1000002103",
-          "statusType": "Outage",
-          "datePosted": "2023/04/19 16:17 JST",
-          "startDate": "2023/04/17 08:45 JST",
-          "endDate": "2023/04/17 15:40 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iWorkの共同制作機能"
     },
