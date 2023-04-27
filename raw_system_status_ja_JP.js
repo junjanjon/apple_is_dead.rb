@@ -208,7 +208,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1682625300000,
+          "epochEndDate": 1682629620000,
+          "messageId": "2000002382",
+          "statusType": "Issue",
+          "datePosted": "2023/04/28 06:16 JST",
+          "startDate": "2023/04/28 04:55 JST",
+          "endDate": "2023/04/28 06:07 JST",
+          "affectedServices": [
+            "iCloudメール",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "ユーザはiCloudメールにアクセスできなかった可能性があります。"
+        }
       ],
       "serviceName": "iCloudメール"
     },
@@ -418,7 +433,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1682625300000,
+          "epochEndDate": 1682629620000,
+          "messageId": "2000002382",
+          "statusType": "Issue",
+          "datePosted": "2023/04/28 06:16 JST",
+          "startDate": "2023/04/28 04:55 JST",
+          "endDate": "2023/04/28 06:07 JST",
+          "affectedServices": [
+            "iCloudメール",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "新しい写真が「自分のフォトストリーム」に表示されなかった可能性があります。"
+        }
       ],
       "serviceName": "写真"
     },
