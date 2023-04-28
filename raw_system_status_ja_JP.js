@@ -214,7 +214,7 @@
           "epochEndDate": 1682629620000,
           "messageId": "2000002382",
           "statusType": "Issue",
-          "datePosted": "2023/04/28 13:14 JST",
+          "datePosted": "2023/04/29 02:19 JST",
           "startDate": "2023/04/28 04:55 JST",
           "endDate": "2023/04/28 06:07 JST",
           "affectedServices": [
@@ -439,7 +439,7 @@
           "epochEndDate": 1682629620000,
           "messageId": "2000002382",
           "statusType": "Issue",
-          "datePosted": "2023/04/28 13:14 JST",
+          "datePosted": "2023/04/29 02:19 JST",
           "startDate": "2023/04/28 04:55 JST",
           "endDate": "2023/04/28 06:07 JST",
           "affectedServices": [
