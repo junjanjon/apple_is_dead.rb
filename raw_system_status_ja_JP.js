@@ -75,7 +75,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1682696880000,
+          "epochEndDate": null,
+          "messageId": "2000002383",
+          "statusType": "Issue",
+          "datePosted": "2023/04/29 02:40 JST",
+          "startDate": "2023/04/29 00:48 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Device Enrollment Program",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+        }
       ],
       "serviceName": "Apple School Manager"
     },
@@ -103,7 +119,23 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1682696880000,
+          "epochEndDate": null,
+          "messageId": "2000002383",
+          "statusType": "Issue",
+          "datePosted": "2023/04/29 02:40 JST",
+          "startDate": "2023/04/29 00:48 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple School Manager",
+            "Device Enrollment Program",
+            null
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。問題について調査中です。"
+        }
       ],
       "serviceName": "Device Enrollment Program"
     },
@@ -214,7 +246,7 @@
           "epochEndDate": 1682629620000,
           "messageId": "2000002382",
           "statusType": "Issue",
-          "datePosted": "2023/04/29 02:19 JST",
+          "datePosted": "2023/04/29 02:40 JST",
           "startDate": "2023/04/28 04:55 JST",
           "endDate": "2023/04/28 06:07 JST",
           "affectedServices": [
@@ -439,7 +471,7 @@
           "epochEndDate": 1682629620000,
           "messageId": "2000002382",
           "statusType": "Issue",
-          "datePosted": "2023/04/29 02:19 JST",
+          "datePosted": "2023/04/29 02:40 JST",
           "startDate": "2023/04/28 04:55 JST",
           "endDate": "2023/04/28 06:07 JST",
           "affectedServices": [
