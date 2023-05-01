@@ -75,23 +75,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1682696880000,
-          "epochEndDate": 1682704200000,
-          "messageId": "2000002383",
-          "statusType": "Issue",
-          "datePosted": "2023/04/30 17:00 JST",
-          "startDate": "2023/04/29 00:48 JST",
-          "endDate": "2023/04/29 02:50 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Device Enrollment Program",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。問題について調査し、解決しました。"
-        }
+
       ],
       "serviceName": "Apple School Manager"
     },
@@ -119,23 +103,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1682696880000,
-          "epochEndDate": 1682704200000,
-          "messageId": "2000002383",
-          "statusType": "Issue",
-          "datePosted": "2023/04/30 17:00 JST",
-          "startDate": "2023/04/29 00:48 JST",
-          "endDate": "2023/04/29 02:50 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            "Device Enrollment Program",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。問題について調査し、解決しました。"
-        }
+
       ],
       "serviceName": "Device Enrollment Program"
     },
@@ -204,7 +172,7 @@
           "epochEndDate": 1682816100000,
           "messageId": "2000002385",
           "statusType": "Issue",
-          "datePosted": "2023/04/30 17:00 JST",
+          "datePosted": "2023/05/01 17:00 JST",
           "startDate": "2023/04/30 08:24 JST",
           "endDate": "2023/04/30 09:55 JST",
           "affectedServices": [
@@ -263,7 +231,7 @@
           "epochEndDate": 1682816100000,
           "messageId": "2000002385",
           "statusType": "Issue",
-          "datePosted": "2023/04/30 17:00 JST",
+          "datePosted": "2023/05/01 17:00 JST",
           "startDate": "2023/04/30 08:24 JST",
           "endDate": "2023/04/30 09:55 JST",
           "affectedServices": [
@@ -301,7 +269,7 @@
           "epochEndDate": 1682816100000,
           "messageId": "2000002385",
           "statusType": "Issue",
-          "datePosted": "2023/04/30 17:00 JST",
+          "datePosted": "2023/05/01 17:00 JST",
           "startDate": "2023/04/30 08:24 JST",
           "endDate": "2023/04/30 09:55 JST",
           "affectedServices": [
@@ -360,7 +328,7 @@
           "epochEndDate": 1682816100000,
           "messageId": "2000002385",
           "statusType": "Issue",
-          "datePosted": "2023/04/30 17:00 JST",
+          "datePosted": "2023/05/01 17:00 JST",
           "startDate": "2023/04/30 08:24 JST",
           "endDate": "2023/04/30 09:55 JST",
           "affectedServices": [
@@ -517,7 +485,7 @@
           "epochEndDate": 1682816100000,
           "messageId": "2000002384",
           "statusType": "Issue",
-          "datePosted": "2023/04/30 17:00 JST",
+          "datePosted": "2023/05/01 17:00 JST",
           "startDate": "2023/04/30 08:30 JST",
           "endDate": "2023/04/30 09:55 JST",
           "affectedServices": null,
