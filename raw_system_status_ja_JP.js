@@ -166,24 +166,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1682810640000,
-          "epochEndDate": 1682816100000,
-          "messageId": "2000002385",
-          "statusType": "Issue",
-          "datePosted": "2023/05/01 17:00 JST",
-          "startDate": "2023/04/30 08:24 JST",
-          "endDate": "2023/04/30 09:55 JST",
-          "affectedServices": [
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudカレンダー"
     },
@@ -225,24 +208,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1682810640000,
-          "epochEndDate": 1682816100000,
-          "messageId": "2000002385",
-          "statusType": "Issue",
-          "datePosted": "2023/05/01 17:00 JST",
-          "startDate": "2023/04/30 08:24 JST",
-          "endDate": "2023/04/30 09:55 JST",
-          "affectedServices": [
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
@@ -263,24 +229,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1682810640000,
-          "epochEndDate": 1682816100000,
-          "messageId": "2000002385",
-          "statusType": "Issue",
-          "datePosted": "2023/05/01 17:00 JST",
-          "startDate": "2023/04/30 08:24 JST",
-          "endDate": "2023/04/30 09:55 JST",
-          "affectedServices": [
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloud連絡先"
     },
@@ -322,24 +271,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1682810640000,
-          "epochEndDate": 1682816100000,
-          "messageId": "2000002385",
-          "statusType": "Issue",
-          "datePosted": "2023/05/01 17:00 JST",
-          "startDate": "2023/04/30 08:24 JST",
-          "endDate": "2023/04/30 09:55 JST",
-          "affectedServices": [
-            "iCloudカレンダー",
-            "iCloudメール",
-            "iCloud連絡先",
-            "iWork for iCloud"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iWork for iCloud"
     },
@@ -479,19 +411,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1682811000000,
-          "epochEndDate": 1682816100000,
-          "messageId": "2000002384",
-          "statusType": "Issue",
-          "datePosted": "2023/05/01 17:00 JST",
-          "startDate": "2023/04/30 08:30 JST",
-          "endDate": "2023/04/30 09:55 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "探す"
     },
