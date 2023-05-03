@@ -238,12 +238,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1683055320000,
+          "epochStartDate": 1683073200000,
           "epochEndDate": 1683076080000,
           "messageId": "2000002388",
           "statusType": "Issue",
-          "datePosted": "2023/05/03 10:57 JST",
-          "startDate": "2023/05/03 04:22 JST",
+          "datePosted": "2023/05/03 11:05 JST",
+          "startDate": "2023/05/03 09:20 JST",
           "endDate": "2023/05/03 10:08 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
