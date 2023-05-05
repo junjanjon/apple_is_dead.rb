@@ -236,19 +236,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1683073200000,
-          "epochEndDate": 1683076080000,
-          "messageId": "2000002388",
-          "statusType": "Issue",
-          "datePosted": "2023/05/04 11:58 JST",
-          "startDate": "2023/05/03 09:20 JST",
-          "endDate": "2023/05/03 10:08 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "iMessageで添付ファイルの送信やダウンロードができない場合がありました。"
-        }
+
       ],
       "serviceName": "iMessage"
     },
