@@ -159,7 +159,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1683790020000,
+          "epochEndDate": 1683792600000,
+          "messageId": "1000002263",
+          "statusType": "Issue",
+          "datePosted": "2023/05/11 17:47 JST",
+          "startDate": "2023/05/11 16:27 JST",
+          "endDate": "2023/05/11 17:10 JST",
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudメール"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "iCloudアカウントおよびサインイン"
     },
@@ -208,7 +223,22 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1683790020000,
+          "epochEndDate": 1683792600000,
+          "messageId": "1000002263",
+          "statusType": "Issue",
+          "datePosted": "2023/05/11 17:47 JST",
+          "startDate": "2023/05/11 16:27 JST",
+          "endDate": "2023/05/11 17:10 JST",
+          "affectedServices": [
+            "iCloudアカウントおよびサインイン",
+            "iCloudメール"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "iCloudメール"
     },
@@ -431,7 +461,7 @@
           "epochEndDate": 1683647340000,
           "messageId": "1000002243",
           "statusType": "Issue",
-          "datePosted": "2023/05/11 11:49 JST",
+          "datePosted": "2023/05/11 17:47 JST",
           "startDate": "2023/05/09 20:00 JST",
           "endDate": "2023/05/10 00:49 JST",
           "affectedServices": null,
