@@ -165,7 +165,7 @@
           "epochEndDate": 1683792600000,
           "messageId": "1000002263",
           "statusType": "Issue",
-          "datePosted": "2023/05/12 08:14 JST",
+          "datePosted": "2023/05/12 17:00 JST",
           "startDate": "2023/05/11 16:27 JST",
           "endDate": "2023/05/11 17:10 JST",
           "affectedServices": [
@@ -229,7 +229,7 @@
           "epochEndDate": 1683792600000,
           "messageId": "1000002263",
           "statusType": "Issue",
-          "datePosted": "2023/05/12 08:14 JST",
+          "datePosted": "2023/05/12 17:00 JST",
           "startDate": "2023/05/11 16:27 JST",
           "endDate": "2023/05/11 17:10 JST",
           "affectedServices": [
@@ -455,19 +455,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1683630000000,
-          "epochEndDate": 1683647340000,
-          "messageId": "1000002243",
-          "statusType": "Issue",
-          "datePosted": "2023/05/12 08:14 JST",
-          "startDate": "2023/05/09 20:00 JST",
-          "endDate": "2023/05/10 00:49 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "「天気」で問題が発生した可能性があります。"
-        }
+
       ],
       "serviceName": "天気"
     }
