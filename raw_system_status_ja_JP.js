@@ -74,7 +74,7 @@
           "epochEndDate": null,
           "messageId": "2000002423",
           "statusType": "Issue",
-          "datePosted": "2023/05/13 08:04 JST",
+          "datePosted": "2023/05/13 12:05 JST",
           "startDate": "2023/05/12 09:36 JST",
           "endDate": null,
           "affectedServices": null,
@@ -177,7 +177,7 @@
           "epochEndDate": 1683792600000,
           "messageId": "1000002263",
           "statusType": "Issue",
-          "datePosted": "2023/05/13 08:04 JST",
+          "datePosted": "2023/05/13 12:05 JST",
           "startDate": "2023/05/11 16:27 JST",
           "endDate": "2023/05/11 17:10 JST",
           "affectedServices": [
@@ -236,25 +236,12 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1683683100000,
-          "epochEndDate": null,
-          "messageId": "2000002426",
-          "statusType": "Issue",
-          "datePosted": "2023/05/13 08:04 JST",
-          "startDate": "2023/05/10 10:45 JST",
-          "endDate": null,
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "ユーザは、新しいメールアカウントやエイリアスを作成できない可能性があります。"
-        },
-        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1683790020000,
           "epochEndDate": 1683792600000,
           "messageId": "1000002263",
           "statusType": "Issue",
-          "datePosted": "2023/05/13 08:04 JST",
+          "datePosted": "2023/05/13 12:05 JST",
           "startDate": "2023/05/11 16:27 JST",
           "endDate": "2023/05/11 17:10 JST",
           "affectedServices": [
@@ -263,6 +250,19 @@
           ],
           "eventStatus": "resolved",
           "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1683683100000,
+          "epochEndDate": 1683946800000,
+          "messageId": "2000002426",
+          "statusType": "Issue",
+          "datePosted": "2023/05/13 12:05 JST",
+          "startDate": "2023/05/10 10:45 JST",
+          "endDate": "2023/05/13 12:00 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "ユーザは、新しいメールアカウントやエイリアスを作成できなかった可能性があります。"
         }
       ],
       "serviceName": "iCloudメール"
