@@ -11,7 +11,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 04:59 JST",
+          "datePosted": "2023/05/16 07:15 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -64,7 +64,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 04:59 JST",
+          "datePosted": "2023/05/16 07:15 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -110,7 +110,7 @@
           "epochEndDate": 1684011960000,
           "messageId": "2000002423",
           "statusType": "Issue",
-          "datePosted": "2023/05/16 04:59 JST",
+          "datePosted": "2023/05/16 07:15 JST",
           "startDate": "2023/05/12 09:36 JST",
           "endDate": "2023/05/14 06:06 JST",
           "affectedServices": null,
@@ -136,7 +136,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 04:59 JST",
+          "datePosted": "2023/05/16 07:15 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -267,7 +267,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1684175700000,
+          "epochEndDate": 1684185420000,
+          "messageId": "2000002429",
+          "statusType": "Issue",
+          "datePosted": "2023/05/16 07:15 JST",
+          "startDate": "2023/05/16 03:35 JST",
+          "endDate": "2023/05/16 06:17 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "iCloudプライベートリレー"
     },
@@ -280,7 +292,7 @@
           "epochEndDate": 1684179600000,
           "messageId": "2000002428",
           "statusType": "Issue",
-          "datePosted": "2023/05/16 04:59 JST",
+          "datePosted": "2023/05/16 07:15 JST",
           "startDate": "2023/05/16 02:40 JST",
           "endDate": "2023/05/16 04:40 JST",
           "affectedServices": null,
@@ -341,7 +353,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 04:59 JST",
+          "datePosted": "2023/05/16 07:15 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -387,7 +399,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 04:59 JST",
+          "datePosted": "2023/05/16 07:15 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
