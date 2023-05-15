@@ -74,7 +74,7 @@
           "epochEndDate": 1684011960000,
           "messageId": "2000002423",
           "statusType": "Issue",
-          "datePosted": "2023/05/14 17:00 JST",
+          "datePosted": "2023/05/15 17:00 JST",
           "startDate": "2023/05/12 09:36 JST",
           "endDate": "2023/05/14 06:06 JST",
           "affectedServices": null,
@@ -220,19 +220,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1683683100000,
-          "epochEndDate": 1683946800000,
-          "messageId": "2000002426",
-          "statusType": "Issue",
-          "datePosted": "2023/05/14 17:00 JST",
-          "startDate": "2023/05/10 10:45 JST",
-          "endDate": "2023/05/13 12:00 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザは、新しいメールアカウントやエイリアスを作成できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
