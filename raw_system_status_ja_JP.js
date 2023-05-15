@@ -11,7 +11,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 04:07 JST",
+          "datePosted": "2023/05/16 04:21 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -64,7 +64,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 04:07 JST",
+          "datePosted": "2023/05/16 04:21 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -110,7 +110,7 @@
           "epochEndDate": 1684011960000,
           "messageId": "2000002423",
           "statusType": "Issue",
-          "datePosted": "2023/05/16 04:07 JST",
+          "datePosted": "2023/05/16 04:21 JST",
           "startDate": "2023/05/12 09:36 JST",
           "endDate": "2023/05/14 06:06 JST",
           "affectedServices": null,
@@ -136,7 +136,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 04:07 JST",
+          "datePosted": "2023/05/16 04:21 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -274,7 +274,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1684172400000,
+          "epochEndDate": null,
+          "messageId": "2000002428",
+          "statusType": "Issue",
+          "datePosted": "2023/05/16 04:21 JST",
+          "startDate": "2023/05/16 02:40 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "ユーザはiCloudメールを受信できない可能性があります。"
+        }
       ],
       "serviceName": "iCloudメール"
     },
@@ -329,7 +341,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 04:07 JST",
+          "datePosted": "2023/05/16 04:21 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -375,7 +387,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 04:07 JST",
+          "datePosted": "2023/05/16 04:21 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
