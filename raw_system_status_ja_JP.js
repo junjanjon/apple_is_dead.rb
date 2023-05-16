@@ -11,7 +11,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 17:00 JST",
+          "datePosted": "2023/05/17 03:31 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -64,7 +64,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 17:00 JST",
+          "datePosted": "2023/05/17 03:31 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -124,7 +124,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 17:00 JST",
+          "datePosted": "2023/05/17 03:31 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -261,7 +261,7 @@
           "epochEndDate": 1684185420000,
           "messageId": "2000002429",
           "statusType": "Issue",
-          "datePosted": "2023/05/16 17:00 JST",
+          "datePosted": "2023/05/17 03:31 JST",
           "startDate": "2023/05/16 03:35 JST",
           "endDate": "2023/05/16 06:17 JST",
           "affectedServices": null,
@@ -280,7 +280,7 @@
           "epochEndDate": 1684179600000,
           "messageId": "2000002428",
           "statusType": "Issue",
-          "datePosted": "2023/05/16 17:00 JST",
+          "datePosted": "2023/05/17 03:31 JST",
           "startDate": "2023/05/16 02:40 JST",
           "endDate": "2023/05/16 04:40 JST",
           "affectedServices": null,
@@ -341,7 +341,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 17:00 JST",
+          "datePosted": "2023/05/17 03:31 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -387,7 +387,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 17:00 JST",
+          "datePosted": "2023/05/17 03:31 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -539,7 +539,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1684249800000,
+          "epochEndDate": null,
+          "messageId": "1000002303",
+          "statusType": "Issue",
+          "datePosted": "2023/05/17 03:31 JST",
+          "startDate": "2023/05/17 00:10 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "「天気」の動作が遅い、または利用できない可能性があります。"
+        }
       ],
       "serviceName": "天気"
     }
