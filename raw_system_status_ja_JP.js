@@ -11,7 +11,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 16:23 JST",
+          "datePosted": "2023/05/16 17:00 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -64,7 +64,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 16:23 JST",
+          "datePosted": "2023/05/16 17:00 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -104,19 +104,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1683851760000,
-          "epochEndDate": 1684011960000,
-          "messageId": "2000002423",
-          "statusType": "Issue",
-          "datePosted": "2023/05/16 16:23 JST",
-          "startDate": "2023/05/12 09:36 JST",
-          "endDate": "2023/05/14 06:06 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "アメリカン・エキスプレス・インターナショナル, Inc.カード保有者は、Apple Payで既存のカードの停止または削除ができませんでした。"
-        }
+
       ],
       "serviceName": "Apple Pay & ウォレット"
     },
@@ -136,7 +124,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 16:23 JST",
+          "datePosted": "2023/05/16 17:00 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -273,7 +261,7 @@
           "epochEndDate": 1684185420000,
           "messageId": "2000002429",
           "statusType": "Issue",
-          "datePosted": "2023/05/16 16:23 JST",
+          "datePosted": "2023/05/16 17:00 JST",
           "startDate": "2023/05/16 03:35 JST",
           "endDate": "2023/05/16 06:17 JST",
           "affectedServices": null,
@@ -292,7 +280,7 @@
           "epochEndDate": 1684179600000,
           "messageId": "2000002428",
           "statusType": "Issue",
-          "datePosted": "2023/05/16 16:23 JST",
+          "datePosted": "2023/05/16 17:00 JST",
           "startDate": "2023/05/16 02:40 JST",
           "endDate": "2023/05/16 04:40 JST",
           "affectedServices": null,
@@ -353,7 +341,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 16:23 JST",
+          "datePosted": "2023/05/16 17:00 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
@@ -399,7 +387,7 @@
           "epochEndDate": 1684174620000,
           "messageId": "2000002427",
           "statusType": "Outage",
-          "datePosted": "2023/05/16 16:23 JST",
+          "datePosted": "2023/05/16 17:00 JST",
           "startDate": "2023/05/16 02:50 JST",
           "endDate": "2023/05/16 03:17 JST",
           "affectedServices": [
