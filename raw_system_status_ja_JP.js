@@ -5,25 +5,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1684173000000,
-          "epochEndDate": 1684174620000,
-          "messageId": "2000002427",
-          "statusType": "Outage",
-          "datePosted": "2023/05/17 17:00 JST",
-          "startDate": "2023/05/16 02:50 JST",
-          "endDate": "2023/05/16 03:17 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Music",
-            "Apple TV+",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "App Store"
     },
@@ -58,25 +40,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1684173000000,
-          "epochEndDate": 1684174620000,
-          "messageId": "2000002427",
-          "statusType": "Outage",
-          "datePosted": "2023/05/17 17:00 JST",
-          "startDate": "2023/05/16 02:50 JST",
-          "endDate": "2023/05/16 03:17 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Music",
-            "Apple TV+",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Apple Music"
     },
@@ -118,25 +82,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1684173000000,
-          "epochEndDate": 1684174620000,
-          "messageId": "2000002427",
-          "statusType": "Outage",
-          "datePosted": "2023/05/17 17:00 JST",
-          "startDate": "2023/05/16 02:50 JST",
-          "endDate": "2023/05/16 03:17 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Music",
-            "Apple TV+",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Apple TV+"
     },
@@ -255,38 +201,14 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1684175700000,
-          "epochEndDate": 1684185420000,
-          "messageId": "2000002429",
-          "statusType": "Issue",
-          "datePosted": "2023/05/17 17:00 JST",
-          "startDate": "2023/05/16 03:35 JST",
-          "endDate": "2023/05/16 06:17 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudプライベートリレー"
     },
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1684172400000,
-          "epochEndDate": 1684179600000,
-          "messageId": "2000002428",
-          "statusType": "Issue",
-          "datePosted": "2023/05/17 17:00 JST",
-          "startDate": "2023/05/16 02:40 JST",
-          "endDate": "2023/05/16 04:40 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザはiCloudメールを受信できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iCloudメール"
     },
@@ -335,25 +257,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1684173000000,
-          "epochEndDate": 1684174620000,
-          "messageId": "2000002427",
-          "statusType": "Outage",
-          "datePosted": "2023/05/17 17:00 JST",
-          "startDate": "2023/05/16 02:50 JST",
-          "endDate": "2023/05/16 03:17 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Music",
-            "Apple TV+",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "iTunes Store"
     },
@@ -381,25 +285,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1684173000000,
-          "epochEndDate": 1684174620000,
-          "messageId": "2000002427",
-          "statusType": "Outage",
-          "datePosted": "2023/05/17 17:00 JST",
-          "startDate": "2023/05/16 02:50 JST",
-          "endDate": "2023/05/16 03:17 JST",
-          "affectedServices": [
-            "App Store",
-            "Apple Music",
-            "Apple TV+",
-            "Mac App Store",
-            "iTunes Store"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "serviceName": "Mac App Store"
     },
@@ -545,7 +431,7 @@
           "epochEndDate": 1684267200000,
           "messageId": "1000002303",
           "statusType": "Issue",
-          "datePosted": "2023/05/17 17:00 JST",
+          "datePosted": "2023/05/18 17:00 JST",
           "startDate": "2023/05/17 00:10 JST",
           "endDate": "2023/05/17 05:00 JST",
           "affectedServices": null,
