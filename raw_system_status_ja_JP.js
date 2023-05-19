@@ -11,7 +11,7 @@
           "epochEndDate": 1684466040000,
           "messageId": "1000002343",
           "statusType": "Outage",
-          "datePosted": "2023/05/20 02:29 JST",
+          "datePosted": "2023/05/19 17:00 JST",
           "startDate": "2023/05/19 11:43 JST",
           "endDate": "2023/05/19 12:14 JST",
           "affectedServices": [
@@ -64,7 +64,7 @@
           "epochEndDate": 1684466040000,
           "messageId": "1000002343",
           "statusType": "Outage",
-          "datePosted": "2023/05/20 02:29 JST",
+          "datePosted": "2023/05/19 17:00 JST",
           "startDate": "2023/05/19 11:43 JST",
           "endDate": "2023/05/19 12:14 JST",
           "affectedServices": [
@@ -124,7 +124,7 @@
           "epochEndDate": 1684466040000,
           "messageId": "1000002343",
           "statusType": "Outage",
-          "datePosted": "2023/05/20 02:29 JST",
+          "datePosted": "2023/05/19 17:00 JST",
           "startDate": "2023/05/19 11:43 JST",
           "endDate": "2023/05/19 12:14 JST",
           "affectedServices": [
@@ -149,7 +149,7 @@
           "epochEndDate": 1684466040000,
           "messageId": "1000002343",
           "statusType": "Outage",
-          "datePosted": "2023/05/20 02:29 JST",
+          "datePosted": "2023/05/19 17:00 JST",
           "startDate": "2023/05/19 11:43 JST",
           "endDate": "2023/05/19 12:14 JST",
           "affectedServices": [
@@ -335,7 +335,7 @@
           "epochEndDate": 1684466040000,
           "messageId": "1000002343",
           "statusType": "Outage",
-          "datePosted": "2023/05/20 02:29 JST",
+          "datePosted": "2023/05/19 17:00 JST",
           "startDate": "2023/05/19 11:43 JST",
           "endDate": "2023/05/19 12:14 JST",
           "affectedServices": [
@@ -440,12 +440,12 @@
       "events": [
         {
           "usersAffected": "すべてのユーザに影響します",
-          "epochStartDate": 1684573200000,
+          "epochStartDate": 1684580400000,
           "epochEndDate": 1684674000000,
           "messageId": "2000002440",
           "statusType": "Maintenance",
-          "datePosted": "2023/05/20 02:29 JST",
-          "startDate": "2023/05/20 18:00 JST",
+          "datePosted": "2023/05/19 17:00 JST",
+          "startDate": "2023/05/20 20:00 JST",
           "endDate": "2023/05/21 22:00 JST",
           "affectedServices": null,
           "eventStatus": "upcoming",
