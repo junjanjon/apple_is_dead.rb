@@ -5,7 +5,25 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1684464180000,
+          "epochEndDate": 1684466040000,
+          "messageId": "1000002343",
+          "statusType": "Outage",
+          "datePosted": "2023/05/19 12:56 JST",
+          "startDate": "2023/05/19 11:43 JST",
+          "endDate": "2023/05/19 12:14 JST",
+          "affectedServices": [
+            "App Store",
+            "Apple Music",
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "iTunes Store"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "App Store"
     },
@@ -40,7 +58,25 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1684464180000,
+          "epochEndDate": 1684466040000,
+          "messageId": "1000002343",
+          "statusType": "Outage",
+          "datePosted": "2023/05/19 12:56 JST",
+          "startDate": "2023/05/19 11:43 JST",
+          "endDate": "2023/05/19 12:14 JST",
+          "affectedServices": [
+            "App Store",
+            "Apple Music",
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "iTunes Store"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "Apple Music"
     },
@@ -82,14 +118,50 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1684464180000,
+          "epochEndDate": 1684466040000,
+          "messageId": "1000002343",
+          "statusType": "Outage",
+          "datePosted": "2023/05/19 12:56 JST",
+          "startDate": "2023/05/19 11:43 JST",
+          "endDate": "2023/05/19 12:14 JST",
+          "affectedServices": [
+            "App Store",
+            "Apple Music",
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "iTunes Store"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "Apple TV+"
     },
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1684464180000,
+          "epochEndDate": 1684466040000,
+          "messageId": "1000002343",
+          "statusType": "Outage",
+          "datePosted": "2023/05/19 12:56 JST",
+          "startDate": "2023/05/19 11:43 JST",
+          "endDate": "2023/05/19 12:14 JST",
+          "affectedServices": [
+            "App Store",
+            "Apple Music",
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "iTunes Store"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "Apple TVチャンネル"
     },
@@ -257,7 +329,25 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1684464180000,
+          "epochEndDate": 1684466040000,
+          "messageId": "1000002343",
+          "statusType": "Outage",
+          "datePosted": "2023/05/19 12:56 JST",
+          "startDate": "2023/05/19 11:43 JST",
+          "endDate": "2023/05/19 12:14 JST",
+          "affectedServices": [
+            "App Store",
+            "Apple Music",
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "iTunes Store"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "serviceName": "iTunes Store"
     },
@@ -354,7 +444,7 @@
           "epochEndDate": 1684674000000,
           "messageId": "2000002440",
           "statusType": "Maintenance",
-          "datePosted": "2023/05/19 07:47 JST",
+          "datePosted": "2023/05/19 12:56 JST",
           "startDate": "2023/05/20 20:00 JST",
           "endDate": "2023/05/21 22:00 JST",
           "affectedServices": null,
@@ -443,7 +533,7 @@
           "epochEndDate": 1684267200000,
           "messageId": "1000002303",
           "statusType": "Issue",
-          "datePosted": "2023/05/19 07:47 JST",
+          "datePosted": "2023/05/19 12:56 JST",
           "startDate": "2023/05/17 00:10 JST",
           "endDate": "2023/05/17 05:00 JST",
           "affectedServices": null,
