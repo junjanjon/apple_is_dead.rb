@@ -348,19 +348,7 @@
     {
       "redirectUrl": null,
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響します",
-          "epochStartDate": 1684573200000,
-          "epochEndDate": 1684674000000,
-          "messageId": "2000002440",
-          "statusType": "Maintenance",
-          "datePosted": "2023/05/21 17:00 JST",
-          "startDate": "2023/05/20 18:00 JST",
-          "endDate": "2023/05/21 22:00 JST",
-          "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "システムメンテナンス中のため、AppleCareは一時的に購入できません。"
-        }
+
       ],
       "serviceName": "デバイスのAppleCare"
     },
