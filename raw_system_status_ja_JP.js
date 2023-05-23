@@ -237,17 +237,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1684857000000,
-          "epochEndDate": null,
+          "epochEndDate": 1684866000000,
           "messageId": "2000002447",
           "statusType": "Issue",
-          "datePosted": "2023/05/24 02:46 JST",
+          "datePosted": "2023/05/24 03:32 JST",
           "startDate": "2023/05/24 00:50 JST",
-          "endDate": null,
+          "endDate": "2023/05/24 03:20 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "iMessageで添付ファイルの送信やダウンロードができない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "iMessageで添付ファイルの送信やダウンロードができない場合がありました。"
         }
       ],
       "serviceName": "iMessage"
@@ -284,17 +284,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1684857300000,
-          "epochEndDate": null,
+          "epochEndDate": 1684865100000,
           "messageId": "2000002449",
           "statusType": "Issue",
-          "datePosted": "2023/05/24 02:46 JST",
+          "datePosted": "2023/05/24 03:32 JST",
           "startDate": "2023/05/24 00:55 JST",
-          "endDate": null,
+          "endDate": "2023/05/24 03:05 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "iWork for iCloud"
@@ -443,17 +443,17 @@
       "redirectUrl": null,
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1684846800000,
-          "epochEndDate": null,
+          "epochEndDate": 1684865100000,
           "messageId": "2000002448",
           "statusType": "Issue",
-          "datePosted": "2023/05/24 02:46 JST",
+          "datePosted": "2023/05/24 03:32 JST",
           "startDate": "2023/05/23 22:00 JST",
-          "endDate": null,
+          "endDate": "2023/05/24 03:05 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "serviceName": "写真"
