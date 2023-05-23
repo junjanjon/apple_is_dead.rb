@@ -242,7 +242,7 @@
           "epochEndDate": null,
           "messageId": "2000002447",
           "statusType": "Issue",
-          "datePosted": "2023/05/24 01:46 JST",
+          "datePosted": "2023/05/24 02:46 JST",
           "startDate": "2023/05/24 00:50 JST",
           "endDate": null,
           "affectedServices": null,
@@ -283,7 +283,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1684857300000,
+          "epochEndDate": null,
+          "messageId": "2000002449",
+          "statusType": "Issue",
+          "datePosted": "2023/05/24 02:46 JST",
+          "startDate": "2023/05/24 00:55 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "iWork for iCloud"
     },
@@ -430,7 +442,19 @@
     {
       "redirectUrl": null,
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1684846800000,
+          "epochEndDate": null,
+          "messageId": "2000002448",
+          "statusType": "Issue",
+          "datePosted": "2023/05/24 02:46 JST",
+          "startDate": "2023/05/23 22:00 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "serviceName": "写真"
     },
