@@ -185,7 +185,7 @@
           "epochEndDate": 1684969680000,
           "messageId": "2000002450",
           "statusType": "Issue",
-          "datePosted": "2023/05/26 09:10 JST",
+          "datePosted": "2023/05/26 17:00 JST",
           "startDate": "2023/05/25 02:30 JST",
           "endDate": "2023/05/25 08:08 JST",
           "affectedServices": null,
@@ -247,19 +247,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1684857000000,
-          "epochEndDate": 1684866000000,
-          "messageId": "2000002447",
-          "statusType": "Issue",
-          "datePosted": "2023/05/26 09:10 JST",
-          "startDate": "2023/05/24 00:50 JST",
-          "endDate": "2023/05/24 03:20 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "iMessageで添付ファイルの送信やダウンロードができない場合がありました。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "iMessage"
@@ -294,19 +282,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1684857300000,
-          "epochEndDate": 1684865100000,
-          "messageId": "2000002449",
-          "statusType": "Issue",
-          "datePosted": "2023/05/26 09:10 JST",
-          "startDate": "2023/05/24 00:55 JST",
-          "endDate": "2023/05/24 03:05 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "iWork for iCloud"
@@ -453,19 +429,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1684846800000,
-          "epochEndDate": 1684865100000,
-          "messageId": "2000002448",
-          "statusType": "Issue",
-          "datePosted": "2023/05/26 09:10 JST",
-          "startDate": "2023/05/23 22:00 JST",
-          "endDate": "2023/05/24 03:05 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "写真"
