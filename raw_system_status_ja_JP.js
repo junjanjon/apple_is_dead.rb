@@ -179,19 +179,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1684949400000,
-          "epochEndDate": 1684969680000,
-          "messageId": "2000002450",
-          "statusType": "Issue",
-          "datePosted": "2023/05/26 17:00 JST",
-          "startDate": "2023/05/25 02:30 JST",
-          "endDate": "2023/05/25 08:08 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生した可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "iCloudストレージアップグレード"
