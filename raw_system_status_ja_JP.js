@@ -75,17 +75,17 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1685479980000,
-          "epochEndDate": null,
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1685475780000,
+          "epochEndDate": 1685481300000,
           "messageId": "2000002461",
           "statusType": "Issue",
-          "datePosted": "2023/05/31 06:07 JST",
-          "startDate": "2023/05/31 05:53 JST",
-          "endDate": null,
+          "datePosted": "2023/05/31 06:28 JST",
+          "startDate": "2023/05/31 04:43 JST",
+          "endDate": "2023/05/31 06:15 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "Apple School ManagerでのStudent Information Systemとの同期やSFTP経由での学校データのアップロードにおいて、断続的な問題が発生している可能性があります"
+          "eventStatus": "resolved",
+          "message": "Apple School ManagerでのStudent Information Systemとの同期やSFTP経由での学校データのアップロードにおいて、断続的な問題が発生した可能性があります"
         }
       ],
       "redirectUrl": null,
@@ -93,14 +93,46 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1685480760000,
+          "epochEndDate": null,
+          "messageId": "2000002462",
+          "statusType": "Outage",
+          "datePosted": "2023/05/31 06:28 JST",
+          "startDate": "2023/05/31 06:06 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "iTunes Match"
+          ],
+          "eventStatus": "ongoing",
+          "message": "Apple TV+の利用に問題が発生している可能性があります。この問題について調査中です。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple TV+"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1685480760000,
+          "epochEndDate": null,
+          "messageId": "2000002462",
+          "statusType": "Outage",
+          "datePosted": "2023/05/31 06:28 JST",
+          "startDate": "2023/05/31 06:06 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "iTunes Match"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple TVチャンネル"
@@ -261,7 +293,23 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1685480760000,
+          "epochEndDate": null,
+          "messageId": "2000002462",
+          "statusType": "Outage",
+          "datePosted": "2023/05/31 06:28 JST",
+          "startDate": "2023/05/31 06:06 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "iTunes Match"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iTunes Match"
