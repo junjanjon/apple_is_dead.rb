@@ -74,7 +74,19 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1685479980000,
+          "epochEndDate": null,
+          "messageId": "2000002461",
+          "statusType": "Issue",
+          "datePosted": "2023/05/31 06:07 JST",
+          "startDate": "2023/05/31 05:53 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "Apple School ManagerでのStudent Information Systemとの同期やSFTP経由での学校データのアップロードにおいて、断続的な問題が発生している可能性があります"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple School Manager"
