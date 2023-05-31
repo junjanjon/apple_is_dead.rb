@@ -80,7 +80,7 @@
           "epochEndDate": 1685481300000,
           "messageId": "2000002461",
           "statusType": "Issue",
-          "datePosted": "2023/05/31 23:36 JST",
+          "datePosted": "2023/06/01 00:10 JST",
           "startDate": "2023/05/31 04:43 JST",
           "endDate": "2023/05/31 06:15 JST",
           "affectedServices": null,
@@ -122,20 +122,20 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1685537100000,
-          "epochEndDate": null,
+          "epochEndDate": 1685545200000,
           "messageId": "1000002463",
           "statusType": "Issue",
-          "datePosted": "2023/05/31 23:36 JST",
+          "datePosted": "2023/06/01 00:10 JST",
           "startDate": "2023/05/31 21:45 JST",
-          "endDate": null,
+          "endDate": "2023/06/01 00:00 JST",
           "affectedServices": [
             "FaceTime",
             "iMessage"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの動作速度が通常より低下している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの動作速度が通常より低下した可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -263,20 +263,20 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1685537100000,
-          "epochEndDate": null,
+          "epochEndDate": 1685545200000,
           "messageId": "1000002463",
           "statusType": "Issue",
-          "datePosted": "2023/05/31 23:36 JST",
+          "datePosted": "2023/06/01 00:10 JST",
           "startDate": "2023/05/31 21:45 JST",
-          "endDate": null,
+          "endDate": "2023/06/01 00:00 JST",
           "affectedServices": [
             "FaceTime",
             "iMessage"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスを利用できません。"
+          "eventStatus": "resolved",
+          "message": "このサービスを利用できませんでした。"
         }
       ],
       "redirectUrl": null,
