@@ -80,7 +80,7 @@
           "epochEndDate": 1685481300000,
           "messageId": "2000002461",
           "statusType": "Issue",
-          "datePosted": "2023/05/31 17:00 JST",
+          "datePosted": "2023/05/31 23:36 JST",
           "startDate": "2023/05/31 04:43 JST",
           "endDate": "2023/05/31 06:15 JST",
           "affectedServices": null,
@@ -121,7 +121,22 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1685537100000,
+          "epochEndDate": null,
+          "messageId": "1000002463",
+          "statusType": "Issue",
+          "datePosted": "2023/05/31 23:36 JST",
+          "startDate": "2023/05/31 21:45 JST",
+          "endDate": null,
+          "affectedServices": [
+            "FaceTime",
+            "iMessage"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの動作速度が通常より低下している可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "FaceTime"
@@ -247,7 +262,22 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1685537100000,
+          "epochEndDate": null,
+          "messageId": "1000002463",
+          "statusType": "Issue",
+          "datePosted": "2023/05/31 23:36 JST",
+          "startDate": "2023/05/31 21:45 JST",
+          "endDate": null,
+          "affectedServices": [
+            "FaceTime",
+            "iMessage"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスを利用できません。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iMessage"
