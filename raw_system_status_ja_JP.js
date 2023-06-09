@@ -242,7 +242,19 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "60%のユーザに影響します",
+          "epochStartDate": 1686270000000,
+          "epochEndDate": null,
+          "messageId": "2000002484",
+          "statusType": "Outage",
+          "datePosted": "2023/06/09 11:45 JST",
+          "startDate": "2023/06/09 09:20 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iOSデバイスアクティベーション"
