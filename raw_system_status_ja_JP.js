@@ -68,17 +68,17 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1687531020000,
-          "epochEndDate": null,
+          "epochEndDate": 1687579200000,
           "messageId": "1000002643",
           "statusType": "Outage",
-          "datePosted": "2023/06/24 12:07 JST",
+          "datePosted": "2023/06/24 13:19 JST",
           "startDate": "2023/06/23 23:37 JST",
-          "endDate": null,
+          "endDate": "2023/06/24 13:00 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "JR東日本カード保有者は、Apple Payの一部の機能を使用できない場合があります。"
+          "eventStatus": "resolved",
+          "message": "JR東日本カード保有者は、Apple Payの一部の機能を使用できませんでした。"
         }
       ],
       "redirectUrl": null,
