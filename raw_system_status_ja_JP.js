@@ -67,7 +67,19 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1687505820000,
+          "epochEndDate": null,
+          "messageId": "1000002623",
+          "statusType": "Outage",
+          "datePosted": "2023/06/24 11:03 JST",
+          "startDate": "2023/06/23 16:37 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "JR東日本カード保有者は、Apple Payの一部の機能を使用できない場合があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple Pay & ウォレット"
