@@ -53,7 +53,25 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1687827900000,
+          "epochEndDate": null,
+          "messageId": "1000002663",
+          "statusType": "Outage",
+          "datePosted": "2023/06/27 10:21 JST",
+          "startDate": "2023/06/27 10:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Musicのラジオ",
+            "Mac App Store",
+            "iTunes Store",
+            "ポッドキャスト",
+            "ラジオ"
+          ],
+          "eventStatus": "ongoing",
+          "message": "ユーザがサインインできない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple Musicのラジオ"
@@ -256,7 +274,25 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1687827900000,
+          "epochEndDate": null,
+          "messageId": "1000002663",
+          "statusType": "Outage",
+          "datePosted": "2023/06/27 10:21 JST",
+          "startDate": "2023/06/27 10:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Musicのラジオ",
+            "Mac App Store",
+            "iTunes Store",
+            "ポッドキャスト",
+            "ラジオ"
+          ],
+          "eventStatus": "ongoing",
+          "message": "上記のサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iTunes Store"
@@ -284,7 +320,25 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1687827900000,
+          "epochEndDate": null,
+          "messageId": "1000002663",
+          "statusType": "Outage",
+          "datePosted": "2023/06/27 10:21 JST",
+          "startDate": "2023/06/27 10:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Musicのラジオ",
+            "Mac App Store",
+            "iTunes Store",
+            "ポッドキャスト",
+            "ラジオ"
+          ],
+          "eventStatus": "ongoing",
+          "message": "複数のStore／サービスへのサインインや購入ができません。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Mac App Store"
@@ -389,7 +443,25 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1687827900000,
+          "epochEndDate": null,
+          "messageId": "1000002663",
+          "statusType": "Outage",
+          "datePosted": "2023/06/27 10:21 JST",
+          "startDate": "2023/06/27 10:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Musicのラジオ",
+            "Mac App Store",
+            "iTunes Store",
+            "ポッドキャスト",
+            "ラジオ"
+          ],
+          "eventStatus": "ongoing",
+          "message": "ユーザがサインインできない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "ラジオ"
