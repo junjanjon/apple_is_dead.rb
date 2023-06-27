@@ -11,7 +11,25 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1687827900000,
+          "epochEndDate": null,
+          "messageId": "1000002664",
+          "statusType": "Outage",
+          "datePosted": "2023/06/27 11:00 JST",
+          "startDate": "2023/06/27 10:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Arcade",
+            "Apple Fitness+",
+            "Apple Music",
+            "Apple TV+",
+            "MLS Season Pass"
+          ],
+          "eventStatus": "ongoing",
+          "message": "ユーザがサインインできない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple Arcade"
@@ -39,7 +57,25 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1687827900000,
+          "epochEndDate": null,
+          "messageId": "1000002664",
+          "statusType": "Outage",
+          "datePosted": "2023/06/27 11:00 JST",
+          "startDate": "2023/06/27 10:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Arcade",
+            "Apple Fitness+",
+            "Apple Music",
+            "Apple TV+",
+            "MLS Season Pass"
+          ],
+          "eventStatus": "ongoing",
+          "message": "ユーザがサインインできない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple Music"
@@ -59,7 +95,7 @@
           "epochEndDate": null,
           "messageId": "1000002663",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 10:35 JST",
+          "datePosted": "2023/06/27 11:00 JST",
           "startDate": "2023/06/27 10:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -99,7 +135,25 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1687827900000,
+          "epochEndDate": null,
+          "messageId": "1000002664",
+          "statusType": "Outage",
+          "datePosted": "2023/06/27 11:00 JST",
+          "startDate": "2023/06/27 10:05 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Arcade",
+            "Apple Fitness+",
+            "Apple Music",
+            "Apple TV+",
+            "MLS Season Pass"
+          ],
+          "eventStatus": "ongoing",
+          "message": "ユーザがサインインできない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple TV+"
@@ -134,7 +188,19 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1687829040000,
+          "epochEndDate": null,
+          "messageId": "2000002559",
+          "statusType": "Outage",
+          "datePosted": "2023/06/27 11:00 JST",
+          "startDate": "2023/06/27 10:24 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの動作速度が通常より低下している可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Game Center"
@@ -280,7 +346,7 @@
           "epochEndDate": null,
           "messageId": "1000002663",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 10:35 JST",
+          "datePosted": "2023/06/27 11:00 JST",
           "startDate": "2023/06/27 10:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -326,7 +392,7 @@
           "epochEndDate": null,
           "messageId": "1000002663",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 10:35 JST",
+          "datePosted": "2023/06/27 11:00 JST",
           "startDate": "2023/06/27 10:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -449,7 +515,7 @@
           "epochEndDate": null,
           "messageId": "1000002663",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 10:35 JST",
+          "datePosted": "2023/06/27 11:00 JST",
           "startDate": "2023/06/27 10:05 JST",
           "endDate": null,
           "affectedServices": [
