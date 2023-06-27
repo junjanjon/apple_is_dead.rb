@@ -17,7 +17,7 @@
           "epochEndDate": null,
           "messageId": "1000002664",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 11:00 JST",
+          "datePosted": "2023/06/27 11:07 JST",
           "startDate": "2023/06/27 10:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -63,7 +63,7 @@
           "epochEndDate": null,
           "messageId": "1000002664",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 11:00 JST",
+          "datePosted": "2023/06/27 11:07 JST",
           "startDate": "2023/06/27 10:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -95,7 +95,7 @@
           "epochEndDate": null,
           "messageId": "1000002663",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 11:00 JST",
+          "datePosted": "2023/06/27 11:07 JST",
           "startDate": "2023/06/27 10:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -141,7 +141,7 @@
           "epochEndDate": null,
           "messageId": "1000002664",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 11:00 JST",
+          "datePosted": "2023/06/27 11:07 JST",
           "startDate": "2023/06/27 10:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -193,8 +193,8 @@
           "epochStartDate": 1687829040000,
           "epochEndDate": null,
           "messageId": "2000002559",
-          "statusType": "Outage",
-          "datePosted": "2023/06/27 11:00 JST",
+          "statusType": "Issue",
+          "datePosted": "2023/06/27 11:07 JST",
           "startDate": "2023/06/27 10:24 JST",
           "endDate": null,
           "affectedServices": null,
@@ -346,7 +346,7 @@
           "epochEndDate": null,
           "messageId": "1000002663",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 11:00 JST",
+          "datePosted": "2023/06/27 11:07 JST",
           "startDate": "2023/06/27 10:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -392,7 +392,7 @@
           "epochEndDate": null,
           "messageId": "1000002663",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 11:00 JST",
+          "datePosted": "2023/06/27 11:07 JST",
           "startDate": "2023/06/27 10:05 JST",
           "endDate": null,
           "affectedServices": [
@@ -515,7 +515,7 @@
           "epochEndDate": null,
           "messageId": "1000002663",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 11:00 JST",
+          "datePosted": "2023/06/27 11:07 JST",
           "startDate": "2023/06/27 10:05 JST",
           "endDate": null,
           "affectedServices": [
