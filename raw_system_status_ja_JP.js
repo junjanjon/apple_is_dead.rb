@@ -12,14 +12,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1687827900000,
-          "epochEndDate": null,
+          "epochEndDate": 1687836600000,
           "messageId": "1000002664",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 12:05 JST",
+          "datePosted": "2023/06/27 13:06 JST",
           "startDate": "2023/06/27 10:05 JST",
-          "endDate": null,
+          "endDate": "2023/06/27 12:30 JST",
           "affectedServices": [
             "Apple Arcade",
             "Apple Fitness+",
@@ -27,8 +27,8 @@
             "Apple TV+",
             "MLS Season Pass"
           ],
-          "eventStatus": "ongoing",
-          "message": "ユーザがサインインできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "ユーザがサインインできなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -58,14 +58,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1687827900000,
-          "epochEndDate": null,
+          "epochEndDate": 1687836600000,
           "messageId": "1000002664",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 12:05 JST",
+          "datePosted": "2023/06/27 13:06 JST",
           "startDate": "2023/06/27 10:05 JST",
-          "endDate": null,
+          "endDate": "2023/06/27 12:30 JST",
           "affectedServices": [
             "Apple Arcade",
             "Apple Fitness+",
@@ -73,8 +73,8 @@
             "Apple TV+",
             "MLS Season Pass"
           ],
-          "eventStatus": "ongoing",
-          "message": "ユーザがサインインできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "ユーザがサインインできなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -90,14 +90,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1687827900000,
-          "epochEndDate": null,
+          "epochEndDate": 1687836600000,
           "messageId": "1000002663",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 12:05 JST",
+          "datePosted": "2023/06/27 13:06 JST",
           "startDate": "2023/06/27 10:05 JST",
-          "endDate": null,
+          "endDate": "2023/06/27 12:30 JST",
           "affectedServices": [
             "Apple Musicのラジオ",
             "Mac App Store",
@@ -105,8 +105,8 @@
             "ポッドキャスト",
             "ラジオ"
           ],
-          "eventStatus": "ongoing",
-          "message": "ユーザがサインインできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "ユーザがサインインできなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -136,14 +136,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1687827900000,
-          "epochEndDate": null,
+          "epochEndDate": 1687836600000,
           "messageId": "1000002664",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 12:05 JST",
+          "datePosted": "2023/06/27 13:06 JST",
           "startDate": "2023/06/27 10:05 JST",
-          "endDate": null,
+          "endDate": "2023/06/27 12:30 JST",
           "affectedServices": [
             "Apple Arcade",
             "Apple Fitness+",
@@ -151,8 +151,8 @@
             "Apple TV+",
             "MLS Season Pass"
           ],
-          "eventStatus": "ongoing",
-          "message": "ユーザがサインインできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "ユーザがサインインできなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -194,7 +194,7 @@
           "epochEndDate": null,
           "messageId": "2000002559",
           "statusType": "Issue",
-          "datePosted": "2023/06/27 12:05 JST",
+          "datePosted": "2023/06/27 13:06 JST",
           "startDate": "2023/06/27 10:24 JST",
           "endDate": null,
           "affectedServices": null,
@@ -341,14 +341,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1687827900000,
-          "epochEndDate": null,
+          "epochEndDate": 1687836600000,
           "messageId": "1000002663",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 12:05 JST",
+          "datePosted": "2023/06/27 13:06 JST",
           "startDate": "2023/06/27 10:05 JST",
-          "endDate": null,
+          "endDate": "2023/06/27 12:30 JST",
           "affectedServices": [
             "Apple Musicのラジオ",
             "Mac App Store",
@@ -356,8 +356,8 @@
             "ポッドキャスト",
             "ラジオ"
           ],
-          "eventStatus": "ongoing",
-          "message": "上記のサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "上記のサービスに関する問題が発生しました。"
         }
       ],
       "redirectUrl": null,
@@ -387,14 +387,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1687827900000,
-          "epochEndDate": null,
+          "epochEndDate": 1687836600000,
           "messageId": "1000002663",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 12:05 JST",
+          "datePosted": "2023/06/27 13:06 JST",
           "startDate": "2023/06/27 10:05 JST",
-          "endDate": null,
+          "endDate": "2023/06/27 12:30 JST",
           "affectedServices": [
             "Apple Musicのラジオ",
             "Mac App Store",
@@ -402,8 +402,8 @@
             "ポッドキャスト",
             "ラジオ"
           ],
-          "eventStatus": "ongoing",
-          "message": "複数のStore／サービスへのサインインや購入ができません。"
+          "eventStatus": "resolved",
+          "message": "複数のStore／サービスへのアクセスや購入ができませんでした。"
         }
       ],
       "redirectUrl": null,
@@ -510,14 +510,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1687827900000,
-          "epochEndDate": null,
+          "epochEndDate": 1687836600000,
           "messageId": "1000002663",
           "statusType": "Outage",
-          "datePosted": "2023/06/27 12:05 JST",
+          "datePosted": "2023/06/27 13:06 JST",
           "startDate": "2023/06/27 10:05 JST",
-          "endDate": null,
+          "endDate": "2023/06/27 12:30 JST",
           "affectedServices": [
             "Apple Musicのラジオ",
             "Mac App Store",
@@ -525,8 +525,8 @@
             "ポッドキャスト",
             "ラジオ"
           ],
-          "eventStatus": "ongoing",
-          "message": "ユーザがサインインできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "ユーザがサインインできなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
