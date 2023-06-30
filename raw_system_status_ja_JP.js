@@ -67,19 +67,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1687850640000,
-          "epochEndDate": 1687858500000,
-          "messageId": "1000002683",
-          "statusType": "Outage",
-          "datePosted": "2023/06/30 14:49 JST",
-          "startDate": "2023/06/27 16:24 JST",
-          "endDate": "2023/06/27 18:35 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "一部のユーザが、サービスをご利用になれなかった可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Apple Pay & ウォレット"
@@ -92,7 +80,7 @@
           "epochEndDate": 1688103360000,
           "messageId": "2000002564",
           "statusType": "Performance",
-          "datePosted": "2023/06/30 14:49 JST",
+          "datePosted": "2023/06/30 17:00 JST",
           "startDate": "2023/06/29 10:00 JST",
           "endDate": "2023/06/30 14:36 JST",
           "affectedServices": null,
