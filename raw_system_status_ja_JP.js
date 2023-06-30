@@ -73,7 +73,7 @@
           "epochEndDate": 1687858500000,
           "messageId": "1000002683",
           "statusType": "Outage",
-          "datePosted": "2023/06/30 02:24 JST",
+          "datePosted": "2023/06/30 11:36 JST",
           "startDate": "2023/06/27 16:24 JST",
           "endDate": "2023/06/27 18:35 JST",
           "affectedServices": null,
@@ -92,12 +92,12 @@
           "epochEndDate": null,
           "messageId": "2000002564",
           "statusType": "Performance",
-          "datePosted": "2023/06/30 02:24 JST",
+          "datePosted": "2023/06/30 11:36 JST",
           "startDate": "2023/06/29 10:00 JST",
           "endDate": null,
           "affectedServices": null,
           "eventStatus": "ongoing",
-          "message": "一部のユーザに対して、サービスがご利用になれないか遅い可能性があります。"
+          "message": "Apple School ManagerでのStudent Information Systemとの同期において、断続的な問題が発生している可能性があります"
         }
       ],
       "redirectUrl": null,
