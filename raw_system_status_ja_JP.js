@@ -68,17 +68,17 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1688452200000,
-          "epochEndDate": null,
+          "epochEndDate": 1688488020000,
           "messageId": "1000002724",
           "statusType": "Issue",
-          "datePosted": "2023/07/04 19:48 JST",
+          "datePosted": "2023/07/05 08:17 JST",
           "startDate": "2023/07/04 15:30 JST",
-          "endDate": null,
+          "endDate": "2023/07/05 01:27 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "一部のユーザが、サービスをご利用になれない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "一部のユーザが、サービスをご利用になれなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
