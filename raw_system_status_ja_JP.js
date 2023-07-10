@@ -144,22 +144,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1688715480000,
-          "epochEndDate": 1688721600000,
-          "messageId": "1000002783",
-          "statusType": "Issue",
-          "datePosted": "2023/07/08 09:11 JST",
-          "startDate": "2023/07/07 16:38 JST",
-          "endDate": "2023/07/07 18:20 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iWork for iCloud"
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスを利用できませんでした。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "iCloud Drive"
@@ -285,22 +270,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1688715480000,
-          "epochEndDate": 1688721600000,
-          "messageId": "1000002783",
-          "statusType": "Issue",
-          "datePosted": "2023/07/08 09:11 JST",
-          "startDate": "2023/07/07 16:38 JST",
-          "endDate": "2023/07/07 18:20 JST",
-          "affectedServices": [
-            "iCloud Drive",
-            "iWork for iCloud"
-          ],
-          "eventStatus": "resolved",
-          "message": "iWork for iCloud を使用できなかった可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "iWork for iCloud"
