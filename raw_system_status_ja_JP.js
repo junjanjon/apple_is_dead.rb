@@ -40,22 +40,22 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1690409220000,
-          "epochEndDate": null,
+          "epochEndDate": 1690411740000,
           "messageId": "2000002639",
           "statusType": "Outage",
-          "datePosted": "2023/07/27 07:29 JST",
+          "datePosted": "2023/07/27 07:56 JST",
           "startDate": "2023/07/27 07:07 JST",
-          "endDate": null,
+          "endDate": "2023/07/27 07:49 JST",
           "affectedServices": [
             "Apple Music",
             "Apple Musicのラジオ",
             "ポッドキャスト",
             "ラジオ"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -71,22 +71,22 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1690409220000,
-          "epochEndDate": null,
+          "epochEndDate": 1690411740000,
           "messageId": "2000002639",
           "statusType": "Outage",
-          "datePosted": "2023/07/27 07:29 JST",
+          "datePosted": "2023/07/27 07:56 JST",
           "startDate": "2023/07/27 07:07 JST",
-          "endDate": null,
+          "endDate": "2023/07/27 07:49 JST",
           "affectedServices": [
             "Apple Music",
             "Apple Musicのラジオ",
             "ポッドキャスト",
             "ラジオ"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -107,7 +107,7 @@
           "epochEndDate": 1690907400000,
           "messageId": "1000002843",
           "statusType": "Maintenance",
-          "datePosted": "2023/07/27 07:29 JST",
+          "datePosted": "2023/07/27 07:56 JST",
           "startDate": "2023/08/01 23:15 JST",
           "endDate": "2023/08/02 01:30 JST",
           "affectedServices": null,
@@ -120,7 +120,7 @@
           "epochEndDate": 1692651600000,
           "messageId": "1000002844",
           "statusType": "Maintenance",
-          "datePosted": "2023/07/27 07:29 JST",
+          "datePosted": "2023/07/27 07:56 JST",
           "startDate": "2023/08/21 23:45 JST",
           "endDate": "2023/08/22 06:00 JST",
           "affectedServices": null,
@@ -449,22 +449,22 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1690409220000,
-          "epochEndDate": null,
+          "epochEndDate": 1690411740000,
           "messageId": "2000002639",
           "statusType": "Outage",
-          "datePosted": "2023/07/27 07:29 JST",
+          "datePosted": "2023/07/27 07:56 JST",
           "startDate": "2023/07/27 07:07 JST",
-          "endDate": null,
+          "endDate": "2023/07/27 07:49 JST",
           "affectedServices": [
             "Apple Music",
             "Apple Musicのラジオ",
             "ポッドキャスト",
             "ラジオ"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
