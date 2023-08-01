@@ -73,7 +73,7 @@
           "epochEndDate": 1690907400000,
           "messageId": "1000002843",
           "statusType": "Maintenance",
-          "datePosted": "2023/08/01 00:45 JST",
+          "datePosted": "2023/08/01 17:00 JST",
           "startDate": "2023/08/01 23:15 JST",
           "endDate": "2023/08/02 01:30 JST",
           "affectedServices": null,
@@ -86,7 +86,7 @@
           "epochEndDate": 1692651600000,
           "messageId": "1000002844",
           "statusType": "Maintenance",
-          "datePosted": "2023/08/01 00:45 JST",
+          "datePosted": "2023/08/01 17:00 JST",
           "startDate": "2023/08/21 23:45 JST",
           "endDate": "2023/08/22 06:00 JST",
           "affectedServices": null,
@@ -99,24 +99,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1690646400000,
-          "epochEndDate": 1690656240000,
-          "messageId": "2000002659",
-          "statusType": "Maintenance",
-          "datePosted": "2023/08/01 00:45 JST",
-          "startDate": "2023/07/30 01:00 JST",
-          "endDate": "2023/07/30 03:44 JST",
-          "affectedServices": [
-            "Apple Business Essentials",
-            "Apple School Manager",
-            "Device Enrollment Program",
-            null
-          ],
-          "eventStatus": "completed",
-          "message": "システムメンテナンスのため、一時的にApple School Managerをご利用いただけませんでした"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Apple School Manager"
@@ -144,24 +127,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1690646400000,
-          "epochEndDate": 1690656240000,
-          "messageId": "2000002659",
-          "statusType": "Maintenance",
-          "datePosted": "2023/08/01 00:45 JST",
-          "startDate": "2023/07/30 01:00 JST",
-          "endDate": "2023/07/30 03:44 JST",
-          "affectedServices": [
-            "Apple Business Essentials",
-            "Apple School Manager",
-            "Device Enrollment Program",
-            null
-          ],
-          "eventStatus": "completed",
-          "message": "システムメンテナンス中、一時的にDevice Enrollment Programをご利用いただけませんでした。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Device Enrollment Program"
