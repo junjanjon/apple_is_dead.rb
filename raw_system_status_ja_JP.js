@@ -73,7 +73,7 @@
           "epochEndDate": 1692651600000,
           "messageId": "1000002844",
           "statusType": "Maintenance",
-          "datePosted": "2023/08/07 17:15 JST",
+          "datePosted": "2023/08/09 03:48 JST",
           "startDate": "2023/08/21 23:45 JST",
           "endDate": "2023/08/22 06:00 JST",
           "affectedServices": null,
@@ -107,7 +107,41 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Appleでサインイン"
@@ -128,7 +162,41 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "上記のサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Game Center"
@@ -156,98 +224,574 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloud Drive"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloud Webアプリ(iCloud.com)"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudアカウントおよびサインイン"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudカレンダー"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudキーチェーン"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudストレージアップグレード"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudバックアップ"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudブックマークおよびタブ"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudプライベートリレー"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudメール"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudメモ"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudリマインダー"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloud連絡先"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iMessage"
@@ -282,14 +826,82 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iWork for iCloud"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iWorkの共同作業機能"
@@ -352,7 +964,41 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "スクリーンタイム"
@@ -366,7 +1012,41 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "トランシーバー"
@@ -429,7 +1109,41 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1691515800000,
+          "epochEndDate": 1691520300000,
+          "messageId": "2000002700",
+          "statusType": "Issue",
+          "datePosted": "2023/08/09 03:48 JST",
+          "startDate": "2023/08/09 02:30 JST",
+          "endDate": "2023/08/09 03:45 JST",
+          "affectedServices": [
+            "Appleでサインイン",
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudアカウントおよびサインイン",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudストレージアップグレード",
+            "iCloudバックアップ",
+            "iCloudブックマークおよびタブ",
+            "iCloudプライベートリレー",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "iMessage",
+            "iWork for iCloud",
+            "iWorkの共同作業機能",
+            "スクリーンタイム",
+            "トランシーバー",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "写真"
