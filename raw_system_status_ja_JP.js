@@ -73,7 +73,7 @@
           "epochEndDate": 1692651600000,
           "messageId": "1000002844",
           "statusType": "Maintenance",
-          "datePosted": "2023/08/13 14:00 JST",
+          "datePosted": "2023/08/13 17:00 JST",
           "startDate": "2023/08/21 23:45 JST",
           "endDate": "2023/08/22 06:00 JST",
           "affectedServices": null,
@@ -212,19 +212,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1691704080000,
-          "epochEndDate": 1691712960000,
-          "messageId": "2000002704",
-          "statusType": "Issue",
-          "datePosted": "2023/08/13 14:00 JST",
-          "startDate": "2023/08/11 06:48 JST",
-          "endDate": "2023/08/11 09:16 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "iCloudプライベートリレー"
