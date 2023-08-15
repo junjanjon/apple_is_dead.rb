@@ -4,7 +4,22 @@
   "services": [
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1692055680000,
+          "epochEndDate": null,
+          "messageId": "2000002719",
+          "statusType": "Outage",
+          "datePosted": "2023/08/15 09:26 JST",
+          "startDate": "2023/08/15 08:28 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Mac App Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "App Store"
@@ -73,7 +88,7 @@
           "epochEndDate": 1692651600000,
           "messageId": "1000002844",
           "statusType": "Maintenance",
-          "datePosted": "2023/08/13 23:00 JST",
+          "datePosted": "2023/08/15 09:26 JST",
           "startDate": "2023/08/21 23:45 JST",
           "endDate": "2023/08/22 06:00 JST",
           "affectedServices": null,
@@ -296,7 +311,22 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1692055680000,
+          "epochEndDate": null,
+          "messageId": "2000002719",
+          "statusType": "Outage",
+          "datePosted": "2023/08/15 09:26 JST",
+          "startDate": "2023/08/15 08:28 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Mac App Store"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Mac App Store"
