@@ -5,20 +5,20 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1692055680000,
-          "epochEndDate": null,
+          "epochEndDate": 1692060300000,
           "messageId": "2000002719",
           "statusType": "Outage",
-          "datePosted": "2023/08/15 09:26 JST",
+          "datePosted": "2023/08/15 10:07 JST",
           "startDate": "2023/08/15 08:28 JST",
-          "endDate": null,
+          "endDate": "2023/08/15 09:45 JST",
           "affectedServices": [
             "App Store",
             "Mac App Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -88,7 +88,7 @@
           "epochEndDate": 1692651600000,
           "messageId": "1000002844",
           "statusType": "Maintenance",
-          "datePosted": "2023/08/15 09:26 JST",
+          "datePosted": "2023/08/15 10:07 JST",
           "startDate": "2023/08/21 23:45 JST",
           "endDate": "2023/08/22 06:00 JST",
           "affectedServices": null,
@@ -312,20 +312,20 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1692055680000,
-          "epochEndDate": null,
+          "epochEndDate": 1692060300000,
           "messageId": "2000002719",
           "statusType": "Outage",
-          "datePosted": "2023/08/15 09:26 JST",
+          "datePosted": "2023/08/15 10:07 JST",
           "startDate": "2023/08/15 08:28 JST",
-          "endDate": null,
+          "endDate": "2023/08/15 09:45 JST",
           "affectedServices": [
             "App Store",
             "Mac App Store"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
