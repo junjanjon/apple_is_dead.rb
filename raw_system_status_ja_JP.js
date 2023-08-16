@@ -10,7 +10,7 @@
           "epochEndDate": 1692060300000,
           "messageId": "2000002719",
           "statusType": "Outage",
-          "datePosted": "2023/08/15 10:07 JST",
+          "datePosted": "2023/08/16 17:00 JST",
           "startDate": "2023/08/15 08:28 JST",
           "endDate": "2023/08/15 09:45 JST",
           "affectedServices": [
@@ -88,7 +88,7 @@
           "epochEndDate": 1692651600000,
           "messageId": "1000002844",
           "statusType": "Maintenance",
-          "datePosted": "2023/08/15 10:07 JST",
+          "datePosted": "2023/08/16 17:00 JST",
           "startDate": "2023/08/21 23:45 JST",
           "endDate": "2023/08/22 06:00 JST",
           "affectedServices": null,
@@ -317,7 +317,7 @@
           "epochEndDate": 1692060300000,
           "messageId": "2000002719",
           "statusType": "Outage",
-          "datePosted": "2023/08/15 10:07 JST",
+          "datePosted": "2023/08/16 17:00 JST",
           "startDate": "2023/08/15 08:28 JST",
           "endDate": "2023/08/15 09:45 JST",
           "affectedServices": [
