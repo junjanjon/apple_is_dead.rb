@@ -10,7 +10,7 @@
           "epochEndDate": 1692060300000,
           "messageId": "2000002719",
           "statusType": "Outage",
-          "datePosted": "2023/08/17 09:58 JST",
+          "datePosted": "2023/08/17 10:51 JST",
           "startDate": "2023/08/15 08:28 JST",
           "endDate": "2023/08/15 09:45 JST",
           "affectedServices": [
@@ -88,7 +88,7 @@
           "epochEndDate": 1692651600000,
           "messageId": "1000002844",
           "statusType": "Maintenance",
-          "datePosted": "2023/08/17 09:58 JST",
+          "datePosted": "2023/08/17 10:51 JST",
           "startDate": "2023/08/21 23:45 JST",
           "endDate": "2023/08/22 06:00 JST",
           "affectedServices": null,
@@ -317,7 +317,7 @@
           "epochEndDate": 1692060300000,
           "messageId": "2000002719",
           "statusType": "Outage",
-          "datePosted": "2023/08/17 09:58 JST",
+          "datePosted": "2023/08/17 10:51 JST",
           "startDate": "2023/08/15 08:28 JST",
           "endDate": "2023/08/15 09:45 JST",
           "affectedServices": [
@@ -362,17 +362,17 @@
     {
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
+          "usersAffected": "すべてのユーザに影響しました",
           "epochStartDate": 1692226800000,
-          "epochEndDate": null,
+          "epochEndDate": 1692236700000,
           "messageId": "2000002721",
           "statusType": "Outage",
-          "datePosted": "2023/08/17 09:58 JST",
+          "datePosted": "2023/08/17 10:51 JST",
           "startDate": "2023/08/17 08:00 JST",
-          "endDate": null,
+          "endDate": "2023/08/17 10:45 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "ユーザがサインインできない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "ユーザがサインインできなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
