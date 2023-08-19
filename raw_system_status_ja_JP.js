@@ -73,7 +73,7 @@
           "epochEndDate": 1692651600000,
           "messageId": "1000002844",
           "statusType": "Maintenance",
-          "datePosted": "2023/08/18 15:54 JST",
+          "datePosted": "2023/08/19 17:00 JST",
           "startDate": "2023/08/21 23:45 JST",
           "endDate": "2023/08/22 06:00 JST",
           "affectedServices": null,
@@ -331,19 +331,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1692226800000,
-          "epochEndDate": 1692236700000,
-          "messageId": "2000002721",
-          "statusType": "Outage",
-          "datePosted": "2023/08/18 15:54 JST",
-          "startDate": "2023/08/17 08:00 JST",
-          "endDate": "2023/08/17 10:45 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザがサインインできなかった可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Volume Purchase Program"
