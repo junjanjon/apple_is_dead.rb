@@ -68,17 +68,17 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1692629100000,
           "epochEndDate": 1692651600000,
           "messageId": "1000002844",
           "statusType": "Maintenance",
-          "datePosted": "2023/08/22 00:00 JST",
+          "datePosted": "2023/08/22 06:00 JST",
           "startDate": "2023/08/21 23:45 JST",
           "endDate": "2023/08/22 06:00 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "メンテナンス中は、お客様がアメリカン・エキスプレス・インターナショナル, Inc.のカードをApple Payに追加できない可能性があります。"
+          "eventStatus": "completed",
+          "message": "メンテナンス中に、お客様はアメリカン・エキスプレス・インターナショナル, Inc.のカードをApple Payに追加できませんでした。"
         }
       ],
       "redirectUrl": null,
