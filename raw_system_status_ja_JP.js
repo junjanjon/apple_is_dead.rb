@@ -73,12 +73,12 @@
           "epochEndDate": 1692651600000,
           "messageId": "1000002844",
           "statusType": "Maintenance",
-          "datePosted": "2023/08/21 19:30 JST",
+          "datePosted": "2023/08/21 23:44 JST",
           "startDate": "2023/08/21 23:45 JST",
           "endDate": "2023/08/22 06:00 JST",
           "affectedServices": null,
-          "eventStatus": "upcoming",
-          "message": "メンテナンス中は、お客様がアメリカン・エキスプレス・インターナショナル, Inc.のカードをApple Payに追加することはできません。\n"
+          "eventStatus": "ongoing",
+          "message": "メンテナンス中は、お客様がアメリカン・エキスプレス・インターナショナル, Inc.のカードをApple Payに追加できない可能性があります。"
         }
       ],
       "redirectUrl": null,
