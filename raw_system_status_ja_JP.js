@@ -80,7 +80,7 @@
           "epochEndDate": 1693269780000,
           "messageId": "2000002760",
           "statusType": "Issue",
-          "datePosted": "2023/08/30 03:37 JST",
+          "datePosted": "2023/08/30 04:23 JST",
           "startDate": "2023/08/29 08:55 JST",
           "endDate": "2023/08/29 09:43 JST",
           "affectedServices": [
@@ -224,17 +224,17 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1693324740000,
-          "epochEndDate": null,
+          "epochEndDate": 1693326120000,
           "messageId": "2000002761",
           "statusType": "Issue",
-          "datePosted": "2023/08/30 03:37 JST",
+          "datePosted": "2023/08/30 04:23 JST",
           "startDate": "2023/08/30 00:59 JST",
-          "endDate": null,
+          "endDate": "2023/08/30 01:22 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
