@@ -80,7 +80,7 @@
           "epochEndDate": 1693269780000,
           "messageId": "2000002760",
           "statusType": "Issue",
-          "datePosted": "2023/08/30 04:23 JST",
+          "datePosted": "2023/08/30 04:41 JST",
           "startDate": "2023/08/29 08:55 JST",
           "endDate": "2023/08/29 09:43 JST",
           "affectedServices": [
@@ -225,12 +225,12 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1693324740000,
+          "epochStartDate": 1693323540000,
           "epochEndDate": 1693326120000,
           "messageId": "2000002761",
           "statusType": "Issue",
-          "datePosted": "2023/08/30 04:23 JST",
-          "startDate": "2023/08/30 00:59 JST",
+          "datePosted": "2023/08/30 04:41 JST",
+          "startDate": "2023/08/30 00:39 JST",
           "endDate": "2023/08/30 01:22 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
