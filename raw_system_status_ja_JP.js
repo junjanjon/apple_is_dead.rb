@@ -74,23 +74,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1693266900000,
-          "epochEndDate": 1693269780000,
-          "messageId": "2000002760",
-          "statusType": "Issue",
-          "datePosted": "2023/08/31 10:38 JST",
-          "startDate": "2023/08/29 08:55 JST",
-          "endDate": "2023/08/29 09:43 JST",
-          "affectedServices": [
-            "Apple Business Essentials",
-            "Apple School Manager",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "ユーザは Apple School Manager へサインインできませんでした。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Apple School Manager"
@@ -194,7 +178,7 @@
           "epochEndDate": 1693425600000,
           "messageId": "2000002765",
           "statusType": "Performance",
-          "datePosted": "2023/08/31 10:38 JST",
+          "datePosted": "2023/08/31 17:00 JST",
           "startDate": "2023/08/31 03:50 JST",
           "endDate": "2023/08/31 05:00 JST",
           "affectedServices": null,
@@ -241,7 +225,7 @@
           "epochEndDate": 1693326120000,
           "messageId": "2000002761",
           "statusType": "Issue",
-          "datePosted": "2023/08/31 10:38 JST",
+          "datePosted": "2023/08/31 17:00 JST",
           "startDate": "2023/08/30 00:39 JST",
           "endDate": "2023/08/30 01:22 JST",
           "affectedServices": null,
