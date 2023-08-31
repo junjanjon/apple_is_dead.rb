@@ -178,7 +178,7 @@
           "epochEndDate": 1693425600000,
           "messageId": "2000002765",
           "statusType": "Performance",
-          "datePosted": "2023/08/31 17:00 JST",
+          "datePosted": "2023/09/01 06:12 JST",
           "startDate": "2023/08/31 03:50 JST",
           "endDate": "2023/08/31 05:00 JST",
           "affectedServices": null,
@@ -225,7 +225,7 @@
           "epochEndDate": 1693326120000,
           "messageId": "2000002761",
           "statusType": "Issue",
-          "datePosted": "2023/08/31 17:00 JST",
+          "datePosted": "2023/09/01 06:12 JST",
           "startDate": "2023/08/30 00:39 JST",
           "endDate": "2023/08/30 01:22 JST",
           "affectedServices": null,
@@ -357,7 +357,19 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1693515780000,
+          "epochEndDate": null,
+          "messageId": "2000002766",
+          "statusType": "Outage",
+          "datePosted": "2023/09/01 06:12 JST",
+          "startDate": "2023/09/01 06:03 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "スクールワーク"
