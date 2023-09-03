@@ -333,19 +333,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1693515780000,
-          "epochEndDate": 1693519260000,
-          "messageId": "2000002766",
-          "statusType": "Issue",
-          "datePosted": "2023/09/03 14:00 JST",
-          "startDate": "2023/09/01 06:03 JST",
-          "endDate": "2023/09/01 07:01 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "スクールワーク"
