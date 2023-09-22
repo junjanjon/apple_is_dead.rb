@@ -10,7 +10,7 @@
           "epochEndDate": null,
           "messageId": "1000003424",
           "statusType": "Issue",
-          "datePosted": "2023/09/22 18:18 JST",
+          "datePosted": "2023/09/22 21:00 JST",
           "startDate": "2023/09/22 17:30 JST",
           "endDate": null,
           "affectedServices": [
@@ -60,7 +60,7 @@
           "epochEndDate": null,
           "messageId": "1000003424",
           "statusType": "Issue",
-          "datePosted": "2023/09/22 18:18 JST",
+          "datePosted": "2023/09/22 21:00 JST",
           "startDate": "2023/09/22 17:30 JST",
           "endDate": null,
           "affectedServices": [
@@ -243,7 +243,7 @@
           "epochEndDate": 1695334500000,
           "messageId": "2000002803",
           "statusType": "Issue",
-          "datePosted": "2023/09/22 18:18 JST",
+          "datePosted": "2023/09/22 21:00 JST",
           "startDate": "2023/09/22 06:15 JST",
           "endDate": "2023/09/22 07:15 JST",
           "affectedServices": null,
