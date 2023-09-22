@@ -4,7 +4,22 @@
   "services": [
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1695371400000,
+          "epochEndDate": null,
+          "messageId": "1000003424",
+          "statusType": "Issue",
+          "datePosted": "2023/09/22 18:18 JST",
+          "startDate": "2023/09/22 17:30 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Music"
+          ],
+          "eventStatus": "ongoing",
+          "message": "App Storeにアクセスできません。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "App Store"
@@ -39,7 +54,22 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1695371400000,
+          "epochEndDate": null,
+          "messageId": "1000003424",
+          "statusType": "Issue",
+          "datePosted": "2023/09/22 18:18 JST",
+          "startDate": "2023/09/22 17:30 JST",
+          "endDate": null,
+          "affectedServices": [
+            "App Store",
+            "Apple Music"
+          ],
+          "eventStatus": "ongoing",
+          "message": "ユーザがサインインできない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple Music"
@@ -213,7 +243,7 @@
           "epochEndDate": 1695334500000,
           "messageId": "2000002803",
           "statusType": "Issue",
-          "datePosted": "2023/09/22 18:00 JST",
+          "datePosted": "2023/09/22 18:18 JST",
           "startDate": "2023/09/22 06:15 JST",
           "endDate": "2023/09/22 07:15 JST",
           "affectedServices": null,
