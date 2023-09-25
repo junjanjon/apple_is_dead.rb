@@ -73,7 +73,7 @@
           "epochEndDate": null,
           "messageId": "1000003443",
           "statusType": "Issue",
-          "datePosted": "2023/09/25 20:46 JST",
+          "datePosted": "2023/09/26 02:37 JST",
           "startDate": "2023/09/22 19:00 JST",
           "endDate": null,
           "affectedServices": null,
@@ -191,7 +191,19 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1695658800000,
+          "epochEndDate": null,
+          "messageId": "2000002819",
+          "statusType": "Issue",
+          "datePosted": "2023/09/26 02:37 JST",
+          "startDate": "2023/09/26 01:20 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudストレージアップグレード"
