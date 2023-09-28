@@ -73,7 +73,7 @@
           "epochEndDate": null,
           "messageId": "1000003443",
           "statusType": "Issue",
-          "datePosted": "2023/09/28 11:21 JST",
+          "datePosted": "2023/09/28 17:00 JST",
           "startDate": "2023/09/22 19:00 JST",
           "endDate": null,
           "affectedServices": null,
@@ -99,7 +99,7 @@
           "epochEndDate": 1695866520000,
           "messageId": "1000003444",
           "statusType": "Issue",
-          "datePosted": "2023/09/28 11:21 JST",
+          "datePosted": "2023/09/28 17:00 JST",
           "startDate": "2023/09/28 08:20 JST",
           "endDate": "2023/09/28 11:02 JST",
           "affectedServices": null,
@@ -132,7 +132,7 @@
           "epochEndDate": 1695857280000,
           "messageId": "2000002820",
           "statusType": "Issue",
-          "datePosted": "2023/09/28 11:21 JST",
+          "datePosted": "2023/09/28 17:00 JST",
           "startDate": "2023/09/28 07:52 JST",
           "endDate": "2023/09/28 08:28 JST",
           "affectedServices": [
@@ -219,19 +219,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1695658800000,
-          "epochEndDate": 1695667380000,
-          "messageId": "2000002819",
-          "statusType": "Issue",
-          "datePosted": "2023/09/28 11:21 JST",
-          "startDate": "2023/09/26 01:20 JST",
-          "endDate": "2023/09/26 03:43 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "iCloudストレージアップグレード"
