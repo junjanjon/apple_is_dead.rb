@@ -73,7 +73,7 @@
           "epochEndDate": null,
           "messageId": "1000003443",
           "statusType": "Issue",
-          "datePosted": "2023/09/28 09:01 JST",
+          "datePosted": "2023/09/28 09:10 JST",
           "startDate": "2023/09/22 19:00 JST",
           "endDate": null,
           "affectedServices": null,
@@ -93,7 +93,19 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1695856800000,
+          "epochEndDate": null,
+          "messageId": "1000003444",
+          "statusType": "Outage",
+          "datePosted": "2023/09/28 09:10 JST",
+          "startDate": "2023/09/28 08:20 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "Apple TV+の利用に問題が発生している可能性があります。この問題について調査中です。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple TV+"
@@ -120,7 +132,7 @@
           "epochEndDate": 1695857280000,
           "messageId": "2000002820",
           "statusType": "Issue",
-          "datePosted": "2023/09/28 09:01 JST",
+          "datePosted": "2023/09/28 09:10 JST",
           "startDate": "2023/09/28 07:52 JST",
           "endDate": "2023/09/28 08:28 JST",
           "affectedServices": [
@@ -213,7 +225,7 @@
           "epochEndDate": 1695667380000,
           "messageId": "2000002819",
           "statusType": "Issue",
-          "datePosted": "2023/09/28 09:01 JST",
+          "datePosted": "2023/09/28 09:10 JST",
           "startDate": "2023/09/26 01:20 JST",
           "endDate": "2023/09/26 03:43 JST",
           "affectedServices": null,
