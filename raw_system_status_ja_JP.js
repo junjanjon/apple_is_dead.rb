@@ -73,7 +73,7 @@
           "epochEndDate": 1695922620000,
           "messageId": "1000003443",
           "statusType": "Issue",
-          "datePosted": "2023/09/29 14:55 JST",
+          "datePosted": "2023/09/30 04:41 JST",
           "startDate": "2023/09/22 19:00 JST",
           "endDate": "2023/09/29 02:37 JST",
           "affectedServices": null,
@@ -92,7 +92,7 @@
           "epochEndDate": 1695957300000,
           "messageId": "1000003445",
           "statusType": "Performance",
-          "datePosted": "2023/09/29 14:55 JST",
+          "datePosted": "2023/09/30 04:41 JST",
           "startDate": "2023/09/29 10:55 JST",
           "endDate": "2023/09/29 12:15 JST",
           "affectedServices": [
@@ -109,12 +109,29 @@
     {
       "events": [
         {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1696002960000,
+          "epochEndDate": null,
+          "messageId": "2000002821",
+          "statusType": "Performance",
+          "datePosted": "2023/09/30 04:41 JST",
+          "startDate": "2023/09/30 00:56 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "MLS Season Pass"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        },
+        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1695856800000,
           "epochEndDate": 1695866520000,
           "messageId": "1000003444",
           "statusType": "Issue",
-          "datePosted": "2023/09/29 14:55 JST",
+          "datePosted": "2023/09/30 04:41 JST",
           "startDate": "2023/09/28 08:20 JST",
           "endDate": "2023/09/28 11:02 JST",
           "affectedServices": null,
@@ -127,7 +144,23 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1696002960000,
+          "epochEndDate": null,
+          "messageId": "2000002821",
+          "statusType": "Performance",
+          "datePosted": "2023/09/30 04:41 JST",
+          "startDate": "2023/09/30 00:56 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple TV+",
+            "Apple TVチャンネル",
+            "MLS Season Pass"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple TVチャンネル"
@@ -147,7 +180,7 @@
           "epochEndDate": 1695857280000,
           "messageId": "2000002820",
           "statusType": "Issue",
-          "datePosted": "2023/09/29 14:55 JST",
+          "datePosted": "2023/09/30 04:41 JST",
           "startDate": "2023/09/28 07:52 JST",
           "endDate": "2023/09/28 08:28 JST",
           "affectedServices": [
