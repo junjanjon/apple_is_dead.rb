@@ -73,7 +73,7 @@
           "epochEndDate": 1695922620000,
           "messageId": "1000003443",
           "statusType": "Issue",
-          "datePosted": "2023/09/30 17:00 JST",
+          "datePosted": "2023/09/30 21:36 JST",
           "startDate": "2023/09/22 19:00 JST",
           "endDate": "2023/09/29 02:37 JST",
           "affectedServices": null,
@@ -92,7 +92,7 @@
           "epochEndDate": 1695957300000,
           "messageId": "1000003445",
           "statusType": "Performance",
-          "datePosted": "2023/09/30 17:00 JST",
+          "datePosted": "2023/09/30 21:36 JST",
           "startDate": "2023/09/29 10:55 JST",
           "endDate": "2023/09/29 12:15 JST",
           "affectedServices": [
@@ -114,7 +114,7 @@
           "epochEndDate": 1696012140000,
           "messageId": "2000002821",
           "statusType": "Performance",
-          "datePosted": "2023/09/30 17:00 JST",
+          "datePosted": "2023/09/30 21:36 JST",
           "startDate": "2023/09/27 23:30 JST",
           "endDate": "2023/09/30 03:29 JST",
           "affectedServices": [
@@ -137,7 +137,7 @@
           "epochEndDate": 1696012140000,
           "messageId": "2000002821",
           "statusType": "Performance",
-          "datePosted": "2023/09/30 17:00 JST",
+          "datePosted": "2023/09/30 21:36 JST",
           "startDate": "2023/09/27 23:30 JST",
           "endDate": "2023/09/30 03:29 JST",
           "affectedServices": [
