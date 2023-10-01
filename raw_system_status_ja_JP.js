@@ -87,7 +87,7 @@
           "epochEndDate": 1696012140000,
           "messageId": "2000002821",
           "statusType": "Performance",
-          "datePosted": "2023/10/01 17:00 JST",
+          "datePosted": "2023/10/01 18:43 JST",
           "startDate": "2023/09/27 23:30 JST",
           "endDate": "2023/09/30 03:29 JST",
           "affectedServices": [
@@ -110,7 +110,7 @@
           "epochEndDate": 1696012140000,
           "messageId": "2000002821",
           "statusType": "Performance",
-          "datePosted": "2023/10/01 17:00 JST",
+          "datePosted": "2023/10/01 18:43 JST",
           "startDate": "2023/09/27 23:30 JST",
           "endDate": "2023/09/30 03:29 JST",
           "affectedServices": [
