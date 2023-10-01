@@ -67,41 +67,14 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1695376800000,
-          "epochEndDate": 1695922620000,
-          "messageId": "1000003443",
-          "statusType": "Issue",
-          "datePosted": "2023/09/30 21:36 JST",
-          "startDate": "2023/09/22 19:00 JST",
-          "endDate": "2023/09/29 02:37 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Apple Pay & ウォレット"
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1695952500000,
-          "epochEndDate": 1695957300000,
-          "messageId": "1000003445",
-          "statusType": "Performance",
-          "datePosted": "2023/09/30 21:36 JST",
-          "startDate": "2023/09/29 10:55 JST",
-          "endDate": "2023/09/29 12:15 JST",
-          "affectedServices": [
-            "Apple School Manager",
-            null
-          ],
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Apple School Manager"
@@ -114,7 +87,7 @@
           "epochEndDate": 1696012140000,
           "messageId": "2000002821",
           "statusType": "Performance",
-          "datePosted": "2023/09/30 21:36 JST",
+          "datePosted": "2023/10/01 17:00 JST",
           "startDate": "2023/09/27 23:30 JST",
           "endDate": "2023/09/30 03:29 JST",
           "affectedServices": [
@@ -137,7 +110,7 @@
           "epochEndDate": 1696012140000,
           "messageId": "2000002821",
           "statusType": "Performance",
-          "datePosted": "2023/09/30 21:36 JST",
+          "datePosted": "2023/10/01 17:00 JST",
           "startDate": "2023/09/27 23:30 JST",
           "endDate": "2023/09/30 03:29 JST",
           "affectedServices": [
