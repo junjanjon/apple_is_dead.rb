@@ -4,22 +4,7 @@
   "services": [
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1696284000000,
-          "epochEndDate": null,
-          "messageId": "2000002839",
-          "statusType": "Outage",
-          "datePosted": "2023/10/03 07:52 JST",
-          "startDate": "2023/10/03 07:00 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Mac App Store"
-          ],
-          "eventStatus": "ongoing",
-          "message": "複数のサービスへのアクセスや購入ができない可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "App Store"
@@ -299,22 +284,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1696284000000,
-          "epochEndDate": null,
-          "messageId": "2000002839",
-          "statusType": "Outage",
-          "datePosted": "2023/10/03 07:52 JST",
-          "startDate": "2023/10/03 07:00 JST",
-          "endDate": null,
-          "affectedServices": [
-            "App Store",
-            "Mac App Store"
-          ],
-          "eventStatus": "ongoing",
-          "message": "複数のStore／サービスへのサインインや購入ができません。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Mac App Store"
