@@ -319,19 +319,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1696523100000,
-          "epochEndDate": 1696524300000,
-          "messageId": "2000002859",
-          "statusType": "Outage",
-          "datePosted": "2023/10/06 02:28 JST",
-          "startDate": "2023/10/06 01:25 JST",
-          "endDate": "2023/10/06 01:45 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Volume Purchase Program"
