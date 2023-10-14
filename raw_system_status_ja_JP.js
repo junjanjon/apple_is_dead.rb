@@ -39,7 +39,22 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1697245020000,
+          "epochEndDate": null,
+          "messageId": "2000002903",
+          "statusType": "Performance",
+          "datePosted": "2023/10/14 10:36 JST",
+          "startDate": "2023/10/14 09:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Music",
+            "ラジオ"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple Music"
@@ -389,7 +404,22 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1697245020000,
+          "epochEndDate": null,
+          "messageId": "2000002903",
+          "statusType": "Performance",
+          "datePosted": "2023/10/14 10:36 JST",
+          "startDate": "2023/10/14 09:57 JST",
+          "endDate": null,
+          "affectedServices": [
+            "Apple Music",
+            "ラジオ"
+          ],
+          "eventStatus": "ongoing",
+          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "ラジオ"
