@@ -40,20 +40,20 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1697245020000,
-          "epochEndDate": null,
+          "epochEndDate": 1697250780000,
           "messageId": "2000002903",
           "statusType": "Performance",
-          "datePosted": "2023/10/14 10:36 JST",
+          "datePosted": "2023/10/14 11:53 JST",
           "startDate": "2023/10/14 09:57 JST",
-          "endDate": null,
+          "endDate": "2023/10/14 11:33 JST",
           "affectedServices": [
             "Apple Music",
             "ラジオ"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関して一時的に問題が発生している可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -405,20 +405,20 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1697245020000,
-          "epochEndDate": null,
+          "epochEndDate": 1697250780000,
           "messageId": "2000002903",
           "statusType": "Performance",
-          "datePosted": "2023/10/14 10:36 JST",
+          "datePosted": "2023/10/14 11:53 JST",
           "startDate": "2023/10/14 09:57 JST",
-          "endDate": null,
+          "endDate": "2023/10/14 11:33 JST",
           "affectedServices": [
             "Apple Music",
             "ラジオ"
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
