@@ -73,7 +73,7 @@
           "epochEndDate": 1697461860000,
           "messageId": "1000003483",
           "statusType": "Outage",
-          "datePosted": "2023/10/16 23:00 JST",
+          "datePosted": "2023/10/17 00:30 JST",
           "startDate": "2023/10/16 20:06 JST",
           "endDate": "2023/10/16 22:11 JST",
           "affectedServices": null,
@@ -346,17 +346,17 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1697458200000,
-          "epochEndDate": null,
+          "epochEndDate": 1697469060000,
           "messageId": "1000003484",
           "statusType": "Issue",
-          "datePosted": "2023/10/16 23:00 JST",
+          "datePosted": "2023/10/17 00:30 JST",
           "startDate": "2023/10/16 21:10 JST",
-          "endDate": null,
+          "endDate": "2023/10/17 00:11 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
