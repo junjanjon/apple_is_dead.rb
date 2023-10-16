@@ -68,17 +68,17 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1697454360000,
-          "epochEndDate": null,
+          "epochEndDate": 1697461860000,
           "messageId": "1000003483",
           "statusType": "Outage",
-          "datePosted": "2023/10/16 21:31 JST",
+          "datePosted": "2023/10/16 22:15 JST",
           "startDate": "2023/10/16 20:06 JST",
-          "endDate": null,
+          "endDate": "2023/10/16 22:11 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "お客様は、Apple Payを使ってWeb上で支払いをすることができない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "お客様は、Apple Payを使ってWeb上で支払いをすることができませんでした。"
         }
       ],
       "redirectUrl": null,
