@@ -67,7 +67,19 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1697454360000,
+          "epochEndDate": null,
+          "messageId": "1000003483",
+          "statusType": "Outage",
+          "datePosted": "2023/10/16 21:31 JST",
+          "startDate": "2023/10/16 20:06 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "お客様は、Apple Payを使ってWeb上で支払いをすることができない可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple Pay & ウォレット"
