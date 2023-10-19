@@ -67,19 +67,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1697454360000,
-          "epochEndDate": 1697461860000,
-          "messageId": "1000003483",
-          "statusType": "Outage",
-          "datePosted": "2023/10/18 18:00 JST",
-          "startDate": "2023/10/16 20:06 JST",
-          "endDate": "2023/10/16 22:11 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "お客様は、Apple Payを使ってWeb上で支払いをすることができませんでした。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Apple Pay & ウォレット"
@@ -345,19 +333,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1697458200000,
-          "epochEndDate": 1697469060000,
-          "messageId": "1000003484",
-          "statusType": "Issue",
-          "datePosted": "2023/10/18 18:00 JST",
-          "startDate": "2023/10/16 21:10 JST",
-          "endDate": "2023/10/17 00:11 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "スクールワーク"
