@@ -67,7 +67,19 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "すべてのユーザに影響します",
+          "epochStartDate": 1698401520000,
+          "epochEndDate": null,
+          "messageId": "1000003505",
+          "statusType": "Outage",
+          "datePosted": "2023/10/27 21:43 JST",
+          "startDate": "2023/10/27 19:12 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "ユーザは、Apple Payへのカードの追加を完了できない場合があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple Pay & ウォレット"
