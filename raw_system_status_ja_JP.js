@@ -68,17 +68,17 @@
     {
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
+          "usersAffected": "すべてのユーザに影響しました",
           "epochStartDate": 1698401520000,
-          "epochEndDate": null,
+          "epochEndDate": 1698410460000,
           "messageId": "1000003505",
           "statusType": "Outage",
-          "datePosted": "2023/10/27 21:43 JST",
+          "datePosted": "2023/10/27 23:12 JST",
           "startDate": "2023/10/27 19:12 JST",
-          "endDate": null,
+          "endDate": "2023/10/27 21:41 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "ユーザは、Apple Payへのカードの追加を完了できない場合があります。"
+          "eventStatus": "resolved",
+          "message": "ユーザは、Apple Payへのカードの追加を完了できませんでした。"
         }
       ],
       "redirectUrl": null,
