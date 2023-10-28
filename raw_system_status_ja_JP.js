@@ -73,7 +73,7 @@
           "epochEndDate": 1698410460000,
           "messageId": "1000003505",
           "statusType": "Outage",
-          "datePosted": "2023/10/28 23:30 JST",
+          "datePosted": "2023/10/29 00:41 JST",
           "startDate": "2023/10/27 19:12 JST",
           "endDate": "2023/10/27 21:41 JST",
           "affectedServices": null,
@@ -86,26 +86,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1698492900000,
-          "epochEndDate": null,
-          "messageId": "1000003506",
-          "statusType": "Outage",
-          "datePosted": "2023/10/28 23:30 JST",
-          "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Apple Business Essentials",
-            "Apple School Manager",
-            "iCloudメール",
-            "iWork for iCloud",
-            "スクールワーク",
-            null
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Apple School Manager"
@@ -238,26 +219,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1698492900000,
-          "epochEndDate": null,
-          "messageId": "1000003506",
-          "statusType": "Issue",
-          "datePosted": "2023/10/28 23:30 JST",
-          "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Apple Business Essentials",
-            "Apple School Manager",
-            "iCloudメール",
-            "iWork for iCloud",
-            "スクールワーク",
-            null
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "iCloudメール"
@@ -320,26 +282,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1698492900000,
-          "epochEndDate": null,
-          "messageId": "1000003506",
-          "statusType": "Issue",
-          "datePosted": "2023/10/28 23:30 JST",
-          "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Apple Business Essentials",
-            "Apple School Manager",
-            "iCloudメール",
-            "iWork for iCloud",
-            "スクールワーク",
-            null
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "iWork for iCloud"
@@ -402,26 +345,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "一部のユーザに影響します",
-          "epochStartDate": 1698492900000,
-          "epochEndDate": null,
-          "messageId": "1000003506",
-          "statusType": "Issue",
-          "datePosted": "2023/10/28 23:30 JST",
-          "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
-          "affectedServices": [
-            "Apple Business Essentials",
-            "Apple School Manager",
-            "iCloudメール",
-            "iWork for iCloud",
-            "スクールワーク",
-            null
-          ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "スクールワーク"
