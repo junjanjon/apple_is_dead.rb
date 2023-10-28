@@ -73,7 +73,7 @@
           "epochEndDate": 1698410460000,
           "messageId": "1000003505",
           "statusType": "Outage",
-          "datePosted": "2023/10/29 00:41 JST",
+          "datePosted": "2023/10/29 00:48 JST",
           "startDate": "2023/10/27 19:12 JST",
           "endDate": "2023/10/27 21:41 JST",
           "affectedServices": null,
