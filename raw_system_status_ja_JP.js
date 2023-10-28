@@ -73,7 +73,7 @@
           "epochEndDate": 1698410460000,
           "messageId": "1000003505",
           "statusType": "Outage",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/27 19:12 JST",
           "endDate": "2023/10/27 21:41 JST",
           "affectedServices": null,
@@ -87,14 +87,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1698492900000,
-          "epochEndDate": null,
+          "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
+          "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
@@ -112,8 +112,8 @@
             "写真",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -157,14 +157,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1698492900000,
-          "epochEndDate": null,
+          "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
+          "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
@@ -182,8 +182,8 @@
             "写真",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "上記のサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "上記のサービスに関する問題が発生しました。"
         }
       ],
       "redirectUrl": null,
@@ -213,14 +213,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1698492900000,
-          "epochEndDate": null,
+          "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
+          "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
@@ -238,8 +238,8 @@
             "写真",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "redirectUrl": null,
@@ -262,14 +262,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1698492900000,
-          "epochEndDate": null,
+          "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
+          "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
@@ -287,8 +287,8 @@
             "写真",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "redirectUrl": null,
@@ -297,14 +297,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1698492900000,
-          "epochEndDate": null,
+          "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
+          "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
@@ -322,8 +322,8 @@
             "写真",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "redirectUrl": null,
@@ -339,14 +339,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1698492900000,
-          "epochEndDate": null,
+          "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
+          "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
@@ -364,8 +364,8 @@
             "写真",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "redirectUrl": null,
@@ -374,14 +374,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1698492900000,
-          "epochEndDate": null,
+          "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
+          "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
@@ -399,8 +399,8 @@
             "写真",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "redirectUrl": null,
@@ -416,14 +416,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1698492900000,
-          "epochEndDate": null,
+          "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
+          "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
@@ -441,8 +441,8 @@
             "写真",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "redirectUrl": null,
@@ -451,14 +451,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1698492900000,
-          "epochEndDate": null,
+          "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
+          "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
@@ -476,8 +476,8 @@
             "写真",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "redirectUrl": null,
@@ -493,14 +493,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1698492900000,
-          "epochEndDate": null,
+          "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
+          "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
@@ -518,8 +518,8 @@
             "写真",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "redirectUrl": null,
@@ -563,14 +563,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1698492900000,
-          "epochEndDate": null,
+          "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
+          "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
@@ -588,8 +588,8 @@
             "写真",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスに関する問題が発生しています。現在、問題の原因を究明中です。新しい情報が入り次第、状況を更新します。"
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。"
         }
       ],
       "redirectUrl": null,
@@ -654,14 +654,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1698492900000,
-          "epochEndDate": null,
+          "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
+          "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
@@ -679,8 +679,8 @@
             "写真",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
@@ -758,7 +758,19 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1698498000000,
+          "epochEndDate": 1698513900000,
+          "messageId": "2000002941",
+          "statusType": "Issue",
+          "datePosted": "2023/10/29 02:42 JST",
+          "startDate": "2023/10/28 22:00 JST",
+          "endDate": "2023/10/29 02:25 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスに関して一時的に問題が発生した可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "探す"
@@ -766,14 +778,14 @@
     {
       "events": [
         {
-          "usersAffected": "一部のユーザに影響します",
+          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1698492900000,
-          "epochEndDate": null,
+          "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/29 02:18 JST",
+          "datePosted": "2023/10/29 02:42 JST",
           "startDate": "2023/10/28 20:35 JST",
-          "endDate": null,
+          "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
             "Apple Business Essentials",
             "Apple School Manager",
@@ -791,8 +803,8 @@
             "写真",
             null
           ],
-          "eventStatus": "ongoing",
-          "message": "このサービスの速度が低下する、またはこのサービスを利用できない可能性があります。"
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
         }
       ],
       "redirectUrl": null,
