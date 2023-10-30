@@ -67,19 +67,7 @@
     },
     {
       "events": [
-        {
-          "usersAffected": "すべてのユーザに影響しました",
-          "epochStartDate": 1698401520000,
-          "epochEndDate": 1698410460000,
-          "messageId": "1000003505",
-          "statusType": "Outage",
-          "datePosted": "2023/10/30 03:00 JST",
-          "startDate": "2023/10/27 19:12 JST",
-          "endDate": "2023/10/27 21:41 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "ユーザは、Apple Payへのカードの追加を完了できませんでした。"
-        }
+
       ],
       "redirectUrl": null,
       "serviceName": "Apple Pay & ウォレット"
@@ -92,7 +80,7 @@
           "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 20:35 JST",
           "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
@@ -162,7 +150,7 @@
           "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 20:35 JST",
           "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
@@ -218,7 +206,7 @@
           "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 20:35 JST",
           "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
@@ -267,7 +255,7 @@
           "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 20:35 JST",
           "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
@@ -302,7 +290,7 @@
           "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 20:35 JST",
           "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
@@ -344,7 +332,7 @@
           "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 20:35 JST",
           "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
@@ -379,7 +367,7 @@
           "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 20:35 JST",
           "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
@@ -421,7 +409,7 @@
           "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 20:35 JST",
           "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
@@ -456,7 +444,7 @@
           "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 20:35 JST",
           "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
@@ -498,7 +486,7 @@
           "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 20:35 JST",
           "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
@@ -568,7 +556,7 @@
           "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 20:35 JST",
           "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
@@ -659,7 +647,7 @@
           "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 20:35 JST",
           "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
@@ -764,7 +752,7 @@
           "epochEndDate": 1698513900000,
           "messageId": "2000002941",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 22:00 JST",
           "endDate": "2023/10/29 02:25 JST",
           "affectedServices": null,
@@ -783,7 +771,7 @@
           "epochEndDate": 1698514080000,
           "messageId": "1000003506",
           "statusType": "Issue",
-          "datePosted": "2023/10/30 03:00 JST",
+          "datePosted": "2023/10/30 17:00 JST",
           "startDate": "2023/10/28 20:35 JST",
           "endDate": "2023/10/29 02:28 JST",
           "affectedServices": [
