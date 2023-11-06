@@ -348,17 +348,17 @@
     {
       "events": [
         {
-          "usersAffected": "すべてのユーザに影響します",
+          "usersAffected": "すべてのユーザに影響しました",
           "epochStartDate": 1699294800000,
-          "epochEndDate": null,
+          "epochEndDate": 1699311900000,
           "messageId": "2000002960",
           "statusType": "Issue",
-          "datePosted": "2023/11/07 04:25 JST",
+          "datePosted": "2023/11/07 08:11 JST",
           "startDate": "2023/11/07 03:20 JST",
-          "endDate": null,
+          "endDate": "2023/11/07 08:05 JST",
           "affectedServices": null,
-          "eventStatus": "ongoing",
-          "message": "システムメンテナンス中のため、AppleCareのサービスは一時的に利用できません。"
+          "eventStatus": "resolved",
+          "message": "システムメンテナンス中、AppleCareのサービスは一時的に利用できませんでした。"
         }
       ],
       "redirectUrl": null,
