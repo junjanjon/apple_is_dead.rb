@@ -210,14 +210,14 @@
 
       ],
       "redirectUrl": null,
-      "serviceName": "iCloudメール"
+      "serviceName": "iCloudメモ"
     },
     {
       "events": [
 
       ],
       "redirectUrl": null,
-      "serviceName": "iCloudメモ"
+      "serviceName": "iCloudメール"
     },
     {
       "events": [
@@ -329,6 +329,41 @@
 
       ],
       "redirectUrl": null,
+      "serviceName": "音声入力"
+    },
+    {
+      "events": [
+
+      ],
+      "redirectUrl": null,
+      "serviceName": "株価"
+    },
+    {
+      "events": [
+
+      ],
+      "redirectUrl": null,
+      "serviceName": "探す"
+    },
+    {
+      "events": [
+
+      ],
+      "redirectUrl": null,
+      "serviceName": "写真"
+    },
+    {
+      "events": [
+
+      ],
+      "redirectUrl": null,
+      "serviceName": "スクリーンタイム"
+    },
+    {
+      "events": [
+
+      ],
+      "redirectUrl": null,
       "serviceName": "スクールタイム"
     },
     {
@@ -340,20 +375,13 @@
     },
     {
       "events": [
-
-      ],
-      "redirectUrl": null,
-      "serviceName": "スクリーンタイム"
-    },
-    {
-      "events": [
         {
           "usersAffected": "すべてのユーザに影響しました",
           "epochStartDate": 1699294800000,
           "epochEndDate": 1699311900000,
           "messageId": "2000002960",
           "statusType": "Issue",
-          "datePosted": "2023/11/07 08:11 JST",
+          "datePosted": "2023/11/08 18:00 JST",
           "startDate": "2023/11/07 03:20 JST",
           "endDate": "2023/11/07 08:05 JST",
           "affectedServices": null,
@@ -363,6 +391,13 @@
       ],
       "redirectUrl": null,
       "serviceName": "デバイスのAppleCare"
+    },
+    {
+      "events": [
+
+      ],
+      "redirectUrl": null,
+      "serviceName": "天気"
     },
     {
       "events": [
@@ -405,41 +440,6 @@
       ],
       "redirectUrl": null,
       "serviceName": "ラジオ"
-    },
-    {
-      "events": [
-
-      ],
-      "redirectUrl": null,
-      "serviceName": "音声入力"
-    },
-    {
-      "events": [
-
-      ],
-      "redirectUrl": null,
-      "serviceName": "株価"
-    },
-    {
-      "events": [
-
-      ],
-      "redirectUrl": null,
-      "serviceName": "探す"
-    },
-    {
-      "events": [
-
-      ],
-      "redirectUrl": null,
-      "serviceName": "写真"
-    },
-    {
-      "events": [
-
-      ],
-      "redirectUrl": null,
-      "serviceName": "天気"
     }
   ]
 }
