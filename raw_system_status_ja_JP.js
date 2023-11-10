@@ -105,13 +105,6 @@
 
       ],
       "redirectUrl": null,
-      "serviceName": "Device Enrollment Program"
-    },
-    {
-      "events": [
-
-      ],
-      "redirectUrl": null,
       "serviceName": "FaceTime"
     },
     {
@@ -220,7 +213,7 @@
           "epochEndDate": 1699472040000,
           "messageId": "2000002961",
           "statusType": "Issue",
-          "datePosted": "2023/11/09 18:00 JST",
+          "datePosted": "2023/11/10 18:24 JST",
           "startDate": "2023/11/09 03:50 JST",
           "endDate": "2023/11/09 04:34 JST",
           "affectedServices": null,
