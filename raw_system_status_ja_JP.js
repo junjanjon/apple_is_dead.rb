@@ -74,7 +74,23 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1700969400000,
+          "epochEndDate": 1700977320000,
+          "messageId": "1000003543",
+          "statusType": "Issue",
+          "datePosted": "2023/11/26 15:45 JST",
+          "startDate": "2023/11/26 12:30 JST",
+          "endDate": "2023/11/26 14:42 JST",
+          "affectedServices": [
+            "Apple Business Essentials",
+            "Apple School Manager",
+            null
+          ],
+          "eventStatus": "resolved",
+          "message": "このサービスの速度が低下した、またはこのサービスを利用できなかった可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Apple School Manager"
