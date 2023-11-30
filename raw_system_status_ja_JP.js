@@ -115,7 +115,7 @@
           "epochEndDate": 1701332280000,
           "messageId": "1000003566",
           "statusType": "Issue",
-          "datePosted": "2023/11/30 19:07 JST",
+          "datePosted": "2023/11/30 19:48 JST",
           "startDate": "2023/11/30 16:52 JST",
           "endDate": "2023/11/30 17:18 JST",
           "affectedServices": [
@@ -127,6 +127,7 @@
             "iCloudバックアップ",
             "iCloudメモ",
             "iCloudメール",
+            "iCloudリマインダー",
             "iCloud連絡先",
             "写真"
           ],
@@ -166,7 +167,7 @@
           "epochEndDate": 1701332280000,
           "messageId": "1000003566",
           "statusType": "Issue",
-          "datePosted": "2023/11/30 19:07 JST",
+          "datePosted": "2023/11/30 19:48 JST",
           "startDate": "2023/11/30 16:52 JST",
           "endDate": "2023/11/30 17:18 JST",
           "affectedServices": [
@@ -178,6 +179,7 @@
             "iCloudバックアップ",
             "iCloudメモ",
             "iCloudメール",
+            "iCloudリマインダー",
             "iCloud連絡先",
             "写真"
           ],
@@ -196,7 +198,7 @@
           "epochEndDate": 1701332280000,
           "messageId": "1000003566",
           "statusType": "Issue",
-          "datePosted": "2023/11/30 19:07 JST",
+          "datePosted": "2023/11/30 19:48 JST",
           "startDate": "2023/11/30 16:52 JST",
           "endDate": "2023/11/30 17:18 JST",
           "affectedServices": [
@@ -208,6 +210,7 @@
             "iCloudバックアップ",
             "iCloudメモ",
             "iCloudメール",
+            "iCloudリマインダー",
             "iCloud連絡先",
             "写真"
           ],
@@ -233,7 +236,7 @@
           "epochEndDate": 1701332280000,
           "messageId": "1000003566",
           "statusType": "Issue",
-          "datePosted": "2023/11/30 19:07 JST",
+          "datePosted": "2023/11/30 19:48 JST",
           "startDate": "2023/11/30 16:52 JST",
           "endDate": "2023/11/30 17:18 JST",
           "affectedServices": [
@@ -245,6 +248,7 @@
             "iCloudバックアップ",
             "iCloudメモ",
             "iCloudメール",
+            "iCloudリマインダー",
             "iCloud連絡先",
             "写真"
           ],
@@ -263,7 +267,7 @@
           "epochEndDate": 1701332280000,
           "messageId": "1000003566",
           "statusType": "Issue",
-          "datePosted": "2023/11/30 19:07 JST",
+          "datePosted": "2023/11/30 19:48 JST",
           "startDate": "2023/11/30 16:52 JST",
           "endDate": "2023/11/30 17:18 JST",
           "affectedServices": [
@@ -275,6 +279,7 @@
             "iCloudバックアップ",
             "iCloudメモ",
             "iCloudメール",
+            "iCloudリマインダー",
             "iCloud連絡先",
             "写真"
           ],
@@ -300,7 +305,7 @@
           "epochEndDate": 1701332280000,
           "messageId": "1000003566",
           "statusType": "Issue",
-          "datePosted": "2023/11/30 19:07 JST",
+          "datePosted": "2023/11/30 19:48 JST",
           "startDate": "2023/11/30 16:52 JST",
           "endDate": "2023/11/30 17:18 JST",
           "affectedServices": [
@@ -312,6 +317,7 @@
             "iCloudバックアップ",
             "iCloudメモ",
             "iCloudメール",
+            "iCloudリマインダー",
             "iCloud連絡先",
             "写真"
           ],
@@ -344,7 +350,7 @@
           "epochEndDate": 1701332280000,
           "messageId": "1000003566",
           "statusType": "Issue",
-          "datePosted": "2023/11/30 19:07 JST",
+          "datePosted": "2023/11/30 19:48 JST",
           "startDate": "2023/11/30 16:52 JST",
           "endDate": "2023/11/30 17:18 JST",
           "affectedServices": [
@@ -356,6 +362,7 @@
             "iCloudバックアップ",
             "iCloudメモ",
             "iCloudメール",
+            "iCloudリマインダー",
             "iCloud連絡先",
             "写真"
           ],
@@ -374,7 +381,7 @@
           "epochEndDate": 1701332280000,
           "messageId": "1000003566",
           "statusType": "Issue",
-          "datePosted": "2023/11/30 19:07 JST",
+          "datePosted": "2023/11/30 19:48 JST",
           "startDate": "2023/11/30 16:52 JST",
           "endDate": "2023/11/30 17:18 JST",
           "affectedServices": [
@@ -386,6 +393,7 @@
             "iCloudバックアップ",
             "iCloudメモ",
             "iCloudメール",
+            "iCloudリマインダー",
             "iCloud連絡先",
             "写真"
           ],
@@ -398,7 +406,31 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1701330720000,
+          "epochEndDate": 1701332280000,
+          "messageId": "1000003566",
+          "statusType": "Issue",
+          "datePosted": "2023/11/30 19:48 JST",
+          "startDate": "2023/11/30 16:52 JST",
+          "endDate": "2023/11/30 17:18 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloudリマインダー",
+            "iCloud連絡先",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudリマインダー"
@@ -411,7 +443,7 @@
           "epochEndDate": 1701332280000,
           "messageId": "1000003566",
           "statusType": "Issue",
-          "datePosted": "2023/11/30 19:07 JST",
+          "datePosted": "2023/11/30 19:48 JST",
           "startDate": "2023/11/30 16:52 JST",
           "endDate": "2023/11/30 17:18 JST",
           "affectedServices": [
@@ -423,6 +455,7 @@
             "iCloudバックアップ",
             "iCloudメモ",
             "iCloudメール",
+            "iCloudリマインダー",
             "iCloud連絡先",
             "写真"
           ],
@@ -553,7 +586,7 @@
           "epochEndDate": 1701332280000,
           "messageId": "1000003566",
           "statusType": "Outage",
-          "datePosted": "2023/11/30 19:07 JST",
+          "datePosted": "2023/11/30 19:48 JST",
           "startDate": "2023/11/30 16:52 JST",
           "endDate": "2023/11/30 17:18 JST",
           "affectedServices": [
@@ -565,6 +598,7 @@
             "iCloudバックアップ",
             "iCloudメモ",
             "iCloudメール",
+            "iCloudリマインダー",
             "iCloud連絡先",
             "写真"
           ],
