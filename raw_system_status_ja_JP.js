@@ -109,7 +109,30 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1701330720000,
+          "epochEndDate": 1701332280000,
+          "messageId": "1000003566",
+          "statusType": "Issue",
+          "datePosted": "2023/11/30 19:07 JST",
+          "startDate": "2023/11/30 16:52 JST",
+          "endDate": "2023/11/30 17:18 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "Game Centerにサインインできなかった可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "Game Center"
@@ -137,14 +160,60 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1701330720000,
+          "epochEndDate": 1701332280000,
+          "messageId": "1000003566",
+          "statusType": "Issue",
+          "datePosted": "2023/11/30 19:07 JST",
+          "startDate": "2023/11/30 16:52 JST",
+          "endDate": "2023/11/30 17:18 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloud Drive"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1701330720000,
+          "epochEndDate": 1701332280000,
+          "messageId": "1000003566",
+          "statusType": "Issue",
+          "datePosted": "2023/11/30 19:07 JST",
+          "startDate": "2023/11/30 16:52 JST",
+          "endDate": "2023/11/30 17:18 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "ユーザがiCloud.comへサインインできなかった可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloud Webアプリ(iCloud.com)"
@@ -158,14 +227,60 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1701330720000,
+          "epochEndDate": 1701332280000,
+          "messageId": "1000003566",
+          "statusType": "Issue",
+          "datePosted": "2023/11/30 19:07 JST",
+          "startDate": "2023/11/30 16:52 JST",
+          "endDate": "2023/11/30 17:18 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "カレンダーWebアプリケーションのカレンダーがiCloud.com上でアクセス不可能だった可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudカレンダー"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1701330720000,
+          "epochEndDate": 1701332280000,
+          "messageId": "1000003566",
+          "statusType": "Issue",
+          "datePosted": "2023/11/30 19:07 JST",
+          "startDate": "2023/11/30 16:52 JST",
+          "endDate": "2023/11/30 17:18 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudキーチェーン"
@@ -179,7 +294,30 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1701330720000,
+          "epochEndDate": 1701332280000,
+          "messageId": "1000003566",
+          "statusType": "Issue",
+          "datePosted": "2023/11/30 19:07 JST",
+          "startDate": "2023/11/30 16:52 JST",
+          "endDate": "2023/11/30 17:18 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "ユーザがデータをバックアップできなかった可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudバックアップ"
@@ -200,14 +338,60 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1701330720000,
+          "epochEndDate": 1701332280000,
+          "messageId": "1000003566",
+          "statusType": "Issue",
+          "datePosted": "2023/11/30 19:07 JST",
+          "startDate": "2023/11/30 16:52 JST",
+          "endDate": "2023/11/30 17:18 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudメモ"
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1701330720000,
+          "epochEndDate": 1701332280000,
+          "messageId": "1000003566",
+          "statusType": "Issue",
+          "datePosted": "2023/11/30 19:07 JST",
+          "startDate": "2023/11/30 16:52 JST",
+          "endDate": "2023/11/30 17:18 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "ユーザはiCloudメールを送信できなかった可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloudメール"
@@ -221,7 +405,30 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1701330720000,
+          "epochEndDate": 1701332280000,
+          "messageId": "1000003566",
+          "statusType": "Issue",
+          "datePosted": "2023/11/30 19:07 JST",
+          "startDate": "2023/11/30 16:52 JST",
+          "endDate": "2023/11/30 17:18 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "iCloudサービスのアクセスに困難や支障が起きる可能性があるかもしれません。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "iCloud連絡先"
@@ -340,7 +547,30 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1701330720000,
+          "epochEndDate": 1701332280000,
+          "messageId": "1000003566",
+          "statusType": "Outage",
+          "datePosted": "2023/11/30 19:07 JST",
+          "startDate": "2023/11/30 16:52 JST",
+          "endDate": "2023/11/30 17:18 JST",
+          "affectedServices": [
+            "Game Center",
+            "iCloud Drive",
+            "iCloud Webアプリ(iCloud.com)",
+            "iCloudカレンダー",
+            "iCloudキーチェーン",
+            "iCloudバックアップ",
+            "iCloudメモ",
+            "iCloudメール",
+            "iCloud連絡先",
+            "写真"
+          ],
+          "eventStatus": "resolved",
+          "message": "新しい写真とビデオが共有アルバムに表示されなかった可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "写真"
