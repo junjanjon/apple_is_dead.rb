@@ -73,7 +73,7 @@
           "epochEndDate": 1701869580000,
           "messageId": "1000003587",
           "statusType": "Issue",
-          "datePosted": "2023/12/06 23:32 JST",
+          "datePosted": "2023/12/07 09:00 JST",
           "startDate": "2023/12/06 20:15 JST",
           "endDate": "2023/12/06 22:33 JST",
           "affectedServices": null,
@@ -345,7 +345,19 @@
     },
     {
       "events": [
-
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1701903600000,
+          "epochEndDate": 1701905940000,
+          "messageId": "2000003001",
+          "statusType": "Issue",
+          "datePosted": "2023/12/07 09:00 JST",
+          "startDate": "2023/12/07 08:00 JST",
+          "endDate": "2023/12/07 08:39 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生した可能性があります。"
+        }
       ],
       "redirectUrl": null,
       "serviceName": "探す"
