@@ -68,12 +68,25 @@
     {
       "events": [
         {
+          "usersAffected": "一部のユーザに影響します",
+          "epochStartDate": 1701943440000,
+          "epochEndDate": null,
+          "messageId": "1000003588",
+          "statusType": "Issue",
+          "datePosted": "2023/12/07 21:08 JST",
+          "startDate": "2023/12/07 19:04 JST",
+          "endDate": null,
+          "affectedServices": null,
+          "eventStatus": "ongoing",
+          "message": "一部のユーザが、サービスをご利用になれない可能性があります。"
+        },
+        {
           "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1701861300000,
           "epochEndDate": 1701869580000,
           "messageId": "1000003587",
           "statusType": "Issue",
-          "datePosted": "2023/12/07 18:00 JST",
+          "datePosted": "2023/12/07 21:08 JST",
           "startDate": "2023/12/06 20:15 JST",
           "endDate": "2023/12/06 22:33 JST",
           "affectedServices": null,
@@ -351,7 +364,7 @@
           "epochEndDate": 1701905940000,
           "messageId": "2000003001",
           "statusType": "Issue",
-          "datePosted": "2023/12/07 18:00 JST",
+          "datePosted": "2023/12/07 21:08 JST",
           "startDate": "2023/12/07 08:00 JST",
           "endDate": "2023/12/07 08:39 JST",
           "affectedServices": null,
