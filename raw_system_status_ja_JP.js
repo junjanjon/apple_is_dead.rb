@@ -69,29 +69,29 @@
       "events": [
         {
           "usersAffected": "一部のユーザに影響しました",
-          "epochStartDate": 1701861300000,
-          "epochEndDate": 1701869580000,
-          "messageId": "1000003587",
-          "statusType": "Issue",
-          "datePosted": "2023/12/08 08:38 JST",
-          "startDate": "2023/12/06 20:15 JST",
-          "endDate": "2023/12/06 22:33 JST",
-          "affectedServices": null,
-          "eventStatus": "resolved",
-          "message": "このサービスに関する問題が発生しました。問題について調査し、解決しました。"
-        },
-        {
-          "usersAffected": "一部のユーザに影響しました",
           "epochStartDate": 1701943440000,
           "epochEndDate": 1701963600000,
           "messageId": "1000003588",
           "statusType": "Issue",
-          "datePosted": "2023/12/08 08:38 JST",
+          "datePosted": "2023/12/08 15:00 JST",
           "startDate": "2023/12/07 19:04 JST",
           "endDate": "2023/12/08 00:40 JST",
           "affectedServices": null,
           "eventStatus": "resolved",
           "message": "一部のユーザが、サービスをご利用になれなかった可能性があります。"
+        },
+        {
+          "usersAffected": "一部のユーザに影響しました",
+          "epochStartDate": 1701861300000,
+          "epochEndDate": 1701869580000,
+          "messageId": "1000003587",
+          "statusType": "Issue",
+          "datePosted": "2023/12/08 15:00 JST",
+          "startDate": "2023/12/06 20:15 JST",
+          "endDate": "2023/12/06 22:33 JST",
+          "affectedServices": null,
+          "eventStatus": "resolved",
+          "message": "このサービスに関する問題が発生しました。問題について調査し、解決しました。"
         }
       ],
       "redirectUrl": null,
@@ -364,7 +364,7 @@
           "epochEndDate": 1701905940000,
           "messageId": "2000003001",
           "statusType": "Issue",
-          "datePosted": "2023/12/08 08:38 JST",
+          "datePosted": "2023/12/08 15:00 JST",
           "startDate": "2023/12/07 08:00 JST",
           "endDate": "2023/12/07 08:39 JST",
           "affectedServices": null,
